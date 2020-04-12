@@ -9,12 +9,12 @@ body {
 
 }
 
-header, .section, footer {
+header, .main, footer {
 
     background:#fff;
     width:90%;
     max-width:1000px;
-    margin:auto;
+    margin:20px auto;
 
 
 
