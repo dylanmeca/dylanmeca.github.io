@@ -19,3 +19,27 @@ header, .main, footer {
 
 
 }
+
+header nav {
+
+       background:#528FD5;
+
+
+
+}
+
+header nav ul {
+
+     list-style:none;
+
+
+}
+
+
+header nav ul li {
+
+       float:left;
+
+
+
+}
