@@ -1,3 +1,11 @@
+/* -----------------------------------------------
+/* Author : Vincent Garreau  - vincentgarreau.com
+/* MIT license: http://opensource.org/licenses/MIT
+/* GitHub : https://github.com/VincentGarreau/particles.js
+/* How to use? : Check the GitHub README
+/* v1.1.0
+/* ----------------------------------------------- */
+
 function launchParticlesJS(tag_id, params){
 
   var canvas_el = document.querySelector('#'+tag_id+' > canvas');
