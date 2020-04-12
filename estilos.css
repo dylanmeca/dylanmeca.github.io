@@ -44,3 +44,20 @@ header nav ul li {
 
 
 }
+
+
+
+header nav ul li a:hover {
+           background:#75ACEC;
+
+
+}
+
+
+.main .articles {
+
+      width:70%;
+      float:left;
+
+
+}
