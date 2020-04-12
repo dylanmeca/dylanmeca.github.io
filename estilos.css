@@ -23,6 +23,7 @@ header, .main, footer {
 header nav {
 
        background:#528FD5;
+       overflow:hidden;
 
 
 
