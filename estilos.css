@@ -80,6 +80,7 @@ aside {
    background:#ff8000;
    float:left;
    padding:20px;
+   box-sizing:border-box;
 
 
 }
