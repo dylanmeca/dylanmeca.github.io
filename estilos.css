@@ -6,8 +6,19 @@
 
 body {
    background:#e6e6e6;
+   font-family: oswald, helvetica, arial, sans-serif;
+	background:url(bg.jpg), #000;
+	background-size: cover;
+	background-attachment:fixed;
 
 }
+
+.contenedor {
+	width:90%;
+	max-width:1000px;
+	margin:auto;
+}
+
 
 header, .main, footer {
 
