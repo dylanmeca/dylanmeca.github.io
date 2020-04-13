@@ -17,6 +17,18 @@ label {
 }
 
 
+textarea {
+
+     resize:vertical;
+     max-height:300px;
+     min-height:100px;
+
+
+
+
+}
+
+
 input, textarea {
 
     margin-bottom:20px;
@@ -30,3 +42,13 @@ input, textarea {
 
 
 }
+
+
+input:focus, textarea:focus {
+
+   border:1px solid #1668C4;
+
+
+
+}
+
