@@ -6,3 +6,27 @@ form {
 
 
 }
+
+label {
+
+   font-size:12px;
+   display:block;
+   width:100%;
+
+
+}
+
+
+input, textarea {
+
+    margin-bottom:20px;
+    width:100%;
+    padding:10px;
+    -webkit-box sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border:1px solid #ccc;
+
+
+
+}
