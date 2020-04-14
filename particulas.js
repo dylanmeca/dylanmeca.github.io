@@ -9,7 +9,7 @@ $(document).ready(function(){
 /* config dom id (optional) + config particles params */
 particlesJS('particles-js', {
   particles: {
-    color: '#fff',
+    color: '#ff8000',
     color_random: false,
     shape: 'circle', // "circle", "edge" or "triangle"
     opacity: {
