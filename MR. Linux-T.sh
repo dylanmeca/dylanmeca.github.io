@@ -9,13 +9,13 @@ echo" Cargando ... "
 
 #funciones
         function apt install kali-linux {
-                 echo $(wget https://raw.githubusercontent.com/EXALAB/Anlinux-Resources/master/Scripts/Installer/Kali/kali.sh )
+                      $(wget https://raw.githubusercontent.com/EXALAB/Anlinux-Resources/master/Scripts/Installer/Kali/kali.sh )
      
         function apt install metasploit {
-                 echo $(wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh )
+                      $(wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh )
 
         function apt install lazymus {
-                 echo $(git clone https://github.com/Gameye98/Lazymux )
+                      $(git clone https://github.com/Gameye98/Lazymux )
 
      
 #menu
