@@ -11,13 +11,19 @@ echo" Cargando ... "
         function apt install kali-linux {
                  echo $(wget https://raw.githubusercontent.com/EXALAB/Anlinux-Resources/master/Scripts/Installer/Kali/kali.sh )
      
+        function apt install metasploit {
+                 echo $(wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh )
+
+       function apt install lazymus {
+                 echo $(git clone https://github.com/Gameye98/Lazymux )
+
      
 #menu
 
 setterm -foreground green
 
-figlet mr. linux
+figlet MR. Linux-T
 
-echo" Bienvenido a MR. Linux "
+echo" Bienvenido a MR. Linux-T "
 
-PS1="root: "
+
