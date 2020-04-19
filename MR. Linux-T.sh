@@ -14,7 +14,7 @@ echo" Cargando ... "
         function apt install metasploit {
                  echo $(wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh )
 
-       function apt install lazymus {
+        function apt install lazymus {
                  echo $(git clone https://github.com/Gameye98/Lazymux )
 
      
