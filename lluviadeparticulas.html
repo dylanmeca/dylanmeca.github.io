@@ -20,11 +20,16 @@
            canvas.height = window.screen.availHeight;
 
            var imagen = new Image();
-           imagen.enload = function(){
+           imagen.onload = function(){
+              
+                var rain = new Rain("mi-canvas",this);
 
              };
            imagen.src = "snowflake.png";
 
+
+</script>
+           
 
 
 
