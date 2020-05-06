@@ -1,7 +1,6 @@
-#! /data/data/com.termux/files/usr/bin/bash/
-
 pkg update && pkg upgrade
 clear
+pkg install root-repo -y
 pkg install figlet -y
 clear
 setterm -foreground green
@@ -13,26 +12,12 @@ pkg install wget -y
 su
 pkg install tsu -y
 clear
-proot -0 -w ~ $PREFIX/bin/bash
-whoami
-exit
-whoami
-bettercap -h
-proot -0 -w ~ $PREFIX/bin/bash
-bettercap -h
-exit
-bettercap -h
-clear
-cd ..
-cd usr
-ls
-cd etc
-pkg install vim -y
-vim bash.bashrc
-clear
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-root.sh
 clear
 chmod 777 start-root.sh
 rm servidordedatos;ls
+
+
+
 
 
