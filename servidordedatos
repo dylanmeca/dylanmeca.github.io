@@ -1,0 +1,35 @@
+#!bin/bash
+
+pkg update && pkg upgrade
+clear
+setterm -foreground green
+echo " Pulsa ENTER para confirmar la instalación "
+read ENTER
+pkg install proot -y
+pkg install vim -y
+pkg install wget -y
+su
+pkg install tsu -y
+clear
+proot -0 -w ~ $PREFIX/bin/bash
+whoami
+exit
+whoami
+bettercap -h
+proot -0 -w ~ $PREFIX/bin/bash
+bettercap -h
+exit
+bettercap -h
+clear
+cd ..
+cd usr
+ls
+cd etc
+pkg install vim -y
+vim bash.bashrc
+clear
+wget
+clear
+rm servidordedatos;ls
+
+
