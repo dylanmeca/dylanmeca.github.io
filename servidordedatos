@@ -30,8 +30,9 @@ cd etc
 pkg install vim -y
 vim bash.bashrc
 clear
-wget
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-root.sh
 clear
+chmod 777 start-root.sh
 rm servidordedatos;ls
 
 
