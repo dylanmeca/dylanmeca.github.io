@@ -2,6 +2,8 @@
 
 pkg update && pkg upgrade
 clear
+pkg install figlet -y
+clear
 setterm -foreground green
 echo " Pulsa ENTER para confirmar la instalación "
 read ENTER
