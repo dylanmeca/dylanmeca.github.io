@@ -5,7 +5,7 @@ include "db.php";
 <html>
 <head>
 	<title>CHAT CON PHP, MYSQL Y AJAX</title>
-	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<link rel="stylesheet" type="text/css" href="estilos2.css">
 	<link href="https://fonts.googleapis.com/css?family=Mukta+Vaani" rel="stylesheet">
 
 	<script type="text/javascript">
@@ -33,7 +33,7 @@ include "db.php";
 			<div id="chat"></div>
 		</div>
 
-		<form method="POST" action="index.php">
+		<form method="POST" action="appchat.php">
 			<input type="text" name="nombre" placeholder="Ingresa tu nombre">			
 			<textarea name="mensaje" placeholder="Ingresa tu mensaje"></textarea>
 			<input type="submit" name="enviar" value="Enviar">
