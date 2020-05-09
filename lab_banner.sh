@@ -1,17 +1,39 @@
 #!/bin/bash
-#paquetes 
+clear
+apt-get install -y tar proot wget 
+menu()
+{
+clear
+echo -e "\n\e[93m@NoobFoda2\n"
+echo -e "\n\e[5;91m   1- Instalar kali-NetHunter-Basic"
+echo -e "\e[5;96m   2- instalar OpenSsh"
+echo -e "\e[5;92m   3- Sair"
+echo -e -n "\e[5;92m \n >>>  "
+read res
+case $res in
+"1")
+clear
 apt update && apt upgrade -y
 pkg install wget -y
 pkg install vim -y
 pkg install neofetch -y
-#comandos
 cd ../usr/etc;ls
 rm motd
 rm bash.bashrc
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/bash.bashrc
 cd --
 clear
-#root
+echo -e "\n\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"2")
+clear
 pkg update && pkg upgrade
 clear
 pkg install root-repo -y
@@ -31,4 +53,18 @@ wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-root.sh
 clear
 chmod 777 start-root.sh
 clear
-rm lab_banner.sh
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"3")
+exit
+;;
+esac
+}
+menu
