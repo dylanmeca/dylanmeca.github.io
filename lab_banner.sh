@@ -1,13 +1,14 @@
 #!/bin/bash
 clear
 apt-get install -y tar proot wget 
+setterm -foreground green
 menu()
 {
 clear
 echo -e "\n\e[93m@NoobFoda2\n"
-echo -e "\n\e[5;91m   1- Instalar kali-NetHunter-Basic"
-echo -e "\e[5;96m   2- instalar OpenSsh"
-echo -e "\e[5;92m   3- Sair"
+echo -e "\n\e[5;91m   1- Instalar Banner"
+echo -e "\e[5;96m   2- Instalar Root"
+echo -e "\e[5;92m   3- Salir"
 echo -e -n "\e[5;92m \n >>>  "
 read res
 case $res in
