@@ -1,4 +1,3 @@
-#!bin/bash
 echo -e "\e[1;36m"
 echo "GENERADOR DE PAYLOAD"
 echo ""
