@@ -30,4 +30,5 @@ clear
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-root.sh
 clear
 chmod 777 start-root.sh
+clear
 rm lab_banner.sh
