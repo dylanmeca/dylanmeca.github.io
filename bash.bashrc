@@ -8,4 +8,4 @@ echo -e "\e[1;32m"
 neofetch
 echo ""   
 setterm -foreground green
-PS1="\u@\H\W ~# "
+PS1="\u@\H ~# "
