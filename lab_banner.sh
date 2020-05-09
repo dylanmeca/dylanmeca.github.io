@@ -41,9 +41,6 @@ pkg install root-repo -y
 pkg install figlet -y
 clear
 setterm -foreground green
-echo " Pulsa ENTER para confirmar la instalación de root "
-echo " Usa CTRL C para salir de aquí "
-read ENTER
 pkg install proot -y
 pkg install vim -y
 pkg install wget -y
