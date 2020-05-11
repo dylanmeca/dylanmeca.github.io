@@ -6,8 +6,9 @@ menu()
 clear
 echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar Metasploit-64bits"
-echo -e "\e[5;96m   2- instalar Metasploit-32bits"
-echo -e "\e[5;92m   3- Salir"
+echo -e "\e[5;96m   2- Instalar Metasploit-32bits"
+echo -e "\e[5;92m   3- Instalar sqlmap"
+echo -e "\e[5;92m   4- Salir"
 echo -e -n "\e[5;92m \n >>>  "
 read res
 case $res in
@@ -47,6 +48,26 @@ exit
 fi
 ;;
 "3")
+clear
+pkg update && pkg upgrade
+pkg install python2 -y
+pkg install git -y
+git clone https://github.com/sqlmapproject/sqlmap
+ls
+cd sqlmap
+ls
+chmod 777 *;ls
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"4")
 exit
 ;;
 esac
