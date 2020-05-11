@@ -39,6 +39,7 @@ pkg update && pkg upgrade
 clear
 pkg install root-repo -y
 pkg install figlet -y
+pkg install unstable-repo -y
 clear
 setterm -foreground green
 pkg install proot -y
