@@ -24,7 +24,6 @@ setterm -foreground red
 echo " Pulsa CTRL C para salir de aquí "
 setterm -foreground green 
 echo " ################################# "
-read ENTER
 echo " INSTALANDO VPN "
 figlet INSTALANDO TOR
 pkg install tor -y
