@@ -5,11 +5,11 @@ menu()
 {
 clear
 setterm -foreground green
-echo -e "\n\e[93m@MR. Linux\n"
+echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar VPN"
-echo -e "\e[5;96m   2- Instalar Metasploit-32bits"
+echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD"
 echo -e "\e[5;92m   3- Salir"
-echo -e -n "\e[5;92m \n mrlinux@localhost ~# "
+echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
 "1")
