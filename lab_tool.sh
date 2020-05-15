@@ -8,7 +8,9 @@ setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar VPN"
 echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
-echo -e "\e[5;92m   3- Salir"
+echo -e "\e[5;92m   3- Instalar nmap"
+echo -e "\e[5;92m   4- Instalar Hydra"
+echo -e "\e[5;92m   5- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
@@ -62,6 +64,32 @@ exit
 fi
 ;;
 "3")
+clear
+pkg install nmap -y
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"4")
+clear
+pkg install hydra -y
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"5")
 exit
 ;;
 esac
