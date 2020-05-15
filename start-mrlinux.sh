@@ -15,7 +15,7 @@ setterm -foreground red
 figlet VPN
 setterm -foreground cyan
 echo " code by SUPERDYLANYT "
-setterm -foregroune red
+setterm -foreground red
 echo " ESTA VPN SE CONECTA A LA RED TOR "
 echo " TU TERMUX LAN SERA WLAN DESPUES DE LA INSTALACIÓN "
 setterm -foreground green
@@ -24,6 +24,7 @@ setterm -foreground red
 echo " Pulsa CTRL C para salir de aquí "
 setterm -foreground green 
 echo " ################################# "
+read ENTER
 echo " INSTALANDO VPN "
 figlet INSTALANDO TOR
 pkg install tor -y
