@@ -7,7 +7,7 @@ clear
 setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar VPN"
-echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD"
+echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
 echo -e "\e[5;92m   3- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
@@ -49,12 +49,7 @@ fi
 ;;
 "2")
 clear
-pkg install curl -y
-clear
-curl -LO https://github.com/termux/termux-packages/files/3995119/metasploit_5.0.65-1_all.deb.gz
-gunzip metasploit_5.0.65-1_all.deb.gz
-dpkg -i metasploit_5.0.65-1_all.deb
-apt -f install
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/GENERADORDEPAYLOAD.sh
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
