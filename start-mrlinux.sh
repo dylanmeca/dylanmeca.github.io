@@ -31,9 +31,6 @@ pkg install tor -y
 echo " CONFIGURANDO PROXYS "
 figlet INSTALANDO PROXY
 pkg install proxychains-ng -y
-cd -- 
-cd --
-wget https://raw.githubusercontent.com/dylan14567/MR.-Linux/master/start-vpn.sh
 clear
 setterm -foreground green
 figlet FINALIZADO
