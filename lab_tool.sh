@@ -100,10 +100,7 @@ pip install --upgrade pip
 cd IPGeoLocation;ls
 pip install -r requirements.txt
 chmod 777 ipgeolocation.py
-python ipgeolocation.py
-ls
 clear
-python ipgeolocation.py -m
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
 if [ "$s" = "s" ]; then 
