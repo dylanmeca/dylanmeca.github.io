@@ -15,7 +15,8 @@ echo -e "\e[5;92m   6- Instalar IPGeolocation"
 echo -e "\e[5;92m   7- Instalar Metasploit_Framework"
 echo -e "\e[5;92m   8- Instalar Lazymux"
 echo -e "\e[5;92m   9- Instalar MR Linux"
-echo -e "\e[5;92m   10- Salir"
+echo -e "\e[5;92m   10- Instalar lab_banner"
+echo -e "\e[5;92m   11- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
@@ -229,6 +230,22 @@ exit
 fi
 ;;
 "10")
+clear
+pkg install wget -y
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/lab_banner.sh
+chmod 777 lab_banner.sh
+ls
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"11")
 exit
 ;;
 esac
