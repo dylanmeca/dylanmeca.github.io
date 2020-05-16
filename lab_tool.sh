@@ -25,7 +25,7 @@ echo " code by SUPERDYLANYT "
 setterm -foreground red
 echo " ESTA VPN SE CONECTA A LA RED TOR "
 echo " TU TERMUX LAN SERA WLAN DESPUES DE LA INSTALACIÓN "
-echo " Para poder ejecutar un comando de manera anonima como el comando. "
+echo " Para poder ejecutar un comando de manera anonima ejecuta el comando. "
 echo " proxychains4 "
 echo " Ejemplo: "
 echo " proxychains4 pkg install wget "
