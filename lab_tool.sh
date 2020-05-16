@@ -13,8 +13,8 @@ echo -e "\e[5;92m   3- Instalar Tool-X"
 echo -e "\e[5;92m   4- Instalar Black Hydra"
 echo -e "\e[5;92m   5- Instalar IPGeolocation"
 echo -e "\e[5;92m   6- Instalar Metasploit_Framework"
-echo -e "\e[5;92m   7- Instalar Lazymux
-echo -e "\e[5;92m   8- Instalar MR Linux
+echo -e "\e[5;92m   7- Instalar Lazymux"
+echo -e "\e[5;92m   8- Instalar MR Linux"
 echo -e "\e[5;92m   9- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
