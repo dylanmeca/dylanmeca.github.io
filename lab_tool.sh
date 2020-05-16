@@ -25,6 +25,14 @@ echo " code by SUPERDYLANYT "
 setterm -foreground red
 echo " ESTA VPN SE CONECTA A LA RED TOR "
 echo " TU TERMUX LAN SERA WLAN DESPUES DE LA INSTALACIÓN "
+echo " Para poder ejecutar un comando de manera anonima como el comando. "
+echo " proxychains4 "
+echo " Ejemplo: "
+echo " proxychains4 pkg install wget "
+echo " para activar la VPN debes escribir ./start-vpn.sh "
+echo " O solo escribe y ejecuta el comando tor o tor start "
+echo " para ver el estatus de la VPN escribe "
+echo " tor status "
 setterm -foreground green
 echo " PULSA ENTER PARA CONFIRMAR LA INSTALACIÓN DE LA VPN "
 setterm -foreground red
