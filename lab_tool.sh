@@ -6,20 +6,20 @@ menu()
 clear
 setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
-echo -e "\n\e[5;91m   l- Licencia"
-echo -e "\e[5;92m   1- Instalar VPN"
-echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
-echo -e "\e[5;92m   3- Instalar Tool-X"
-echo -e "\e[5;92m   4- Instalar Black Hydra"
-echo -e "\e[5;92m   5- Instalar IPGeolocation"
-echo -e "\e[5;92m   6- Instalar Metasploit_Framework"
-echo -e "\e[5;92m   7- Instalar Lazymux"
-echo -e "\e[5;92m   8- Instalar MR Linux"
-echo -e "\e[5;92m   9- Salir"
+echo -e "\n\e[5;91m   1- Licencia"
+echo -e "\e[5;92m   2- Instalar VPN"
+echo -e "\e[5;96m   3- Instalar GENERADOR DE PAYLOAD Basico"
+echo -e "\e[5;92m   4- Instalar Tool-X"
+echo -e "\e[5;92m   5- Instalar Black Hydra"
+echo -e "\e[5;92m   6- Instalar IPGeolocation"
+echo -e "\e[5;92m   7- Instalar Metasploit_Framework"
+echo -e "\e[5;92m   8- Instalar Lazymux"
+echo -e "\e[5;92m   9- Instalar MR Linux"
+echo -e "\e[5;92m   10- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
-"l")
+"1")
 clear
 setterm -foreground red
 echo " Licencia "
@@ -52,7 +52,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"1")
+"2")
 clear
 setterm -foreground red
 figlet VPN
@@ -97,7 +97,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"2")
+"3")
 clear
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/GENERADORDEPAYLOAD.sh
 clear
@@ -110,7 +110,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"3")
+"4")
 clear
 pkg update && pkg upgrade
 pkg install git -y
@@ -129,7 +129,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"4")
+"5")
 clear
 pkg install hydra -y
 pkg install git -y
@@ -151,7 +151,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"5")
+"6")
 clear
 pkg update && pkg upgrade
 pkg install fish git python
@@ -170,7 +170,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"6")
+"7")
 clear
 pkg update && pkg upgrade
 pkg install ruby -y
@@ -187,7 +187,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"7")
+"8")
 clear
 pkg update && pkg upgrade
 pkg install python -y
@@ -209,7 +209,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"8")
+"9")
 clear
 pkg install wget -y
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/MR.-Linux.zip
@@ -228,7 +228,7 @@ echo "saliendo.."
 exit
 fi
 ;;
-"9")
+"10")
 exit
 ;;
 esac
