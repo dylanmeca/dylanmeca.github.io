@@ -76,7 +76,12 @@ fi
 ;;
 "3")
 clear
-pkg install nmap -y
+pkg update && pkg upgrade
+pkg install git -y
+git clone https://github.com/rajkumardusad/Tool-X
+ls
+cd Tool-X
+chmod 777 *;ls
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
