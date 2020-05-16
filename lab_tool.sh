@@ -9,7 +9,7 @@ echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar VPN"
 echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
 echo -e "\e[5;92m   3- Instalar nmap"
-echo -e "\e[5;92m   4- Instalar Hydra"
+echo -e "\e[5;92m   4- Instalar Black Hydra"
 echo -e "\e[5;92m   5- Instalar IPGeolocation"
 echo -e "\e[5;92m   6- Instalar Metasploit_Framework"
 echo -e "\e[5;92m   7- Salir"
@@ -90,6 +90,14 @@ fi
 "4")
 clear
 pkg install hydra -y
+pkg install git -y
+git clone https://github.com/Gameye98/Black-Hydra
+ls
+cd Black-Hydra
+ls
+pkg install python
+pkg install python2
+chmod 777 blackhydra.py
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
