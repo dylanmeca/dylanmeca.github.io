@@ -6,6 +6,8 @@ menu()
 clear
 setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
+echo -e "\n\e[5;91m   l- Licencia
+echo -e "\n\e[5;91m   0- Salir
 echo -e "\n\e[5;91m   1- Instalar VPN"
 echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
 echo -e "\e[5;92m   3- Instalar Tool-X"
@@ -16,6 +18,42 @@ echo -e "\e[5;92m   7- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
+"l")
+clear
+setterm -foreground red
+echo " Licencia "
+setterm -foreground cyan
+echo " [ code by SUPERDYLANYT ] "
+echo " El creador del script, no se hace responsable "
+echo " por el mal uso de este script, la unica intención "
+echo " de este tool es para instalar herramientas en termux "
+setterm -foreground yellow
+echo " El conocimiento es libre "
+setterm -foreground green
+echo " voy a compartirlo "
+echo " [ Buen Hacking Etico ] "
+setterm -foreground white
+echo " Bandera Blanca "
+setterm -foreground green
+echo " Escribe y si confirmas esta licensia "
+setterm -foreground red 
+echo " Escribe n si no confirmas esta licensia "
+setterm -foreground green
+echo " ###################### "
+read ENTER
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"0")
+exit
+;;
 "1")
 clear
 setterm -foreground red
