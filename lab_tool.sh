@@ -47,6 +47,7 @@ echo " CONFIGURANDO PROXYS "
 figlet INSTALANDO PROXY
 pkg install proxychains-ng -y
 wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-vpn.sh
+chmod 777 start-vpn.sh
 clear
 setterm -foreground green
 figlet FINALIZADO
