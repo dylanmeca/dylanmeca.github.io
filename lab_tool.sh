@@ -98,6 +98,7 @@ ls
 pkg install python
 pkg install python2
 chmod 777 blackhydra.py
+cd --
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
