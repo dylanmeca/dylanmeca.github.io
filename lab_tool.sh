@@ -82,6 +82,7 @@ git clone https://github.com/rajkumardusad/Tool-X
 ls
 cd Tool-X
 chmod 777 *;ls
+cd --
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
