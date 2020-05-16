@@ -7,8 +7,7 @@ clear
 setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   l- Licencia"
-echo -e "\n\e[5;91m   0- Salir"
-echo -e "\n\e[5;91m   1- Instalar VPN"
+echo -e "\e[5;92m   1- Instalar VPN"
 echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
 echo -e "\e[5;92m   3- Instalar Tool-X"
 echo -e "\e[5;92m   4- Instalar Black Hydra"
@@ -50,9 +49,6 @@ else
 echo "saliendo.."
 exit
 fi
-;;
-"0")
-exit
 ;;
 "1")
 clear
