@@ -13,7 +13,9 @@ echo -e "\e[5;92m   3- Instalar Tool-X"
 echo -e "\e[5;92m   4- Instalar Black Hydra"
 echo -e "\e[5;92m   5- Instalar IPGeolocation"
 echo -e "\e[5;92m   6- Instalar Metasploit_Framework"
-echo -e "\e[5;92m   7- Salir"
+echo -e "\e[5;92m   7- Instalar Lazymux
+echo -e "\e[5;92m   8- Instalar MR Linux
+echo -e "\e[5;92m   9- Salir"
 echo -e -n "\e[5;92m \n >>> "
 read res
 case $res in
@@ -186,6 +188,47 @@ exit
 fi
 ;;
 "7")
+clear
+pkg update && pkg upgrade
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+git clone https://github.com/Gameye98/Lazymux
+ls
+cd Lazymux;ls
+chmod 777 lazymux.py
+ls
+cd --
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"8")
+clear
+pkg install wget -y
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/MR.-Linux.zip
+unzip MR.-Linux.zip
+rm MR.-Linux.zip
+cd MR.-Linux;ls
+chmod 777 menu.sh
+ls
+cd --
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"9")
 exit
 ;;
 esac
