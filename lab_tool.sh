@@ -8,7 +8,7 @@ setterm -foreground green
 echo -e "\n\e[93m@lab_tool\n"
 echo -e "\n\e[5;91m   1- Instalar VPN"
 echo -e "\e[5;96m   2- Instalar GENERADOR DE PAYLOAD Basico"
-echo -e "\e[5;92m   3- Instalar nmap"
+echo -e "\e[5;92m   3- Instalar Tool-X"
 echo -e "\e[5;92m   4- Instalar Black Hydra"
 echo -e "\e[5;92m   5- Instalar IPGeolocation"
 echo -e "\e[5;92m   6- Instalar Metasploit_Framework"
