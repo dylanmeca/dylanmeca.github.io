@@ -1,5 +1,5 @@
 # SUPERDYLANYT
-[![License](https://img.shields.io/github/license/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
 
 
