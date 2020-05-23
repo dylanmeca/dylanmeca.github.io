@@ -1,4 +1,4 @@
-# SUPERDYLANYT
+# Laboratorio SUPERDYLANYT
 [![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
 [![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
@@ -10,4 +10,8 @@
 
 
 
-Bienvenido al codigo fuente de mi página web.
+Bienvenido al repositorio de mi página de GitHub Pages.
+
+## Que es un repositorio
+
+Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software.
