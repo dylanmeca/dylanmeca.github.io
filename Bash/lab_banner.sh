@@ -48,7 +48,7 @@ pkg install wget -y
 su
 pkg install tsu -y
 clear
-wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/start-root.sh
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/Bash/start-root.sh
 clear
 chmod 777 start-root.sh
 clear
