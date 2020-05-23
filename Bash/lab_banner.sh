@@ -21,7 +21,7 @@ pkg install neofetch -y
 cd ../usr/etc;ls
 rm motd
 rm bash.bashrc
-wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/bash.bashrc
+wget https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/Bash/bash.bashrc
 cd --
 clear
 echo -e "\n\e[5;96m Regresar al menu s/n?"
