@@ -18,8 +18,8 @@ if (annyang) {
 
     //Definimos los comandos a utilizar.
     var commands = {
-        'hola marte': function () {
-            utter.text = 'Hola usuario';
+        'hello hello': function () {
+            utter.text = 'Hello  user';
             //Setea la voz que queremos usar en base a nuestra lista.
             utter.voice = voices[2];
             window.speechSynthesis.speak(utter);
