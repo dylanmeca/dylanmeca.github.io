@@ -60,15 +60,19 @@ function callback( response ){
         console.log(response)
 
 
-     document.getElementById("data").innerHTML= response.IP.v4
+     document.getElementById("data").innerHTML= response.IPv4
 
 
 
 
 }
 
+$.ajax({
 
+url:"https://geoip-db.com/jsonp/",
+dataType:"jsonp"
 
+})
 
 
 </script>
