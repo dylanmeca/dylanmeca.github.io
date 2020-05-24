@@ -1,8 +1,3 @@
-/*
-Programa creado por youtube.com/ElTallerDeTD
-20/2/20
-https://github.com/imTDB
-*/
 
 if (annyang) {
 
