@@ -7,3 +7,6 @@ RewriteRule ^(.*)$ $1.html
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php
+
+Options All -Indexes
+ErrorDocument 404 /Error/404.html
