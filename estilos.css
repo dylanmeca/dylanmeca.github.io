@@ -7,10 +7,10 @@ body {
 	background:white;
 }
 
-.contenedor {
-	width: 95%;
-	max-width:1000px;
-	margin:auto;
+#parrafo {
+  text-aling: center;
+
+
 }
 
 header {
