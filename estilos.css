@@ -12,11 +12,6 @@ header {
 }
 
 
-nav {
-  float: left; /* Desplazamos el nav hacia la izquierda */
-}
- 
-
 header nav {
 	width:90%;
 	max-width:1000px;
