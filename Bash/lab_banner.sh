@@ -8,7 +8,8 @@ clear
 echo -e "\n\e[93m@lab_banner\n"
 echo -e "\n\e[5;91m   1- Instalar Banner"
 echo -e "\e[5;96m   2- Instalar Root"
-echo -e "\e[5;92m   3- Salir"
+echo -e "\e[5;92m   3- Instalar Arch Linux"
+echo -e "\e[5;92m   4- Salir"
 echo -e -n "\e[5;92m \n >>>  "
 read res
 case $res in
@@ -62,6 +63,33 @@ exit
 fi
 ;;
 "3")
+clear
+apt update && apt upgrade
+clear
+setterm -foreground cyan
+figlet Arch Linux
+echo " Pulsa ENTER para confirmar la instalación "
+echo " Pulsa CTRL C para salir de aquí "
+read ENTER
+setterm -foreground cyan
+clear
+echo " Instalando Arch Linux "
+sleep 2.0
+apt update -y
+setterm -foreground cyan
+pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Arch/armhf/arch.sh && bash arch.sh
+setterm -foreground cyan
+clear
+echo -e "\e[5;96m Regresar al menu s/n?"
+read s
+if [ "$s" = "s" ]; then 
+menu
+else
+echo "saliendo.."
+exit
+fi
+;;
+"4")
 exit
 ;;
 esac
