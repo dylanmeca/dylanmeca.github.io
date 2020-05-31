@@ -77,6 +77,8 @@ echo " Instalando Arch Linux "
 sleep 2.0
 apt update -y
 setterm -foreground cyan
+mkdir $HOME/ISO_Arch
+cd $HOME/ISO_Arch
 pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Arch/armhf/arch.sh && bash arch.sh
 setterm -foreground cyan
 clear
