@@ -81,6 +81,9 @@ mkdir $HOME/ISO_Arch
 cd $HOME/ISO_Arch
 pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Arch/armhf/arch.sh && bash arch.sh
 setterm -foreground cyan
+cd $HOME
+wget https://raw.githubusercontent.com/dylan14567/lab_tool/master/server/lab_tool/start-arch.sh
+chmod +x start-arch.sh
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
 read s
