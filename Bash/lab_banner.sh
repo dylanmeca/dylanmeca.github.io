@@ -64,7 +64,7 @@ fi
 ;;
 "3")
 clear
-https://raw.githubusercontent.com/dylan14567/lab_tool/master/install-arch.sh
+wget https://raw.githubusercontent.com/dylan14567/lab_tool/master/install-arch.sh
 chmod +x install-arch.sh
 clear
 echo -e "\e[5;96m Regresar al menu s/n?"
