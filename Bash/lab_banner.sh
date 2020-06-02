@@ -8,8 +8,7 @@ clear
 echo -e "\n\e[93m@lab_banner\n"
 echo -e "\n\e[5;91m   1- Instalar Banner"
 echo -e "\e[5;96m   2- Instalar Root"
-echo -e "\e[5;92m   3- Instalar Arch Linux"
-echo -e "\e[5;92m   4- Salir"
+echo -e "\e[5;92m   3- Salir"
 echo -e -n "\e[5;92m \n >>>  "
 read res
 case $res in
@@ -63,20 +62,6 @@ exit
 fi
 ;;
 "3")
-clear
-wget https://raw.githubusercontent.com/dylan14567/lab_tool/master/install-arch.sh
-chmod +x install-arch.sh
-clear
-echo -e "\e[5;96m Regresar al menu s/n?"
-read s
-if [ "$s" = "s" ]; then 
-menu
-else
-echo "saliendo.."
-exit
-fi
-;;
-"4")
 exit
 ;;
 esac
