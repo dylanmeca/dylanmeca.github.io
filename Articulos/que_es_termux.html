@@ -1,0 +1,23 @@
+Termux es un emulador de terminal Android y una aplicación de entorno Linux que funciona directamente sin necesidad de enrutamiento o configuración. Un sistema base mínimo se instala automáticamente, hay paquetes adicionales disponibles utilizando el administrador de paquetes APT .<br />
+<br />
+Como tener letras verdes infinitas en la Terminal Termux:<br />
+<br />
+Para eso nesecitas ir a:<br />
+<br />
+cd $PREFIX/etc<br />
+<br />
+cd ../usr/etc;ls<br />
+<br />
+Y luego instalar el editor vim con este comando.<br />
+<br />
+pkg install vim -y<br />
+<br />
+Y luego edita con vim esto:<br />
+<br />
+vim bash.bashrc<br />
+<br />
+Luego dentro de bash.bashrc, pega este comando.<br />
+<br />
+PS1='\033[1;91mroot@termux[\033[1;93m\W\033[1;91m]:# \033[1;92m'<!--/data/user/0/com.samsung.android.app.notes/files/share/clipdata_200608_154543_296.sdoc--><br />
+<br />
+Listo ya tienes letras verdes infinitas en la Terminal Termux.
