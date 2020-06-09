@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../brython/brython.js"></script>
+    <script src="../brython/brython_stdlib.js"></script>
+    <link rel="stylesheet" href="estilo.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=IBM+Plex+Sans&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <title>Localizador de establecimientos</title>
+</head>
+
+<body onload=brython()>
+    <h1 id="h1">Localizador de establecimientos</h1>
+    <div id="caja" class="tarjeta">
+        <p>Busca un establecimiento en México con datos del INEGI</p>
+    </div>
+    
+    <label for="condi">Condición: </label><input class="ingreso" type="text" id="condi" aria-label="Condición"
+        value="restaurantes" tabindex="515" />
+    <label for="lat">Latitud: </label><input class="ingreso" type="text" id="lat" aria-label="Latitud"
+        value="21.85717833" tabindex="516" />
+    <label for="lon">Longitud: </label><input class="ingreso" type="text" id="lon" aria-label="Longitud"
+        value="-102.28487238" tabindex="517" />
+    <label for="mts">Metros: </label><input class="ingreso" type="text" id="mts" aria-label="Metros"
+        value="200" tabindex="518" />
+    <br>
+    <br>
+    <input type="button" id="boton-ajax" class="boton" value="Obtener datos del INEGI">
+
+    <script type="text/python">
+
+        from browser import document, ajax, html
+
+
+        #Lo consigues gratis del INEGI aqui -> https://inegi.org.mx/servicios/api_indicadores.html
+        token = "INSERTA AQUI TU TOKEN"
+        
+
+        def al_completar(req):
+            import json
+            datos = json.loads(req.responseText)
+            #print(datos)
+            document['caja'].clear()
+            ordenar(datos)
+
+        def solicitar_api(e):
+            jalar_datos_de_campos()
+            url = f"https://www.inegi.org.mx/app/api/denue/v1/consulta/buscar/{condicion}/{latitud},{longitud}/{metros}/{token}"
+            #print(url)
+            document['caja'].text = 'Cargando...'
+            req = ajax.ajax()
+            req.open('GET', url, False)
+            req.bind('complete', al_completar)
+            req.send()
+        
+        def jalar_datos_de_campos():
+            global condicion, latitud, longitud, metros
+            condicion = document['condi'].value
+            latitud = document['lat'].value
+            longitud = document['lon'].value
+            metros = document['mts'].value
+        
+        def ordenar(lista):
+            cant_locales = len(lista)
+            lista = list(lista)
+            print(type(lista))
+            print(cant_locales)
+            locales = [' '.join([local['Nombre'], local['Clase_actividad'], local['Telefono']]) for local in lista]
+            #lista_locales = ''.join(locales)
+            document['caja'] <= html.P(f"Hay {cant_locales} locales a {metros} metros de esta ubicación ({latitud}, {longitud})\
+            Que se encuentra en {lista[0]['Ubicacion']}") + html.BR()
+            for local in locales:
+                document['caja'] <= html.P(local) + html.BR()
+
+
+        condicion = ''
+        metros = ''
+        longitud = ''
+        latitud = ''
+
+        document['boton-ajax'].bind('click', solicitar_api)
+    </script>
+</body>
