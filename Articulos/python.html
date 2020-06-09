@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python</title>
+    <!--Aquí mandamos a llamar al archivo de javascript para que funcione el script de python más abajo-->
+    <script type="text/javascript" src="brython/brython.js"></script>
+    <script type="text/javascript" src="brython/brython_stdlib.js"></script>
+    <!--La linea 11 son las fuentes (tipos de letra) especiales que usaremos en esta página, prestadas de Google Fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=IBM+Plex+Sans&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="hojasDeEstilo/estilo.css">
+</head>
+
+<body onload="brython()">
+    <!--Existe un elemetno llamado progress 
+    <div id="head">
+        <progress value="10" max="100"></progress>
+    </div>
+    y tambien tiene propiedades CSS-->
+    <h1>Python en el navegador</h1>
+    <div class="lorem">
+        <p id="pl">Sabías que puedes correr tu código Python en Chrome, Firefox etc?</p>
+    </div>
+    <br>
+    <input type="button" id="button0" value="Alerta" class="boton">
+    <br>
+    <input type="button" id="button2" value="Calcular" class="boton">
+
+    <p id="parrafo"></p>
+    <div id="divi">
+        <input type="button" id="cursiva" value="Subtitulo cursiva" class="boton">
+        <input type="button" id="button9" value="Insertar imagen" class="boton">
+        <input type="button" id="mostrar" value="Mostrar/Ocultar Menu" class="boton">
+    </div>
+    <br>
+    <div id="ocultado">
+        <div id="campos-ingreso-datos">
+            <label for="dato">Número de libros que has leído</label>
+            <input type="text" id="dato" class="ingreso">
+            <br>
+            <label for="carta">Escribe un mensaje</label>
+            <textarea name="area de escribir" id="carta" cols="20" rows="2" class="ingreso"></textarea>
+            <br>
+        </div>
+        <input type="button" id="obtener" value="Enviar" class="boton">
+        <br>
+        <br>
+        <div id="div-datos-ingresados"></div>
+        <br>
+        <div class="cancel">
+            <!--dentro del div miprogreso se podria meter texto como 10% para ver dentro de la barra el procentaje en letras-->
+            <div id="miprogreso" class="progreso" style="width:0%"></div>
+        </div>
+        <!-- 
+    <input type="button" id="prog" value="Cargar" class="boton">
+    -->
+    </div>
+    <br>
+    <br> 
+    <div id="div-imagen">
+        <br>
+    </div>
+    <br>
+    <div style="margin-top: 6%;"></div>
+    <input type="button" id="rotar" value="Girar imagen" class="boton">
+    <div style="margin-top: 20rem"></div>
+    <script type="text/python">
+        from browser import document, alert, html, prompt, bind, timer
+
+        def mensaje_alerta(evento):
+            alert("Python en tu navegador !!")
+        
+        def preguntar(evento):
+            x = int(prompt("Ingresa un numero: "))
+            y = x * 5
+            document["parrafo"] <= html.P(f"{x} multiplicado por 5 es {y}", style={"font-family":"'Bangers'",\
+            "color":"#d53032"
+            })
+        
+        def hacer_cursiva(evento):
+            document["pl"].style.fontStyle = "italic"
+            document["pl"].style.color = "#d53032"
+            document["cursiva"].bind("click", regresar)
+            document["cursiva"].value = "Rehacer Subtitulo"
+
+        def regresar(evento):
+            #  cambiar estilo (style css) de un elemento
+            document["pl"].style.fontStyle = "normal"
+            document["pl"].style.color = "#333"
+            document["cursiva"].bind("click", hacer_cursiva)
+            #  cambiar el texto de un elemento html (tag)
+            document["cursiva"].value = "Subtitulo cursiva"
+
+        def alerta_seleccion_imagen(event):
+            dropdown = event.target
+            num = dropdown.selectedIndex
+            alert("Seleccionaste: {}".format(dropdown.options[num].value))
+        
+        
+        def insertar_menu(event):
+            document["campos-ingreso-datos"] <= "Tu seleción : "
+            dropdown = html.SELECT(html.OPTION(f"{lenguaje}", value=lenguaje) for lenguaje in lenguajes)
+            dropdown.bind("change", alerta_seleccion_imagen)
+            dropdown.id = "game"
+            document["campos-ingreso-datos"] <= dropdown
+            document["campos-ingreso-datos"] <= html.BR()
+        
+        def progresar():
+            document["miprogreso"].style.width = "100%"
+            document["miprogreso"] <= html.DIV("Cargado", id="carga")
+        
+        def progresar2():
+            document["miprogreso"].style.width = "0%"
+            document["miprogreso"].text = ""
+            
+        def insertar_imagen(event):
+            sele = document["game"]
+            imag = sele.options[sele.selectedIndex].value
+            if imag == 'ESIME negro':
+                img = 'images/' + 'esime.png'
+            elif imag == 'IPN':
+                img = 'images/ipn.jpg'
+            elif imag == 'Python logo':
+                img = 'images/py.jpg'
+            else:
+                img = 'images/patito.png'
+            document["div-imagen"].clear()
+            document["div-imagen"] <= html.IMG(src=img, height=200, id="imagen")
+        
+        def mostrar_texto():
+            input = document["dato"].value
+            select = document["game"]
+            option = select.options[select.selectedIndex].value
+            text = document["carta"].value
+            document["div-datos-ingresados"].clear()
+            document["div-datos-ingresados"] <= (html.BR(), html.P(f"Has leído {input} libros"),
+                 html.P(f"Seleccionaste la imagen: {option}"),
+                html.P(f"Tu mensaje es: {text}"))
+        
+        def mostrar_datos(event):
+            progresar()
+            timer.set_timeout(mostrar_texto, 462)
+            timer.set_timeout(progresar2, 482)
+        
+        @bind("#mostrar", "click") # @ eso en Python es un 'decorator'
+        def desplegar_campos(event):
+            display = document["ocultado"].style.display
+            document["ocultado"].style.display = "inline" if display == "none" else "none"
+
+
+        def rotar(evento):
+            global angulo
+            document['div-imagen'].style.transform = f"rotate({angulo}deg)"
+            angulo += 10
+        
+
+        angulo = 10
+        lenguajes = ['ESIME negro', 'Patito', 'Python logo', 'IPN']
+        # se inserta el menu desplegable con la siguiente funcion
+        insertar_menu("click") 
+
+        document['rotar'].bind('click', rotar)
+        document["obtener"].bind("click", mostrar_datos)
+        document["button9"].bind("click", insertar_imagen)
+        document["button0"].bind("click", mensaje_alerta)
+        document["button2"].bind("click", preguntar)
+        document["cursiva"].bind("click", hacer_cursiva)
+        # document["prog"].bind("click", progresar)
+    </script>
+</body>
+
+</html>
