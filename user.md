@@ -3,7 +3,7 @@ layout: post
 ---
 
 
-[Link to another page](./index.html).
+[PAGINA PRINCIPAL](./index.html).
 
 # Sobre mi
 
