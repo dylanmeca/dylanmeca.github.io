@@ -1,50 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<title>Contacto</title>
-        <link rel="shortcut icon" type="image/x-icon" href="unnamed-ConvertImage.ico">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="estilos.css">
-</head>
-<body>
-
-	<div id="particles-js"></div>
-
-	<header>
-		<div class="menu">
-			<div class="contenedor">
-				<div class="logo">SUPERDYLANYT</div>
-				<nav>
-					<ul>
-						<li><a href="index">Inicio</a></li>
-						<li><a href="blog">Blog</a></li>
-                                                <li><a href="proyectos">Proyectos</a></li>
-                                                <li><a href="Articulos/sobrenosotros">Sobre Nosotros</a></li>
-                                                <li><a href="contacto">Contacto</a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</header>
-
-	<div class="texto">
-		<h2>User: SUPERDYLANYT</h2>
-		<br>
-		<p>Pass: root</p>
-	</div>
-
-	<div class="principal contenedor">
-		<article>
-			<h2 class="titulo">Contacto</h2>
-			<p class="fecha">21 de Enero del 2020</p>
-			<p> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecyuZLn84GXpHCChmL0A5Ef7kLZwWk98nxAEPd7TrKbYsq4A/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> </p>
-
-                </article>
-
-	</div>
-
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
-</body>
-</html>
+<div id="after_submit"></div>
+<form id="contact_form" action="mundodylan14567dylanmotta78@gmail.com" method="POST" enctype="multipart/form-data">
+  <div class="row">
+    <label class="required" for="name">Tu Nombre:</label><br />
+    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+    <span id="name_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="email">Tu email:</label><br />
+    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+    <span id="email_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="message">Mensaje:</label><br />
+    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+    <span id="message_validation" class="error_message"></span>
+  </div>
+    
+    <input id="submit_button" type="submit" value="Enviar" />
+</form>
