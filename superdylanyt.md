@@ -3,7 +3,6 @@ layout: post
 title: SUPERDYLANYT
 ---
 
-[PAGINA PRINCIPAL](./index.html).
 [![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
 [![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
@@ -14,7 +13,7 @@ title: SUPERDYLANYT
 [![Ruby](https://img.shields.io/badge/language-Ruby-red.svg)](https://www.ruby-lang.org/)
 [![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
-
+[PAGINA PRINCIPAL](./index.html).
 
 # Sobre mi 
 
