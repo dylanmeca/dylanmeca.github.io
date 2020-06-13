@@ -2,6 +2,8 @@
 layout: post
 ---
 
+[PAGINA PRINCIPAL](./index.html).
+
 # Sobre mi 
 
 Soy Dylan Alexander, tambien conocido como SUPERDYLANYT,
