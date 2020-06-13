@@ -16,4 +16,4 @@ mi nombre de usuario en github es dylan14567.
 </div>
 
 
-[back](./)
+[SALIR](./)
