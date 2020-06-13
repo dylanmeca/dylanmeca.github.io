@@ -3,5 +3,8 @@ description: Bienvenido a mi página de usuario.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+social:
+  twitter: DYLAN1456711
+  github: dylan14567
 plugins: 
  - jekyll-seo-tag
