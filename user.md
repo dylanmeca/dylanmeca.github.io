@@ -18,9 +18,7 @@ Para contactarme, nesecitas llenar este formulario.
   <a href="contacto" class="contact">Pulsa aquí para Contactarme</a>
 </div>
 
-###################
-###################
-
+□□□□□□□□□
 
 <div class="share">
   <a href="https://twitter.com/DYLAN1456711" class="tw">Twitter</a>
