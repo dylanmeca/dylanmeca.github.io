@@ -1,5 +1,6 @@
 ---
 layout: post
+title: SUPERDYLANYT
 ---
 
 [PAGINA PRINCIPAL](./index.html).
