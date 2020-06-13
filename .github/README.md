@@ -6,8 +6,9 @@
 [![html](https://img.shields.io/badge/language-html%20-red.svg)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript%20-yellow.svg)](https://es.wikipedia.org/wiki/JavaScript)
 [![css](https://img.shields.io/badge/language-css%20-cyan.svg)](https://www.w3.org/Style/CSS/)
-
-
+[![Ruby](https://img.shields.io/badge/language-Ruby-red.svg)](https://www.ruby-lang.org/)
+[![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
 
 
 Bienvenido al repositorio de mi página de GitHub Pages.
