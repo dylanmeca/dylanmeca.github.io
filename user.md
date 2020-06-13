@@ -18,7 +18,8 @@ Para contactarme, nesecitas llenar este formulario.
   <a href="contacto" class="contact">Pulsa aquí para Contactarme</a>
 </div>
 
-# Redes Sociales
+###################
+###################
 
 
 <div class="share">
