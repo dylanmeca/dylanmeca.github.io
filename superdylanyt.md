@@ -16,6 +16,12 @@ title: SUPERDYLANYT
 [![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
 [PAGINA PRINCIPAL](./index.html).
 
+Prohibido, descargar los archivos .zip y
+.tar.gz
+
+Solo el creador de esta página puede descargar estos archivos.
+
+
 
 # Sobre mi 
 
