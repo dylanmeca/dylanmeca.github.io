@@ -6,5 +6,6 @@ theme: jekyll-theme-hacker
 social:
   twitter: DYLAN1456711
   github: dylan14567
+  youtube: superdylanyt
 plugins: 
  - jekyll-seo-tag
