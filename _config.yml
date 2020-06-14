@@ -3,9 +3,11 @@ description: Bienvenido a mi página de usuario.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+theme: minima
 social:
   twitter: DYLAN1456711
   github: dylan14567
   youtube: UCXZow-eof6WFmu4armVahAA
-plugins: 
+plugins:
+ - jekyll-feed
  - jekyll-seo-tag
