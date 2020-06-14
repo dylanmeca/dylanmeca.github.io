@@ -40,7 +40,48 @@
       </section>
     </div>
 
-    
+    <div id='barracookies' style='display:none;position:fixed;left:0px;right:0px;bottom:0px;width:100%;min-height:20px;background: #D3D3D3;color:#a2a2a2;z-index: fcaaaa;'>
+    <div style='width:100%;position:absolute;padding-left:4px;font-family:verdana;font-size:11px;top:20%;text-align:center;'>
+    <span>Usamos cookies propias y de terceros para ayudarte en tu navegación. Si continuas navegando consideramos que aceptas el uso de cookies.</span>
+   <a href='javascript:void(0);' onclick='PonerCookie();' style='padding:4px;background:#fcaaaa;text-decoration:none;color:#ffffff;border-radius:5px;'><b>OK</b></a>
+<a href='http://consejosparanovatos.blogspot.com.es/2015/08/politica-de-cookies.html' rel='nofollow' style='padding-left:5px;text-decoration:none;color:#ffffff;' target='_blank'>Más información</a>
+</div>
+</div>
+<script> 
+
+ function getCookie(c_name){ 
+  var c_value = document.cookie; 
+  var c_start = c_value.indexOf(" " + c_name + "="); 
+  if (c_start == -1){ 
+  c_start = c_value.indexOf(c_name + "="); 
+  } 
+  if (c_start == -1){ 
+  c_value = null; 
+  }else{ 
+  c_start = c_value.indexOf("=", c_start) + 1; 
+  var c_end = c_value.indexOf(";", c_start); 
+  if (c_end == -1){ 
+   c_end = c_value.length; 
+  } 
+   c_value = unescape(c_value.substring(c_start,c_end)); 
+  } 
+  return c_value; 
+ } 
+ function setCookie(c_name,value,exdays){ 
+  var exdate=new Date(); 
+  exdate.setDate(exdate.getDate() + exdays); 
+  var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString()); 
+  document.cookie=c_name + "=" + c_value; 
+ } 
+ if(getCookie('aviso')!="1"){ 
+  document.getElementById("barracookies").style.display="block"; 
+ } 
+ function PonerCookie(){ 
+  setCookie('aviso','1',365); 
+  document.getElementById("barracookies").style.display="none"; 
+ } 
+ </script>
+
 
     {% if site.google_analytics %}
       <script>
