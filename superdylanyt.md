@@ -51,6 +51,12 @@ Para contactarme, nesecitas llenar este formulario.
 
 # Predicciónes del Futuro
 
+2020
+
+11 de Noviembre
+
+China habra encontrado la cura del covid 19, la cura del covid 19 tardara en llegar 2 meses en paises latinos.
+
 2021
 
 4 de mayo 
