@@ -50,6 +50,8 @@ Para contactarme, nesecitas llenar este formulario.
   <a href="https://github.com/dylan14567/Servidor-WEB-Termux" class="git">Servidor-WEB-Termux</a>
 </div>
 
+![alt text](https://raw.githubusercontent.com/dylan14567/Laboratorio-SUPERDYLANYT/master/img/20200614_105850.jpg)
+
 # Predicciónes del Futuro
 
 2020
