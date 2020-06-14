@@ -2,6 +2,7 @@
 layout: post
 title: SUPERDYLANYT
 ---
+
 [![Build Status](https://img.shields.io/github/stars/dylan14567/SUPERDYLANYT-OS.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT)
 [![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
