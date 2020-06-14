@@ -36,7 +36,7 @@ Para contactarme, nesecitas llenar este formulario.
 <div class="share">
   <a href="https://twitter.com/DYLAN1456711" class="tw">Twitter</a>
   <a href="https://github.com/dylan14567" class="git">Github</a>
-  <a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA" class="yt">Youtube</a>
+  <a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA?sub_confirmation=1" class="yt">Youtube</a>
 </div>
 
 # Repositorios
