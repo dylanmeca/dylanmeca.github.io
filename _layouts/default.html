@@ -25,6 +25,10 @@
 
       
         <section id="downloads">
+           {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Descargar .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Descargar .tar.gz</a>
+          {% endif %}
           <a href="https://github.com/dylan14567" class="btn btn-github"><span class="icon"></span>Perfil de Github</a>
         </section>
       </div>
@@ -35,7 +39,15 @@
         {{ content }}
       </section>
     </div>
+    <p>
+      Prohibido, descargar los archivos .zip y
+      .tar.gz
 
+      Solo el creador de esta página puede descargar estos archivos.
+
+
+
+    </p>
 
     
 
