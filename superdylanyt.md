@@ -15,6 +15,19 @@ title: SUPERDYLANYT
 [![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
 [PAGINA PRINCIPAL](./index.html).
 
+<script type="text/javascript">
+var adfly_id = 23130921;
+var adfly_advert = 'banner';
+var adfly_protocol = 'https';
+var adfly_domain = 'adf.ly';
+var exclude_domains = ['example.com','yoursite.com'];
+var frequency_cap = '5';
+var frequency_delay = '5';
+var init_delay = '3';
+</script>
+<script src="https://cdn.adf.ly/js/link-converter.js"></script>
+<script src="https://cdn.adf.ly/js/entry.js"></script>
+
 # Sobre mi 
 
 Soy Dylan Alexander, tambien conocido como SUPERDYLANYT,
