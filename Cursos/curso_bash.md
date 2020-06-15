@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post3
 title: Curso Bash
 ---
 
