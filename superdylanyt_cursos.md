@@ -1,4 +1,4 @@
 ---
-layout: cursos
+layout: post2
 title: Cursos
 ---
