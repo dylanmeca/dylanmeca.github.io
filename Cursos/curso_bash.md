@@ -13,3 +13,15 @@ El nombre de la shell es un acrónimo de Bourne-again shell, un juego de palabra
 Un agujero de seguridad en Bash que data de la versión 1.03 (agosto de 1989), denominado Shellshock, fue descubierto a principios de septiembre de 2014 y rápidamente provocó una serie de ataques en Internet.  Los parches para corregir los errores se pusieron a disposición poco después de que se identificaron los errores.
 
 Más información en: ​<a href="https://es.wikipedia.org/wiki/Bash" target="_blank">Wikipedia</a>
+
+# Que es Advanced Packaging Tool " APT "
+
+Advanced Packaging Tool (Herramienta Avanzada de Empaquetado), abreviado APT, es un programa de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux.
+
+No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial, apt-get y apt-cache.
+
+Existen también programas que proporcionan un frontispicio para APT, generalmente basados en apt-get, como aptitude con una interfaz de texto ncurses, Synaptic con una interfaz gráfica GTK+, o Adept con una interfaz gráfica Qt. Existe un repositorio central con más de ~25.000 paquetes apt utilizados por apt-get y programas derivados para descargar e instalar aplicaciones directamente desde Internet, conocida como una de las mejores cualidades de Debian.
+
+APT fue rápidamente utilizado para funcionar con paquetes .deb, en los sistemas Debian y distribuciones derivadas, pero desde entonces ha sido modificado para trabajar con paquetes RPM, con la herramienta apt-rpm, y para funcionar en otros sistemas operativos, como Mac OS X (Fink) y OpenSolaris (distribución Nexenta OS). Cabe mencionar que a partir de la versión 1.0, esta incluye una barra de progreso que muestra el porcentaje de instalación.
+
+Más información en: ​<a href="https://es.wikipedia.org/wiki/Advanced_Packaging_Tool" target="_blank">Wikipedia</a>
