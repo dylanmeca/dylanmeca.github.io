@@ -6,7 +6,7 @@ title: Curso Bash
 En este curso aprenderemos, el lenguaje de programación Bash.
 De manera gratuita en youtube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXlUQkUlBNQM8E4ElZgpGJHkh1kSe31QO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXlUQkUlBNQM8E4ElZgpGJHkh1kSe31QO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Que es Bash
 
