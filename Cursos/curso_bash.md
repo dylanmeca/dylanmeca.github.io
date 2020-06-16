@@ -3,6 +3,11 @@ layout: post3
 title: Curso Bash
 ---
 
+En este curso aprenderemos, el lenguaje de programación Bash.
+De manera gratuita en youtube.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXlUQkUlBNQM8E4ElZgpGJHkh1kSe31QO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Que es Bash
 
 GNU Bash o simplemente Bash (Bourne-again shell) es un lenguaje de comandos y shell de Unix escrito por Brian Fox para el Proyecto GNU como un reemplazo de software libre para el shell Bourne. Lanzado por primera vez en 1989, se ha utilizado ampliamente como el shell de inicio de sesión predeterminado para la mayoría de las distribuciones de Linux y MacOS Mojave de Apple y versiones anteriores. Una versión también está disponible para Windows 10 y Android.  También es el shell de usuario predeterminado en Solaris 11.
