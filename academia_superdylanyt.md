@@ -19,3 +19,5 @@ a programar y hacer tus propiós videojuegos o páginas web.
    echo " Tu nombre es $nombre "
 
 ```
+En este curso aprenderemos el lenguaje de programación bash y 
+tambie aprenderemos como usar la terminal linux y poder instalar sistemas operativos como windows 10.
