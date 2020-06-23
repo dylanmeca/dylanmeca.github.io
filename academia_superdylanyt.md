@@ -1,6 +1,8 @@
 ---
 layout: post2
 title: Academia SUPERDYLANYT
+comments: true
+# other options
 ---
 
 Bienvenido a Academia SUPERDYLANYT, aquí aprenderas
