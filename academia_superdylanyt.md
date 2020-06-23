@@ -1,7 +1,7 @@
----
-layout: post2
-title: Academia SUPERDYLANYT
----
+<head>
+   <title> Academia SUPERDYLANYT </title>
+
+</head>
 
 Bienvenido a Academia SUPERDYLANYT, aquí aprenderas
 a programar y hacer tus propiós videojuegos o páginas web.
