@@ -113,7 +113,7 @@ La población creceria hasta llegar mil millones de personas, la Tierra alcanza 
 2080
 
 
-Los implantes biotecnlogicos, estara disponible al publico en general, seria una realidad lo que permitira a los humanos, las sangre sintetica, tecnologia cybor, implacte de internet al cerebro.
+Los implantes biotecnologicos, estara disponible al publico en general, seria una realidad lo que permitira a los humanos, las sangre sintetica, tecnologia cybor, implacte de internet al cerebro.
 
 Habran organos artificiales.
 
