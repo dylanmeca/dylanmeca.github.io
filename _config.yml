@@ -2,6 +2,7 @@ title: SUPERDYLANYT
 description: Bienvenido
 show_downloads: true
 google_analytics:
+comments: true
 theme: jekyll-theme-hacker
 social:
   twitter: DYLAN1456711
