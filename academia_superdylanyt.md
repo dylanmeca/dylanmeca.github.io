@@ -8,6 +8,8 @@ comments: true
 Bienvenido a Academia SUPERDYLANYT, aquí aprenderas
 a programar y hacer tus propiós videojuegos o páginas web.
 
+<a href="blog">Busca un curso aquí</a>
+
 <h2><a href="Cursos/curso_bash">Curso Bash</a></h2>
 
 
