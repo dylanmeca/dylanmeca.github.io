@@ -40,6 +40,14 @@ Para contactarme, nesecitas llenar este formulario.
   <a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA" class="yt">Youtube</a>
 </div>
 
+# SUPERDYLANYT Games
+
+## Blog Marciano
+
+![alt text](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/img/20200405_092941.jpg)
+
+
+
 # Repositorios
 
 
