@@ -46,7 +46,9 @@ Para contactarme, nesecitas llenar este formulario.
 
 ![alt text](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/img/20200405_092941.jpg)
 
+Blog Marciano es un app para android, creada por SUPERDYLANYT, en esta app puedes jugar minijuegos.
 
+<button><a href="Articulos/blogmarciano">Más información aqui</a></button>
 
 # Repositorios
 
