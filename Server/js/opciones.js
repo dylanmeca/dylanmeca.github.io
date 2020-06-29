@@ -50,11 +50,11 @@ Swal.fire({
 	
 	// buttonsStyling:
 	   showCloseButton: true,
-	// closeButtonAriaLabel: 'Cerrar esta alerta',
+	   closeButtonAriaLabel: 'Cerrar esta alerta',
 
 
-	// imageUrl: '../img/84251f416da780ca07a5401b5d65261c.jpeg',
-	// imageWidth: '100%',
+	   imageUrl: '../img/84251f416da780ca07a5401b5d65261c.jpeg',
+	   imageWidth: '100%',
 	// imageHeight:
 	// imageAlt:
 });
