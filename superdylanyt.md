@@ -18,7 +18,7 @@ title: SUPERDYLANYT
 
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-ypd7lQEm_BQ/Xok6vl64NYI/AAAAAAAAF84/xNCf39_o9DI5BiPQ-_9H_Iq83xl7FjG7ACLcBGAsYHQ/s1600/1586051713120.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="530" data-original-width="540" height="314" src="https://1.bp.blogspot.com/-ypd7lQEm_BQ/Xok6vl64NYI/AAAAAAAAF84/xNCf39_o9DI5BiPQ-_9H_Iq83xl7FjG7ACLcBGAsYHQ/s320/1586051713120.png" width="320" /></a></div>
+![alt text](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/img/1586051713120.png)
 <div class="separator" style="clear: both; text-align: left;">
 SUPERDYLANYT Studios Inc. (anteriormente llamada DYLAN1456732 Studios y después Super OSIA Studios), actualmente se llama "SUPERDYLANYT Studios", es una empresa de desarrollo de videojuegos y de aplicaciónes, Ellos son principalmente conocidos por su tecnología SUPER TEC N-145, que ha logrado crear un robot llamado el Agente 145, que actualmente se encuentra oculta.</div>
 <br />
