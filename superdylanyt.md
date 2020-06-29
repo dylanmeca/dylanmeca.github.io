@@ -24,11 +24,6 @@ mi nombre de usuario en github es dylan14567.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soy SUPERDYLANYT, mi canal de youtube se llama SUPERDYLANYT 😎.</p>&mdash; SUPERDYLANYT Studios (@DYLAN1456711) <a href="https://twitter.com/DYLAN1456711/status/1271912696888393728?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Tweets
-
-<a class="twitter-timeline" href="https://twitter.com/DYLAN1456711?ref_src=twsrc%5Etfw">Tweets by DYLAN1456711</a> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=DYLAN1456711&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @DYLAN1456711</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Contacto
 
 Para contactarme, nesecitas llenar este formulario.
@@ -168,5 +163,11 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 Una civilización extraterrestre llegara a la Tierra, la humanidad sufrira una gran guerra, pero con el tiempo la humanidad se independisara, de esa civilización y tomara el control.
 
 □□□□□□□□
+
+# Tweets
+
+<a class="twitter-timeline" href="https://twitter.com/DYLAN1456711?ref_src=twsrc%5Etfw">Tweets by DYLAN1456711</a> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=DYLAN1456711&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @DYLAN1456711</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [SALIR](./)
