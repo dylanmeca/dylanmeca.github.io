@@ -30,7 +30,7 @@ Forma legal: Empresa Privada<br />
 <br />
 Fundador: SUPERDYLANYT<br />
 <br />
-<li><a href="../POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD</a></li>
+<a href="../POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD</a>
 
 # Sobre mi 
 
