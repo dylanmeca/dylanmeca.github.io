@@ -1,11 +1,11 @@
 Swal.fire({
-	// title:
-	// text:
-	// html:
-	// icon:
+	   title: La Radiante Noche
+	// text: 
+	   html: <a href="https://laradiantenoche.aternos.me/" class="boton">Jugar</a>
+	   icon: undefined,
 	// confirmButtonText:
-	// footer:
-	// width:
+	   footer: "Anuncio",
+	   width: '300px',
 	// padding:
 	// background:
 	// grow:
@@ -13,11 +13,11 @@ Swal.fire({
 	// timer:
 	// timerProgressBar:
 	// toast:
-	// position:
-	// allowOutsideClick:
-	// allowEscapeKey:
+	   position: 'bottom-end',
+	   allowOutsideClick: false,
+	   allowEscapeKey: false,
 	// allowEnterKey:
-	// stopKeydownPropagation:
+	   stopKeydownPropagation: false,
 
 	// input:
 	// inputPlaceholder:
@@ -37,24 +37,24 @@ Swal.fire({
 	// 	actions:
 	// 	confirmButton:
 	// 	cancelButton:
-	// 	footer:	
+	//      footer: 
 
-	// showConfirmButton:
+	   showConfirmButton: false,
 	// confirmButtonColor:
 	// confirmButtonAriaLabel:
 
-	// showCancelButton:
+	   showCancelButton: false,
 	// cancelButtonText:
 	// cancelButtonColor:
 	// cancelButtonAriaLabel:
 	
 	// buttonsStyling:
-	// showCloseButton:
-	// closeButtonAriaLabel:
+	   showCloseButton: true,
+	// closeButtonAriaLabel: 'Cerrar esta alerta',
 
 
-	// imageUrl:
-	// imageWidth:
+	// imageUrl: '../img/84251f416da780ca07a5401b5d65261c.jpeg',
+	// imageWidth: '100%',
 	// imageHeight:
 	// imageAlt:
 });
