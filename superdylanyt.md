@@ -17,14 +17,27 @@ title: SUPERDYLANYT
 [PAGINA PRINCIPAL](./index.html).
 
 
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-ypd7lQEm_BQ/Xok6vl64NYI/AAAAAAAAF84/xNCf39_o9DI5BiPQ-_9H_Iq83xl7FjG7ACLcBGAsYHQ/s1600/1586051713120.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="530" data-original-width="540" height="314" src="https://1.bp.blogspot.com/-ypd7lQEm_BQ/Xok6vl64NYI/AAAAAAAAF84/xNCf39_o9DI5BiPQ-_9H_Iq83xl7FjG7ACLcBGAsYHQ/s320/1586051713120.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+SUPERDYLANYT Studios Inc. (anteriormente llamada DYLAN1456732 Studios y después Super OSIA Studios), actualmente se llama "SUPERDYLANYT Studios", es una empresa de desarrollo de videojuegos y de aplicaciónes, Ellos son principalmente conocidos por su tecnología SUPER TEC N-145, que ha logrado crear un robot llamado el Agente 145, que actualmente se encuentra oculta.</div>
+<br />
+Tipo de Empresa: Privada<br />
+<br />
+Agencia: <a href="https://superdylanyt.blogspot.com/2020/04/organizacion-superdylanyt-de.html">OSIA</a><br />
+<br />
+Forma legal: Empresa Privada<br />
+<br />
+Fundador: SUPERDYLANYT<br />
+<br />
+<li><a href="../POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD</a></li>
+
 # Sobre mi 
 
 Soy Dylan Alexander, tambien conocido como SUPERDYLANYT,
 mi nombre de usuario en github es dylan14567.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soy SUPERDYLANYT, mi canal de youtube se llama SUPERDYLANYT 😎.</p>&mdash; SUPERDYLANYT Studios (@DYLAN1456711) <a href="https://twitter.com/DYLAN1456711/status/1271912696888393728?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD de mi Página Web</a>
 
 # Contacto
 
