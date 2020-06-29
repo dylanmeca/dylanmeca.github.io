@@ -24,7 +24,7 @@ mi nombre de usuario en github es dylan14567.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soy SUPERDYLANYT, mi canal de youtube se llama SUPERDYLANYT 😎.</p>&mdash; SUPERDYLANYT Studios (@DYLAN1456711) <a href="https://twitter.com/DYLAN1456711/status/1271912696888393728?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<li><a href="POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD de mi Página Web</a></li>
+<a href="POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD de mi Página Web</a>
 
 # Contacto
 
