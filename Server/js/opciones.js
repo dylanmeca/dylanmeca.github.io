@@ -1,7 +1,7 @@
 Swal.fire({
-	   title: La Radiante Noche
+	   title: 'La Radiante Noche',
 	// text: 
-	   html: <a href="https://laradiantenoche.aternos.me/" class="boton">Jugar</a>
+	   html: '<a href="https://laradiantenoche.aternos.me/" class="boton">Jugar</a>',
 	   icon: undefined,
 	// confirmButtonText:
 	   footer: "Anuncio",
