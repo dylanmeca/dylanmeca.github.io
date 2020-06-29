@@ -3,19 +3,6 @@ layout: post
 title: SUPERDYLANYT
 ---
 
-[![Build Status](https://img.shields.io/github/stars/dylan14567/SUPERDYLANYT-OS.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT)
-[![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/LICENSE)
-[![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
-[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
-[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/SECURITY.md)
-[![html](https://img.shields.io/badge/language-html%20-red.svg)](https://www.w3.org/html/)
-[![JavaScript](https://img.shields.io/badge/language-JavaScript%20-yellow.svg)](https://es.wikipedia.org/wiki/JavaScript)
-[![css](https://img.shields.io/badge/language-css%20-cyan.svg)](https://www.w3.org/Style/CSS/)
-[![Ruby](https://img.shields.io/badge/language-Ruby-red.svg)](https://www.ruby-lang.org/)
-[![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
-[PAGINA PRINCIPAL](./index.html).
-
 ![alt text](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/img/1586051713120.png)
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -30,6 +17,20 @@ Forma legal: Empresa Privada<br />
 Fundador: SUPERDYLANYT<br />
 <br />
 <a href="../POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD</a>
+
+
+[![Build Status](https://img.shields.io/github/stars/dylan14567/SUPERDYLANYT-OS.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT)
+[![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/LICENSE)
+[![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
+[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/SECURITY.md)
+[![html](https://img.shields.io/badge/language-html%20-red.svg)](https://www.w3.org/html/)
+[![JavaScript](https://img.shields.io/badge/language-JavaScript%20-yellow.svg)](https://es.wikipedia.org/wiki/JavaScript)
+[![css](https://img.shields.io/badge/language-css%20-cyan.svg)](https://www.w3.org/Style/CSS/)
+[![Ruby](https://img.shields.io/badge/language-Ruby-red.svg)](https://www.ruby-lang.org/)
+[![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
+[PAGINA PRINCIPAL](./index.html).
 
 # Sobre mi 
 
