@@ -1,32 +1,27 @@
+let timerInterval
 Swal.fire({
-  title: 'Submit your Github username',
-  input: 'text',
-  inputAttributes: {
-    autocapitalize: 'off'
-  },
-  showCancelButton: true,
-  confirmButtonText: 'Look up',
-  showLoaderOnConfirm: true,
-  preConfirm: (login) => {
-    return fetch(`//api.github.com/users/${login}`)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(response.statusText)
+  title: 'Cargando ...',
+  html: '<b></b>',
+  timer: 2000,
+  timerProgressBar: true,
+  onBeforeOpen: () => {
+    Swal.showLoading()
+    timerInterval = setInterval(() => {
+      const content = Swal.getContent()
+      if (content) {
+        const b = content.querySelector('b')
+        if (b) {
+          b.textContent = Swal.getTimerLeft()
         }
-        return response.json()
-      })
-      .catch(error => {
-        Swal.showValidationMessage(
-          `Request failed: ${error}`
-        )
-      })
+      }
+    }, 100)
   },
-  allowOutsideClick: () => !Swal.isLoading()
+  onClose: () => {
+    clearInterval(timerInterval)
+  }
 }).then((result) => {
-  if (result.value) {
-    Swal.fire({
-      title: `${result.value.login}'s avatar`,
-      imageUrl: result.value.avatar_url
-    })
+  /* Read more about handling dismissals below */
+  if (result.dismiss === Swal.DismissReason.timer) {
+    console.log('I was closed by the timer')
   }
 })
