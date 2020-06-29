@@ -1,7 +1,7 @@
 Swal.fire({
 	   title: 'La Radiante Noche',
 	// text: 
-	   html: '<a href="https://laradiantenoche.aternos.me/" class="boton">Jugar</a>',
+	   html: '<a href="https://www.roblox.com/games/4700956243/La-Radiante-Noche" class="boton">Jugar</a>',
 	   icon: undefined,
 	// confirmButtonText:
 	   footer: "Anuncio",
