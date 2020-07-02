@@ -79,6 +79,10 @@ China habra encontrado la cura del covid 19, la cura del covid 19 tardara en lle
 
 2021
 
+22 de Enero
+
+China habra encontrado la cura del virus G4.
+
 4 de mayo 
 
 Un OVNI desendera sobre la ciudad, de Nueva York, EEUU.
