@@ -16,24 +16,6 @@ title: SUPERDYLANYT
 [![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
 [PAGINA PRINCIPAL](./index.html).
 
-![alt text](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/img/1586051713120.png)
-
-<div class="separator" style="clear: both; text-align: left;">
-SUPERDYLANYT Studios Inc. (anteriormente llamada DYLAN1456732 Studios y después Super OSIA Studios), actualmente se llama "SUPERDYLANYT Studios", es una empresa de desarrollo de videojuegos y de aplicaciónes, Ellos son principalmente conocidos por su tecnología SUPER TEC N-145, que ha logrado crear un robot llamado el Agente 145, que actualmente se encuentra oculta.</div>
-<br />
-Tipo de Empresa: Privada<br />
-<br />
-Agencia: <a href="https://superdylanyt.blogspot.com/2020/04/organizacion-superdylanyt-de.html">OSIA</a><br />
-<br />
-Forma legal: Empresa Privada<br />
-<br />
-Fundador: SUPERDYLANYT<br />
-<br />
-<a href="POLÍTICA-DE-PRIVACIDAD">POLÍTICA DE PRIVACIDAD</a><br />
-<br />
-<a href="Server/superdylanyt_games">SUPERDYLANYT Games</a><br />
-<br />
-
 # Sobre mi 
 
 Soy Dylan Alexander, tambien conocido como SUPERDYLANYT,
