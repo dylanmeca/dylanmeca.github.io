@@ -29,3 +29,18 @@ En este sitio puedes informar errores, del sitio web o vulnerabilidades.
     
     <input id="submit_button" type="submit" value="Enviar" />
 </form>
+
+# Politica de seguridad
+
+## Versiones Soportadas
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Informar una vulnerabilidad
+
+En caso de error, en los scripts, informanos sobre el error en: <a href="https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt">https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt</a>
