@@ -3,7 +3,7 @@ layout: post
 title: SUPERDYLANYT
 ---
 
-[![Build Status](https://img.shields.io/github/stars/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://github.com/dylan14567/Laboratorio-SUPERDYLANYT)
+[![Build Status](https://img.shields.io/github/stars/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/)
 [![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
 [![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt)
