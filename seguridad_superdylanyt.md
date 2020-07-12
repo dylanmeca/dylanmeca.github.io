@@ -1,6 +1,11 @@
 ---
 layout: seguridad_superdylanyt
+title: Informa vulnerabilidades y errores
 ---
+
+En este sitio puedes informar errores, del sitio web o vulnerabilidades.
+
+## Informa las vulnerabilidades o errores aquí
 
 <div id="after_submit"></div>
 <form id="contact_form" action="https://formspree.io/xqkybgyy" method="POST" enctype="multipart/form-data">
