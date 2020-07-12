@@ -1,0 +1,45 @@
+---
+layout: curso_bash
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+
+{{content}}
+
+
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-ef_voting="buzz" data-theme="angular" data-white_label="true"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
+
+<div id="after_submit"></div>
+<form id="contact_form" action="https://formspree.io/xqkybgyy" method="POST" enctype="multipart/form-data">
+  <div class="row">
+    <label class="required" for="name">Tu Nombre:</label><br />
+    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+    <span id="name_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="email">Tu email:</label><br />
+    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+    <span id="email_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="message">Mensaje:</label><br />
+    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+    <span id="message_validation" class="error_message"></span>
+  </div>
+    
+    <input id="submit_button" type="submit" value="Enviar" />
+</form>
+
+<h4> ©SUPERDYLANYT 2020 - 2021 </h4>
