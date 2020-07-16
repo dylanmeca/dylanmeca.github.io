@@ -146,6 +146,10 @@ Y tendran rasgo de superheroe, serian capaces de correr a alta velocidad.
 
 Y podran transformar su cuerpo a cualquier otro cuerpo.
 
+2334
+
+Por la contaminación del planeta habran altas temperaturas, en el planeta, las personas tendran que, adaptarse a esas temperaturas, algunas personas se iran de la Tierra en busca de un nuevo planeta fuera del sistema solar.
+
 2500
 
 Habra tecnologia que extraiga la energia de la tierra, para usarla como combustible para autos.
@@ -157,7 +161,7 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 
 2779
 
-Una civilización extraterrestre llegara a la Tierra, la humanidad sufrira una gran guerra, pero con el tiempo la humanidad se independisara, de esa civilización y tomara el control.
+La humanidad que se quedo en la Tierra, sufrira un gran desastre, una planta de antimateria explotara, quemando bosques y ciudades, este sera el fin de las personas que se quedaron en la Tierra.
 
 □□□□□□□□
 
