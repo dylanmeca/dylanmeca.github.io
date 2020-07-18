@@ -71,6 +71,8 @@ Un OVNI desendera sobre la ciudad, de Nueva York, EEUU.
 
 La fuerza armada de los EEUU, se reunira y en un circulo vigilaran la nave, cuando se habra la humanidad, descubrira el secreto que el gobierno de EEUU, nos oculta, las personas que creyeron en el fin del mundo, dejaran de creer en eso, al darse cuenta de que existen seres en otros planetas.
 
+Los extraterrestres y los humanos viviran en paz, compartiendo su tecnologia y ayudandose.
+
 5 de mayo
 
 Donald Trump, desclasificara lo que sucedió en Roswell.
