@@ -61,6 +61,10 @@ China habra encontrado la cura del covid 19, la cura del covid 19 tardara en lle
 
 2021
 
+11 de Enero
+
+La Pandemia del covid 19 habra terminado.
+
 22 de Enero
 
 China habra encontrado la cura del virus G4.
