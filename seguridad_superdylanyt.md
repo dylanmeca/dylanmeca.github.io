@@ -1,5 +1,5 @@
 ---
-layout: post4
+layout: post3
 title: Informa vulnerabilidades y errores
 ---
 
