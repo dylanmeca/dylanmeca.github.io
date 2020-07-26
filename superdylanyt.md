@@ -93,8 +93,6 @@ El Asteroide (99942) Apofis se acercara a la Tierra pero no impactara sequira su
 
 2030
 
-La tecnologia reproductiva modificara el adn de los bebes y los padres podran elejir como quiere ser su hijo e hija, y podran modificar los rasgos geneticos de sus bebes.
-
 El hielo de la antartidad, se descongelara un gran trozo de hielo que causara la inundación de los paises bajos, y el mar aumentara su nivel.
 
 Y en el espacio habra muchos satelites y basura espacial que causara la dificultad de salir del planeta.
