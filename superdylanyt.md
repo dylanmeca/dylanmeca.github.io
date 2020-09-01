@@ -169,7 +169,7 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 
 2779
 
-La humanidad que se quedo en la Tierra, sufrira un gran desastre, una planta de antimateria explotara, quemando bosques y ciudades, este sera el fin de las personas que se quedaron en la Tierra.
+Los animales se tornan semihumanos.
 
 □□□□□□□□
 
