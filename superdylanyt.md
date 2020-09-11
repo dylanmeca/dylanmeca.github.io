@@ -63,6 +63,10 @@ El asteroide 2011 ES4, pasara cerca de la Tierra pero no impactara sequira su ca
 
 China habra encontrado la cura del covid 19, la cura del covid 19 tardara en llegar 2 meses en paises latinos.
 
+14 de Septiembre
+
+El asteroide 2020 QL2, pasara cerca de la Tierra pero nunca impactara, sequira su camino al sol.
+
 2021
 
 11 de Enero
