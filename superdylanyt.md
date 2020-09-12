@@ -179,10 +179,6 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 
 Los animales se tornan semihumanos, y se libera al publico la formula para curar todas las enfermedades.
 
-2800
-
-Una nueva raza extraterrestre llega a la Tierra, y trae consigo más tecnologia.
-
 □□□□□□□□
 
 [SALIR](./)
