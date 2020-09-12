@@ -183,7 +183,7 @@ Se acaba toda clase de vida no humana, la flora y la fauna son eliminadas.
 
 Una nueva raza extraterrestre llega a la Tierra, y trae consigo más tecnologia.
 
-2820
+4020
 
 La humanidad alcanza la inmortalidad.
 
