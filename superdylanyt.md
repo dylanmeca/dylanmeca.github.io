@@ -189,7 +189,7 @@ La humanidad alcanza la inmortalidad.
 
 2900
 
-Se revela todos los secretos biblicos y nos revelan las enseñansas ocultas de Jesus, se revela que el ser humano tiene un Don que nos regalo Dios.
+Se revela todos los secretos biblicos y nos revelan las enseñansas ocultas de Jesus, se revela que el ser humano tiene un Don que nos regalo Dios, todas la religiones son una.
 
 □□□□□□□□
 
