@@ -177,15 +177,7 @@ Los animales se tornan semihumanos, y se libera al publico la formula para curar
 
 2800
 
-Se acaba toda clase de vida no humana, la flora y la fauna son eliminadas.
-
-2801
-
 Una nueva raza extraterrestre llega a la Tierra, y trae consigo más tecnologia.
-
-4040
-
-La humanidad alcanza la inmortalidad.
 
 □□□□□□□□
 
