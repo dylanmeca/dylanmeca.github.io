@@ -162,6 +162,10 @@ Y podran transformar su cuerpo a cualquier otro cuerpo.
 
 Por la contaminación del planeta habran altas temperaturas, en el planeta, las personas tendran que, adaptarse a esas temperaturas, algunas personas se iran de la Tierra en busca de un nuevo planeta fuera del sistema solar.
 
+2335
+
+La terraformación de Marte, habra terminado, Marte se vera igual que la Tierra.
+
 2500
 
 Habra tecnologia que extraiga la energia de la tierra, para usarla como combustible para autos.
