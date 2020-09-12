@@ -173,7 +173,7 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 
 2779
 
-Los animales se tornan semihumanos.
+Los animales se tornan semihumanos, y se libera al publico la formula para curar todas las enfermedades.
 
 □□□□□□□□
 
