@@ -203,7 +203,7 @@ La Humanidad, deja de pecar y los pecadores son más concientes de lo que hacen 
 
 4578
 
-La humanidad busca más vida extraterrestres, se encuentra con un planeta, que hace mutar el cuerpo humano.
+La humanidad busca más vida extraterrestre, y se encuentra con un planeta, que hace mutar el cuerpo humano.
 
 4890
 
