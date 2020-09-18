@@ -177,6 +177,10 @@ El proximo paso seria construir tecnologia para obtener energia solar.
 
 Los animales se tornan semihumanos, y se libera al publico la formula para curar todas las enfermedades.
 
+2820
+
+La humanidad descubre unos animales vivientes en el universo, estos animales son como medusas pero habitan en el Universo.
+
 □□□□□□□□
 
 [SALIR](./)
