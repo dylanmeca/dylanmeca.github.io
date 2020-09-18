@@ -81,7 +81,7 @@ China habra encontrado la cura del virus G4.
 
 Un OVNI desendera sobre la ciudad, de Nueva York, EEUU.
 
-La fuerza armada de los EEUU, se reunira y en un circulo vigilaran la nave, cuando se habra la humanidad, descubrira el secreto que el gobierno de EEUU, nos oculta.
+La fuerza armada de los EEUU, se reunira y en un circulo vigilaran la nave, se, descubrira el secreto que el gobierno de EEUU, nos oculta.
 
 Los extraterrestres y los humanos viviran en paz, compartiendo su tecnologia y ayudandose.
 
