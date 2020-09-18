@@ -181,6 +181,14 @@ Los animales se tornan semihumanos, y se libera al publico la formula para curar
 
 La humanidad descubre unos animales vivientes en el universo, estos animales son como medusas pero habitan en el Universo.
 
+3450
+
+Inicia una Gran Hambruna en la Tierra, la civilización disminuye.
+
+3451
+
+Una civilización extraterrestre, llega a la Tierra y ayuda a la humanidad a salir de la gran Hambruna.
+
 □□□□□□□□
 
 [SALIR](./)
