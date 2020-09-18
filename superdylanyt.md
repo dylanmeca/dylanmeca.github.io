@@ -111,8 +111,6 @@ La NASA hallo una forma de quitar la basura espacial, pero tardara 5 años en co
 
 2045
 
-SPACE X desarrollo en secreto una nave para colonizar la luna.
-
 En la Tierra la temperatura habria aumentado 1.5 % sobrepasando el limite seguro.
 
 Habran terremotos y tsunamis que inundaran paises bajos por completo las costas despareceran.
