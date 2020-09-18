@@ -189,6 +189,14 @@ Inicia una Gran Hambruna en la Tierra, la civilización disminuye.
 
 Una civilización extraterrestre, llega a la Tierra y ayuda a la humanidad a salir de la gran Hambruna.
 
+3589
+
+Las ciudades se ven como una pelicula de Ciencia Ficción.
+
+3780
+
+La Humanidad se vuelve más honesta y bondadosa, y se descubre que estamos en una Era de Luz.
+
 □□□□□□□□
 
 [SALIR](./)
