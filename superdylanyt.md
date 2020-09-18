@@ -89,6 +89,10 @@ Los extraterrestres y los humanos viviran en paz, compartiendo su tecnologia y a
 
 Donald Trump, desclasificara lo que sucedió en Roswell.
 
+2022
+
+Aparecen y nacen, más personas honestas y bondadosas.
+
 2029
 
 3 de abril 2029
