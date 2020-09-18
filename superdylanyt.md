@@ -197,6 +197,22 @@ Las ciudades se ven como una pelicula de Ciencia Ficción.
 
 La Humanidad se vuelve más honesta y bondadosa, y se descubre que estamos en una Era de Luz.
 
+3923
+
+La Humanidad, deja de pecar y los pecadores son más concientes de lo que hacen y los pecadores se arrepienten antes de cometer un pecado.
+
+4578
+
+La humanidad busca más vida extraterrestres, se encuentra con un planeta, que hace mutar el cuerpo humano.
+
+4890
+
+La humanidad alcanza la inmortalidad.
+
+5011
+
+Jesus regresa a la Tierra.
+
 □□□□□□□□
 
 [SALIR](./)
