@@ -207,11 +207,11 @@ La humanidad busca más vida extraterrestre, y se encuentra con un planeta, que 
 
 4890
 
-La humanidad alcanza la inmortalidad.
+Las personas alcanzan la inmortalidad.
 
 5011
 
-Jesus regresa a la Tierra.
+Jesus regresa a la Tierra, el Reino de los cielos y el mundo de la humanidad son uno.
 
 □□□□□□□□
 
