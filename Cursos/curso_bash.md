@@ -89,8 +89,8 @@ Aqui hacemos que se detenga el script para que diga Quieres salir s/n y que el u
 
 Entonces decimos, si la variable s es igual a   s entonces el sistema iniciara la función reinicio, else signfica si no es haci.
 
-Entonces si la variable s no es igual s se mandara el mensaje >:v.
+Entonces si la variable s no es igual a s se mandara el mensaje >:v.
 
-if es para cerrar el script
+fi es para cerrar el script
 
 /FIN/
