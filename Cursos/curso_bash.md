@@ -27,13 +27,23 @@ Más información en: ​<a href="https://es.wikipedia.org/wiki/Advanced_Packagi
 
 # Explicación de Funciónes y Variables
 
+```shell
+
 saludo=hola
+
+```
 
 aqui decimos que la variable saludo es igual a hola.
 
+```shell
+
 echo " $saludo "
 
+```
+
 Aqui colocamos saludo junto a $ para decir que usaremos la variable saludo para ejecutarla.
+
+```shell
 
 function reinicio {
            echo $(clear)
@@ -42,15 +52,27 @@ function reinicio {
 
 reinicio
 
+```
+
 Aqui creamos una función con el nombre reinicio, que ejecutara el comando clear.
+
+```shell
 
 read -p "          ESCRIBE TU NOMBRE >>> " nombre
 
+```
+
 Aqui con read detenemos y con -p hacemos que se pueda escribir una pregunta y en la parte  final colocamos nombre para encerrar lo que escribimos en la variable nombre.
+
+```shell
 
 echo " Hola $nombre "
 
+```
+
 Aqui hacemos que se muestre Hola y que diga la variable nombre.
+
+```shell
 
 read -p "       Quieres salir s/n " s
 
@@ -60,6 +82,8 @@ if [ "$s" = "s" ] ; then
            echo " >:v "
 
 fi
+
+```
 
 Aqui hacemos que se detenga el script para que diga Quieres salir s/n y que el usuario escriba s o n, y  if signfica si, y then signfica entonces.
 
