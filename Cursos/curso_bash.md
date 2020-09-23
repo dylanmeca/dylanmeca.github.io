@@ -24,3 +24,49 @@ Existen también programas que proporcionan un frontispicio para APT, generalmen
 APT fue rápidamente utilizado para funcionar con paquetes .deb, en los sistemas Debian y distribuciones derivadas, pero desde entonces ha sido modificado para trabajar con paquetes RPM, con la herramienta apt-rpm, y para funcionar en otros sistemas operativos, como Mac OS X (Fink) y OpenSolaris (distribución Nexenta OS). Cabe mencionar que a partir de la versión 1.0, esta incluye una barra de progreso que muestra el porcentaje de instalación.
 
 Más información en: ​<a href="https://es.wikipedia.org/wiki/Advanced_Packaging_Tool" target="_blank">Wikipedia</a>
+
+# Explicación de Funciónes y Variables
+
+saludo=hola
+
+aqui decimos que la variable saludo es igual a hola.
+
+echo " $saludo "
+
+Aqui colocamos saludo junto a $ para decir que usaremos la variable saludo para ejecutarla.
+
+function reinicio {
+           echo $(clear)
+
+}
+
+reinicio
+
+Aqui creamos una función con el nombre reinicio, que ejecutara el comando clear.
+
+read -p "          ESCRIBE TU NOMBRE >>> " nombre
+
+Aqui con read detenemos y con -p hacemos que se pueda escribir una pregunta y en la parte  final colocamos nombre para encerrar lo que escribimos en la variable nombre.
+
+echo " Hola $nombre "
+
+Aqui hacemos que se muestre Hola y que diga la variable nombre.
+
+read -p "       Quieres salir s/n " s
+
+if [ "$s" = "s" ] ; then
+           reinicio
+ else
+           echo " >:v "
+
+fi
+
+Aqui hacemos que se detenga el script para que diga Quieres salir s/n y que el usuario escriba s o n, y  if signfica si, y then signfica entonces.
+
+Entonces decimos, si la variable s es igual a   s entonces el sistema iniciara la función reinicio, else signfica si no es haci.
+
+Entonces si la variable s no es igual s se mandara el mensaje >:v.
+
+if es para cerrar el script
+
+/FIN/
