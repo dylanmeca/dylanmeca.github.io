@@ -91,7 +91,9 @@ Donald Trump, desclasificara lo que sucedió en Roswell.
 
 2022
 
-Aparecen y nacen, más personas honestas y bondadosas.
+Aparecen y nacen, más personas honestas y bondadosas, el Reino de los cielos y el mundo de la humanidad son uno, La Humanidad, deja de pecar y los pecadores son más concientes de lo que hacen y los pecadores se arrepienten antes de cometer un pecado.
+
+La Humanidad se vuelve más honesta y bondadosa, y se descubre que estamos en una Era de Luz.
 
 2029
 
@@ -197,14 +199,6 @@ Una civilización extraterrestre, llega a la Tierra y ayuda a la humanidad a sal
 
 Las ciudades se ven como una pelicula de Ciencia Ficción.
 
-3780
-
-La Humanidad se vuelve más honesta y bondadosa, y se descubre que estamos en una Era de Luz.
-
-3923
-
-La Humanidad, deja de pecar y los pecadores son más concientes de lo que hacen y los pecadores se arrepienten antes de cometer un pecado.
-
 4578
 
 La humanidad busca más vida extraterrestre, y se encuentra con un planeta, que hace mutar el cuerpo humano.
@@ -215,7 +209,7 @@ Las personas alcanzan la inmortalidad.
 
 5011
 
-Jesus regresa a la Tierra, el Reino de los cielos y el mundo de la humanidad son uno.
+Jesus regresa a la Tierra.
 
 □□□□□□□□
 
