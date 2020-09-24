@@ -87,7 +87,7 @@ Los extraterrestres y los humanos viviran en paz, compartiendo su tecnologia y a
 
 5 de mayo
 
-Donald Trump, desclasificara lo que sucedió en Roswell.
+El Pentagono, desclasificara lo que sucedió en Roswell.
 
 2022
 
