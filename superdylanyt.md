@@ -148,8 +148,6 @@ El nivel del mar aumentaria más de 6 metros lo que causaria que un millon de pe
 
 La humanidad comenzara a expandirse en el espacio, la mineria de asteroides y la terraformación de marte estaria en proceso, más personas tendrian acceso a tecnologia espacial.
 
-Y surgiria una nueva forma de terrorismo.
-
 2280
 
 Las naves espaciales impulsadas por antimateria llevaria a la humanidad lejos del sistema solar.
