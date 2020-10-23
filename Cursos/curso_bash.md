@@ -16,6 +16,33 @@ Un agujero de seguridad en Bash que data de la versión 1.03 (agosto de 1989), d
 
 Más información en: ​<a href="https://es.wikipedia.org/wiki/Bash" target="_blank">Wikipedia</a>
 
+# Que es GNU/Linux
+
+Linux es una familia de sistemas operativos de código abierto tipo Unix basados ​​en el kernel de Linux, un kernel de sistema operativo lanzado por primera vez el 17 de septiembre de 1991 por Linus Torvalds. Linux normalmente está empaquetado en una distribución de Linux. 
+
+Más información en: ​<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Wikipedia</a>
+
+# Qué es un sistema operativo
+
+Un sistema operativo es un conjunto de programas que permite manejar la memoria, disco, medios de almacenamiento de información y los diferentes periféricos o recursos de nuestra computadora, como son el teclado, el mouse, la impresora, la placa de red, entre otros.
+
+Los periféricos utilizan un driver o controlador y son desarrollados por los fabricantes de cada equipo. Encontramos diferentes sistemas operativos como Windows, Linux, MAS OS, en sus diferentes versiones. También los teléfonos y tablets poseen un sistema operativo.
+
+Dentro de las tareas que realiza el sistema operativo, en particular, se ocupa de gestionar la memoria de nuestro sistema y la carga de los diferentes programas, para ello cada programa tiene una prioridad o jerarquía y en función de la misma contará con los recursos de nuestro sistema por más tiempo que un programa de menor prioridad.
+El sistema operativo se ocupa también de correr procesos. Llamamos proceso a la carga en memoria de nuestro programa, si no está cargado en memoria nuestro programa simplemente “no corre”.
+
+# Que es una Distribución Linux
+
+Una distribución GNU/Linux (coloquialmente llamada distro) es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores.
+
+Más información en: ​<a href="https://es.wikipedia.org/wiki/Distribución_Linux" target="_blank">Wikipedia</a>
+
+# Que es un Emulador de terminal
+
+Un emulador de terminal o emulador de consola es un programa informático que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Normalmente suele estar accesible pulsando CRTL + ALT + T simultáneamente.
+
+Más información en: ​<a href="https://es.wikipedia.org/wiki/Emulador_de_terminal" target="_blank">Wikipedia</a>
+
 # Que es Advanced Packaging Tool " APT "
 
 Advanced Packaging Tool (Herramienta Avanzada de Empaquetado), abreviado APT, es un programa de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux.
