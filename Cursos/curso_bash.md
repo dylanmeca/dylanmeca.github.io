@@ -77,6 +77,8 @@ Más información en: ​<a href="https://es.wikipedia.org/wiki/Advanced_Packagi
 * El símbolo asterisco * equivale a cualquier secuencia de caracteres en el nombre de un elemento.
 * El símbolo interrogación ? equivale a un sólo carácter, pudiendo éste ser cualquiera.
 
+/FIN/
+
 # Explicación de Funciónes y Variables
 
 ```shell
