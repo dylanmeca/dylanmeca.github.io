@@ -25,6 +25,8 @@ APT fue rápidamente utilizado para funcionar con paquetes .deb, en los sistemas
 
 Más información en: ​<a href="https://es.wikipedia.org/wiki/Advanced_Packaging_Tool" target="_blank">Wikipedia</a>
 
+* Hola
+
 # Explicación de Funciónes y Variables
 
 ```shell
