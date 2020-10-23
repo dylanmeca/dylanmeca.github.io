@@ -41,7 +41,7 @@ Más información en: ​<a href="https://es.wikipedia.org/wiki/Distribución_Li
 
 # Que es un Emulador de terminal
 
-Un emulador de terminal o emulador de consola es un programa informático que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Normalmente suele estar accesible pulsando CRTL + ALT + T simultáneamente.
+Un emulador de terminal o emulador de consola es un programa informático que simula el funcionamiento de un terminal de computadora en cualquier dispositivo de visualización. Normalmente suele estar accesible pulsando CTRL + ALT + T simultáneamente.
 
 Más información en: ​<a href="https://es.wikipedia.org/wiki/Emulador_de_terminal" target="_blank">Wikipedia</a>
 
