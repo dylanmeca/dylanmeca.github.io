@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: SUPERDYLANYT contact
-    url: https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/contacto
+    url: https://dylan14567.github.io/contacto
     about: Please contact me in case of error in the repository.
   - name: SUPERDYLANYT security
-    url: https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt
+    url: https://dylan14567.github.io/seguridad_superdylanyt
     about: Please report security vulnerabilities here.
