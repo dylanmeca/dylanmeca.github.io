@@ -1,5 +1,6 @@
 ---
 layout: post4
+title: Política de Comentarios
 ---
 
 SUPERDYLANYT Studios pone a disposición de los usuarios la posibilidad de intercambiar opiniones y publicar comentarios al contenido expuesto en el sitio web.
