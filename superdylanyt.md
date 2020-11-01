@@ -44,9 +44,7 @@ Para contactarme, nesecitas llenar este formulario.
 
 <div class="share">
   <a href="https://github.com/dylan14567/Laboratorio-SUPERDYLANYT" class="git">Laboratorio SUPERDYLANYT</a>
-  <a href="https://github.com/dylan14567/lab_tool" class="git">lab_tool</a>
-  <a href="https://github.com/dylan14567/SUPERDYLANYT-OS" class="git">SUPERDYLANYT OS</a>
-  <a href="https://github.com/dylan14567/Servidor-WEB-Termux" class="git">Servidor-WEB-Termux</a>
+  <a href="https://github.com/dylan14567/lab_superdylanyt" class="git">lab_superdylanyt</a>
 </div>
 
 ![alt text](https://raw.githubusercontent.com/dylan14567/Laboratorio-SUPERDYLANYT/master/img/20200614_105850.jpg)
