@@ -43,4 +43,4 @@ En este sitio puedes informar errores, del sitio web o vulnerabilidades.
 
 ## Informar una vulnerabilidad
 
-En caso de error, en los scripts, informanos sobre el error en: <a href="https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt">https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt</a>
+En caso de error, en los scripts, informanos sobre el error en: <a href="https://dylan14567.github.io/seguridad_superdylanyt">https://dylan14567.github.io/seguridad_superdylanyt</a>
