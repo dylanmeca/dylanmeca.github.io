@@ -3,11 +3,11 @@ layout: post
 title: SUPERDYLANYT
 ---
 
-[![Build Status](https://img.shields.io/github/stars/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/)
-[![License](https://img.shields.io/github/license/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/LICENSE)
+[![Build Status](https://img.shields.io/github/stars/dylan14567/dylan14567.github.io.svg)](https://dylan14567.github.io/)
+[![License](https://img.shields.io/github/license/dylan14567/dylan14567.github.io.svg)](https://dylan14567.github.io/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
-[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt)
-[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/seguridad_superdylanyt)
+[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://dylan14567.github.io/seguridad_superdylanyt)
+[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://dylan14567.github.io/seguridad_superdylanyt)
 [![html](https://img.shields.io/badge/language-html%20-red.svg)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript%20-yellow.svg)](https://es.wikipedia.org/wiki/JavaScript)
 [![css](https://img.shields.io/badge/language-css%20-cyan.svg)](https://www.w3.org/Style/CSS/)
