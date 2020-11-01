@@ -11,4 +11,4 @@
 
 ## Informar una vulnerabilidad
 
-En caso de error, en los scripts, informanos sobre el error en: https://github.com/dylan14567/Laboratorio-SUPERDYLANYT/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
+En caso de error, en los scripts, informanos sobre el error en: https://github.com/dylan14567/dylan14567.github.io/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
