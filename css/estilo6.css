@@ -140,14 +140,14 @@ body{
     cursor: pointer;
 }
 
-/** Elon Musk **/
-.elon-musk{
+/** Dylan **/
+.dylan{
     position: relative;
     width: 100%;
     height: 100vh;
     margin-top:100px;
 }
-.elon-musk .figure-img{
+.dylan .figure-img{
     background: url(../images/elon-musk.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -162,7 +162,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.elon-musk .figure-img h4{
+.dylan .figure-img h4{
     width: 80%;
     color:#fff;
     font-size: 40px;
