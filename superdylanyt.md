@@ -1,5 +1,6 @@
 ---
 layout: post
+title: SUPERDYLANYT
 ---
 
 [![Build Status](https://img.shields.io/github/stars/dylan14567/Laboratorio-SUPERDYLANYT.svg)](https://dylan14567.github.io/Laboratorio-SUPERDYLANYT/)
