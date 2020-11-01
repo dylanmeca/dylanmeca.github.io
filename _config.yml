@@ -3,7 +3,7 @@ description: Bienvenido
 show_downloads: true
 google_analytics:
 comments: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 social:
   twitter: DYLAN1456711
   github: dylan14567
