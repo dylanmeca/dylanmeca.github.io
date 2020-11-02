@@ -5,6 +5,8 @@ title: Como Alcanzar el Exito
 
 Alcanzar el exito es facil si lees esto.
 
+<img src="../img/images.jpeg">
+
 Primero debes leer esta Parábola de Jesús:
 
 ## Parábola de Jesús
