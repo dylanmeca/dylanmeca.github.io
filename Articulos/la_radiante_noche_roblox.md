@@ -16,7 +16,7 @@ En este juego, te encontraras con un mundo super realista, donde tendras que<br 
 explorarlo y hallar sus secretos, para poder jugar este juego debes tener instalado Roblox en tu PC o movil.<br />
 <br />
 <br />
-<button><a href="https://www.roblox.com/games/4700956243/La-Radiante-Noche">Jugar</a></button>
+<button><a href="https://www.roblox.com/games/4700956243/La-Radiante-Noche" class="boton_personalizado">Jugar</a></button>
 
 
 
