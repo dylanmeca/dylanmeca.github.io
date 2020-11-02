@@ -4,7 +4,7 @@ title: La Radiante Noche
 ---
                         
                            
-                        Es un servidor de Minecraft creado,<br />
+Es un servidor de Minecraft creado,
 por SUPERDYLANYT.<br />
 <br />
 El Servidor es Privado, para poder entrar al servidor,<br />
