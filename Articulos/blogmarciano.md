@@ -1,37 +1,7 @@
-<html>
-<head>
-
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">	
-<title> Blog Marciano </title>
-<link rel="shortcut icon" type="image/x-icon" href="unnamed-ConvertImage.ico">
-<link rel="stylesheet" href="../css/estilo2.css">
-
-
-</head>
-
-
-	<div class="contenedor">
-		<header>
-			<div class="logo">
-				<img src="../unnamed.jpg" width="150" alt="">
-				<a href="#">SUPERDYLANYT</a>
-			</div>
-
-			<nav>
-				<a href="../index">Inicio</a>
-				<a href="../blog">Blog</a>
-				<a href="../academia_superdylanyt">Cursos</a>
-				<a href="../contacto">Contacto</a>
-			</nav>
-		</header>
-
-		<section class="main">
-			<article>
-				<h2 class="titulo">Blog Marciano</h2>
-				<p>
-
+---
+layout: post7
+title: Blog Marciano
+---
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="../img/20200713_151306.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="359" height="310" src="../img/20200713_151306.jpg" width="320" /></a></div>
@@ -67,27 +37,4 @@ Tu perfil de la app, tiene comentarios, para que las personas puedan hablar cont
 
 
 
-                                 </p>
-
-			</article>
-
-			
-		</section>
-
-
-
-
- 
-		<footer>
-                
-		
-
-			<div class="social">
-				<a href="https://twitter.com/DYLAN1456711">Twitter</a>
-				<a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA">Youtube</a>
-			</div>
-		</footer>
-	</div>
-
-                            
-</html>
+                                 
