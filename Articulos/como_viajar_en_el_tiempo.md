@@ -8,11 +8,11 @@ Si es posible viajar en el Tiempo.
 Para viajar en el Tiempo, nesecitas una nave capaz
 de crear un agujero de gusano.
 
-## Que es un agujero de gusano ??
+## Que es un agujero de gusano 
 
 En física, un agujero de gusano, también conocido como puente de Einstein-Rosen, es una hipotética característica topológica de un espacio-tiempo, descrita en las ecuaciones de la relatividad general, que esencialmente consiste en un atajo a través del espacio y el tiempo. <a href="https://es.wikipedia.org/wiki/Agujero_de_gusano">Wikipedia</a>
 
-## Como abrir un agujero de gusano ??
+## Como abrir un agujero de gusano 
 
 En su artículo, los investigadores proporcionan las instrucciones, paso a paso, para construir uno de tales agujeros. Los "ingredientes" son los siguientes: dos agujeros negros y unas cuerdas cósmicas infinitamente largas.
 
@@ -162,5 +162,12 @@ Cuando se introducen elementos de la presente invención o las realizaciones pre
 Aunque la presente invención se ha descrito con considerable detalle con referencia a ciertas realizaciones preferidas de la misma, son posibles otras realizaciones. Por lo tanto, el espíritu y alcance de las reivindicaciones adjuntas no deberían limitarse a la descripción de las realizaciones preferidas contenidas en este documento.
 
 <a href="https://patents.google.com/patent/US10144532B2/en">25-ABR-2019: Patente de la Marina de EEUU Para Nave Antigravedad</a>
+
+## Como viajar al pasado
+
+⚠️ Advertencia ⚠️
+
+Esta prohibido viajar al pasado, si tu viajas al pasado no cambiaras el presente, las fuerzas de la naturaleza corregiran ese error creando un universo paralelo, por lo tanto, la linea de tiempo original no habra cambiado nada y habras creado un universo paralelo donde si paso lo que quisiste lo que pasara.
+
 
 
