@@ -8,6 +8,8 @@ Si es posible viajar en el Tiempo.
 Para viajar en el Tiempo, nesecitas una nave capaz
 de crear un agujero de gusano.
 
+<img src="../img/20201102_085832.jpg">
+
 ## Que es un agujero de gusano 
 
 En física, un agujero de gusano, también conocido como puente de Einstein-Rosen, es una hipotética característica topológica de un espacio-tiempo, descrita en las ecuaciones de la relatividad general, que esencialmente consiste en un atajo a través del espacio y el tiempo. <a href="https://es.wikipedia.org/wiki/Agujero_de_gusano">Wikipedia</a>
