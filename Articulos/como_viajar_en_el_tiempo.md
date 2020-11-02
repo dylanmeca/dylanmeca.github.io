@@ -125,11 +125,13 @@ Podemos plantear además la hipótesis de que si el giro-rotor vibrara uniformem
 donde f ep es la tasa de equilibrio térmico electrón-protón de Fokker-Planck, A ves la amplitud de vibración yv es la frecuencia de vibración (en 1 / s).
 
 RESUMEN
+
 La presente invención está dirigida a una embarcación que utiliza un dispositivo de reducción de masa inercial. La nave incluye una pared de cavidad resonante interna, una cavidad resonante externa y emisores de microondas. La pared de la cavidad resonante externa y la pared de la cavidad resonante interna forman una cavidad resonante. Los emisores de microondas crean ondas electromagnéticas de alta frecuencia a lo largo de la cavidad resonante, lo que hace que la pared de la cavidad resonante externa vibre en un modo acelerado y cree un vacío polarizado local fuera de la pared de la cavidad resonante externa.
 
 Es una característica de la presente invención proporcionar una embarcación, que utiliza un dispositivo de reducción de masa inercial, que puede viajar a velocidades extremas.
 
 DIBUJOS
+
 Estas y otras características, aspectos y ventajas de la presente invención se comprenderán mejor con referencia a la siguiente descripción y las reivindicaciones adjuntas y los dibujos adjuntos en los que:
 
 HIGO. 1es una realización de la embarcación que utiliza un dispositivo de reducción de masa inercial; y
@@ -137,6 +139,7 @@ HIGO. 1es una realización de la embarcación que utiliza un dispositivo de redu
 HIGO. 2 es otra realización de la embarcación que utiliza un dispositivo de reducción de masa inercial.
 
 DESCRIPCIÓN
+
 Las realizaciones preferidas de la presente invención se ilustran a modo de ejemplo a continuación y en FIGS. 1-2. Como se muestra enHIGO. 1, the craft 10 using an inertial mass reduction device comprises of an outer resonant cavity wall 100, an inner resonant cavity 200, and microwave emitters 300. The outer resonant cavity wall 100 and the inner resonant cavity wall 200 form a resonant cavity 150. The microwave emitters 300 create high frequency electromagnetic waves 50 throughout the resonant cavity 150 causing the outer resonant cavity wall 100 to vibrate in an accelerated mode and create a local polarized vacuum 60 outside the outer resonant cavity wall 100.
 
 En la descripción de la presente invención, la invención se discutirá en un entorno espacial, marítimo, aéreo o terrestre; sin embargo, esta invención puede utilizarse para cualquier tipo de aplicación que requiera el uso de un dispositivo de reducción de masa inercial o el uso de una embarcación.
@@ -167,7 +170,7 @@ Aunque la presente invención se ha descrito con considerable detalle con refere
 
 ⚠️ Advertencia ⚠️
 
-Esta prohibido viajar al pasado, si tu viajas al pasado no cambiaras el presente, las fuerzas de la naturaleza corregiran ese error creando un universo paralelo, por lo tanto, la linea de tiempo original no habra cambiado nada y habras creado un universo paralelo donde si paso lo que quisiste lo que pasara.
+Esta prohibido viajar al pasado, si tu viajas al pasado no cambiaras el presente, las fuerzas de la naturaleza corregiran ese error creando un universo paralelo, por lo tanto, la linea de tiempo original no habra cambiado nada y habras creado un universo paralelo donde si paso lo que quisiste que pasara.
 
 
 
