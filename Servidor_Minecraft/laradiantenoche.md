@@ -1,40 +1,7 @@
-<html>
-<head>
-
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">	
-<title> La Radiante Noche </title>
-<link rel="shortcut icon" type="image/x-icon" href="../unnamed-ConvertImage.ico">
-<link rel="stylesheet" href="../css/estilo2.css">
-<link rel="stylesheet" href="../css/style.css">
-
-
-</head>
-
-
-	<div class="contenedor">
-		<header>
-			<div class="logo">
-				<img src="../unnamed.jpg" width="150" alt="">
-				<a href="#">SUPERDYLANYT</a>
-			</div>
-
-			<nav>
-				<a href="../index">Inicio</a>
-				<a href="../blog">Blog</a>
-				<a href="../academia_superdylanyt">Cursos</a>
-				<a href="../contacto">Contacto</a>
-			</nav>
-		</header>
-
-		<section class="main">
-			<article>
-				<h2 class="titulo">La Radiante Noche</h2>
-				<p>
-
-
-
+---
+layout: post8
+title: La Radiante Noche
+---
                         
                            
                         Es un servidor de Minecraft creado,<br />
@@ -71,23 +38,5 @@ IP del servidor: laradiantenoche.aternos.me<br />
                        
 
 
-                                 </p>
-
-			</article>
-
-			
-		</section>
-
- 
-		<footer>
-                
-		
-
-			<div class="social">
-				<a href="https://twitter.com/DYLAN1456711">Twitter</a>
-				<a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA">Youtube</a>
-			</div>
-		</footer>
-	</div>
-</html>
+                                 
                         
