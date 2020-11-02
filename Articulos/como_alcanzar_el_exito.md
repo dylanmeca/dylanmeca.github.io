@@ -42,9 +42,10 @@ Recuerda incrementar las posibilidades, recuerda intentarlo de todas formas, siq
 
 Recuerda tu puedes lograr cualquier cosa que te propongas hacer.
 
-Recuerda estas frases:
+## Recuerda estas frases
 
 Te merceces todo lo bueno, y todo lo bueno llega a ti.
+
 Tu puedes hacer cualquier cosa que te propongas hacer.
 
 
