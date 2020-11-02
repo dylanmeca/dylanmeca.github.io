@@ -23,7 +23,7 @@ Y parte cayó entre espinos; y los espinos crecieron, y la ahogaron.
 
  El que tiene oídos para oír, oiga.
 
-## Signficado
+## Significado
 
 Una vez que leiste esto, puede que te preguntes que función tiene esta parábola para el exito.
 Lo que trata de contar esta parabola es que tu, quieres conseguir algo, pero ese algo, puede que aya caido en espinos o en tierra fertil.
