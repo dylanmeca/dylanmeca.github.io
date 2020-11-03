@@ -2,7 +2,7 @@ const imagePreview = document.getElementById('img-preview');
 const imageUploader = document.getElementById('img-uploader');
 const imageUploadbar = document.getElementById('img-upload-bar');
 
-const CLOUDINARY_URL = `https://api.cloudinary.com/v1_1/server-superdylanyt`
+const CLOUDINARY_URL = `https://api.cloudinary.com/v1_1/server-superdylanyt/image/upload`
 const CLOUDINARY_UPLOAD_PRESET = 'tltwzo4u';
 
 imageUploader.addEventListener('change', async (e) => {
