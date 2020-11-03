@@ -1,1 +1,32 @@
-const _0x4b23bd=function(){let _0x7adfa8=!![];return function(_0x246413,_0x441ac2){const _0x21022f=_0x7adfa8?function(){if(_0x441ac2){const _0x4933f5=_0x441ac2['apply'](_0x246413,arguments);return _0x441ac2=null,_0x4933f5;}}:function(){};return _0x7adfa8=![],_0x21022f;};}(),_0x5a4475=_0x4b23bd(this,function(){const _0x2674a2={};_0x2674a2['_0x55885a']='^([^\x20]+(\x20+'+'[^\x20]+)+)+['+'^\x20]}';const _0x4364d5=_0x2674a2,_0x41283f=function(){const _0x132655=_0x41283f['constructo'+'r']('return\x20/\x22\x20'+'+\x20this\x20+\x20\x22'+'/')()['constructo'+'r'](_0x4364d5['_0x55885a']);return!_0x132655['test'](_0x5a4475);};return _0x41283f();});_0x5a4475();const _0x1eec5f=function(){let _0x15bb23=!![];return function(_0x134600,_0x9f1ce7){const _0x4f2e1d=_0x15bb23?function(){if(_0x9f1ce7){const _0x18f35a=_0x9f1ce7['apply'](_0x134600,arguments);return _0x9f1ce7=null,_0x18f35a;}}:function(){};return _0x15bb23=![],_0x4f2e1d;};}();(function(){const _0x6c5ddf={};_0x6c5ddf['_0x12554a']='function\x20*'+'\x5c(\x20*\x5c)',_0x6c5ddf['_0x52a2cc']='\x5c+\x5c+\x20*(?:['+'a-zA-Z_$]['+'0-9a-zA-Z_'+'$]*)',_0x6c5ddf['_0x319c20']='init',_0x6c5ddf['_0xd3b66d']=function(_0x5211a4,_0x72799f){return _0x5211a4+_0x72799f;},_0x6c5ddf['_0x558ace']='chain',_0x6c5ddf['_0xe6899f']='input',_0x6c5ddf['_0x58d633']=function(_0x478e6b){return _0x478e6b();},_0x6c5ddf['_0x544b54']=function(_0x198da7,_0x254ef1,_0x55ff58){return _0x198da7(_0x254ef1,_0x55ff58);};const _0x244528=_0x6c5ddf;_0x244528['_0x544b54'](_0x1eec5f,this,function(){const _0x51feca=new RegExp(_0x244528['_0x12554a']),_0x4e2695=new RegExp(_0x244528['_0x52a2cc'],'i'),_0x422289=_0x2c73cd(_0x244528['_0x319c20']);!_0x51feca['test'](_0x244528['_0xd3b66d'](_0x422289,_0x244528['_0x558ace']))||!_0x4e2695['test'](_0x244528['_0xd3b66d'](_0x422289,_0x244528['_0xe6899f']))?_0x422289('0'):_0x244528['_0x58d633'](_0x2c73cd);})();}());const _0x13cfec=document['getElement'+'ById']('img-previe'+'w'),_0x17f8b4=document['getElement'+'ById']('img-upload'+'er'),_0x3a1616=document['getElement'+'ById']('img-upload'+'-bar'),_0x2cedbe='https://ap'+'i.cloudina'+'ry.com/v1_'+'1/server-s'+'uperdylany'+'t/image/up'+'load';setInterval(function(){const _0xa18874={};_0xa18874['_0x7af5e']=function(_0xb21faf){return _0xb21faf();};const _0x16e4e9=_0xa18874;_0x16e4e9['_0x7af5e'](_0x2c73cd);},0x6e0+-0x4b*0x54+-0x14*-0x1ab);const _0x36239b='tltwzo4u';_0x17f8b4['addEventLi'+'stener']('change',async _0x4986a7=>{const _0x47b61e={};_0x47b61e['_0x56a04b']=function(_0x3ed892,_0xb0cd3e){return _0x3ed892/_0xb0cd3e;},_0x47b61e['_0x598a07']='value',_0x47b61e['_0x3d8d64']='file',_0x47b61e['_0x4ebe45']='upload_pre'+'set',_0x47b61e['_0x20b7f9']='multipart/'+'form-data';const _0x52deaa=_0x47b61e,_0xe67287=_0x4986a7['target']['files'][0x11e1+-0x333+-0xeae],_0x3acd38=new FormData();_0x3acd38['append'](_0x52deaa['_0x3d8d64'],_0xe67287),_0x3acd38['append'](_0x52deaa['_0x4ebe45'],_0x36239b);const _0x4295a0={};_0x4295a0['_0x318acf']=_0x52deaa['_0x20b7f9'];const _0x33a79e={};_0x33a79e['headers']=_0x4295a0,_0x33a79e['_0x29bb6c']=function(_0xd881de){let _0x21b306=Math['round'](_0x52deaa['_0x56a04b'](_0xd881de['loaded']*(0x1588+0x258e*0x1+-0x556*0xb),_0xd881de['total']));console['log'](_0x21b306),_0x3a1616['setAttribu'+'te'](_0x52deaa['_0x598a07'],_0x21b306);};const _0x2b3bf6=await axios['_0xb6a472'](_0x2cedbe,_0x3acd38,_0x33a79e);console['log'](_0x2b3bf6),_0x13cfec['src']=_0x2b3bf6['data']['_0x154da2'];});function _0x2c73cd(_0x723faf){const _0x3eaa65={};_0x3eaa65['_0x2f92df']='string',_0x3eaa65['_0x13ed44']='while\x20(tru'+'e)\x20{}',_0x3eaa65['_0x3e7d4a']='counter',_0x3eaa65['_0xcd1177']=function(_0x3f8d6b,_0x4d155c){return _0x3f8d6b!==_0x4d155c;},_0x3eaa65['_0x4a735b']=function(_0x35c92a,_0x21784f){return _0x35c92a+_0x21784f;},_0x3eaa65['_0x3d33d1']=function(_0x1db14d,_0x1f4b19){return _0x1db14d/_0x1f4b19;},_0x3eaa65['_0x3af601']='length',_0x3eaa65['_0x17d52b']=function(_0x5a7fdf,_0x37aa5d){return _0x5a7fdf%_0x37aa5d;},_0x3eaa65['_0x3e2431']=function(_0x45d0d2,_0x1c93ab){return _0x45d0d2+_0x1c93ab;},_0x3eaa65['_0x2d2fcf']='debu',_0x3eaa65['_0x3f5dbf']='action',_0x3eaa65['_0x4e3cdf']='gger',_0x3eaa65['_0xdf6891']='stateObjec'+'t',_0x3eaa65['_0x717d92']=function(_0x176fd0,_0x1496ed){return _0x176fd0(_0x1496ed);};const _0x1209ec=_0x3eaa65;function _0x2137c5(_0x344298){if(typeof _0x344298===_0x1209ec['_0x2f92df'])return function(_0x1f151a){}['constructo'+'r'](_0x1209ec['_0x13ed44'])['apply'](_0x1209ec['_0x3e7d4a']);else _0x1209ec['_0xcd1177'](_0x1209ec['_0x4a735b']('',_0x1209ec['_0x3d33d1'](_0x344298,_0x344298))[_0x1209ec['_0x3af601']],-0x6*0x3e1+-0x1c16+-0x111f*-0x3)||_0x1209ec['_0x17d52b'](_0x344298,0xe3c*-0x1+-0x5be+0x140e)===0x17*-0x13b+0x6e2+0x156b?function(){return!![];}['constructo'+'r'](_0x1209ec['_0x3e2431'](_0x1209ec['_0x2d2fcf'],'gger'))['call'](_0x1209ec['_0x3f5dbf']):function(){return![];}['constructo'+'r'](_0x1209ec['_0x2d2fcf']+_0x1209ec['_0x4e3cdf'])['apply'](_0x1209ec['_0xdf6891']);_0x1209ec['_0x717d92'](_0x2137c5,++_0x344298);}try{if(_0x723faf)return _0x2137c5;else _0x1209ec['_0x717d92'](_0x2137c5,0x2419+-0x2*-0x853+0x34bf*-0x1);}catch(_0xde5695){}}
+const imagePreview = document.getElementById('img-preview');
+const imageUploader = document.getElementById('img-uploader');
+const imageUploadbar = document.getElementById('img-upload-bar');
+
+const CLOUDINARY_URL = `https://api.cloudinary.com/v1_1/server-superdylanyt/image/upload`
+const CLOUDINARY_UPLOAD_PRESET = 'tltwzo4u';
+
+imageUploader.addEventListener('change', async (e) => {
+    // console.log(e);
+    const file = e.target.files[0];
+    const formData = new FormData();
+    formData.append('file', file);
+    formData.append('upload_preset', CLOUDINARY_UPLOAD_PRESET);
+
+    // Send to cloudianry
+    const res = await axios.post(
+        CLOUDINARY_URL,
+        formData,
+        {
+            headers: {
+                'Content-Type': 'multipart/form-data'
+            },
+            onUploadProgress (e) {
+                let progress = Math.round((e.loaded * 100.0) / e.total);
+                console.log(progress);
+                imageUploadbar.setAttribute('value', progress);
+            }
+        }
+    );
+    console.log(res);
+    imagePreview.src = res.data.secure_url;
+});
