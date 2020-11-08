@@ -34,3 +34,7 @@ La antigravedad es una fuerza teórica o hipotética predicha por las leyes de l
 ## Que es el efecto Mariposa
 
 Este efecto lo produce una nave que se mueve muy rapido, este efecto hace que la nave brille como una luz, pero esta luz es bien fuerte y bien blanca.
+
+## Más información
+
+En el dibujo de la nave hay con unos circulos a los costados de las naves, estos hacen un giro, y durante ese giro hacen que la gravedad de la Tierra los mueva hacia arriba, en vez que vallan hacia abajo, usan esta misma gravedad para que vallan arriba.
