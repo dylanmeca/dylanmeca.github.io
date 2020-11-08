@@ -37,4 +37,4 @@ Este efecto lo produce una nave que se mueve muy rapido, este efecto hace que la
 
 ## Más información
 
-En el dibujo de la nave hay con unos circulos a los costados de las naves, estos hacen un giro, y durante ese giro hacen que la gravedad de la Tierra los mueva hacia arriba, en vez que vallan hacia abajo, usan esta misma gravedad para que vallan arriba.
+En el dibujo de la nave hay unos circulos a los costados de las naves, estos hacen un giro, y durante ese giro hacen que la gravedad de la Tierra los mueva hacia arriba, en vez que vallan hacia abajo, usan esta misma gravedad para que vallan arriba.
