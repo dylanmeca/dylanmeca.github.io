@@ -31,3 +31,6 @@ La aceleración instantánea de un cuerpo es la que tiene el cuerpo en un instan
 
 La antigravedad es una fuerza teórica o hipotética predicha por las leyes de la física de altas energías que consiste en la repulsión de todos los cuerpos debido a una fuerza que es igual en magnitud a la gravedad pero en vez de ser atractiva, es repulsiva. <a href="https://es.wikipedia.org/wiki/Antigravedad">https://es.wikipedia.org/wiki/Antigravedad</a>
 
+## Que es el efecto Mariposa
+
+Este efecto lo produce una nave que se mueve muy rapido, este efecto hace que la nave brille como una luz, pero esta luz es bien fuerte y bien blanca.
