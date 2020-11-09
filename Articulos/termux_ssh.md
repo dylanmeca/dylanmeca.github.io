@@ -1,5 +1,6 @@
 ---
 layout: post13
+title: Termux SSH
 ---
 
 Para crear un servidor SSH, en Termux,
