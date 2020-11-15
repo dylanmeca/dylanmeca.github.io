@@ -19,7 +19,7 @@ Puede que algunas personas roben, por la envidia, y otras que tienen envidia, de
 
 ## Como destruir las guerras
 
-Las guerras se originan por la falta de recursos, pero en vez de crear guerras, podemos ir al universo, y extraer su oro, ya que los cientificos, descubrieron que en el Universo hay oro.
+Las guerras se originan por la falta de recursos, pero en vez de crear guerras, podemos ir al universo, y extraer su oro, ya que los cientificos, descubrieron que en el Universo hay mucho oro.
 
 # Se acerca una Era de luz
 
