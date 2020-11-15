@@ -22,7 +22,7 @@ Puede que algunas personas roben, por la envidia, y otras que tienen envidia, de
 
 Las guerras se originan por la falta de recursos, pero en vez de crear guerras, podemos ir al universo, y extraer su oro, ya que los cientificos, descubrieron que en el Universo hay oro.
 
-# Se acerca una era de luz
+# Se acerca una Era de luz
 
 Desde que empezaron las guerras, las personas que rezaban a que esto nunca pasara, dieron la oportunidad de dar un cambio, y ese cambio es originar el fin de esto.
 
