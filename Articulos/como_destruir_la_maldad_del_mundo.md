@@ -1,8 +1,7 @@
 ---
 layout: post15
+title: Como Destruir la maldad del Mundo
 ---
-
-# Como Destruir la maldad del Mundo
 
 Tal vez te haz echo esta pregunta, pero esta pregunta es facil de responder.
 
