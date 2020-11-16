@@ -25,7 +25,7 @@ Las guerras se originan por la falta de recursos, pero en vez de crear guerras, 
 
 Desde que empezaron las guerras, las personas que rezaban a que esto nunca pasara, dieron la oportunidad de dar un cambio, y ese cambio es originar el fin de esto.
 
-Ya que con el pasar de los años, me doy cuenta, que en la antiguedad no existia mucha justicia, y actualmente existe mucha justicia, y la ayuda de los psicologos, y es como si el mundo quisiera cambiar haci algo mejor, y ese cambio esta cerca, porque cada vez hay más luz.
+Ya que con el pasar de los años, me doy cuenta, que en la antiguedad no existia mucha justicia, y actualmente existe mucha justicia, y la ayuda de los psicologos, y es como si el mundo quisiera cambiar hacia algo mejor, y ese cambio esta cerca, porque cada vez hay más luz.
 
 
 
