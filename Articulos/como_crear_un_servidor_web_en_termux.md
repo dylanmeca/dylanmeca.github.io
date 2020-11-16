@@ -68,7 +68,7 @@ En el archivo que estamos editando vamos a buscar un apartado en donde se cargue
 
 Justo ahí vamos a agregar una nueva línea con este contenido:
 
-```shell
+```conf
 
 LoadModule php7_module /data/data/com.termux/files/usr/libexec/apache2/libphp7.so
 
@@ -80,7 +80,7 @@ Lo que estamos haciendo es cargar el módulo de PHP 7 que se encuentra en la rut
 
 Eso no es todo, ahora abajo de donde cargamos el módulo agregamos esto:
 
-```shell
+```conf
 
 <FilesMatch \.php$>
   SetHandler application/x-httpd-php
@@ -94,7 +94,7 @@ Le estamos indicando a Apache que los archivos que cumplan con una expresión re
 
 Para terminar (y esto no es tan necesario) vamos a buscar el fragmento en donde esté un código como el siguiente:
 
-```shell
+```conf
 
 <IfModule dir_module>
   DirectoryIndex index.html
@@ -104,7 +104,7 @@ Para terminar (y esto no es tan necesario) vamos a buscar el fragmento en donde 
 
 Lo vamos a cambiar por PHP de modo que quede así:
 
-```shell
+```conf
 
 <IfModule dir_module>
   DirectoryIndex index.php
