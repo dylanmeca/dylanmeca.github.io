@@ -3,23 +3,32 @@ layout: post
 title: SUPERDYLANYT
 ---
 
-[![Build Status](https://img.shields.io/github/stars/dylan14567/dylan14567.github.io.svg)](https://dylan14567.github.io/)
-[![License](https://img.shields.io/github/license/dylan14567/dylan14567.github.io.svg)](https://dylan14567.github.io/LICENSE)
-[![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
-[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://dylan14567.github.io/seguridad_superdylanyt)
-[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://dylan14567.github.io/seguridad_superdylanyt)
-[![html](https://img.shields.io/badge/language-html%20-red.svg)](https://www.w3.org/html/)
-[![JavaScript](https://img.shields.io/badge/language-JavaScript%20-yellow.svg)](https://es.wikipedia.org/wiki/JavaScript)
-[![css](https://img.shields.io/badge/language-css%20-cyan.svg)](https://www.w3.org/Style/CSS/)
-[![Ruby](https://img.shields.io/badge/language-Ruby-red.svg)](https://www.ruby-lang.org/)
-[![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
-[PAGINA PRINCIPAL](./index.html).
+### SUPERDYLANYT
 
-# Sobre mi 
+<div class="g-ytsubscribe" data-channelid="UCXZow-eof6WFmu4armVahAA" data-layout="full" data-count="default"></div>
 
-Soy Dylan Alexander, tambien conocido como SUPERDYLANYT,
-mi nombre de usuario en github es dylan14567.
+Soy Dylan Alexander, tambien conocido en youtube como SUPERDYLANYT. mi nombre de usuario de github es dylan14567. Soy un programador de videojuegos y aplicaciones y experto en informática.
+
+- 🌎 Mi página web: <a href="https://dylan14567.github.io/">https://dylan14567.github.io/</a>
+
+- 🌎 Mi canal de Youtube: <a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA">https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA</a>
+
+- 🌎 Twitter: <a href="https://twitter.com/DYLAN1456711">https://twitter.com/DYLAN1456711</a>
+
+- 🌎 Instagram: <a href="https://www.instagram.com/superdylanyt.oficial/">https://www.instagram.com/superdylanyt.oficial/</a>
+
+```python
+
+   print("Hola a todos")
+
+   nombre = "Dylan"
+   mensaje = " Hola "
+
+   print(nombre + mensaje)
+
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=dylan14567">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Soy SUPERDYLANYT, mi canal de youtube se llama SUPERDYLANYT 😎.</p>&mdash; SUPERDYLANYT Studios (@DYLAN1456711) <a href="https://twitter.com/DYLAN1456711/status/1271912696888393728?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
