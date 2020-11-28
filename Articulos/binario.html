@@ -197,8 +197,8 @@ label {
              dato = int (prompt ("Ingresa un Número para convertilo en Binario: "))
              print (dato)
              resultado = bin (dato)
-             document <= " El Resultado es: "
-             document <= resultado
+             document['div'] <= " El Resultado es: "
+             document['div'] <= resultado
 
 
         document['binario'].bind('click', Binario)
