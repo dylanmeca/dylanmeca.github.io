@@ -187,6 +187,12 @@ label {
 
     </div>
 
+    <input type="button" id="help_python" value="Buscar comandos de Python" class="boton">
+
+   <div class="lorem" id="div2">
+
+
+    </div>
 
     <script type="text/python">
         from browser import *
@@ -201,6 +207,16 @@ label {
 
 
         document['binario'].bind('click', Binario)
+
+       def help-python (evento):
+             global dato
+             dato = int (prompt ("Ingresa el comando de python para buscar ayuda acerca de ese comando: "))
+             print (dato)
+             resultado = help (dato)
+             document['div2'] <= resultado
+            
+        document['help_python'].bind('click', help-python)
+
 
     </script>
 
