@@ -209,11 +209,11 @@ label {
         document['binario'].bind('click', Binario)
 
        def help-python (evento):
-             global dato
-             dato = int (prompt ("Ingresa el comando de python para buscar ayuda acerca de ese comando: "))
-             print (dato)
-             resultado = help (dato)
-             document['div2'] <= resultado
+             global dato1
+             dato1 = int (prompt ("Ingresa el comando de python para buscar ayuda acerca de ese comando: "))
+             print (dato1)
+             resultado1 = help (dato1)
+             document['div2'] <= resultado1
             
         document['help_python'].bind('click', help-python)
 
