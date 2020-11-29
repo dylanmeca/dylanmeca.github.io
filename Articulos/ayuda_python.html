@@ -191,7 +191,7 @@ label {
    <br />
 
 
-   <input type="button" id="binario" value="Convertir Numero a Binario" class="boton">
+   <input type="button" id="ayuda_python" value="Ayuda Python" class="boton">
    
    <div class="lorem" id="div">
 
@@ -204,12 +204,17 @@ label {
     <script type="text/python">
         from browser import *
 
-        dato = prompt ("Escribe el comando para buscar ayuda acerca de ese comando: ")
-        print (dato)
-        resultado = help (dato)
-        print (resultado)
-        document <= resultado
-       
+        def Ayuda-Python (evento):
+                dato = prompt ("Escribe el comando para buscar ayuda acerca de ese comando: ")
+                print (dato)
+                resultado = help (dato)
+                print (resultado)
+                document <= resultado
+
+      
+       document['ayuda_python'].bind('click', Ayuda-Python)
+        
+        
 
     </script>
 
