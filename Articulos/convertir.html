@@ -205,6 +205,14 @@ label {
     <script type="text/python">
         from browser import *
 
+        def help-python (evento):
+             global dato
+             dato = int (prompt ("Ingresa el comando de python para buscar ayuda acerca de ese comando: "))
+             print (dato)
+             resultado = help (dato)
+             document['div2'] <= resultado
+
+
         def Binario (evento):
              global dato
              dato = int (prompt ("Ingresa un Número para convertilo en Binario: "))
@@ -216,13 +224,7 @@ label {
         
         Binario = None
    
-        def help-python (evento):
-             global dato
-             dato = int (prompt ("Ingresa el comando de python para buscar ayuda acerca de ese comando: "))
-             print (dato)
-             resultado = help (dato)
-             document['div2'] <= resultado
-
+        
 
         document['binario'].bind('click', Binario)
         document['help_python'].bind('click', help-python)
