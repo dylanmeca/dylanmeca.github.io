@@ -26,7 +26,10 @@ En este sitio puedes informar errores, del sitio web o vulnerabilidades.
     <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
     <span id="message_validation" class="error_message"></span>
   </div>
-    
+
+    <div class="g-recaptcha" data-sitekey="6Ld8S_UZAAAAAFX1sy3OYCRCWw-fHhYGH0190HZ6"></div>
+    <br />
+
     <input id="submit_button" type="submit" value="Enviar" />
 </form>
 
