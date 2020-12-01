@@ -27,7 +27,7 @@ En este sitio puedes informar errores, del sitio web o vulnerabilidades.
     <span id="message_validation" class="error_message"></span>
   </div>
 
-    <div class="g-recaptcha" data-sitekey="6Ld8S_UZAAAAAFX1sy3OYCRCWw-fHhYGH0190HZ6"></div>
+    <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
     <br />
 
     <input id="submit_button" type="submit" value="Enviar" />
