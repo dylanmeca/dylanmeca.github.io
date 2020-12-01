@@ -9,15 +9,7 @@
 <meta name="author" content="SUPERDYLANYT" />
 <meta name="copyright" content="SUPERDYLANYT" />	
 <title> Contacto </title>
-<script src='https://www.google.com/recaptcha/api.js?render=6Le1UPUZAAAAAOLDt0RRgjTfUv3nhXW_HVutW2mj'></script>
-<script>
-   grecaptcha.ready(function() {
-   grecaptcha.execute('6Le1UPUZAAAAAOLDt0RRgjTfUv3nhXW_HVutW2mj', {action: 'homepage'})
-     .then(function(token) {
-     document.getElementById('g-recaptcha-response').value=token;
-   });
- });
-</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <link rel="shortcut icon" type="image/x-icon" href="unnamed-ConvertImage.ico">
 <link rel="stylesheet" href="Bootstrap/bootstrap.min.css">
 <link rel="stylesheet" href="css/style.css">
@@ -47,8 +39,9 @@
     <span id="message_validation" class="error_message"></span>
   </div>
 
-    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">  
-    
+   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
+   <br />
+
     <input id="submit_button" type="submit" value="Enviar" />
 </form>
 
