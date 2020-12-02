@@ -204,12 +204,15 @@ label {
         from browser import *
 
         def Binario (evento):
-             global dato
-             dato = int (prompt ("Ingresa un Número para convertilo en Binario: "))
-             print (dato)
-             resultado = bin (dato)
-             document['div'] <= " El Resultado es: "
-             document['div'] <= resultado
+            try:
+               global dato
+               dato = int (prompt ("Ingresa un Número para convertilo en Binario: "))
+               print (dato)
+               resultado = bin (dato)
+               document['div'] <= " El Resultado es: "
+               document['div'] <= resultado
+            except:
+               document['div'] <= " Error, esta página solo convierte numeros a binario, no convierte letras o otra cosa. "
              
         
          
