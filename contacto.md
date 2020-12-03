@@ -1,24 +1,7 @@
-<!doctype html
-<html>
-
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<meta name="description" content="Bienvenido a la página de contacto de SUPERDYLANYT" />
-<meta name="keywords" content="superdylanyt, contacto"/>
-<meta name="author" content="SUPERDYLANYT" />
-<meta name="copyright" content="SUPERDYLANYT" />	
-<title> Contacto </title>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<link rel="shortcut icon" type="image/x-icon" href="unnamed-ConvertImage.ico">
-<link rel="stylesheet" href="Bootstrap/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
-
-
-</head>
-
-<body>
-
+---
+layout: post18
+title: Contacto
+---
 
 
 <div id="after_submit"></div>
@@ -46,10 +29,4 @@
 </form>
 
 
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="Bootstrap/bootstrap.min.js"></script>
 
-</body>
-
-</html>
