@@ -12,6 +12,8 @@ title: Valeria Bot
 
 Valeria es un robot o chatbot creado por DYLAN14567, este robot esta programado en el lenguaje de programación python.
 
+Mira el codigo del robot en: <a href="https://github.com/dylan14567/valeria-bot">https://github.com/dylan14567/valeria-bot</a>
+
 # Que es un robot
 
 Un robot es una entidad virtual o mecánica artificial. En la práctica, esto es por lo general un sistema electromecánico que, por su apariencia o sus movimientos, ofrece la sensación de tener un propósito propio. <a href="https://es.wikipedia.org/wiki/Robot">Wikipedia </a>
