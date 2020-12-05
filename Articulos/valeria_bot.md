@@ -118,6 +118,11 @@ Y listo.
 
 /FIN/
 
+# Licencia
+
+La licencia de este proyecto es <a href="https://github.com/dylan14567/valeria-bot/blob/master/LICENSE">MIT</a>
+
+
 
 
 
