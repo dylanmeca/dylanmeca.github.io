@@ -17,6 +17,10 @@ Registrate aquí:<br />
 <input class="input" id="name" name="name" size="30" type="text" value="" /><br />
 <span class="error_message" id="name_validation"></span>
   </div>
+
+<div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
+<br />
+
 <input id="submit_button" type="submit" value="Enviar" />
 </form>
 <br />
