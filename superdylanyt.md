@@ -51,7 +51,7 @@ Para contactarme, nesecitas llenar este formulario.
 
 # Predicciónes del Futuro
 
-Debido a los eventos previos, ya que estan por terminar las 7 plagas, estas plagas no fueron tan visibles pero si aparecieron en algunos paises, ahora siquen los desastres naturales, estos desastres seran tsunamis, cuyos tsunamys asotaran las casas y terminaran abajo, habra terremotos, sismos y erupciónes volcánicas, debido a que la humanidad peca, esta debe entender que no debe hacer eso y debido a que existen buenos que no creen en Dios, sufriran estos desastres, y ademas buenos y malos sufriran los desastres, solo sobreviviran las personas que tienen la habilidad de sobrevivir y que creen en Dios, el les ayudara a sobrevivir a estos desastres.
+Debido a los eventos previos, ya que estan por terminar las 7 plagas, estas plagas no fueron tan visibles pero si aparecieron en algunos paises, ahora siquen los desastres naturales, estos desastres seran tsunamis, cuyos tsunamis asotaran las casas y terminaran abajo, habra terremotos, sismos y erupciónes volcánicas, debido a que la humanidad peca, esta debe entender que no debe hacer eso y debido a que existen buenos que no creen en Dios, sufriran estos desastres, y ademas buenos y malos sufriran los desastres, solo sobreviviran las personas que tienen la habilidad de sobrevivir y que creen en Dios, el les ayudara a sobrevivir a estos desastres.
 
 □□□□□□□□
 
