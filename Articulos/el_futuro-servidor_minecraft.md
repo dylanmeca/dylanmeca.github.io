@@ -1,6 +1,6 @@
 ---
 layout: post8
-title: El Futuro | Servidor Minecraft
+title: El Futuro | Servidor de Minecraft
 ---
                         
                            
