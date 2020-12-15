@@ -1,6 +1,6 @@
 ---
 layout: post8
-title: La Radiante Noche
+title: El Futuro | Servidor Minecraft
 ---
                         
                            
@@ -31,7 +31,7 @@ Si usas hacks podrias ser baneado.<br />
 <br /></div>
 Una vez que completastes el formulario, espera a que el creador desida si estaras en el servidor privado.<br />
 <br />
-IP del servidor: laradiantenoche.aternos.me<br />
+IP del servidor: elfuturo.aternos.me<br />
 <div>
 <br /></div>
 
