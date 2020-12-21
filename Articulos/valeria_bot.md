@@ -36,7 +36,7 @@ pip install setuptools
 
 ```
 
-Luego debes descargar este archivo: <a href="https://github.com/dylan14567/valeria-bot/releases/download/1.3/valeria.py">https://github.com/dylan14567/valeria-bot/releases/download/1.3/valeria.py</a>
+Luego debes descargar este archivo: <a href="https://github.com/dylan14567/valeria-bot/releases/download/1.4/valeria.py">https://github.com/dylan14567/valeria-bot/releases/download/1.4/valeria.py</a>
 
 Y luego debes ir a la CMD y ir a la carpeta donde se encuentra el archivo valeria.py y una vez encontrado, en la CMD debes ejecutar este comando para iniciar el programa:
 
@@ -68,7 +68,7 @@ Luego ejecuta estos comandos para instalar valeria-bot:
 
 ```shell
 
-wget https://github.com/dylan14567/valeria-bot/releases/download/1.3/valeria.py
+wget https://github.com/dylan14567/valeria-bot/releases/download/1.4/valeria.py
 chmod +x valeria.py
 
 ```
@@ -101,7 +101,7 @@ Luego ejecuta estos comandos para instalar valeria-bot:
 
 ```shell
 
-wget https://github.com/dylan14567/valeria-bot/releases/download/1.3/valeria.py
+wget https://github.com/dylan14567/valeria-bot/releases/download/1.4/valeria.py
 chmod +x valeria.py
 
 ```
