@@ -37,16 +37,6 @@ Para contactarme, nesecitas llenar este formulario.
   <a href="https://www.youtube.com/channel/UCXZow-eof6WFmu4armVahAA" class="yt">Youtube</a>
 </div>
 
-# Repositorios
-
-
-<div class="share">
-  <a href="https://github.com/dylan14567/dylan14567.github.io" class="git">dylan14567.github.io</a>
-  <a href="https://github.com/dylan14567/lab_superdylanyt" class="git">lab_superdylanyt</a>
-  <a href="https://github.com/dylan14567/dylan14567" class="git">dylan14567</a>
-  <a href="https://github.com/dylan14567/valeria-bot" class="git">valeria-bot</a>
-</div>
-
 ![alt text](https://raw.githubusercontent.com/dylan14567/Laboratorio-SUPERDYLANYT/master/img/20200614_105850.jpg)
 
 # Predicciónes del Futuro
