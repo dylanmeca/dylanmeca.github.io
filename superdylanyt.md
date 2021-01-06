@@ -41,10 +41,10 @@ Para contactarme, nesecitas llenar este formulario.
 
 # Certificaciónes de Estudio
 
-<img src="20210106_165405.jpg">
-<img src="20210106_165420.jpg">
-<img src="20210106_165420.jpg">
-<img src="20210106_165449.jpg">
+<img src="img/20210106_165405.jpg">
+<img src="img/20210106_165420.jpg">
+<img src="img/20210106_165420.jpg">
+<img src="img/20210106_165449.jpg">
 
 # Predicciónes del Futuro
 
