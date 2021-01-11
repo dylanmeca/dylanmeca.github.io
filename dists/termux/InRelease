@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: termux repository
+Suite: termux
+Date: Mon, 11 Jan 2021 00:35:54 UTC
+MD5Sum:
+ 57fc5609b6e709838fa802ad02dcfe07 508 extras/binary-all/Packages
+ 8d1f858d935f977c1a22dbdcb0dda69e 460 extras/binary-all/Packages.xz
+ 1554105a808f6700f4d9e7488c353263 178 extras/Contents-all
+ da8cdeaee749301d2f84b2d29fc93d4f 128 extras/Contents-all.xz
+SHA1:
+ 2c7c0520271afefe0e647069fd5dfc492be668af 508 extras/binary-all/Packages
+ 148cb6386330ab0b4a1646fe0c7a10577ff269e3 460 extras/binary-all/Packages.xz
+ c1b21b382582f3e84aa8e78f2a94f89165940796 178 extras/Contents-all
+ 4d70c29ff81c7810df84205f6e68e85804b30fe4 128 extras/Contents-all.xz
+SHA256:
+ ef935fd98bc6b1c234746c23f89af131b854f02fae652b05d3bc1cd47ef239a1 508 extras/binary-all/Packages
+ 92e5e0f7dae7c88e7fb3e7fe1837b16ffb3ec4dfd49d2d1f79f63f88e9fc6333 460 extras/binary-all/Packages.xz
+ 724db734b90c5f0dda72e5260666f8fe26041d9ab639f22ef9e3941d42f63b21 178 extras/Contents-all
+ fda24f0bc88f388d493a79035efc76242a39a114b8668125d67f8f5b3b92ba8b 128 extras/Contents-all.xz
+SHA512:
+ 1ab452836f9e364ce91ffb7d369e1cf0566e61f74ef58b6bdb5406703b994a41ce98435461624b11d3d2a557ea10fff3da90e97914b8d41c18192bdf46301cfd 508 extras/binary-all/Packages
+ d7d4cec15ecd2033db1e2a599ad577d7f7d498011981de693bb2fc907ad985fd50a32f7638ce80f4fcfabb42b5695f4cb4e57571738007e0fcc1201deb1765db 460 extras/binary-all/Packages.xz
+ 7edd0fe64d014b9c3b9610c5dc8f4850a531716d1aba9fcd93625b786913be0346f108237e0e5f42ea85f48e4baf0fd66e7b1031f5d2ae634cc32cb2b55491b8 178 extras/Contents-all
+ 6e756e36c0abd2babb2ea68087bb9dab298a965881c57b0989227de9ad53560b2d51e4989cd8a06e6dacb265bd091aecc39ae81801b7ccd8734c8f5e2c0d1f48 128 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEhT0It/M7Ka05og6pgFNmJWgYH4cFAl/7nWsACgkQgFNmJWgY
+H4dMtwf8CgPx9G61u7IapOi2pmDQ5SShLYVStzOALaHvWs+thmhBbeDt2xkslmH1
+4bhcBcEdAvXvTh9L6WTJd2dAOuNgRCH9GZO48YtCa3cpoRdGE7nvhXyoWMhSs8Ia
+AGebVkCUeG/z6qdiL40ti0NWX5XX13VbWenRAQ88twvx+NT9tKUX529UEaofmL3/
+xTa9hP0sqSJ6eTOm1LdsdCP5daTArRDo1NnsThpgBLNK05MdJaWytzvsjm7rAlFR
+hLydCuBqiAweBObmA7HYi33Mz9OegO7Z3Uu3vYnY2E0xPOFUKxQh2PAGMhj+k0zF
+XR74/w11/4NsoOlCUHEMDQ/VGQ6YVg==
+=My7z
+-----END PGP SIGNATURE-----

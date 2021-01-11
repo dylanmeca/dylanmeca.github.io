@@ -1,0 +1,13 @@
+Package: apktool
+Version: 2.3.4
+Architecture: all
+Homepages: http://penyon.info
+Description: Android everse engineering 
+Maintainer: @Lexiie
+Filename: dists/termux/extras/binary-all/apktool.deb
+Size: 11398220
+MD5Sum: 1e8ecc417e0d3bbb34e88b552c0645a4
+SHA1: c3edeeb1b73d6d4c555af1672dc10d1a4482aa07
+SHA256: 08428aeadb2eac30eebde05774154bd08fc9be2a74e94fa36ace91a3d3d40d41
+SHA512: 2d0e8f7382b6cf18286aec8a33a9f98f169df284b58940def62f1d803cb56b318472a83f742ff8fd9fd81ab540f574c0bdcacea30c0d664c10f35077b0f57030
+
