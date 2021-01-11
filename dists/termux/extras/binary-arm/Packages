@@ -6,7 +6,7 @@ Version: 9.2017.8.20-1
 Description: OpenJDK Development Kit (JDK) (headless)
 Homepage: http://openjdk.java.net/projects/jdk9
 Depends: openjdk-9-jre-headless
-Filename: dists/termux/main/binary-arm/openjdk-9-jdk-headless_9.2017.8.20-1_arm.deb
+Filename: dists/termux/extras/binary-arm/openjdk-9-jdk-headless_9.2017.8.20-1_arm.deb
 Size: 34976
 MD5Sum: df64edd998f0f7dbcc3424f990e8d19d
 SHA1: 7c2fb8270ddddd034c0575d01e12bb0b29786f65
