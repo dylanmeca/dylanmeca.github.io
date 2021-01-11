@@ -4,7 +4,7 @@ Architecture: all
 Homepages: http://penyon.info
 Description: Android everse engineering 
 Maintainer: @Lexiie
-Filename: dists/termux/extras/binary-all/apktool.deb
+Filename: dists/termux/main/binary-all/apktool.deb
 Size: 11398220
 MD5Sum: 1e8ecc417e0d3bbb34e88b552c0645a4
 SHA1: c3edeeb1b73d6d4c555af1672dc10d1a4482aa07
