@@ -81,9 +81,12 @@ Calculating upgrade... Done
 
 Si todo funciono y no ocurrio errores, eso significa que se instalo correctamente.
 
+/FIN/
+
 # Paquetes deb de Lab Termux
 
 Los paquetes disponibles son:
 
 * apktool - arquitectura all
+
 
