@@ -27,6 +27,16 @@ deb https://dylan14567.github.io/ termux extras
 
 ```
 
+Una vez hecho esto, debes ejecutar estos comandos para descargar la llave de Lab Termux:
+
+```shell
+
+wget https://raw.githubusercontent.com/dylan14567/dylan14567.github.io/master/dists/termux/lab.key
+chmod 777 lab.key
+apt-key add lab.key
+
+```
+
 Una vez hecho esto, debes ejecutar estos comandos:
 
 ```shell
