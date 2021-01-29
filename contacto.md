@@ -22,11 +22,11 @@ title: Contacto
     <span id="message_validation" class="error_message"></span>
   </div>
   <div class="row">
-    <label class="required" for="genero"></label>
-    <select id="genero">
-         <option name="genero" value="">Hombre </option>
-         <option name="genero" value="">Mujer </option>
-    </select>
+    <label class="required" for="hombre">Hombre: </label>
+    <input id="hombre" type="radio" name="genero" value="hombre" checked>
+    <label class="required" for="mujer">Mujer: </label>
+    <input id="mujer" type="radio" name="genero" value="mujer">
+    <span id="message_validation" class="error_message"></span>
   </div>
   <br />
   
