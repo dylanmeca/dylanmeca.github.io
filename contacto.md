@@ -18,7 +18,7 @@ title: Contacto
   </div>
   <div class="row">
     <label class="required" for="message">Mensaje:</label><br />
-    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+    <textarea id="message" class="input" name="message" rows="7" cols="30" required></textarea><br />
     <span id="message_validation" class="error_message"></span>
   </div>
   <div class="row">
@@ -31,7 +31,7 @@ title: Contacto
   <br />
   
 
-   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
+   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ" required></div>
    <br />
 
     <input id="submit_button" type="submit" value="Enviar" />
