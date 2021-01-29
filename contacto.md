@@ -22,9 +22,8 @@ title: Contacto
     <span id="message_validation" class="error_message"></span>
   </div>
   <div class="row">
-    <label class="required">Genero:</label><br />
-    <input id="hombre" type="radio" name="genero"><label for="hombre">Hombre: </label>
-    <input id="mujer" type="radio" name="genero"><label for="mujer">Mujer: </label>
+    <input id="hombre" type="radio" name="genero"><label class="required" for="hombre">Hombre: </label>
+    <input id="mujer" type="radio" name="genero"><label class="required" for="mujer">Mujer: </label>
     <span id="message_validation" class="error_message"></span>
   </div>
 
