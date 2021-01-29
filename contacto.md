@@ -22,11 +22,13 @@ title: Contacto
     <span id="message_validation" class="error_message"></span>
   </div>
   <div class="row">
-    <select>
-         <option id="hombre" name="hombre" value="">Hombre </option>
-         <option id="mujer" name="mujer" value="">Mujer </option>
+    <label class="required" for="genero"></label>
+    <select id="genero">
+         <option name="genero" value="">Hombre </option>
+         <option name="genero" value="">Mujer </option>
     </select>
   </div>
+  <br />
   
 
    <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
