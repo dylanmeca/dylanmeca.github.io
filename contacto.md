@@ -8,12 +8,12 @@ title: Contacto
 <form id="contact_form" action="https://formspree.io/xqkybgyy" method="POST" enctype="multipart/form-data">
   <div class="row">
     <label class="required" for="name">Tu Nombre:</label><br />
-    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+    <input id="name" class="input" name="name" type="text" value="" size="30" required /><br />
     <span id="name_validation" class="error_message"></span>
   </div>
   <div class="row">
     <label class="required" for="email">Tu email:</label><br />
-    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+    <input id="email" class="input" name="email" type="text" value="" size="30" required /><br />
     <span id="email_validation" class="error_message"></span>
   </div>
   <div class="row">
