@@ -23,9 +23,9 @@ title: Contacto
   </div>
   <div class="row">
     <label class="required" for="hombre">Hombre: </label>
-    <input id="hombre" type="radio" name="genero">
+    <input id="hombre" type="radio" name="genero" value="" checked>
     <label class="required" for="mujer">Mujer: </label>
-    <input id="mujer" type="radio" name="genero">
+    <input id="mujer" type="radio" name="genero" value="">
     <span id="message_validation" class="error_message"></span>
   </div>
   
