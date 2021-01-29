@@ -31,7 +31,7 @@ title: Contacto
   <br />
   
 
-   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ" required></div>
+   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
    <br />
 
     <input id="submit_button" type="submit" value="Enviar" />
