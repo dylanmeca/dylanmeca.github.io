@@ -21,6 +21,12 @@ title: Contacto
     <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
     <span id="message_validation" class="error_message"></span>
   </div>
+  <div class="row">
+    <label class="required">Genero:</label><br />
+    <input id="hombre" type="radio" name="genero"><label for="hombre">Hombre: </label>
+    <input id="mujer" type="radio" name="genero"><label for="mujer">Mujer: </label>
+    <span id="message_validation" class="error_message"></span>
+  </div>
 
    <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
    <br />
