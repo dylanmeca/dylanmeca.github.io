@@ -3,7 +3,6 @@ layout: post22
 title: configserver
 ---
 
-# configserver
 [![Build Status](https://img.shields.io/github/stars/dylan14567/configserver.svg)](https://github.com/dylan14567/configserver)
 [![License](https://img.shields.io/github/license/dylan14567/configserver.svg)](https://github.com/dylan14567/configserver/blob/main/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
@@ -13,6 +12,8 @@ title: configserver
 [![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
 
 Configserver es un sistema creado por dylan14567, y este sistema le ayuda a administrar su servidor ubuntu.
+
+Más información en: https://github.com/dylan14567/configserver
 
 # Instalación
 
@@ -38,7 +39,7 @@ listo
 
 ¿Interesado en contribuir al proyecto? Nos encantaría tu ayuda. Configserver es un proyecto de código abierto, creado una contribución a la vez por usuarios como usted. <a href="https://github.com/dylan14567/configserver/blob/main/CONTRIBUTING.md">Mira el archivo CONTRIBUYENTE </a> para obtener instrucciones sobre cómo contribuir.
 
-# License
+# Licencia
 
 La licencia para este proyecto es <a href="https://github.com/dylan14567/configserver/blob/main/LICENSE">MIT </a>
 
