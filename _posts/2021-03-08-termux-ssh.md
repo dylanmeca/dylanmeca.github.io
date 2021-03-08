@@ -1,5 +1,5 @@
 ---
-layout: post13
+layout: post
 title: Termux SSH
 ---
 
