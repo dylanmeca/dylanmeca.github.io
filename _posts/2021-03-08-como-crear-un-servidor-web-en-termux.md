@@ -1,5 +1,5 @@
 ---
-layout: post17
+layout: post
 title: Como crear un Servidor Web en Termux
 ---
 
