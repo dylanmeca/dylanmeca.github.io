@@ -1,5 +1,5 @@
 ---
-layout: post3
+layout: default
 title: Informa vulnerabilidades y errores
 ---
 
