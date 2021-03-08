@@ -8,7 +8,7 @@ Si es posible viajar en el Tiempo.
 Para viajar en el Tiempo, nesecitas una nave capaz
 de crear un agujero de gusano.
 
-<img src="../img/20201102_085832.jpg">
+<img src="../../../img/20201102_085832.jpg">
 
 ## Que es un agujero de gusano 
 
