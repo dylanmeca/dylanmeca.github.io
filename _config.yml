@@ -21,6 +21,8 @@ theme: minima
 
 copyright: "dylan14567"
 
+title-logo: img/1586051713120.png
+
 disqus:
   shortname: true
 
