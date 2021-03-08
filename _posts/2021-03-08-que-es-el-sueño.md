@@ -1,5 +1,5 @@
 ---
-layout: post16
+layout: post
 title: Qué es el Sueño
 ---
 
