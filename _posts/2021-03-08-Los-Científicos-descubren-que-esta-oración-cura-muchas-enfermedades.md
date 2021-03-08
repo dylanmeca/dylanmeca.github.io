@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 ---
 
 Los especialistas en programación neurolingüística, siempre afirmaron con absoluta certeza, que el poder de la palabra es milagroso.
