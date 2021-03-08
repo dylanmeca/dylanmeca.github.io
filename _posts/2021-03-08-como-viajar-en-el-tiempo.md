@@ -1,5 +1,5 @@
 ---
-layout: post10
+layout: post
 title: Como viajar en el Tiempo
 ---
 
