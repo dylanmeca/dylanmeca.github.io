@@ -1,5 +1,5 @@
 ---
-layout: post4
+layout: default
 title: Política de Comentarios
 ---
 
