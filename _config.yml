@@ -19,8 +19,6 @@ minima:
 
 theme: minima
 
-copyright: "dylan14567"
-
 disqus:
   shortname: true
 
