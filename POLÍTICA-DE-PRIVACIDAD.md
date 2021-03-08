@@ -1,5 +1,5 @@
 ---
-layout: post5
+layout: default
 title: Política de Privacidad
 ---
 
