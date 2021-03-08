@@ -1,6 +1,7 @@
-# Politica de seguridad
+# Security policy
 
-## Versiones Soportadas
+## Supported Versions
+
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -9,6 +10,6 @@
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Informar una vulnerabilidad
+## Report a vulnerability
 
-En caso de error, en los scripts, informanos sobre el error en: https://github.com/dylan14567/dylan14567.github.io/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
+In case of error, in the scripts, inform us about the error in: https://github.com/dylan14567/dylan14567.github.io/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
