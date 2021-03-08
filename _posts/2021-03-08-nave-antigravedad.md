@@ -3,7 +3,7 @@ layout: post
 title: Nave Antigravedad
 ---
 
-<img src="../img/20201107_175828.jpg">
+<img src="../../../img/20201107_175828.jpg">
 
 Esta nave, puede viajar más rapido que la velocidad de la luz, pero su velocidad normal es de 500000000000 km/h
 
