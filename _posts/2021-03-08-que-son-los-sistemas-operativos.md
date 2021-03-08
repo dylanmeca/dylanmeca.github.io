@@ -1,5 +1,5 @@
 ---
-layout: post6
+layout: post
 title: Que son los Sistemas Operativos
 ---
 
