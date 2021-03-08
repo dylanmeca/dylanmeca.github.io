@@ -1,5 +1,5 @@
 ---
-layout: post12
+layout: post
 title: Nave Antigravedad
 ---
 
