@@ -1,6 +1,5 @@
 ---
-layout: post21
-title: Los Científicos descubren que esta oración cura muchas enfermedades
+layout: post
 ---
 
 Los especialistas en programación neurolingüística, siempre afirmaron con absoluta certeza, que el poder de la palabra es milagroso.
