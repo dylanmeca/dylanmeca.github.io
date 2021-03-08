@@ -1,0 +1,119 @@
+---
+layout: default
+title: Contacto
+---
+
+<style>
+
+form {
+    width:25%;
+    border:1px solid:#ccc;
+    margin:20px;
+    padding:20px;
+
+
+}
+
+label {
+
+   font-size:12px;
+   display:block;
+   width:100%;
+
+
+}
+
+
+input, textarea {
+
+    margin-bottom:20px;
+    width:100%;
+    padding:10px;
+    -webkit-box sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border:1px solid #ccc;
+
+
+
+}
+
+}
+
+
+textarea {
+
+     resize:vertical;
+     max-height:300px;
+     min-height:100px;
+
+
+
+
+}
+
+input:focus, textarea:focus {
+
+   border:1px solid #1668C4;
+
+
+
+}
+
+input[type="submit"] {
+
+     margin-bottom:0;
+     background:#1668C4;
+     color:#fff;
+     border:none;
+
+
+}
+
+input[type="submit"]:hover {
+
+        background:4A88F4;
+
+
+
+}
+
+</style>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<div id="after_submit"></div>
+<form id="contact_form" action="https://formspree.io/xqkybgyy" method="POST" enctype="multipart/form-data">
+  <div class="row">
+    <label class="required" for="name">Tu nombre:</label><br />
+    <input id="name" class="input" name="name" type="text" value="" size="30" required /><br />
+    <span id="name_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="email">Tu correo:</label><br />
+    <input id="email" class="input" name="email" type="text" value="" size="30" required /><br />
+    <span id="email_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="message">Mensaje:</label><br />
+    <textarea id="message" class="input" name="message" rows="7" cols="30" required></textarea><br />
+    <span id="message_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="hombre">Hombre: </label>
+    <input id="hombre" type="radio" name="genero" value="hombre" checked required>
+    <label class="required" for="mujer">Mujer: </label>
+    <input id="mujer" type="radio" name="genero" value="mujer" required>
+    <span id="message_validation" class="error_message"></span>
+  </div>
+  <br />
+  
+
+   <div class="g-recaptcha" data-sitekey="6LcPWfUZAAAAAMO0bfX6yvrHYr_Z2SA3ZConk5mJ"></div>
+   <br />
+
+    <input id="submit_button" type="submit" value="Enviar" />
+</form>
+
+
+
