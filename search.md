@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Buscar
 ---
 
 <script async src="https://cse.google.com/cse.js?cx=5f52d0de115367829"></script>
