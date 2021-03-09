@@ -2,8 +2,20 @@
 layout: post1
 ---
 
+<style>
+     .boton_personalizado {
+           text-decoration: none;
+           padding: 10px;
+           font-weight: 600;
+           font-size: 20px;
+           color: #ffffff;
+           background-color: #1883ba;
+           border-radius: 6px;
+           border: 2px solid #0016b0;
+   }
+    </style>
+
 <div class="separator" style="clear: both; text-align: center;">
-<a href="../img/20200713_151306.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="359" height="310" src="../img/20200713_151306.jpg" width="320" /></a></div>
 <br />
 <br />
 Es una app que fue desarrollada por SUPERDYLANYT Studios, para empezar esta app es como un blog, aquí puedes publicar preguntas en el Foro y jugar videojuegos online.<br />
