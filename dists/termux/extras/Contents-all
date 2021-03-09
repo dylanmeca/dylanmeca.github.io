@@ -1,2 +1,9 @@
 data/data/com.termux/files/usr/bin/apktool                                       apktool
 data/data/com.termux/files/usr/lib/apktool.jar                                   apktool
+data/data/com.termux/files/usr/bin/msfd                                          metasploit
+data/data/com.termux/files/usr/bin/msfconsole                                    metasploit
+data/data/com.termux/files/usr/bin/msfvenom                                      metasploit
+data/data/com.termux/files/usr/bin/msfrpcd                                       metasploit
+data/data/com.termux/files/usr/bin/metasploit-installer.sh                       metasploit
+data/data/com.termux/files/usr/bin/msfrpc                                        metasploit
+data/data/com.termux/files/usr/share/doc/metasploit/LICENSE                      metasploit

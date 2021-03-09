@@ -1,15 +1,36 @@
-Package: openjdk-9-jdk-headless
+Package: python2.7
 Architecture: arm
-Installed-Size: 592
-Maintainer: Vishal Biswas @vishalbiswas
-Version: 9.2017.8.20-1
-Description: OpenJDK Development Kit (JDK) (headless)
-Homepage: http://openjdk.java.net/projects/jdk9
-Depends: openjdk-9-jre-headless
-Filename: dists/termux/extras/binary-arm/openjdk-9-jdk-headless_9.2017.8.20-1_arm.deb
-Size: 34976
-MD5Sum: df64edd998f0f7dbcc3424f990e8d19d
-SHA1: 7c2fb8270ddddd034c0575d01e12bb0b29786f65
-SHA256: 14ac6d2f7b632f2d283fa34ff47f17619889f8915765723e60f65c399b263ff6
-SHA512: b23789e260a429b06ab0383fad2ca667fc48cb4dceb938f6fc3191dd3f44aac117d16e704cae506c7eca008004ce81d325037b251b0b0abef71d4ff4ecdd3b23
+Installed-Size: 17348
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.7.18
+Homepage: http://python.org/
+Breaks: python2-dev
+Depends: libandroid-support, ncurses, readline, libffi, openssl, libbz2, libsqlite, gdbm, ncurses-ui-libs, libcrypt, zlib
+Conflicts: python2
+Replaces: python2-dev, python2
+Description: Python 2 programming language intended to enable clear programs
+Filename: dists/termux/extras/binary-arm/python2.7_2.7.18_arm.deb
+Size: 4889714
+MD5Sum: cce32bd2aa7b072eff4ff67d273ce7fe
+SHA1: 658561f69d4cd17d093ca83c51ae33d6a04ca91f
+SHA256: aba61315913a6a2e3b8512e6f603f145189291aa27c6ece7e20e18f8a955d33c
+SHA512: a9d5734c2b5594aa4d3e6afaa54cda8cc362c63cae488051cfdfbaea2c33a4e2c9c9a650d718025a6ebccca02cc754037064ecc8d6be3665e575fc8ed20e4b57
+
+Package: ruby2
+Architecture: arm
+Installed-Size: 21888
+Maintainer: @termux
+Version: 2.7.2-3
+Homepage: https://www.ruby-lang.org/
+Breaks: ruby-dev
+Depends: gdbm, libandroid-support, libffi, libgmp, readline, openssl, libyaml, zlib
+Recommends: clang, make, pkg-config
+Replaces: ruby-dev
+Description: Dynamic programming language with a focus on simplicity and productivity
+Filename: dists/termux/extras/binary-arm/ruby2_2.7.2-3_arm.deb
+Size: 4170100
+MD5Sum: 670b8cae316367817a3b26432b9c9354
+SHA1: 7bc214cd43bc9cd3d9bb2f2c95139644400f2c54
+SHA256: 07d3029fa515fa7f91e0c52d83b38589a0c69be49af0019270f740eb669f1da3
+SHA512: d68200a6bfc2401151242dc2f0c5dde46158a771665b878b2815983282fbbd292c51c7a3a5744366459dceebf8d7439dc544771419e60587623cc0dac80ad093
 
