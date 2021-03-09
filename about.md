@@ -17,4 +17,4 @@ El sitio web tiene copyright y derechos de autor.
 
 # Repositorio apt
 
-Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [mira más información en el articulo del repositorio apt](https://dylan14567.github.io/2021/03/09/lab-termux.html)
+Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [mira más información](https://dylan14567.github.io/2021/03/09/lab-termux.html) en el articulo del repositorio apt. 
