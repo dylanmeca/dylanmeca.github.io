@@ -5,7 +5,7 @@ title: Sobre
 
 # Sobre Mi
 
-Soy Dylan Alexander y un programador de videojuegos y aplicaciones y experto en informática.
+Soy Dylan Alexander, un programador de videojuegos, aplicaciones y experto en informática.
 
 Empeze en seguridad informatica en  el 2019, aprendi sobre hacking etico y de ciberseguridad.
 
