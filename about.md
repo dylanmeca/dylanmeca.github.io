@@ -9,7 +9,7 @@ Soy Dylan Alexander, un programador de videojuegos, aplicaciones y experto en in
 
 Empeze en seguridad informatica en  el 2019, aprendi sobre hacking etico y de ciberseguridad.
 
-El primer lenguaje de programación que aprendi es python, y actualmente estoy creando proyectos y esos proyectos estan en [mi perfil](https://github.com/dylan14567) de github.
+El primer lenguaje de programación que aprendi es python y actualmente estoy creando proyectos y esos proyectos estan en [mi perfil](https://github.com/dylan14567) de github.
 
 Tambien aprendi fisica por lo que tuve planeado crear una calculadora de algunas formulas matematicas, como el calculo de velocidad.
 
