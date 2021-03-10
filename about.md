@@ -21,6 +21,8 @@ He aprendido sobre muchas cosas sobre el tema informatico y de la fisica, tambie
 
 Soy experto en el lenguaje de programacion python y he aprendido sobre el desarrollo web para poder crear un sitio web.
 
+![status](https://github-readme-stats.vercel.app/api?username=dylan14567)
+
 # Información del sitio web
 
 Este sitio web es el blog de superdylanyt, en este blog encontraras tutoriales, proyectos, etc.
