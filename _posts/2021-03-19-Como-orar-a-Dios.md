@@ -1,5 +1,5 @@
 ---
-layout:post1
+layout: post1
 ---
 
 Para orar a Dios, debes primero ir a un lugar tranguilo luego debes agradecerle por todo lo que hizo en este dia, luego alabale y bendicele, si has cometido un pecado pidele perdon y si te sabes un salmo de memoria dilo y tambien pidele que te calme, mira este video si quieres ver más.
