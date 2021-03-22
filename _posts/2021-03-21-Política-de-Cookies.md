@@ -23,16 +23,6 @@ Las cookies utilizadas en nuestro sitio web, son de sesión y de terceros, y nos
 
 Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las que expiran cuando el usuario cierra el navegador. Las que expiran en función de cuando se cumpla el objetivo para el que sirven (por ejemplo, para que el usuario se mantenga identificado en los servicios de Dylan Meca - Blog) o bien cuando se borran manualmente.
 
-Nombre	Tipo	Caducidad	Finalidad	Clase
-__utma	De Terceros (Google Analytics)	2 años	Se usa para distinguir usuarios y sesiones.	No Exenta
-__utmb	De Terceros (Google Analytics)	30 minutos	Se usa para determinar nuevas sesiones o visitas	No Exenta
-__utmc	De Terceros (Google Analytics)	Al finalizar la sesión	Se configura para su uso con Urchin	No Exenta
-__utmz	De Terceros (Google Analytics)	6 meses	Almacena el origen o la campaña que explica cómo el usuario ha llegado hasta la página web	No Exenta
-Adicionalmente, en función de su objetivo, las cookies pueden clasificarse de la siguiente forma:
-
-## Cookies de rendimiento
-Este tipo de Cookie recuerda sus preferencias para las herramientas que se encuentran en los servicios, por lo que no tiene que volver a configurar el servicio cada vez que usted visita. A modo de ejemplo, en esta tipología se incluyen: Ajustes de volumen de reproductores de vídeo o sonido. Las velocidades de transmisión de vídeo que sean compatibles con su navegador. Los objetos guardados en el “carrito de la compra” en los servicios de e-commerce tales como tiendas.
-
 ## Cookies de geo-localización
 Estas cookies son utilizadas para averiguar en qué país se encuentra cuando se solicita un servicio. Esta cookie es totalmente anónima, y sólo se utiliza para ayudar a orientar el contenido a su ubicación.
 
