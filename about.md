@@ -35,6 +35,8 @@ El sitio web tiene copyright y derechos de autor.
 
 * [Política De Comentarios](https://dylan14567.github.io/2021/03/08/politica-de-comentarios.html)
 
+* [Política De Cookies](https://dylan14567.github.io/2021/03/21/Pol%C3%ADtica-de-Cookies.html)
+
 ## Repositorio apt
 
 Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [mira más información](https://dylan14567.github.io/2021/03/09/lab-termux.html) en el articulo del repositorio apt. 
