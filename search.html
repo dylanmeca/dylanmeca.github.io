@@ -59,6 +59,17 @@ title: Buscar
   }
 }
 
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+
 </style>
 
 <div class="topnav">
@@ -66,7 +77,7 @@ title: Buscar
   <form action="search.html" method="get">
      <label for="search-box">Search</label>
      <input type="text" id="search-box" name="query">
-     <input type="submit" value="search">
+     <input type="submit" value="search" style="boton_personalizado">
   </form>
 
   <ul id="search-results"></ul>
