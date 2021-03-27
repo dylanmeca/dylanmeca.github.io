@@ -5,19 +5,32 @@ title: Buscar
 
 <style>
 
-.boton {
+.search-input input{
+  height: 55px;
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 0 60px 0 20px;
+  font-size: 18px;
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+}
 
-  background-color:blue;
-
+.search-input.active input{
+  border-radius: 5px 5px 0 0;
 }
 
 </style>
 
-<form action="search.html" method="get">
-   <label for="search-box"></label>
-   <input type="text" id="search-box" name="query">
-   <input type="submit" value="Search" class="boton">
-</form>
+<div class="search-input">
+
+  <form action="search.html" method="get">
+     <label for="search-box"></label>
+     <input type="text" id="search-box" name="query">
+     <input type="submit" value="Search" class="boton">
+  </form>
+
+</div>
 
 <ul id="search-results"></ul>
 
