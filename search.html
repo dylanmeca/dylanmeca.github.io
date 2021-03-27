@@ -5,6 +5,26 @@ title: Buscar
 
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+::selection{
+  color: #fff;
+  background: #664AFF;
+}
+
+.wrapper{
+  max-width: 450px;
+  margin: 150px auto;
+}
+
+.wrapper .search-input{
+  background: #fff;
+  width: 100%;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.12);
+}
+
 .search-input input{
   height: 55px;
   width: 100%;
@@ -20,15 +40,61 @@ title: Buscar
   border-radius: 5px 5px 0 0;
 }
 
+.search-input .autocom-box{
+  padding: 0;
+  opacity: 0;
+  pointer-events: none;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.search-input.active .autocom-box{
+  padding: 10px 8px;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.autocom-box li{
+  list-style: none;
+  padding: 8px 12px;
+  display: none;
+  width: 100%;
+  cursor: default;
+  border-radius: 3px;
+}
+
+.search-input.active .autocom-box li{
+  display: block;
+}
+.autocom-box li:hover{
+  background: #efefef;
+}
+
+.search-input .icon{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 55px;
+  width: 55px;
+  text-align: center;
+  line-height: 55px;
+  font-size: 20px;
+  color: #644bff;
+  cursor: pointer;
+}
+
 </style>
 
-<div class="search-input">
+<div class="wrapper">
+   <div class="search-input">
 
-  <form action="search.html" method="get">
+   <form action="search.html" method="get">
      <label for="search-box"></label>
      <input type="text" id="search-box" name="query">
      <input type="submit" value="Search" class="boton">
-  </form>
+   </form>
+
+   </div>
 
 </div>
 
