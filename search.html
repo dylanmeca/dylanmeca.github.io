@@ -5,24 +5,6 @@ title: Buscar
 
 <style>
 
-::selection{
-  color: #fff;
-  background: #664AFF;
-}
-
-.wrapper{
-  max-width: 450px;
-  margin: 150px auto;
-}
-
-.wrapper .search-input{
-  background: #fff;
-  width: 100%;
-  border-radius: 5px;
-  position: relative;
-  box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.12);
-}
-
 .search-input input{
   height: 55px;
   width: 100%;
@@ -83,16 +65,17 @@ title: Buscar
 
 </style>
 
-<div class="wrapper">
-   <div class="search-input">
+
+<div class="search-input">
 
    <form action="search.html" method="get">
      <label for="search-box"></label>
      <input type="text" id="search-box" name="query">
+     <div class="autocom-box">
+          <!-- here list are inserted from javascript -->
+     </div>
      <input type="submit" value="Search" class="boton">
    </form>
-
-   </div>
 
 </div>
 
