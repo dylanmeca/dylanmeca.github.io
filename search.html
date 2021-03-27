@@ -3,48 +3,13 @@ layout: default
 title: Buscar
 ---
 
-<style>
+<form action="search.html" method="get">
+   <label for="search-box">Search</label>
+   <input type="text" id="search-box" name="query">
+   <input type="submit" value="search" class="boton_personalizado">
+</form>
 
-.searchbtn {
-    background: #ffec00;
-    width: 10%;
-    border-radius: 5px;
-    position: relative;
-    cursor: pointer;
-}
-
-.searchbtn .fas{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 18px;
-}
-
-.boton_personalizado{
-    text-decoration: none;
-    padding: 10px;
-    font-weight: 600;
-    font-size: 20px;
-    color: #ffffff;
-    background-color: #1883ba;
-    border-radius: 6px;
-    border: 2px solid #0016b0;
-}
-
-</style>
-
-<div class="searchbtn">
-
-  <form action="search.html" method="get">
-     <label for="search-box">Search</label>
-     <input type="text" id="search-box" name="query">
-     <input type="submit" value="search" class="boton_personalizado">
-  </form>
-
-  <ul id="search-results"></ul>
-
-</div>
+<ul id="search-results"></ul>
 
 <script>
   window.store = {
