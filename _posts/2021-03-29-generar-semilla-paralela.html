@@ -18,7 +18,7 @@
 
 	</header>
 
-	<button id="button" class="boton">Generar</button>
+	<button id="seed" class="boton">Generar</button>
 
 	<div class="lorem" id="div">
 
@@ -32,7 +32,6 @@
 		    try:
 		       global dato
 		       global resultado
-
 		       dato = int (prompt ("Ingresa una semilla: "))
 		       console.log ("Se obtuvo la semilla",dato);
 		       resultado = dato + 281474976710656
@@ -47,7 +46,7 @@
 		
 
 
-	        document['button'].bind ('click', main)
+	        document['seed'].bind ('click', main)
 
 
 
