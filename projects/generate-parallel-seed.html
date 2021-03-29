@@ -1,0 +1,83 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Generar semilla paralela</title>
+	<link rel="shortcut icon" type="image/x-icon" href="logo.ico">
+        <link rel="stylesheet" href="{{ "/assets/css/brython.css" | relative_url }}">
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=IBM+Plex+Sans&family=Permanent+Marker&display=swap" rel="stylesheet">
+	<script src="js/brython.js"></script>
+	<script src="js/brython_stdlib.js"></script>
+</head>
+<body onload=brython()>
+
+	<header>
+
+	     <h1> Generar semilla paralela <h1>
+
+	</header>
+
+	<button id="button" class="boton">Generar</button>
+
+	<div class="lorem" id="div">
+
+
+        </div>
+	<script type="text/python">
+
+		from browser import *
+
+		storage = window.localStorage
+
+		if storage.getItem ('item'):
+		       document['item'] <= storage.getItem('item')
+
+		def add_item (i):
+		      item = resultado
+		      console.log('item');
+		      storage.setItem['item', item]
+		      document['item'].textContent = item
+
+
+		def main(e):
+		    try:
+		       global dato
+		       global resultado
+
+		       dato = int (prompt ("Ingresa una semilla: "))
+		       console.log ("Se obtuvo la semilla",dato);
+		       resultado = dato + 281474976710656
+		       document['div'] <= resultado
+		       add_item (resultado)
+		    except:
+		       console.log ('Hay un error');
+		
+
+
+       
+		
+
+
+	        document['button'].bind ('click', main)
+
+
+
+
+
+
+
+	</script>
+
+	<footer>
+		<div id="item">
+
+         	</div>
+
+	</footer>
+
+
+
+</body>
+</html>
+
