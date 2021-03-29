@@ -13,55 +13,58 @@
         {%- if jekyll.environment == 'production' and site.google_analytics -%}
             {%- include google-analytics.html -%}
         {%- endif -%}
-        {%- include head1.html -%}
 </head>
+
 <body onload=brython()>
+    
+    <h1> Generar semilla paralela </h1>
 
-	<header>
+    <p class="lorem">
 
-	     <h1> Generar semilla paralela <h1>
+        
 
-	</header>
+    </p>
 
-	<button id="seed" class="boton">Generar</button>
-
-	<div class="lorem" id="div">
+   <br />
 
 
-        </div>
-	<script type="text/python">
+   <input type="button" id="seed" value="Generar" class="boton">
+   
+   <div class="lorem" id="div">
 
-		from browser import *
 
-		def main(e):
-		    try:
-		       global dato
-		       global resultado
-		       dato = int (prompt ("Ingresa una semilla: "))
-		       console.log ("Se obtuvo la semilla",dato);
-		       resultado = dato + 281474976710656
-		       document['div'] <= resultado
-		       add_item (resultado)
-		    except:
-		       console.log ('Hay un error');
-		
+    </div>
 
+    
+    
+
+    <script type="text/python">
+        from browser import *
+
+        def Seed (evento):
+            try:
+               global dato
+               dato = int (prompt ("Ingresa la semilla para convertirlo en semilla paralela: "))
+               console.log (dato);
+               resultado = dato + 281474976710656
+               document['div'] <= " El Resultado es: "
+               document['div'] <= resultado
+            except:
+               console.log ('Error');
+             
+        
+         
+
+        document['seed'].bind('click', Seed)
+        
+
+        
 
        
-		
 
+       
 
-	        document['seed'].bind ('click', main)
-
-
-
-
-
-
-
-	</script>
-
-	
+    </script>
 
 </body>
 </html>
