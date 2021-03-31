@@ -20,5 +20,5 @@ function seedgenerator() {
 <form>
     <label for="seed"></label>
     <input type="text" value="" id="seed" required>
-    <input type="button" value="" onclick="seedgenerator()" />
+    <input type="button" value="Convertir" onclick="seedgenerator()" />
 </form>
