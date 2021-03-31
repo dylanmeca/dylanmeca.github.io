@@ -9,7 +9,7 @@ function seedgenerator() {
 
         var numero = 281474976710656;
         var resultado;
-        semilla = document.getElementById(seed).value;
+        semilla = document.getElementById("seed").value;
         if (semilla == semilla) {
              console.log ("Funciono")
              resultado = seed + numero;
@@ -26,7 +26,7 @@ function seedgenerator() {
 <form>
     <label for="seed"></label>
     <input type="text" value="" id="seed" required>
-    <input type="button" value="Convertir" onclick="seedgenerator()" />
+    <input type="button" value="" name="Generar" onclick="seedgenerator()" />
 </form>
 
 <br />
