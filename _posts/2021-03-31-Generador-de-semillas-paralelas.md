@@ -1,6 +1,6 @@
 ---
 layout: post1
-title: Generador de Semillas
+title: Generador de Semillas paralelas
 ---
 
 <script>
