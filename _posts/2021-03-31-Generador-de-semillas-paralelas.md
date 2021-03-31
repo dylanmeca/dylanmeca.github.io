@@ -11,7 +11,7 @@ function seedgenerator() {
         seed = document.getElementById(seed);
         var resultado = null;
         resultado = seed + numero
-        document.write (resultado)
+        document.getElementById('seed').innerHTML='resultado';
 
 }
 
