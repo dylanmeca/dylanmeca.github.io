@@ -8,7 +8,8 @@ title: Generador de Semillas paralelas
 function seedgenerator() {
 
         semilla = document.getElementById("seed").value;
-        var resultado = semilla + 281474976710656;
+        const semillas = Number(semilla)
+        var resultado = semillas + 281474976710656;
         document.write (resultado);
         
              
