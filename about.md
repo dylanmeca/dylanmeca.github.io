@@ -3,14 +3,6 @@ layout: default
 title: Sobre
 ---
 
-<style>
-
-.container-fluid {
-  max-width: 1024px;
-}
-
-</style>
-
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   
 <link href="https://fonts.googleapis.com/css?family=Public+Sans:300,500&display=swap" rel="stylesheet">
@@ -56,12 +48,6 @@ Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [m
 # Repositorios
 
   <div class="container-fluid mt-3">
-    <!-- jumbotron -->
-    <div class="jumbotron jumbotron-fluid bg-info text-white">
-      <div class="container-fluid">
-       </div>
-    </div>
-    <!-- responsive table -->
     <div class="table-responsive">
       <table class="table table-bordered">
         <thead>
