@@ -41,34 +41,3 @@ El sitio web tiene copyright y derechos de autor.
 
 Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [mira más información](https://dylan14567.github.io/2021/03/09/lab-termux.html) en el articulo del repositorio apt. 
 
-## Mis Repositorios
-
-  <div class="container-fluid mt-3">
-    <div class="table-responsive">
-      <table class="table table-bordered">
-        <thead>
-          <tr class="table-info">
-            <th scope="col">ID</th>
-            <th scope="col">Name</th>
-            <th scope="col">URL</th>
-            <th scope="col">Language</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- 
-            <tr>
-              <td>...</td>
-              <td>...</td>
-              <td>...</td>
-              <td>...</td>
-            </tr> 
-          -->
-        </tbody>
-      </table>
-    </div>
-  </div>
-  <!-- jquery cdn  -->
-  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-  <!-- custom js -->
-  <script src="js/repos.js"></script>
-
