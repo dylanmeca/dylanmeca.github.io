@@ -2,10 +2,6 @@
 layout: default
 title: Sobre
 ---
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  
-<link href="https://fonts.googleapis.com/css?family=Public+Sans:300,500&display=swap" rel="stylesheet">
   
 # Sobre Mi
 
