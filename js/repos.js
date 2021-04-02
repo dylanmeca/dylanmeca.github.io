@@ -13,7 +13,7 @@ request.onload = function () {
     statusHTML += '<tr>';
     statusHTML += '<td>' + status.id + '</td>';
     statusHTML += '<td>' + status.name + '</td>';
-    statusHTML += '<td> <a href="${status.html_url}">${status.html_url}</a>' + '</td>';
+    statusHTML += '<td>' + '<a href="${status.html_url}">${status.html_url}</a>' + '</td>';
     statusHTML += '<td>' + status.language + '</td>';
     statusHTML += '</tr>';
   });
