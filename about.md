@@ -21,6 +21,8 @@ He aprendido sobre muchas cosas sobre el tema informatico y de la fisica, tambie
 
 Soy experto en el lenguaje de programacion python y he aprendido sobre el desarrollo web para poder crear un sitio web.
 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan14567&layout=compact)
+
 ![status](https://github-readme-stats.vercel.app/api?username=dylan14567)
 
 # Información del sitio web
