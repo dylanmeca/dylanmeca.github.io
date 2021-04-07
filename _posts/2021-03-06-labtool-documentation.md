@@ -1,5 +1,5 @@
 ---
-layout:post1
+layout: post1
 ---
 
 [![Build Status](https://img.shields.io/github/stars/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool)
