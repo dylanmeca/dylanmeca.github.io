@@ -34,4 +34,4 @@ Now that we know how the ``` set ``` command works, we just have to put, for exa
 
 ## How the use command works
 
-The use command is used to ``` use ``` something specific, for example if we put the ``` help ``` command in the console we will get ``` use scanports ```, what it does is that you will be using ``` scanports ``` and ``` scanports ``` is used to scan several ports, but first we would have to have used ``` set ip ``` to select our ip then at the end we put ``` run ``` or ``` exploit ``` to make it work
+The ``` use ``` command is used to use something specific, for example if we put the ``` help ``` command in the console we will get ``` use scanports ```, what it does is that you will be using ``` scanports ``` and ``` scanports ``` is used to scan several ports, but first we would have to have used ``` set ip ``` to select our ip then at the end we put ``` run ``` or ``` exploit ``` to make it work
