@@ -6,7 +6,7 @@ Para tener un boton de like debes ir a la página: https://likebtn.com/en/
 
 Y en esa pagina podras crear un boton de like pero aqui les comparto el codigo de un boton de like.
 
-```
+```html
 
 <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="angular" data-ef_voting="buzz" data-white_label="true"></span>
