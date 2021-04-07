@@ -26,7 +26,7 @@ Information about the installation and more details in: [https://github.com/dyla
 
 This page is the lab tool project documentation
 
-# How to use the console
+<h1 id="How-the-use-command-works"> How to use the console </h1>
 
 When using the lab tool command we can use the ``` help ``` command to know the function of each command but in this guide we will give you a detail of how it works.
 
