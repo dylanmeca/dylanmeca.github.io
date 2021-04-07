@@ -2,7 +2,7 @@
 layout: post1
 ---
 
-Para tener un boton de like debes ir a la página: https://likebtn.com/en/
+Para tener un boton de like debes ir a la página: [https://likebtn.com/en/](https://likebtn.com/en/)
 
 Y en esa pagina podras crear un boton de like pero aqui les comparto el codigo de un boton de like.
 
