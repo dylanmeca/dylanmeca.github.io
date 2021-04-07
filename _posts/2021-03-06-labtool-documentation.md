@@ -16,7 +16,7 @@ lab_tool is a system that is used for ethical hacking and computer security test
 
 # Introduction
 
-- [How to use the console](#How to use the console)
+- [How to use the console](#How-to-use-the-console)
 
 
 Information about the installation and more details in: [https://github.com/dylan14567/lab_tool](https://github.com/dylan14567/lab_tool)
