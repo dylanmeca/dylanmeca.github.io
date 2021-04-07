@@ -18,6 +18,14 @@ Information about the installation and more details in: https://github.com/dylan
 
 When using the lab tool command we can use the ``` help ``` command to know the function of each command but in this guide we will give you a detail of how it works.
 
+## How the set command works
+
+The ``` set ``` command selects something for example with the ``` set ``` command we can specify the type of argument for example ``` set ip ``` that specifies to the console that we will select an object of type ip.
+
 ## Select ip
 
 Inside the console when we use the ``` set ``` command, the ``` set ``` command is used to select something for example an ip and for that we would have to place for example ``` set ip ```, ``` set ``` is to select but in the front it says ip because it specifies what type of argument we will use and once we do that we will have to put ``` set ip 192.168.1.103 ```, in this example we will have selected an ip.
+
+## Select port
+
+Now that we know how the ``` set ``` command works, we just have to put, for example, ``` set port 80 ``` and that's it.
