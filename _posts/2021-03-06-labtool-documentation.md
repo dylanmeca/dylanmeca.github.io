@@ -12,9 +12,11 @@ layout: post1
 [![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
 ![logo](https://raw.githubusercontent.com/dylan14567/lab_tool/main/logo.jpg)
 
-lab_tools is a system that is used for ethical hacking and computer security tests, this system is also a python library.
+lab_tool is a system that is used for ethical hacking and computer security tests, this system is also a python library.
 
 Information about the installation and more details in: [https://github.com/dylan14567/lab_tool](https://github.com/dylan14567/lab_tool)
+
+This page is the lab tool project documentation
 
 # How to use the console
 
