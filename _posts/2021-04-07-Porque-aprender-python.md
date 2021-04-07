@@ -2,6 +2,8 @@
 layout: post1
 ---
 
+![python](https://es.m.wikipedia.org/wiki/Archivo:Python-logo-notext.svg)
+
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. [Wikipedia](https://es.wikipedia.org/wiki/Python)
 
 Si eres nuevo en la informatica es recomendado aprender python ya que es facil de aprender, los beneficios de aprender python es que puedes desarrollar apps, videojuegos, machine learning, data science y hacking.
