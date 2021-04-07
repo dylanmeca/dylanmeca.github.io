@@ -2,6 +2,8 @@
 layout: post1
 ---
 
+<meta name="keywords" content="lab_tool, labtool, tool, lab, documentation">
+
 [![Build Status](https://img.shields.io/github/stars/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool)
 [![License](https://img.shields.io/github/license/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool/blob/main/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
@@ -12,7 +14,7 @@ layout: post1
 
 lab_tools is a system that is used for ethical hacking and computer security tests, this system is also a python library.
 
-Information about the installation and more details in: https://github.com/dylan14567/lab_tool
+Information about the installation and more details in: [https://github.com/dylan14567/lab_tool](https://github.com/dylan14567/lab_tool)
 
 # How to use the console
 
