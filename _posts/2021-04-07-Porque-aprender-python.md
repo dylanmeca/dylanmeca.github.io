@@ -2,7 +2,7 @@
 layout: post1
 ---
 
-![python](https://es.m.wikipedia.org/wiki/Archivo:Python-logo-notext.svg)
+![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. [Wikipedia](https://es.wikipedia.org/wiki/Python)
 
