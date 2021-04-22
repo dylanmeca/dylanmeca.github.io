@@ -5,9 +5,11 @@ title: Sobre
   
 # Sobre Mi
 
-Soy Dylan Alexander, un programador de videojuegos, aplicaciones y experto en informática.
+Soy Dylan Meca, científico e ingeniero en informática.
 
-Empeze en seguridad informatica en  el 2019, aprendi sobre hacking etico y de ciberseguridad.
+Empeze en seguridad informática en 2019 y aprendí sobre temas de ciberseguridad.
+
+El primer lenguaje de programación que aprendí es Python y actualmente estoy creando proyectos.
 
 El primer lenguaje de programación que aprendi es python y actualmente estoy creando proyectos y esos proyectos estan en [mi perfil](https://github.com/dylan14567) de github.
 
