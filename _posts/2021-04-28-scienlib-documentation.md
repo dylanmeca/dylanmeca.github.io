@@ -20,6 +20,7 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
 - [How to use the library](#how-to-use-the-library)
 - [Basic math](#basic-math)
   - [speed calculation](#speed-calculation)
+  - [Get the divider of a number](#get-the-divisor-of-a-number)
   
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
@@ -62,9 +63,9 @@ and the result would be: ``` 2.5 ```
 
 What happened here is that the distance was divided by time, what I would be doing is recreating the formula of speed equals distance over time.
 
-#### Get the divisor of a number
+#### Get the divider of a number
 
-There is a mathematical function inside the library that helps you to obtain the divisor of a number.
+There is a mathematical function inside the library that helps you to obtain the devider of a number.
 
 to use this mathematical function you must put the following code:
 
@@ -74,7 +75,7 @@ scienlib.divider (n,c)
 
 ```
 
-where it says n must be replaced by the number that we will use to determine what number will be the divisor at that time, where c is the candidate that we will use to know the divisor of the number, example:
+where it says n must be replaced by the number that we will use to determine what number will be the devider at that time, where c is the candidate that we will use to know the devider of the number, example:
 
 ```python
 
@@ -83,4 +84,4 @@ print (r)
 
 ```
 
-What happened here is that the result was obtained if 14 is a divisor of 7 and the result is True, by default in the code it will be True if it is true and False if it is false.
+What happened here is that the result was obtained if 14 is a devider of 7 and the result is True, by default in the code it will be True if it is true and False if it is false.
