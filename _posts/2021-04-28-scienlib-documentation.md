@@ -102,3 +102,5 @@ print (r)
 what this does is find the average of the numbers in a list the operation it does is add everything and divide it by the amount of data there is.
 
 the result of this example is 14.0 and what the code did was add everything and divide it by the amount of data.
+
+## cybersecurity
