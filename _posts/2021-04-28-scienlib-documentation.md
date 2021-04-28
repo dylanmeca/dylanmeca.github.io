@@ -52,7 +52,7 @@ scienlib.velocity (d,t)
 
 ```
 
-where it says d replace it with the distance and where it says t replace it with the time for example:
+where it says ``` d ``` replace it with the distance and where it says ``` t ``` replace it with the time for example:
 
 ```python
 
@@ -77,7 +77,7 @@ scienlib.divider (n,c)
 
 ```
 
-where it says n must be replaced by the number that we will use to determine what number will be the devider at that time, where c is the candidate that we will use to know the devider of the number, example:
+where it says ``` n ``` must be replaced by the number that we will use to determine what number will be the devider at that time, where ``` c ``` is the candidate that we will use to know the devider of the number, example:
 
 ```python
 
@@ -86,7 +86,7 @@ print (r)
 
 ```
 
-What happened here is that the result was obtained if 14 is a devider of 7 and the result is True, by default in the code it will be True if it is true and False if it is false.
+What happened here is that the result was obtained if 14 is a devider of 7 and the result is ``` True ```, by default in the code it will be ``` True ``` if it is true and ``` False ``` if it is false.
 
 #### How to find the average
 
@@ -107,3 +107,16 @@ the result of this example is 14.0 and what the code did was add everything and 
 ## cybersecurity
 
 the bookstore also have cybersecurity functions.
+
+#### Scan ports
+
+To scan the ports you have to put the following code.
+
+```python
+
+r = scienlib.scanports ("192.168.1.1")
+print (r)
+
+```
+
+what this does is scan all the ports of an ip where it says ``` 192.168.1.1 ``` you can replace it with the ip you want to scan.
