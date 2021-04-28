@@ -33,6 +33,25 @@ import scienlib
 
 ## Basic math
 
+Within the library we have basic mathematical functions, the first basic mathematics is speed, in real life the formula of the speed is ``` v = d ÷ t ```, to use this mathematical formula you have to write the following code:
+
+```python
+
+scienlib.velocity (d,t)
+
+```
+
+where it says d replace it with the distance and where it says t replace it with the time for example:
+
+```python
+
+scienlib.velocity (20,8)
+
+```
+
+and the result would be: ``` 2.5 ```
+
+What happened here is that the distance was divided by time, what I would be doing is recreating the formula of speed equals distance over time.
 
 
 
