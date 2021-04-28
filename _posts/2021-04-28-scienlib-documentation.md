@@ -11,7 +11,7 @@ layout: post1
 [![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://github.com/dylan14567/scienlib/blob/main/.github/SECURITY.md)
 [![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
 
-Scienlib is a scientific python library that adds math functions and adds other functions such as fisic.
+Scienlib is a scientific Python library that adds mathematical functions and adds other functions like physics, but also has cybersecurity and other functions.
 
 More information about the project at: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
@@ -20,5 +20,7 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
 This page is the scienlib project documentation.
+
+## Basic math
 
 
