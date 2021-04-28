@@ -150,3 +150,12 @@ But you could also use it to know if the IP of your connection to a VPN is corre
 #### Scan web
 
 to scan your website for vulnerabilities you must put this code:
+
+```python
+
+scienlib.scanweb ("http://192.168.1.1")
+
+```
+
+What this does is scan the website and look for its vulnerabilities, as the creator of the website you can try to improve the site so that there are no vulnerabilities.
+
