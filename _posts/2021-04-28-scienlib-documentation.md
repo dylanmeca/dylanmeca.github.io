@@ -17,6 +17,10 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
 
 # Introduction
 
+- [How to use the library](#how-to-use-the-library)
+- [Basic math](#basic-math)
+  - [speed calculation](#speed-calculation)
+  
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
 This page is the scienlib project documentation.
