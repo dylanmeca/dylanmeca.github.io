@@ -133,3 +133,20 @@ scienlib.scanport ("192.168.1.1", "80")
 
 what this does is scan the port of an ip in that example we observe that the port is 80 and the ip 192.168.1.1 but we can change that to scan the port we want.
 
+#### Scan ip
+
+to scan an ip we have to put these codes:
+
+```python
+
+scienlib.scanip (ip)
+
+```
+
+where ip we have to replace it with a public ip that we want to scan this scanner can be used in case you locate the ip of a person who hacked your wifi that way you could know if that hacker is from your city or from another since that gives security details.
+
+But you could also use it to know if the IP of your connection to a VPN is correct.
+
+#### Scan web
+
+to scan your website for vulnerabilities you must put this code:
