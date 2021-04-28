@@ -21,6 +21,18 @@ Information about the installation and more details in: [https://github.com/dyla
 
 This page is the scienlib project documentation.
 
+## How to use the library
+
+To use the library you must write the following code:
+
+```python
+
+import scienlib
+
+```
+
 ## Basic math
+
+
 
 
