@@ -13,7 +13,7 @@ Es muy importante que leas la presente política de cookies y comprendas que, si
 Según los términos incluidos en el artículo 22.2 de la Ley 34/2002 de Servicios de la Sociedad de la Información y Comercio Electrónico, si continúas navegando, estarás prestando tu consentimiento para el empleo de los referidos mecanismos.
 
 ## Entidad Responsable
-La entidad responsable de la recogida, procesamiento y utilización de tus datos personales, en el sentido establecido por la Ley de Protección de Datos Personales es la página https://dylan14567.github.io, propiedad de Dylan Meca - Blog – .
+La entidad responsable de la recogida, procesamiento y utilización de tus datos personales, en el sentido establecido por la Ley de Protección de Datos Personales es la página [https://dylan14567.github.io](https://dylan14567.github.io), propiedad de Dylan Meca - Blog.
 
 ## ¿Qué son las cookies?
 Las cookies son un conjunto de datos que un servidor deposita en el navegador del usuario para recoger la información de registro estándar de Internet y la información del comportamiento de los visitantes en un sitio web. Es decir, se trata de pequeños archivos de texto que quedan almacenados en el disco duro del ordenador y que sirven para identificar al usuario cuando se conecta nuevamente al sitio web. Su objetivo es registrar la visita del usuario y guardar cierta información. Su uso es común y frecuente en la web ya que permite a las páginas funcionar de manera más eficiente y conseguir una mayor personalización y análisis sobre el comportamiento del usuario.
@@ -39,31 +39,31 @@ Además de la publicidad gestionada por las webs de Dylan Meca - Blog en sus ser
 
 Las empresas que generan estas cookies tienen sus propias políticas de privacidad. En la actualidad, las webs de Dylan Meca - Blog utilizan la plataforma Doubleclick (Google) para gestionar estos servicios. Para más información, acuda a
 
-http://www.google.es/policies/privacy/ads/#toc-doubleclick y a http://www.google.es/policies/privacy/ads/.
+[http://www.google.es/policies/privacy/ads/#toc-doubleclick](http://www.google.es/policies/privacy/ads/#toc-doubleclick) y a [http://www.google.es/policies/privacy/ads/](http://www.google.es/policies/privacy/ads/).
 
 ## ¿Cómo puedo deshabilitar las cookies en mi navegador?
 Se pueden configurar los diferentes navegadores para avisar al usuario de la recepción de cookies y, si se desea, impedir su instalación en el equipo. Asimismo, el usuario puede revisar en su navegador qué cookies tiene instaladas y cuál es el plazo de caducidad de las mismas, pudiendo eliminarlas.
 
 Para ampliar esta información consulte las instrucciones y manuales de su navegador:
 
-Para más información sobre la administración de las cookies en Google Chrome: https://support.google.com/chrome/answer/95647?hl=es
+Para más información sobre la administración de las cookies en Google Chrome: [https://support.google.com/chrome/answer/95647?hl=es](https://support.google.com/chrome/answer/95647?hl=es)
 
-Para más información sobre la administración de las cookies en Internet Explorer: http://windows.microsoft.com/es-es/windows-vista/cookies-frequently-asked-questions
+Para más información sobre la administración de las cookies en Internet Explorer: [http://windows.microsoft.com/es-es/windows-vista/cookies-frequently-asked-questions](http://windows.microsoft.com/es-es/windows-vista/cookies-frequently-asked-questions)
 
-Para más información sobre la administración de las cookies en Mozilla Firefox: http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we
+Para más información sobre la administración de las cookies en Mozilla Firefox: [http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we](http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we)
 
-Para más información sobre la administración de las cookies en Safari: http://www.apple.com/es/privacy/use-of-cookies/
+Para más información sobre la administración de las cookies en Safari: [http://www.apple.com/es/privacy/use-of-cookies/](http://www.apple.com/es/privacy/use-of-cookies/)
 
-Para más información sobre la administración de las cookies en Opera: http://help.opera.com/Windows/11.50/es-ES/cookies.html
+Para más información sobre la administración de las cookies en Opera: [http://help.opera.com/Windows/11.50/es-ES/cookies.html](http://help.opera.com/Windows/11.50/es-ES/cookies.html)
 
-Si desea dejar de ser seguido por Google Analytics visite: http://tools.google.com/dlpage/gaoptout
+Si desea dejar de ser seguido por Google Analytics visite: [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
 Para saber más sobre las cookies
 Puede obtener más información sobre la publicidad online basada en el comportamiento y la privacidad online en el siguiente enlace: http://www.youronlinechoices.com/es/
 
-Protección de datos de Google Analytics: http://www.google.com/analytics/learn/privacy.html
+Protección de datos de Google Analytics: [http://www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)
 
-Cómo usa Google Analytics las cookies: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es#analyticsjs
+Cómo usa Google Analytics las cookies: [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es#analyticsjs](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es#analyticsjs)
 
 Actualizaciones y cambios en la política de privacidad/cookies
 Las webs de Dylan Meca - Blog pueden modificar esta Política de Cookies en función de exigencias legislativas, reglamentarias, o con la finalidad de adaptar dicha política a las instrucciones dictadas por la Agencia Española de Protección de Datos, por ello se aconseja a los usuarios que la visiten periódicamente.
