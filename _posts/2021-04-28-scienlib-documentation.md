@@ -120,3 +120,16 @@ print (r)
 ```
 
 what this does is scan all the ports of an ip where it says ``` 192.168.1.1 ``` you can replace it with the ip you want to scan.
+
+#### Scan port
+
+To scan a port you must put this code:
+
+```python
+
+scienlib.scanport ("192.168.1.1", "80")
+
+```
+
+what this does is scan the port of an ip in that example we observe that the port is 80 and the ip 192.168.1.1 but we can change that to scan the port we want.
+
