@@ -23,6 +23,10 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
   - [Get the divider of a number](#get-the-divider-of-a-number)
   - [How to find the average](#how-to-find-the-average)
 - [cybersecurity](#cybersecurity)
+  - [Scan ports](#scan-ports)
+  - [Scan port](#scan-port)
+  - [Scan ip](#scan-ip)
+  - [Scan web](#scan-web)
   
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
