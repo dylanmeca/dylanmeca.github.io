@@ -20,7 +20,7 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
 - [How to use the library](#how-to-use-the-library)
 - [Basic math](#basic-math)
   - [speed calculation](#speed-calculation)
-  - [Get the divider of a number](#get-the-divisor-of-a-number)
+  - [Get the divider of a number](#get-the-divider-of-a-number)
   
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
