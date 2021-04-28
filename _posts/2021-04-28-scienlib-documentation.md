@@ -53,7 +53,8 @@ where it says d replace it with the distance and where it says t replace it with
 
 ```python
 
-scienlib.velocity (20,8)
+r = scienlib.velocity (20,8)
+print (r)
 
 ```
 
@@ -61,5 +62,16 @@ and the result would be: ``` 2.5 ```
 
 What happened here is that the distance was divided by time, what I would be doing is recreating the formula of speed equals distance over time.
 
+#### Get the divisor of a number
 
+There is a mathematical function inside the library that helps you to obtain the divisor of a number.
+
+to use this mathematical function you must put the following code:
+
+```
+scienlib.divider (n,c)
+
+```
+
+where it says n must be replaced by the number that we will use to determine what number will be the divisor at that time, where c is the candidate that we will use to know the divisor of the number, example:
 
