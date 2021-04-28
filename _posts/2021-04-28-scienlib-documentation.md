@@ -27,6 +27,7 @@ More information about the project at: [https://github.com/dylan14567/scienlib](
   - [Scan port](#scan-port)
   - [Scan ip](#scan-ip)
   - [Scan web](#scan-web)
+  - [Test wifi speed](#Test-wifi-speed)
   
 Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
 
