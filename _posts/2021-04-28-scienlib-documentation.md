@@ -164,3 +164,16 @@ scienlib.scanweb ("http://192.168.1.1")
 What this does is scan the website and look for its vulnerabilities, as the creator of the website you can try to improve the site so that there are no vulnerabilities.
 
 the ip you are scanning in the example you can replace it with the ip you want to scan but that ip has to have the format of the site which is ``` http ``` or ``` https ``` but if the site has DNS you just have to put ``` https://example.com ``` to be scan the website.
+
+#### Test wifi speed
+
+to test the speed of the WiFi you have to put this code:
+
+```python
+
+r = scienlib.velocitywifi ()
+print (r)
+
+```
+
+What this does is test the speed of the WiFi and it shows you on the screen.
