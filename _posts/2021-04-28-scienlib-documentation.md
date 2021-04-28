@@ -14,3 +14,11 @@ layout: post1
 Scienlib is a scientific python library that adds math functions and adds other functions such as fisic.
 
 More information about the project at: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
+
+# Introduction
+
+Information about the installation and more details in: [https://github.com/dylan14567/scienlib](https://github.com/dylan14567/scienlib)
+
+This page is the scienlib project documentation.
+
+
