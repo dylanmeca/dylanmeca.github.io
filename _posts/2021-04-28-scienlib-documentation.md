@@ -85,3 +85,19 @@ print (r)
 ```
 
 What happened here is that the result was obtained if 14 is a devider of 7 and the result is True, by default in the code it will be True if it is true and False if it is false.
+
+#### How to find the average
+
+To find the average you must put the following code:
+
+```python
+
+list = [17,15,14,10]
+r = scienlib.average (list)
+print (r)
+
+```
+
+what this does is find the average of the numbers in a list the operation it does is add everything and divide it by the amount of data there is.
+
+the result of this example is 14.0 and what the code did was add everything and divide it by the amount of data.
