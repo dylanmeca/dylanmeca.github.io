@@ -68,10 +68,19 @@ There is a mathematical function inside the library that helps you to obtain the
 
 to use this mathematical function you must put the following code:
 
-```
+```python
+
 scienlib.divider (n,c)
 
 ```
 
 where it says n must be replaced by the number that we will use to determine what number will be the divisor at that time, where c is the candidate that we will use to know the divisor of the number, example:
 
+```python
+
+r = scienlib.divider (14,7)
+print (r)
+
+```
+
+What happened here is that the result was obtained if 14 is a divisor of 7 and the result is True, by default in the code it will be True if it is true and False if it is false.
