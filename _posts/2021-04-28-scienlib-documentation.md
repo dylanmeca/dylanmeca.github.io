@@ -37,9 +37,11 @@ import scienlib
 
 ## Basic math
 
+Within the library we have basic mathematical functions.
+
 #### speed calculation
 
-Within the library we have basic mathematical functions, the first basic mathematics is speed, in real life the formula of the speed is ``` v = d ÷ t ```, to use this mathematical formula you have to write the following code:
+The first basic mathematics is speed, in real life the formula of the speed is ``` v = d ÷ t ```, to use this mathematical formula you have to write the following code:
 
 ```python
 
