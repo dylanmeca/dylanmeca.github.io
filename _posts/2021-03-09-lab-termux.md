@@ -1,5 +1,12 @@
 ---
 layout: post1
+description: Página de lab termux
+keywords:
+  - lab termux
+  - laboratorio
+  - termux
+  - repositorio apt
+  - apt
 ---
 
 Lab termux es un repositorio apt creado por dylan14567 y ese repositorio te permite descargar paquetes apt.
