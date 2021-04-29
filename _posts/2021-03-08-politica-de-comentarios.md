@@ -1,5 +1,8 @@
 ---
 layout: post1
+description: politica de comentarios de la página Dylan Meca - Blog
+keywords:
+  - politica de comentarios
 ---
 
 Dylan Meca pone a disposición de los usuarios la posibilidad de intercambiar opiniones y publicar comentarios al contenido expuesto en el sitio web.
