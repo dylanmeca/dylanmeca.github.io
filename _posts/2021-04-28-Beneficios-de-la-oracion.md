@@ -1,5 +1,11 @@
 ---
 layout: post1
+description: los beneficios de la oracion
+keywords:
+  - Dios
+  - beneficios de la oracion
+  - oracion 
+  - beneficios
 ---
 
 Los beneficios de la oracion es que al principio te das cuenta como si tuvieras paz esa paz es la paz de Dios.
