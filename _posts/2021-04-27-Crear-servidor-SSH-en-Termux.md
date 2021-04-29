@@ -1,5 +1,14 @@
 ---
 layout: post1
+description: En este articulo veras como se crea un servidor ssh en Termux
+keywords:
+  - termux
+  - servidor ssh
+  - servidor
+  - ssh
+  - linux
+  - como crear un servidor ssh en termux
+  - crear servidor ssh en termux
 ---
 
 Para crear un servidor ssh en Termux debes ejecutar estos comandos:
