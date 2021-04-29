@@ -1,8 +1,13 @@
 ---
 layout: post1
+description: labtool documentation
+keywords:
+  - lab_tool
+  - labtool
+  - tool
+  - lab
+  - documentation
 ---
-
-<meta name="keywords" content="lab_tool, labtool, tool, lab, documentation">
 
 [![Build Status](https://img.shields.io/github/stars/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool)
 [![License](https://img.shields.io/github/license/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool/blob/main/LICENSE)
