@@ -13,3 +13,5 @@ Porque todo el que pide recibe; el que busca, halla; y al llama, se le abrirá.
 Para saber más beneficios de la orácion mira el siquiente video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCJWGMN6TNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Pero el señor cuida de los que le temen, de los que esperan en su gran amor. Salmos 33:18
