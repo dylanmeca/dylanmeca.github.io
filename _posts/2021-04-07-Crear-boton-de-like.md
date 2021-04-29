@@ -5,7 +5,7 @@ keywords:
   - boton de like
   - like
   - crear boton de like
-  - html
+  - boton
   - crear
 ---
 
