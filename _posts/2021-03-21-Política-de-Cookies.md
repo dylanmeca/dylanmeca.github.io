@@ -1,5 +1,8 @@
 ---
 layout: post1
+description: política de Cookies de la página Dylan Meca - Blog
+keywords:
+  - política de cookies
 ---
 
 En esta web se utilizan cookies de terceros y propias para conseguir que tengas una mejor experiencia de navegación, puedas compartir contenido en redes sociales y para que podamos obtener estadísticas de los usuarios.
