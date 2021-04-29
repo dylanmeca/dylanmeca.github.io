@@ -1,8 +1,13 @@
 ---
 layout: post1
+description: En este articulo veras como tener sabiduria mediante la biblia y experiencia.
+keywords:
+  - Dios
+  - sabiduria
+  - como tener sabiduria
+  - como ganar sabiduria
+  - biblia
 ---
-
-<meta name="keywords" content="sabiduria, como tener sabiduria, como ganar sabiduria, biblia, Dios">
 
 Para ganar sabiduria nesecitas ver el mundo de otra forma osea reflexionar y analizar un momento de tu vida o la de una pelicula y 
 sacar un consejo de esa forma abras sacado un poco de sabiduria otra forma de tener sabiduria es leyendo la biblia ya que en la biblia encontramos parabolas y historias que nos enseña.
