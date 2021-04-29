@@ -1,5 +1,12 @@
 ---
 layout: post1
+description: En este articulo veras como crear un boton de like
+keywords:
+  - boton de like
+  - like
+  - crear boton de like
+  - html
+  - crear
 ---
 
 Para tener un boton de like debes ir a la página: [https://likebtn.com/en/](https://likebtn.com/en/)
