@@ -1,5 +1,12 @@
 ---
 layout: post1
+description: En este articulo veras como crear un repositorio apt en Termux
+keywords:
+  - repositorio apt
+  - apt
+  - repositorio
+  - crear repositorio apt en termux
+  - termux
 ---
 
 Un repositorio apt es un lugar donde se almacena paquetes, en este tutorial veremos como crear un repositorio apt.
