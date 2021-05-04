@@ -27,7 +27,7 @@ Esta frase que dijo Jesus significaria que si no oramos caeremos en tentacion, p
 
 Una vez que Jesus fue llevado hacia la cruz y el resucito al tercer dia, y vencio la muerto eso significa que nosotros cargando nuestra cruz podemos resucitar lo que significaria venceremos el problema y se habria solucionado.
 
-Lee Hecho de los Apóstoles 1:6 - 11 y dice haci:
+Lee Hecho de los Apóstoles 1:6 - 10 y dice haci:
 
 6 Los que estaban presentes le preguntaron: «Maestro, restaura en este tiempo el reyno de jerusalen?»
 
