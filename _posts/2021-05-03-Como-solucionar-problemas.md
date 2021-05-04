@@ -26,3 +26,19 @@ Estén despiertos y recen para que no caigan en la tentación. El espíritu es a
 Esta frase que dijo Jesus significaria que si no oramos caeremos en tentacion, por lo tanto si estamos en un problema tenemos que orarle a Dios, pidiendole ayuda para poder solucionar el problema.
 
 Una vez que Jesus fue llevado hacia la cruz y el resucito al tercer dia, y vencio la muerto eso significa que nosotros cargando nuestra cruz podemos resucitar lo que significaria venceremos el problema y se habria solucionado.
+
+Lee Hecho de los Apóstoles 1:6 - 11 y dice haci:
+
+6 Los que estaban presentes le preguntaron: «Maestro, restaura en este tiempo el reyno de jerusalen?»
+
+7 Les respondió: «No les corresponde a ustedes conocer tiempos o epocas que el Padre reservo para su exclusiva autoridad.
+
+8 Pero el espiritu santo descendera sobre ustedes y recibiran poder para ser mis testigos tanto en jerusalen como en toda judea y samaria y hasta los confines de la tierra.»
+
+9 Dicho esto, Jesús fue levantado ante sus ojos y una nube lo ocultó de su vista.
+
+10 Ellos seguían mirando fijamente al cielo mientras se alejaba. Pero de repente vieron a su lado a dos hombres vestidos de blanco
+
+
+
+
