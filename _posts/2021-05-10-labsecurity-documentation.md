@@ -1,23 +1,22 @@
 ---
 layout: post1
-description: labtool documentation
+description: labsecurity documentation
 keywords:
-  - lab_tool
-  - labtool
-  - tool
+  - labsecurity
+  - security
   - lab
   - documentation
 ---
 
-[![Build Status](https://img.shields.io/github/stars/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool)
-[![License](https://img.shields.io/github/license/dylan14567/lab_tool.svg)](https://github.com/dylan14567/lab_tool/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/github/stars/dylan14567/labsecurity.svg)](https://github.com/dylan14567/labsecurity)
+[![License](https://img.shields.io/github/license/dylan14567/labsecurity.svg)](https://github.com/dylan14567/labsecurity/blob/main/LICENSE)
 [![dylan14567](https://img.shields.io/badge/author-dylan14567-green.svg)](https://github.com/dylan14567)
-[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/lab_tool/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://github.com/dylan14567/lab_tool/blob/main/.github/SECURITY.md)
+[![bug_report](https://img.shields.io/badge/bug-report-red.svg)](https://github.com/dylan14567/labsecurity/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+[![security_policy](https://img.shields.io/badge/security-policy-cyan.svg)](https://github.com/dylan14567/labsecurity/blob/main/.github/SECURITY.md)
 [![Python](https://img.shields.io/badge/language-Python%20-yellow.svg)](https://www.python.org)
-![logo](https://raw.githubusercontent.com/dylan14567/lab_tool/main/.github/icon.jpg)
+![logo](https://raw.githubusercontent.com/dylan14567/labsecurity/main/.github/icon.jpg)
 
-lab_tool is a framework and its use is for ethical hacking and computer security.
+labsecurity is a framework and its use is for ethical hacking and computer security.
 
 # Introduction
 
@@ -27,13 +26,13 @@ lab_tool is a framework and its use is for ethical hacking and computer security
   - [Select port](#select-port)
   - [How the use command works](#how-the-use-command-works)
 
-Information about the installation and more details in: [https://github.com/dylan14567/lab_tool](https://github.com/dylan14567/lab_tool)
+Information about the installation and more details in: [https://github.com/dylan14567/labsecurity](https://github.com/dylan14567/labsecurity)
 
-This page is the lab tool project documentation
+This page is the labsecurity project documentation
 
 # How to use the console 
 
-When using the lab tool command we can use the ``` help ``` command to know the function of each command but in this guide we will give you a detail of how it works.
+When using the labsecurity command we can use the ``` help ``` command to know the function of each command but in this guide we will give you a detail of how it works.
 
 ## How the set command works
 
