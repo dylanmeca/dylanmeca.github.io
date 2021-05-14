@@ -5,23 +5,11 @@ title: Sobre
   
 # Sobre Mi
 
-Soy Dylan Meca, científico e ingeniero en informática.
+Soy Dylan Meca, científico e ingeniero informático.
 
-Empeze en seguridad informática en 2019 y aprendí sobre temas de ciberseguridad.
+Comencé en seguridad informática en 2019 y aprendí sobre temas de ciberseguridad, estos temas me llevaron a un mayor conocimiento sobre el mundo cibernético.
 
-El primer lenguaje de programación que aprendí es Python y actualmente estoy creando proyectos.
-
-El primer lenguaje de programación que aprendi es python y actualmente estoy creando proyectos y esos proyectos estan en [mi perfil](https://github.com/dylan14567) de github.
-
-Tambien aprendi fisica por lo que tuve planeado crear una calculadora de algunas formulas matematicas, como el calculo de velocidad.
-
-La formula matematica del calculo de velocida es ``` v = d ÷ t ``` y en python solo se tendria que poner ``` d / t ``` y haci se haria una calculadora de esa formula matematica.
-
-Tambien he aprendido sobre lo que son las librerias, frameworks y sobre fundamentos de redes, pero tambien aprendido sobre como funciona linux y sobre como usarlo.
-
-He aprendido sobre muchas cosas sobre el tema informatico y de la fisica, tambien aprendi a usar una libreria de python llamada numpy.
-
-Soy experto en el lenguaje de programacion python y he aprendido sobre el desarrollo web para poder crear un sitio web.
+Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan14567&layout=compact)
 
