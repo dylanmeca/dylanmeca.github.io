@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1
 title: Sobre
 ---
   
@@ -29,17 +29,9 @@ Soy experto en el lenguaje de programacion python y he aprendido sobre el desarr
 
 # Información del sitio web
 
-Este sitio web es el blog de superdylanyt, en este blog encontraras tutoriales, proyectos, etc.
+Este sitio web es el blog de Dylan Meca, en este blog encontraras tutoriales, proyectos, etc.
 
 El sitio web tiene copyright y derechos de autor.
-
-## Políticas
-
-* [Política De Privacidad](https://dylan14567.github.io/2021/03/08/POL%C3%8DTICA-DE-PRIVACIDAD.html)
-
-* [Política De Comentarios](https://dylan14567.github.io/2021/03/08/politica-de-comentarios.html)
-
-* [Política De Cookies](https://dylan14567.github.io/2021/03/21/Pol%C3%ADtica-de-Cookies.html)
 
 ## Repositorio apt
 
