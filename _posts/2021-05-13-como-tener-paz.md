@@ -30,5 +30,50 @@ Si lo que nos quita la paz es que nos hicieron alguna mentira falsa que hizo que
 es mejor no preocuparse por lo que dicen los demas y rezarle a Dios, para que nos de la fortaleza para resistir a esto como lo hizo Jesus, pero acausa de todo eso Jesus fue llevado a la cruz y sus ultimas palabras en la cruz fue (Padre, perdónalos, porque no saben lo que hacen.»), esa frase se encuentra en San Lucas, 23:34, esa frase nos dice que las personas cuando hacen algo malo no se dan cuenta de lo que hacen
 estan cegados por su maldad y debemos que rezar por ellos para que se den cuenta y perdonarlos, pero luego Jesus resucito, y vencio la muerto por lo tanto podemos vencer lo que nos este pasando para tener paz y ahora Jesus esta sentado a la derecha de Dios Padre Todopoderoso.
 
+Si confiamos y tenemos la fe en que Dios nos protegue y nos da paz, estaremoa seguros como dice en Salmos 23:4 y dice haci:
 
+4 Aunque pase por valle tenebroso, ningún mal temeré, porque tú vas conmigo; tu vara y tu cayado, ellos me sosiegan.
+
+Si nos damos cuenta esa frase nos dice que aunque estemos en una dificultad no hay que temer por que Dios es tu refugio y el te proteje vajo el abrigo de sus alas, si lees salmos 91 te daras cuenta, y dice haci:
+
+1 Tú que habitas al amparo del Altísimo y resides a la sombra del Omnipotente,
+
+
+2 dile al Señor: "Mi amparo, mi refugio, mi Dios, en quien yo pongo mi confianza".
+
+3 El te librará del lazo del cazador y del azote de la desgracia;
+
+4 te cubrirá con sus plumas y hallarás bajo sus alas un refugio.
+
+5 No temerás los miedos de la noche ni la flecha disparada de día,
+
+
+6 ni la peste que avanza en las tinieblas, ni la plaga que azota a pleno sol.
+
+7 Aunque caigan mil hombres a tu lado y diez mil, a tu derecha, tú estarás fuera de peligro: su lealtad será tu escudo y armadura.
+
+8 Basta que mires con tus ojos y verás cómo se le paga al impío.
+
+9 Pero tú dices: "Mi amparo es el Señor", tú has hecho del Altísimo tu asilo.
+
+10 La desgracia no te alcanzará ni la plaga se acercará a tu tienda:
+
+11 pues a los ángeles les ha ordenado que te escolten en todos tus caminos.
+
+CINTO DE ALONGAMENTO PRÉ E PÓS TREINO
+12 En sus manos te habrán de sostener para que no tropiece tu pie en alguna piedra;
+
+13 andarás sobre víboras y leones y pisarás cachorros y dragones.
+
+14 "Pues a mí se acogió, lo libraré, lo protegeré, pues mi Nombre conoció.
+
+15 Si me invoca, yo le responderé, y en la angustia estaré junto a él, lo salvaré, le rendiré honores.
+
+16 Alargaré sus días como lo desea y haré que pueda ver mi salvación".
+
+Este salmo nos hace entender que Dios nos protegue y que no estamos solos, y si tienes fe veras la gloria de Dios como dice en San Juan 11:40 y dice haci:
+
+40 Jesús le respondió: «¿No te he dicho que si crees verás la gloria de Dios?»
+
+Si tienes fe veras la gloria de Dios y seras una persona diferente si haces oracion.
 
