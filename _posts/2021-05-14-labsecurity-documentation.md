@@ -1,6 +1,5 @@
 ---
 layout: post1
-title: labsecurity
 description: labsecurity is a framework and its use is for ethical hacking and computer security
 keywords:
   - labsecurity
