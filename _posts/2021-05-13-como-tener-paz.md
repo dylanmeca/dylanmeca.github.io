@@ -76,3 +76,6 @@ Este salmo nos hace entender que Dios nos protegue y que no estamos solos, y si 
 
 Si tienes fe veras la gloria de Dios y seras una persona diferente si haces oracion.
 
+Recuerda que debes amar a tus enemigos y orar por ellos para que cambien, y no debes darle importancia lo que digan lo demas de ti, porque no se dan cuenta de lo que dicen y hacen, pero ora por ellos, para que se den cuenta de que estan obrando mal
+no hagas lo que ellos hacen, no trates de corregirles haciendo lo mismo pues estaras haciendo lo mismo que ellos, y lo que debes hacer es ir a oracion.
+
