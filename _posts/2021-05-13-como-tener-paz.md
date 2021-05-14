@@ -60,7 +60,6 @@ Si nos damos cuenta esa frase nos dice que aunque estemos en una dificultad no h
 
 11 pues a los ángeles les ha ordenado que te escolten en todos tus caminos.
 
-CINTO DE ALONGAMENTO PRÉ E PÓS TREINO
 12 En sus manos te habrán de sostener para que no tropiece tu pie en alguna piedra;
 
 13 andarás sobre víboras y leones y pisarás cachorros y dragones.
