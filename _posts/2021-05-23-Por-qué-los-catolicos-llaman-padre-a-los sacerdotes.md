@@ -14,11 +14,15 @@ Hay pasajes difíciles de entender, y el tema aquí tratado es, sin lugar a duda
 
 Los hermanos separados nos critican porque llamamos Padre a nuestros Presbíteros (sacerdotes) o Santo Padre al Papa. 
 
-Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padre a nadie, más que a Dios como dice en Mateo 23:9
+Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padre a nadie, más que a Dios como dice en Mateo 23:9:
 
 9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
 
 El texto nos dice que no se debe honrar a ningun hombre solo a Dios y ademas Jesus no menciona que no se debe llamar padre al padre biologico o al sacerdote.
+
+Sobre este tema san pablo escribio y dice en 1 Corintios 4:15:
+
+15 Pues aunque hayáis tenido 10.000 pedagogos en Cristo, no habéis tenido muchos padres. He sido yo quien, por el Evangelio, os engendré en Cristo Jesús.
 
 Pero, como volvemos a insistir, la Palabra de Dios hay que entenderla en todo su contexto, no tomando sólo partes de la Escritura sino también los otros textos que nos hablen sobre el tema. 
 
