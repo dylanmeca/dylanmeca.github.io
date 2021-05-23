@@ -1,7 +1,13 @@
 ---
-description:
+layout: post1
 keywords:
-    - 
+  - Dios
+  - biblia
+  - porque los catolicos llamamos padre a los sacerdotes
+  - porque los catolicos
+  - sacerdotes
+  - porque
+  - catolicos
 ---
 
 Hay pasajes difíciles de entender, y el tema aquí tratado es, sin lugar a dudas, uno de ellos.
