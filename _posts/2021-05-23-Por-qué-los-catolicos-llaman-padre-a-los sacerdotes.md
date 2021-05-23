@@ -164,14 +164,23 @@ Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no
 
 
 1- Amarás a Dios sobre todas las cosas.
+
 2- No tomarás el nombre del Señor tu Dios en vano.
+
 3- Santificarás las fiestas.
+
 4- Honrarás a tu padre y a tu madre.
+
 5- No matarás.
+
 6- No cometerás actos impuros.
+
 7- No robarás.
+
 8- No darás falso testimonio ni mentirás.
+
 9- No consentirás pensamientos ni deseos impuros.
+
 10- No codiciarás los bienes ajenos.
 
 
