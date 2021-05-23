@@ -18,6 +18,8 @@ Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padr
 
 9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
 
+El texto nos dice que no se debe honrar a ningun hombre solo a Dios.
+
 Pero, como volvemos a insistir, la Palabra de Dios hay que entenderla en todo su contexto, no tomando sólo partes de la Escritura sino también los otros textos que nos hablen sobre el tema. 
 
 Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el sentido espiritual, lo cual va de acuerdo con la Escritura, como ser verá más adelante. Cabría preguntarse aquí, con respecto a la objeción de nuestros hermanos protestantes: ¿cómo es que ellos llaman a sus progenitores?. Veamos que no existe nada de malo en denominar padres a nuestros sacerdotes (sólo hemos tomado citas bíblicas del Nuevo Testamento):
