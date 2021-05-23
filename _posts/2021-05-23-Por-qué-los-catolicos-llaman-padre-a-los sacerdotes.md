@@ -170,6 +170,19 @@ Tit 1.4 Te saludo, Tito, verdadero hijo mío en la fe que compartimos.
 
 Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no tendria sentido y ademas en los mandamientos dice:
 
+1- Amarás a Dios sobre todas las cosas.
+2- No tomarás el nombre del Señor tu Dios en vano.
+3- Santificarás las fiestas.
+4- Honrarás a tu padre y a tu madre.
+5- No matarás.
+6- No cometerás actos impuros.
+7- No robarás.
+8- No darás falso testimonio ni mentirás.
+9- No consentirás pensamientos ni deseos impuros.
+10- No codiciarás los bienes ajenos.
 
+En nuestro 4 mandamiento dice Honrarás a tu padre y a tu madre, y no tendria sentido si lo interpretaramos como lo hacen los hermanos separados.
+
+Muchos malinterpretan la biblia, la biblia no se lee con los ojos se lee con el espiritu santo.
 
 
