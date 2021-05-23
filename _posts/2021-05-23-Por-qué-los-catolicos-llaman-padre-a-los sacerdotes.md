@@ -20,4 +20,15 @@ Pero, como volvemos a insistir, la Palabra de Dios hay que entenderla en todo su
 
 Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el sentido espiritual, lo cual va de acuerdo con la Escritura, como ser verá más adelante. Cabría preguntarse aquí, con respecto a la objeción de nuestros hermanos protestantes: ¿cómo es que ellos llaman a sus progenitores?. Veamos que no existe nada de malo en denominar padres a nuestros sacerdotes (sólo hemos tomado citas bíblicas del Nuevo Testamento):
 
+En la biblia en Hechos 7:2-5 dice:
+
+2 El respondió: «Hermanos y padres, escuchad. El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que se estableciese en Jarán
+
+3 y le dijo: Sal de tu tierra y de tu parentela y vete a la tierra que yo te muestre.
+
+4 Entonces salió de la tierra de los caldeos y se estableció en Jarán. Y después de morir su padre, Dios le hizo emigrar de allí a esta tierra que vosotros habitáis ahora.
+
+5 Y no le dio en ella en heredad ni la medida de la planta del pie; sino que prometió dársela en posesión a él y a su descendencia después de él, aunque no tenía ningún hijo.
+
+
 
