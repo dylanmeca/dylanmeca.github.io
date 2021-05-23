@@ -18,7 +18,7 @@ Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padr
 
 9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
 
-El texto nos dice que no se debe honrar a ningun hombre solo a Dios.
+El texto nos dice que no se debe honrar a ningun hombre solo a Dios y ademas Jesus no menciona que no se debe llamar padre al padre biologico o al sacerdote.
 
 Pero, como volvemos a insistir, la Palabra de Dios hay que entenderla en todo su contexto, no tomando sólo partes de la Escritura sino también los otros textos que nos hablen sobre el tema. 
 
