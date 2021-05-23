@@ -22,6 +22,8 @@ Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el
 
 En la biblia en Hechos 7:2-5 dice:
 
+```
+
 2 El respondió: «Hermanos y padres, escuchad. El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que se estableciese en Jarán
 
 3 y le dijo: Sal de tu tierra y de tu parentela y vete a la tierra que yo te muestre.
@@ -30,5 +32,5 @@ En la biblia en Hechos 7:2-5 dice:
 
 5 Y no le dio en ella en heredad ni la medida de la planta del pie; sino que prometió dársela en posesión a él y a su descendencia después de él, aunque no tenía ningún hijo.
 
-
+```
 
