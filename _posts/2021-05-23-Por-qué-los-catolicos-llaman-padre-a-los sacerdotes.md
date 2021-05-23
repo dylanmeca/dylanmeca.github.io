@@ -16,21 +16,13 @@ Los hermanos separados nos critican porque llamamos Padre a nuestros Presbítero
 
 Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padre a nadie, más que a Dios como dice en Mateo 23:9:
 
-```
-
 9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
-
-```
 
 El texto nos dice que no se debe honrar a ningun hombre solo a Dios y ademas Jesus no menciona que no se debe llamar padre al padre biologico o al sacerdote.
 
 Sobre este tema san pablo escribio y dice en 1 Corintios 4:15:
 
-```
-
 15 Pues aunque hayáis tenido 10.000 pedagogos en Cristo, no habéis tenido muchos padres. He sido yo quien, por el Evangelio, os engendré en Cristo Jesús.
-
-```
 
 Si lo de llamar padre a un hombre fuera como lo interpretan los hermanos separados no tendria sentido esta parte de la biblia.
 
@@ -40,8 +32,6 @@ Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el
 
 En la biblia en Hechos 7:2-5 dice:
 
-```
-
 2 El respondió: «Hermanos y padres, escuchad. El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que se estableciese en Jarán
 
 3 y le dijo: Sal de tu tierra y de tu parentela y vete a la tierra que yo te muestre.
@@ -50,11 +40,8 @@ En la biblia en Hechos 7:2-5 dice:
 
 5 Y no le dio en ella en heredad ni la medida de la planta del pie; sino que prometió dársela en posesión a él y a su descendencia después de él, aunque no tenía ningún hijo.
 
-```
-
 Otras citas biblicas sobre este tema:
 
-```
 
 Mt 1.2,6 Abraham fue padre de Isaac, y éste de Jacob. Jacob fue padre de Judá y de sus hermanos… Jesé fue padre del rey David…
 
@@ -136,11 +123,9 @@ Hb 12.9,10 Además, cuando nuestros padres según la carne nos corregían, los r
 
 1 Jn 2.13 Estos les escribo, padres, ustedes conocen al que es desde el principio.
 
-```
 
 Encontramos a continuación, otras citas más en las cuales podemos notar que los escritores bíblicos consideraban como hijos espirituales – o sea, considerándose a sí mismos como padres – , a sus lectores; es decir, a los miembros de la Iglesia:
 
-```
 
 2 Cor 6.13 Páguennos con la misma moneda. Les hablo como a hijos; sean más abiertos.
 
@@ -174,9 +159,9 @@ Tit 1.4 Te saludo, Tito, verdadero hijo mío en la fe que compartimos.
 
 3 Jn 4 Nada me causa mayor alegría que el saber que mis hijos viven en la verdad.
 
-```
 
 Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no tendria sentido y ademas en los mandamientos dice:
+
 
 1- Amarás a Dios sobre todas las cosas.
 2- No tomarás el nombre del Señor tu Dios en vano.
@@ -188,6 +173,7 @@ Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no
 8- No darás falso testimonio ni mentirás.
 9- No consentirás pensamientos ni deseos impuros.
 10- No codiciarás los bienes ajenos.
+
 
 En nuestro 4 mandamiento dice Honrarás a tu padre y a tu madre, y no tendria sentido si lo interpretaramos como lo hacen los hermanos separados.
 
