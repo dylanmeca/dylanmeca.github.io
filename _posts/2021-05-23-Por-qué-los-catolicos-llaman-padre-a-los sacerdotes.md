@@ -134,5 +134,42 @@ Hb 12.9,10 Además, cuando nuestros padres según la carne nos corregían, los r
 
 1 Jn 2.13 Estos les escribo, padres, ustedes conocen al que es desde el principio.
 
+Encontramos a continuación, otras citas más en las cuales podemos notar que los escritores bíblicos consideraban como hijos espirituales – o sea, considerándose a sí mismos como padres – , a sus lectores; es decir, a los miembros de la Iglesia:
+
+2 Cor 6.13 Páguennos con la misma moneda. Les hablo como a hijos; sean más abiertos.
+
+Gal 4.19 Hijitos míos, de nuevo sufro por ustedes dolores de alumbramiento.
+
+1 Tim 1.2 A Timoteo, verdadero hijo mío en la fe.
+
+1 Tim 1.18 Al darte estas recomendaciones, Timoteo, hijo mío…
+
+2 Tim 1.1,2 Pablo, apóstol de Cristo Jesús ... a su querido hijo Timoteo.
+
+2 Tim 2.1 En cuanto a ti (Timoteo), hijo, que tu fuerza sea la gracia que tienes en Cristo Jesús.
+
+Tit 1.4 Te saludo, Tito, verdadero hijo mío en la fe que compartimos.
+
+1 Jn 2.1 Hijitos míos, les he escrito esto para que no pequen.
+
+1 Jn 2.7 Hijos queridos, no les escribo un mandamiento nuevo, sino el mandamiento antiguo.
+
+1 Jn 2.12,14 Esto les escribo, hijitos: ustedes recibieron ya el perdón de sus pecados. Les he escrito, hijitos, porque ya conocen al Padre.
+
+1 Jn 2.18 Hijitos, es la última hora, y han oído que va a venir un anticristo.
+
+1 Jn 2.28 Y ahora, hijitos, permanezcan en él.
+
+1 Jn 3.7,18 Hijitos míos, no se deben extraviar… Hijitos, no amemos con puras palabras y de labios para afuera…
+
+1 Jn 4.4 Ustedes, hijitos, son de Dios, y ya han logrado la victoria sobre esa gente.
+
+1 Jn 5.21 Hijitos, guárdense de los ídolos.
+
+3 Jn 4 Nada me causa mayor alegría que el saber que mis hijos viven en la verdad.
+
+Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no tendria sentido y ademas en los mandamientos dice:
+
+
 
 
