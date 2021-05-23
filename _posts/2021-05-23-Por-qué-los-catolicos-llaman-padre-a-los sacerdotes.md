@@ -54,6 +54,8 @@ En la biblia en Hechos 7:2-5 dice:
 
 Otras citas biblicas sobre este tema:
 
+```
+
 Mt 1.2,6 Abraham fue padre de Isaac, y éste de Jacob. Jacob fue padre de Judá y de sus hermanos… Jesé fue padre del rey David…
 
 Mt 10.21 Un hermano denunciará a su hermano para que lo maten, y el padre a su hijo, y los hijos se sublevarán contra sus padres y los matarán.
@@ -134,7 +136,11 @@ Hb 12.9,10 Además, cuando nuestros padres según la carne nos corregían, los r
 
 1 Jn 2.13 Estos les escribo, padres, ustedes conocen al que es desde el principio.
 
+```
+
 Encontramos a continuación, otras citas más en las cuales podemos notar que los escritores bíblicos consideraban como hijos espirituales – o sea, considerándose a sí mismos como padres – , a sus lectores; es decir, a los miembros de la Iglesia:
+
+```
 
 2 Cor 6.13 Páguennos con la misma moneda. Les hablo como a hijos; sean más abiertos.
 
@@ -167,6 +173,8 @@ Tit 1.4 Te saludo, Tito, verdadero hijo mío en la fe que compartimos.
 1 Jn 5.21 Hijitos, guárdense de los ídolos.
 
 3 Jn 4 Nada me causa mayor alegría que el saber que mis hijos viven en la verdad.
+
+```
 
 Si estas citas biblicas se interpretaran como lo hacen los hermanos separados no tendria sentido y ademas en los mandamientos dice:
 
