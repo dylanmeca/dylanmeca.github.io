@@ -24,6 +24,8 @@ Sobre este tema san pablo escribio y dice en 1 Corintios 4:15:
 
 15 Pues aunque hayáis tenido 10.000 pedagogos en Cristo, no habéis tenido muchos padres. He sido yo quien, por el Evangelio, os engendré en Cristo Jesús.
 
+Si lo de llamar padre a un hombre fuera como lo interpretan los hermanos separados no tendria sentido esta parte de la biblia.
+
 Pero, como volvemos a insistir, la Palabra de Dios hay que entenderla en todo su contexto, no tomando sólo partes de la Escritura sino también los otros textos que nos hablen sobre el tema. 
 
 Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el sentido espiritual, lo cual va de acuerdo con la Escritura, como ser verá más adelante. Cabría preguntarse aquí, con respecto a la objeción de nuestros hermanos protestantes: ¿cómo es que ellos llaman a sus progenitores?. Veamos que no existe nada de malo en denominar padres a nuestros sacerdotes (sólo hemos tomado citas bíblicas del Nuevo Testamento):
