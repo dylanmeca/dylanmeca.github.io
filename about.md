@@ -5,9 +5,9 @@ title: Sobre
   
 # Sobre Mi
 
-Soy Dylan Meca, científico e ingeniero informático.
+Soy Dylan Meca, científico e ingeniero informático y programador informático aficionado.
 
-Comencé en seguridad informática en 2019 y aprendí sobre temas de ciberseguridad, estos temas me llevaron a un mayor conocimiento sobre el mundo cibernético.
+Gracias a mis estudios de informática, aprendí más sobre el mundo cibernético, también aprendí sobre seguridad informática y me di cuenta de que podemos mejorar nuestros sistemas a través de pruebas de seguridad para hacerlos más seguros. 🛡️
 
 Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
