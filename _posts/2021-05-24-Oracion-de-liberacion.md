@@ -1,5 +1,6 @@
 ---
 layout: post1
+description: Oracion de liberacion a Padre Dios
 keywords:
    - Dios
    - Oracion
