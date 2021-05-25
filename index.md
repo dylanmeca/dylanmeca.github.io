@@ -1,6 +1,5 @@
 ---
 layout: home
-description: Bienvenido al blog de Dylan Meca
 keywords:
     - Dylan Meca
     - blog
