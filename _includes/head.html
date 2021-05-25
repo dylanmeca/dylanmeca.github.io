@@ -1,13 +1,19 @@
 <head>
   <meta charset="utf-8">
-  <title> Dylan Meca - Blog </title>
+  {% if page.title %}
+  <title>{{ page.title | escape }}</title>
+  {% endif %}
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Bienvenido al blog de Dylan Meca" />
-  <meta name="keywords" content="python, Dylan Meca, DYLAN INFORMATICACER, blog, proyectos, documentacion, INFORMATICACER, DYLAN, informatica, servidor, tecnologia"/>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+  {% endif %}
   <meta name="author" content="dylan14567" />
   <meta name="copyright" content="dylan14567" />
-    
+
   {%- seo -%}
   <link rel="shortcut icon" type="image/x-icon" href="logo.ico">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
