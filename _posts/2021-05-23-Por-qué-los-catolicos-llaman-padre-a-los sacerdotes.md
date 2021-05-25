@@ -1,5 +1,6 @@
 ---
 layout: post1
+description: En este articulo veras porque los catolicos llaman Padre al sacerdote y tambien se mostrara evidencia con la biblia
 keywords:
   - Dios
   - biblia
