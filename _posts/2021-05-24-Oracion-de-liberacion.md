@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: Oracion de liberacion a Padre Dios
+description: La siquiente oracion es para que Padre Dios nos libre de cualquier mal
 keywords:
    - Dios
    - Oracion
