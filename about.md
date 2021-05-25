@@ -1,6 +1,13 @@
 ---
-layout: default1
+layout: default
 title: Sobre
+description: Sobre Dylan Meca y del blog
+keywords:
+   - Dylan Meca
+   - blog
+   - sobre dylan meca
+   - sobre dylan meca y del blog
+   - sobre el blog
 ---
   
 # Sobre Mi
