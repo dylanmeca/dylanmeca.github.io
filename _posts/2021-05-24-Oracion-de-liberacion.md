@@ -10,8 +10,6 @@ keywords:
 
 La siquiente oracion es para que Dios nos libre de cualquier mal:
 
-<div id="oracion">
-
 Padre Dios, tu eres grande,
 nosotros te rogamos por la intercesion y con la ayuda de san miguel arcangel, que nuestros
 hermanos y hermanas sean liberados del maligno, oh señor permite la intercesion de los santos, para que nos ayuden
@@ -51,4 +49,3 @@ Como era en el principio,
 ahora y siempre,
 por los siglos de los siglos. Amén.
 
-</div>
