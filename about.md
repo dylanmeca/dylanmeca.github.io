@@ -24,9 +24,9 @@ Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
 # Información del sitio web
 
-Este sitio web es el blog de Dylan Meca, en este blog encontraras tutoriales, proyectos, etc.
+Bienvenidos a mi blog, aqui encontraran multiples articulos, como informatica, seguridad informatica, catolicismo y mucho más.
 
-El sitio web tiene copyright y derechos de autor.
+Este blog tiene copyright (Derechos de autor).
 
 ## Políticas
 
