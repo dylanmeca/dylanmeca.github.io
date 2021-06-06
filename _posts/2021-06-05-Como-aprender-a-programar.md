@@ -100,6 +100,8 @@ Esta libreria se instala pero una vez instalada podemos importar las funciónes 
 
 El sintaxis basico que se aprende en python son de variables, el condicional if, while, for y tambien sobre listas, funciones, etc.
 
+Ejemplos de su sintaxis:
+
 ```python
 
 dato = "hola"
