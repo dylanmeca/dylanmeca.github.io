@@ -29,7 +29,7 @@ Y ademas python fue creado con una sintaxis facil de aprender para principiantes
 
 # Es facil aprender a programar
 
-Programar si es facil solo si le dedicas el tiempo suficiente de estudio y ademas practicas puedes ser profesional en python.
+Programar si es facil solo si le dedicas el tiempo suficiente de estudio y ademas practicas puedes ser profesional.
 
 La sintaxis que aprendes en python son casi iguales en otro lenguaje de programación por ejemplo en javascript se parece un poco:
 
@@ -44,5 +44,28 @@ r = a + b
 print (r)
 
 ```
+
+Ejemplo en javascript:
+
+```javascript
+
+var a = 1;
+var b = 1;
+
+var r = a + b;
+
+console.log (r)
+
+```
+
+Como ven la sintaxis es casi igual, pero distinta eso quiere decir que cuando aprendas un lenguaje de programación puedes aprender otro sin nesesidad de repasar de nuevo porque ya sabes
+que significa la sintaxis.
+
+En los ejemplos hemos puesto a la variable a y b el numero 1 y eso mismo lo imprimimos en la terminal y el resultado seria 2.
+
+En ambos lenguajes se creo el mismo programa pero su sintaxis es distinta.
+
+La diferencia de python y javascript es que python esta diseñado para ejecutarse en una computadora mientras que javascript esta diseñado para un sitio web.
+
 
 
