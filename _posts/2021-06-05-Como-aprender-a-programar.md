@@ -27,6 +27,22 @@ una red neuronal.
 
 Y ademas python fue creado con una sintaxis facil de aprender para principiantes, ademas de ser el lenguaje que esta de moda.
 
+# Es facil aprender a programar
 
+Programar si es facil solo si le dedicas el tiempo suficiente de estudio y ademas practicas puedes ser profesional en python.
+
+La sintaxis que aprendes en python son casi iguales en otro lenguaje de programación por ejemplo en javascript se parece un poco:
+
+Ejemplo en python:
+
+```python
+
+a = 1
+b = 1
+
+r = a + b
+print (r)
+
+```
 
 
