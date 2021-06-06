@@ -18,3 +18,15 @@ Python es un lenguaje de programación interpretado, eso quiere decir que no es 
 
 Un interprete traduce el codigo a binario ya que las computadoras solo entienden el binario, pero a diferencia de un compilador no crea una version binario del software porque lo interpreta como si fuera el idioma de la computadora un ejemplo seria que un
 computadora ve los subtitulos en un interprete y en un compilador ve la versión doblada a su idioma.
+
+# Porque aprender python
+
+Python es multiuso porque te permite crear robots, videojuegos y software en general, ademas
+se puede usar para data science, machine learning, hacking etico y incluso se puede usar para crear
+una red neuronal.
+
+Y ademas python fue creado con una sintaxis facil de aprender para principiantes, ademas de ser el lenguaje que esta de moda.
+
+
+
+
