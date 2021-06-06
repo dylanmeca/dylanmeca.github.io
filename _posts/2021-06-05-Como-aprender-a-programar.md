@@ -74,7 +74,7 @@ por un programador, cuyas funciones creadas dentro de esa libreria se pueden imp
 
 Eso quiere decir que podemos importar y usar las funciones de la libreria en nuestro programa un ejemplo en python seria haci:
 
-```
+```python
 
 from random import choice
 
