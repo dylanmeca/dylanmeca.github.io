@@ -36,7 +36,7 @@ Estas políticas son del blog y te pueden ayudar a conocer ciertas informacióne
 
 * [Política De Comentarios](https://dylan14567.github.io/2021/06/05/politica-de-comentarios.html)
 
-* [Política De Cookies](https://dylan14567.github.io/2021/03/21/Pol%C3%ADtica-de-Cookies.html)
+* [Política De Cookies](https://dylan14567.github.io/2021/06/05/politica-de-cookies.html)
 
 ## Repositorio apt
 
