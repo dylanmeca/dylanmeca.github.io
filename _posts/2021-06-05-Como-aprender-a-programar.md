@@ -65,7 +65,7 @@ En los ejemplos hemos puesto a la variable a y b el numero 1 y eso mismo lo impr
 
 En ambos lenguajes se creo el mismo programa pero su sintaxis es distinta.
 
-La diferencia de python y javascript es que python esta diseñado para ejecutarse en una computadora mientras que javascript esta diseñado para un sitio web.
+La diferencia de python y javascript es que python esta diseñado para ejecutarse en una computadora mientras que javascript esta diseñado para ejecutarse en un sitio web.
 
 
 
