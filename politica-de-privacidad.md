@@ -1,6 +1,12 @@
 ---
 layout: post1
 descripcion: Bienvenido a la politica de privacidad del blog de Dylan Meca
+keywords:
+   - Dylan Meca
+   - politica
+   - de
+   - privacidad
+   - politica de privacidad
 ---
 
 El presente Política de Privacidad establece los términos en que Dylan Meca usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su blog. 
