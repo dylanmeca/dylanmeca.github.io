@@ -67,5 +67,36 @@ En ambos lenguajes se creo el mismo programa pero su sintaxis es distinta.
 
 La diferencia de python y javascript es que python esta diseñado para ejecutarse en una computadora mientras que javascript esta diseñado para ejecutarse en un sitio web.
 
+# Que es una libreria 
+
+Una libreria es como una implementacion de codigo, que no esta en el lenguaje de programación, ya que una libreria seria como un paquete creado
+por un programador, cuyas funciones creadas dentro de esa libreria se pueden importar a otro programa.
+
+Eso quiere decir que podemos importar y usar las funciones de la libreria en nuestro programa un ejemplo en python seria haci:
+
+```
+
+from random import choice
+
+lista = ["programador", "programacion"]
+r = choice (lista)
+print (r)
+
+```
+
+Lo que se hizo en este codigo es importar la función choice que se encuentra dentro de la libreria random, esa misma función se usa dentro de otro software.
+
+Algunas librerias estan incorporadas dentro del codigo de python y otros se descargan por ejemplo la libreria matematica que yo hice se instala ejecutando este comando:
+
+```shell
+
+python3 -m pip install scienlib
+
+```
+
+Esta libreria se instala pero una vez instalada podemos importar las funciónes de la libreria en otro programa que creariamos.
+
+
+
 
 
