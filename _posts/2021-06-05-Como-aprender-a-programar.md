@@ -96,6 +96,34 @@ python3 -m pip install scienlib
 
 Esta libreria se instala pero una vez instalada podemos importar las funciónes de la libreria en otro programa que creariamos.
 
+# Sintaxis basico
+
+El sintaxis basico que se aprende en python son de variables, el condicional if, while, for y tambien sobre listas, funciones, etc.
+
+```python
+
+dato = "hola"
+
+if dato == "hola":
+     print ("Si funciona")
+
+lista = ["hola", "saludo"]
+
+for x in lista:
+    print ("x")
+
+while dato != "saludo":
+    print ("Esto tambien funciona")
+    dato = "saludo"
+
+def main (name):
+    return ("hola {}".format (name))
+
+main = main ("Usuario")
+print (main)
+
+```
+
 
 
 
