@@ -37,5 +37,18 @@ Nuestro sitio web emplea las cookies para poder identificar las páginas que son
 
 # Enlaces a Terceros
 
-Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. 
 
+Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. 
+
+Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+
+# Control de su información personal
+
+Su información personal obtenidad al contactarnos sera confidencial y estara protegida.
+
+Tambien estara segura y nos aseguraramos que ningun tercero acceda a dicha información.
+
+No venderemos su informacion, no sera compartida con nadie, ni se distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial o por ordenes policiales.
+
+Dylan Meca, se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
