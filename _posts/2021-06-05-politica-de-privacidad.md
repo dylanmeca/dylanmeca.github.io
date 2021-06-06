@@ -4,7 +4,6 @@ descripcion: Bienvenido a la politica de privacidad del blog de Dylan Meca
 keywords:
    - Dylan Meca
    - politica
-   - de
    - privacidad
    - politica de privacidad
 ---
