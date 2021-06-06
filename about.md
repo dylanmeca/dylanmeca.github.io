@@ -30,7 +30,9 @@ Este blog tiene copyright (Derechos de autor).
 
 ## Políticas
 
-* [Política De Privacidad](https://dylan14567.github.io/2021/03/08/POL%C3%8DTICA-DE-PRIVACIDAD.html)
+Estas políticas son del blog:
+
+* [Política De Privacidad](https://dylan14567.github.io/2021/06/05/politica-de-privacidad.html)
 
 * [Política De Comentarios](https://dylan14567.github.io/2021/03/08/politica-de-comentarios.html)
 
