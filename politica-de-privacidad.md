@@ -19,10 +19,12 @@ Así mismo cuando sea necesario podrá ser requerida información específica.
 
 El sitio web protege la información obtenidad y esta segura.
 
-La información obtenida no sera compartidad con nadie y sera confidencial.
-
-El sitio web usa la informacipn obtenidad para crear estadisticas de visitas de cada página del sitio y si agrega información en la parte de contacto, esa información estara protegidad y segura.
+El sitio web usa la información obtenidad para crear estadisticas de visitas de cada página del sitio y si agrega información en la parte de contacto, esa información estara protegidad y segura.
 
 Solo usamos dicha información para el uso especifico, por ejemplo si quieres contactarme se obtendra su información de contacto.
 
 Esa información solo sera usada para contactarlo y usamos la información de acciónes para saber que sitio del blog visita y de esa manera crear una estadistica. 
+
+Su información estara segura y protegida, no sera compartida con nadie y nos aseguramos que ningun tercero tenga acceso a su información.
+
+Y dicha información sera confidencial.
