@@ -1,6 +1,6 @@
 ---
 layout: post1
-title: Política de privacidad
+title: Política de privacida
 descripcion: Bienvenido a la politica de privacidad del blog de Dylan Meca
 keywords:
    - Dylan Meca
