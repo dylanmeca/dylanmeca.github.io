@@ -34,7 +34,7 @@ Estas políticas son del blog y te pueden ayudar a conocer ciertas informacióne
 
 * [Política De Privacidad](https://dylan14567.github.io/2021/06/05/politica-de-privacidad.html)
 
-* [Política De Comentarios](https://dylan14567.github.io/2021/03/08/politica-de-comentarios.html)
+* [Política De Comentarios](https://dylan14567.github.io/2021/06/05/politica-de-comentarios.html)
 
 * [Política De Cookies](https://dylan14567.github.io/2021/03/21/Pol%C3%ADtica-de-Cookies.html)
 
