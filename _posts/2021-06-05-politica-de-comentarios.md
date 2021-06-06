@@ -1,6 +1,7 @@
 ---
 layout: post1
-description: politica de comentarios de la página Dylan Meca - Blog
+title: Política de comentarios
+description: politica de comentarios del blog de Dylan Meca
 keywords:
   - Dylan Meca
   - politica
