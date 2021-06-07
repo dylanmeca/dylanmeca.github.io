@@ -2,6 +2,7 @@
 layout: page
 title: Política de comentarios
 description: politica de comentarios del blog de Dylan Meca
+permalink: /politica-de-comentarios
 keywords:
   - Dylan Meca
   - politica
