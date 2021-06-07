@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Sobre
 description: Sobre Dylan Meca y del blog
 keywords:
