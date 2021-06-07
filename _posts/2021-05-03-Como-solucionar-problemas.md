@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: En este articulo veras como solucionar problemas con la ayuda de Dios
+description: En este articulo encontraras como solucionar problemas que surgen en nuestra vida con la ayuda de Dios
 keywords:
   - Dios
   - biblia
