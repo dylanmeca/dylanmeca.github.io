@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: page
 title: Política de cookies
 description: política de Cookies del Blog de Dylan Meca
 keywords:
