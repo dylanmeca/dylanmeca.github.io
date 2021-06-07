@@ -158,6 +158,10 @@ Este tipo de programación sirve para crear librerias.
 
 Un curso de la Universitad Politècnica de València que empieza desde cero para aprender a programar con Python, tratando los fundamentos de programación como las variables y constantes, las condiciones, los bucles y los módulos y funciones, y que termina introduciendo el tratamiento de cadenas de texto y los ficheros.
 
+* [Master en Python, Aprende de 0 a EXPERTO con Práctica](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/)
+
+Un curso de Álvaro Chirou, para aprender python desde 0 con practica, este curso se encuentra en Udemy.
+
 * [Programación para todos (empezando con Python)](https://www.edx.org/course/programacion-para-todos-empezando-con-python)
 
 Un curso de la Universidad de Michigan que no tiene prerrequisitos y evita todo menos la matemática más simple. En el aprenderás lo básico de la programación de computadoras usando Python. Conocerás cómo construir un programa de una serie de instrucciones simples en Python.
@@ -191,5 +195,4 @@ Un curso de la Universidad de Michigan en el que aprenderás los conceptos bási
 * [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python)
 
 Un curso de IBM en el que aprenderás a analizar datos con Python. El curso te lleva desde los conceptos básicos de Python hasta la exploración de muchos tipos diferentes de datos. Aprenderás a preparar datos para el análisis, realizar análisis estadísticos simples, crear visualizaciones de datos significativas, predecir tendencias futuras a partir de datos, y más.
-
 
