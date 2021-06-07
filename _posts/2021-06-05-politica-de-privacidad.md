@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de privacidad
-description: Bienvenido a la politica de privacidad del blog de Dylan Meca
+description: En este articulo esta la política de privacidad de este sitio web y ahi se muestra la privacidad del usuario dentro de nuestro sitio web y muchas cosas más.
 permalink: /politica-de-privacidad
 keywords:
    - Dylan Meca
