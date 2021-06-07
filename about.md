@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Sobre
+subtitle: Sobre Mi
 description: Sobre Dylan Meca y del blog
 keywords:
    - Dylan Meca
@@ -10,8 +11,6 @@ keywords:
    - sobre el blog
 ---
   
-# Sobre Mi
-
 Soy Dylan Meca, científico e ingeniero informático y programador informático aficionado.
 
 Gracias a mis estudios de informática, aprendí más sobre el mundo cibernético, también aprendí sobre seguridad informática y me di cuenta de que podemos mejorar nuestros sistemas a través de pruebas de seguridad para hacerlos más seguros. 🛡️
