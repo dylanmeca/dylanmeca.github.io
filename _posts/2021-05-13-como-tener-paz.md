@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: En este articulo veras como tener paz con la ayuda de Dios
+description: Aveces no hayamos la paz que nesesitamos, pero en este articulo encontraras de como tener paz con la ayuda de Dios
 keywords:
   - Dios
   - biblia
