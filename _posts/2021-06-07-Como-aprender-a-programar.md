@@ -137,10 +137,10 @@ La programación orientada a objetos es un poco más avanzada y su sintaxis es l
 class example:
 
       def __init__(self):
-          return
+          self.saludo = "hola"
 
       def main (self):
-          return "hola"
+          return self.saludo
   
 ```
 
