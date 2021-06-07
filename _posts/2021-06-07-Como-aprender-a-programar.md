@@ -176,6 +176,14 @@ Un curso de la Universidad de Michigan en el que aprenderás a almacenar y repre
 
 ## Avanzados
 
+* [Python para Data Science y IA](https://www.coursera.org/learn/python-para-data-science-y-ai)
+
+Un curso de IBM en el que aprenderás cómo comenzar rápida y fácilmente con la Inteligencia Artificial utilizando IBM Watson. Comprenderás cómo funciona Watson, te familiarizarás con sus casos de uso y ejemplos de clientes de la vida real, y se te presentarán varios de los servicios de inteligencia artificial de Watson de IBM.
+
+* [Aprendizaje Automático con Python](https://www.coursera.org/learn/aprendizaje-automatico-con-python)
+
+Otro curso de IBM en el que aprenderás los conceptos básicos del aprendizaje automático mediante el lenguaje de programación Python. Primero aprenderás sobre el propósito del aprendizaje automático y dónde se aplica al mundo real. Y en segundo lugar, obtendrás una descripción general de los temas del aprendizaje automático, como el aprendizaje supervisado o no supervisado, la evaluación de modelos y los algoritmos del aprendizaje automático.
+
 
 
 
