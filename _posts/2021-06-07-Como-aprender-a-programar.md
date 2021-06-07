@@ -141,6 +141,10 @@ class example:
 
       def main (self):
           return self.saludo
+
+e = example ()
+r = e.main ()
+print (r)
   
 ```
 
