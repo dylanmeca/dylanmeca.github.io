@@ -150,7 +150,20 @@ print (r)
 
 Este tipo de programación sirve para crear librerias.
 
+# Cursos para aprender python
 
+* [Python: aprender a programar](https://www.edx.org/course/python-aprender-a-programar)
 
+Un curso de la Universitad Politècnica de València que empieza desde cero para aprender a programar con Python, tratando los fundamentos de programación como las variables y constantes, las condiciones, los bucles y los módulos y funciones, y que termina introduciendo el tratamiento de cadenas de texto y los ficheros.
 
+* [Programación para todos (empezando con Python)](https://www.edx.org/course/programacion-para-todos-empezando-con-python)
 
+Un curso de la Universidad de Michigan que no tiene prerrequisitos y evita todo menos la matemática más simple. En el aprenderás lo básico de la programación de computadoras usando Python. Conocerás cómo construir un programa de una serie de instrucciones simples en Python.
+
+* [Introducción a la programación con Python](https://www.coursera.org/learn/introduccion-python)
+
+Un curso de la Universidad Austral en el que aprenderás los conceptos básicos de programación utilizando el lenguaje de programación Python en su versión 3.0.
+
+* [Introducción a la programación en Python I: Aprendiendo a programar con Python](https://www.coursera.org/learn/aprendiendo-programar-python)
+
+Un curso de la Pontificia Universidad Católica de Chile que te introduce en el mundo de la programación en el lenguaje Python. De una forma práctica, aprenderás de forma gradual desde el tratamiento básico de variables hasta la programación de algoritmos para construir tus propios juegos. Además, te familiarizarás con los conceptos fundamentales para el desarrollo de algoritmos y su programación.
