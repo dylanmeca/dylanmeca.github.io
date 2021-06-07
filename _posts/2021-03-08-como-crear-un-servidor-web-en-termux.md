@@ -1,6 +1,7 @@
 ---
 layout: post1
 title: Como crear un Servidor Web en Termux
+description: En este articulo veras como crear un servidor web en termux, y este servidor es creado mediante apache.
 ---
 
 Para crear ester servidor web, es nesesario, que tengas instalado la app Termux en android.
