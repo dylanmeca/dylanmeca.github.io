@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: page
 title: Política de comentarios
 description: politica de comentarios del blog de Dylan Meca
 keywords:
