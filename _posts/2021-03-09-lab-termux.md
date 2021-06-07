@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: lab termux, es el nombre de un repositorio apt para Termux.
+description: lab termux, es el nombre de un repositorio apt para Termux y en este articulo veras como se instala.
 keywords:
   - lab termux
   - laboratorio
