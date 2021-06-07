@@ -196,6 +196,10 @@ Un curso de Álvaro Chirou para aprender a crear aplicaciónes de escritorio con
 
 Un curso de la Universidad de Michigan en el que aprenderás los conceptos básicos del lenguaje de consulta estructurado (Structured Query Language, SQL), así como el diseño básico de bases de datos para almacenar datos como parte de una iniciativa de varios pasos para recopilar, analizar y procesar datos.
 
+* [Seguridad Informática: Hacking con Python](https://www.udemy.com/course/master-en-hacking-con-python-de-principiante-a-experto/)
+
+Un curso de Álvaro Chirou para aprender hacking con python y aprender como funciona a nivel de seguridad informática.
+
 * [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python)
 
 Un curso de IBM en el que aprenderás a analizar datos con Python. El curso te lleva desde los conceptos básicos de Python hasta la exploración de muchos tipos diferentes de datos. Aprenderás a preparar datos para el análisis, realizar análisis estadísticos simples, crear visualizaciones de datos significativas, predecir tendencias futuras a partir de datos, y más.
