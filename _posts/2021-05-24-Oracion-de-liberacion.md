@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: La siquiente oracion es para que Padre Dios nos libre de cualquier mal
+description: En este articulo entraremos la oracion para que Padre Dios nos libre de cualquier mal
 keywords:
    - Dios
    - Oracion
