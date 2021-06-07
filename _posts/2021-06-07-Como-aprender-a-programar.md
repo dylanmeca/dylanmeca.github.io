@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: Para aprender a programar debes aprender python.
+description: En este articulo encontraras respuestas de como aprender a programar y si es facil, tambien se mostraran cursos para aprender a programar.
 keywords:
     - aprender a programar
     - aprender
