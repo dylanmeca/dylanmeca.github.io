@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: Página de lab termux
+description: lab termux, es el nombre de un repositorio apt para Termux.
 keywords:
   - lab termux
   - laboratorio
