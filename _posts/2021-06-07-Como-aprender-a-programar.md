@@ -198,7 +198,7 @@ Un curso de la Universidad de Michigan en el que aprenderás los conceptos bási
 
 * [Seguridad Informática: Hacking con Python](https://www.udemy.com/course/master-en-hacking-con-python-de-principiante-a-experto/)
 
-Un curso de Álvaro Chirou para aprender hacking con python y aprender como funciona a nivel de seguridad informática.
+Un curso de Álvaro Chirou para aprender hacking con python y de como funciona a nivel de seguridad informática.
 
 * [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python)
 
