@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de cookies
-description: política de Cookies del Blog de Dylan Meca
+description: En este articulo esta la política de cookies y te indica porque este sitio web usa cookies y con que fines.
 permalink: /politica-de-cookies
 keywords:
   - Dylan Meca
