@@ -160,7 +160,7 @@ Un curso de la Universitad Politècnica de València que empieza desde cero para
 
 * [Master en Python, Aprende de 0 a EXPERTO con Práctica](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/)
 
-Un curso de Álvaro Chirou, para aprender python desde 0 con practica, este curso se encuentra en Udemy.
+Un curso de Álvaro Chirou, para aprender python desde 0 con practica, donde aprenderas las bases hasta poo, este curso se encuentra en Udemy.
 
 * [Programación para todos (empezando con Python)](https://www.edx.org/course/programacion-para-todos-empezando-con-python)
 
