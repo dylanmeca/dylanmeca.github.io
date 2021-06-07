@@ -188,6 +188,10 @@ Un curso de IBM en el que aprenderás cómo comenzar rápida y fácilmente con l
 
 Otro curso de IBM en el que aprenderás los conceptos básicos del aprendizaje automático mediante el lenguaje de programación Python. Primero aprenderás sobre el propósito del aprendizaje automático y dónde se aplica al mundo real. Y en segundo lugar, obtendrás una descripción general de los temas del aprendizaje automático, como el aprendizaje supervisado o no supervisado, la evaluación de modelos y los algoritmos del aprendizaje automático.
 
+* [Crea Aplicaciones de escritorio con Python (PyQT)](https://www.udemy.com/course/pyqt-crea-aplicaciones-de-escritorio-con-python/)
+
+Un curso de Álvaro Chirou para aprender a crear aplicaciónes de escritorio con interfaz grafica para Windows, Linux y Mac.
+
 * [Uso de bases de datos con Python](https://www.coursera.org/learn/python-databases-es)
 
 Un curso de la Universidad de Michigan en el que aprenderás los conceptos básicos del lenguaje de consulta estructurado (Structured Query Language, SQL), así como el diseño básico de bases de datos para almacenar datos como parte de una iniciativa de varios pasos para recopilar, analizar y procesar datos.
@@ -195,4 +199,5 @@ Un curso de la Universidad de Michigan en el que aprenderás los conceptos bási
 * [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python)
 
 Un curso de IBM en el que aprenderás a analizar datos con Python. El curso te lleva desde los conceptos básicos de Python hasta la exploración de muchos tipos diferentes de datos. Aprenderás a preparar datos para el análisis, realizar análisis estadísticos simples, crear visualizaciones de datos significativas, predecir tendencias futuras a partir de datos, y más.
+
 
