@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: En este articulo veras como crear un boton de like
+description: En este articulo veras como crear un boton de like mediante un generador y se mostrara un ejemplo en codigo html.
 keywords:
   - boton de like
   - like
