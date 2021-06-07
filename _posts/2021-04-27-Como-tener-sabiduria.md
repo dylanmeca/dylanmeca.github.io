@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: En este articulo veras como tener sabiduria mediante la biblia y experiencia.
+description: Muchos buscan la sabiduria, pero en este articulo encontraras la respuesta de como tener sabiduria, mediante la palabra de Dios que es la biblia.
 keywords:
   - Dios
   - sabiduria
