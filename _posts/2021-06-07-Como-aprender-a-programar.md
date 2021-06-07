@@ -96,7 +96,9 @@ python3 -m pip install scienlib
 
 Esta libreria se instala pero una vez instalada podemos importar las funciónes de la libreria en otro programa que creariamos.
 
-# Sintaxis basico
+# Sintaxis de python
+
+## Basico
 
 El sintaxis basico que se aprende en python son de variables, el condicional if, while, for y tambien sobre listas, funciones, etc.
 
@@ -125,6 +127,21 @@ main = main ("Usuario")
 print (main)
 
 ```
+
+## Poo
+
+La programación orientada a objetos es un poco más avanzada y su sintaxis es la siquiente:
+
+```python
+
+class example:
+
+      def __init__(self):
+          pass
+  
+```
+
+Este tipo de programación sirve para crear librerias.
 
 
 
