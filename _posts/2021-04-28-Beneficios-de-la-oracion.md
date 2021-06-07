@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: los beneficios de la oracion
+description: los beneficios de la oracion son muchos ya que una vez oras tu vida cambiara ya que te daras cuenta que Dios esta contigo, para saber más beneficios mira el articulo.
 keywords:
   - Dios
   - beneficios de la oracion
