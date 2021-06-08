@@ -12,6 +12,4 @@ Para orar a Dios, debes primero ir a un lugar tranguilo luego debes agradecerle 
 
 [![video](https://img.youtube.com/vi/cjsq2rDuZ50/hqdefault.jpg)](https://youtu.be/cjsq2rDuZ50)
 
-cjsq2rDuZ50
-
 Que Dios te bendiga y a tu familia, en el nombre del padre del hijo y del espiritu santo, amen.
