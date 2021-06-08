@@ -29,7 +29,7 @@ No te preocupes por lo que valla a venir porque Dios esta contigo y el va junto 
 
 En esta parte de la biblia nos dice que no hay que preocuparnos.
 
-Dios esta con nosotros, puede que antes hayas sentido que no esta pero yo te digo que siempre estuvo contigo, el te protegue y te guia por el buen camino.
+Dios esta con nosotros, puede que antes te hayas sentido solo pero yo te digo que siempre estuvo contigo, el te protegue y te guia por el buen camino.
 
 El es tu padre, muchas veces nos preocupamos por la salud de una persona y no oramos a Dios, pero yo te digo que debes orar a Dios, porque el quiere escucharte, si ocurre un milagro, no olvides en darle gracias a Dios.
 
