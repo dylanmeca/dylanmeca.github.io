@@ -1,6 +1,6 @@
 ---
 layout: post1
-description: Existen malinterpretaciónes con la acciónes de los catolicos pero en este articulo veras porque los catolicos llaman Padre al sacerdote y tambien se mostrara evidencia con la biblia
+description: Existen malinterpretaciónes con las acciónes de los catolicos pero en este articulo veras porque los catolicos llaman Padre al sacerdote y tambien se mostrara una justificación con la biblia
 keywords:
   - Dios
   - biblia
