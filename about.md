@@ -32,11 +32,11 @@ Este blog tiene copyright (Derechos de autor).
 
 Estas políticas son del blog y te pueden ayudar a conocer ciertas informaciónes del sitio web:
 
-* [Política De Privacidad](https://dylan14567.github.io/2021/06/05/politica-de-privacidad.html)
+* [Política De Privacidad](https://dylan14567.github.io/politica-de-privacidad)
 
-* [Política De Comentarios](https://dylan14567.github.io/2021/06/05/politica-de-comentarios.html)
+* [Política De Comentarios](https://dylan14567.github.io/politica-de-comentarios)
 
-* [Política De Cookies](https://dylan14567.github.io/2021/06/05/politica-de-cookies.html)
+* [Política De Cookies](https://dylan14567.github.io/politica-de-cookies)
 
 ## Repositorio apt
 
