@@ -62,6 +62,18 @@ Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no ten
 
 Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
 
+# Servicios de Terceros
+
+Al usar nuestro sitio web puede que se ha dado cuenta que para comentar debes, iniciar sesion
+pero ese inicio de seción es de una página de tercero, ya que nuestro sitio web
+usa disqus para que puedan comentar en la página, debemos informarle que cuando pone o coloca datos
+en la sección de comentarios esa información no es almacenada en ninguna base de datos nuestra si no es 
+transferida al servidor de disqus, por lo tanto no tenemos control sobre esa información.
+
+Si le preocupa su privacidad al usar la sección de comentarios debes leer la política de privacidad de disqus.
+
+Ya que disqus esta sujeta a su propia política de privacidad.
+
 # Control de su información personal
 
 Su información personal obtenidad al contactarnos sera confidencial y estara protegida.
@@ -70,4 +82,10 @@ Tambien estara segura y nos aseguraramos que ningun tercero acceda a dicha infor
 
 No venderemos su informacion, no sera compartida con nadie, ni se distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial o por ordenes policiales.
 
+La información personal como email o contraseña al usar la sección de comentarios no es almacenada en una base de datos nuestra, si no es transferida a la página de disqus, por lo tanto no tenemos control de lo que suceda ahi pero la unica política que esta sujeta la sección de comentarios a nuestras políticas es la política de comentarios.
+
+# Actualización de la política
+
 Dylan Meca, se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+
+
