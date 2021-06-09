@@ -1,6 +1,12 @@
 ---
 layout: post1
 description: Esta oración descubierta por los cientificos, permite la curación de muchas enfermedades.
+keywords: 
+    - Dios
+    - milagros
+    - oración
+    - científicos
+    - curación
 ---
 
 Los especialistas en programación neurolingüística, siempre afirmaron con absoluta certeza, que el poder de la palabra es milagroso.
