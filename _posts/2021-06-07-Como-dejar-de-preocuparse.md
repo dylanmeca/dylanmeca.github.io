@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: En este articulo veras como dejar de preocuparte con la ayuda de Dios, ya que no te debes preocupar porque Dios esta con nosotros
 keywords:
    - Dios
