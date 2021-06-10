@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: En este articulo encontraras como solucionar problemas que surgen en nuestra vida con la ayuda de Dios
 keywords:
   - Dios
