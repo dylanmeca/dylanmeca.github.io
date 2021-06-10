@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: Scienlib is a scientific Python library that adds mathematical functions and adds other functions like physics, but also has cybersecurity and other functions
 keywords:
   - scienlib
