@@ -22,6 +22,15 @@ theme: minima
 disqus:
   shortname: true
 
+url: "https://dylan14567.github.io"
+
+defaults:
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
