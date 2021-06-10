@@ -3,7 +3,6 @@ layout: page
 title: Política de privacidad
 description: En este articulo esta la política de privacidad de este sitio web y ahi se muestra la privacidad del usuario dentro de nuestro sitio web y muchas cosas más.
 permalink: /politica-de-privacidad
-canonical: /politica-de-privacidad
 keywords:
    - Dylan Meca
    - politica
