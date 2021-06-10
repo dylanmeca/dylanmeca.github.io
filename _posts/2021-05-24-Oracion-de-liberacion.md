@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: En este articulo entraremos la oracion para que Padre Dios nos libre de cualquier mal
 keywords:
    - Dios
