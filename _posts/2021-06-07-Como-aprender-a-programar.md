@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: En este articulo encontraras respuestas de como aprender a programar y si es facil, tambien se mostraran cursos para aprender a programar.
 keywords:
     - aprender a programar
