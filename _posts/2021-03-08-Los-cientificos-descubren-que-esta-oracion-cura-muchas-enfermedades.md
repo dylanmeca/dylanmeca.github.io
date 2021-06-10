@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: Esta oración descubierta por los cientificos, permite la curación de muchas enfermedades.
 keywords: 
     - Dios
