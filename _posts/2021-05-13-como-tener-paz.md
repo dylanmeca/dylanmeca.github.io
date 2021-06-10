@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: Aveces no hayamos la paz que nesesitamos, pero en este articulo encontraras de como tener paz con la ayuda de Dios
 keywords:
   - Dios
