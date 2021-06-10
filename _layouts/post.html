@@ -30,6 +30,8 @@ layout: default
     {{ content }}
   </div>
 
+  {%- include like.html -%}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
