@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: En este articulo veras como orar a Dios
 keywords:
   - Dios
