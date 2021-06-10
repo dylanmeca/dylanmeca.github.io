@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: post
 description: Muchos buscan la sabiduria, pero en este articulo encontraras la respuesta de como tener sabiduria, mediante la palabra de Dios que es la biblia.
 keywords:
   - Dios
