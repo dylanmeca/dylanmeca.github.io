@@ -13,8 +13,8 @@
   {% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
   {% endif %}
-  <meta name="author" content="Dylan Meca" />
-  <meta name="copyright" content="Dylan Meca" />
+  <meta name="author" content="{{ site.author.name | escape}}" />
+  <meta name="copyright" content="{{ site.author.name | escape}}" />
 
   {%- seo -%}
   <link rel="shortcut icon" type="image/x-icon" href="{{ 'logo.ico' | relative_url }}">
