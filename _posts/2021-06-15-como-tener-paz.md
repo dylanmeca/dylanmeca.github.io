@@ -84,6 +84,14 @@ Aveces nos encontramos con personas que nos hacen imposible la vida y no se dan 
 
 34 Jesús decía: «Padre, perdónales, porque no saben lo que hacen.» Se repartieron sus vestidos, echando a suertes.
 
+Debemos perdonarlos ya que debemos perdonar a nuestros enemigos como dijo Jesus en Evangelio según San Lucas, 6:27 - 28
+
+27 Yo les digo a ustedes que me escuchan: amen a sus enemigos, hagan el bien a los que los odian,
+
+28 bendigan a los que los maldicen, rueguen por los que los maltratan.
+
+Tambien tenemos que amarlos y orar por ellos.
+
 Debemos olvidar el pasado y dejarlo ir, ya que lo que sucedio en el pasado queda en el pasado, cuando nos dicen cosas que no nos gustan es mejor no escucharlo,  y orar a Dios para que esas personas cambien.
 
 Si queremos alcanzar la paz tenemos que soltar o hablar con alquien, tambien si nos acercamos a Dios y le pedimos paz, podemos alcanzar la paz, orale a Dios con las palabras que hay dentro de ti, porque Dios quiere escuchar tu corazon ya que las palabras que guardas, son hermosas.
