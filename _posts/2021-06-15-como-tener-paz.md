@@ -79,3 +79,13 @@ Si tienes fe veras la gloria de Dios y seras una persona diferente si haces orac
 Recuerda que debes amar a tus enemigos y orar por ellos para que cambien, y no debes darle importancia lo que digan lo demas de ti, porque no se dan cuenta de lo que dicen y hacen, pero ora por ellos, para que se den cuenta de que estan obrando mal
 no hagas lo que ellos hacen, no trates de corregirles haciendo lo mismo pues estaras haciendo lo mismo que ellos, y lo que debes hacer es ir a oracion.
 
+
+Aveces nos encontramos con personas que nos hacen imposible la vida y no se dan cuenta de lo que hacen como dice Jesus en Lucas, 23:34
+
+34 Jesús decía: «Padre, perdónales, porque no saben lo que hacen.» Se repartieron sus vestidos, echando a suertes.
+
+Debemos olvidar el pasado y dejarlo ir, ya que lo que sucedio en el pasado queda en el pasado, cuando nos dicen cosas que no nos gustan es mejor no escucharlo,  y orar a Dios para que esas personas cambien.
+
+Si queremos alcanzar la paz tenemos que soltar o hablar con alquien, tambien si nos acercamos a Dios y le pedimos paz, podemos alcanzar la paz, orale a Dios con las palabras que hay dentro de ti, porque Dios quiere escuchar tu corazon ya que las palabras que guardas, son hermosas.
+
+
