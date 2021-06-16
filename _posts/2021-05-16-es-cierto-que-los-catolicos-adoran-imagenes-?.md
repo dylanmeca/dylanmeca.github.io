@@ -56,3 +56,33 @@ Nosotros los catolicos sabemos que la imagen aumque sea de Cristo, no es la mism
 Una imagen representa al Hijo de Dios, o la Virgen y los santos que estan intimamente, unidos a nuestro señor Jesucristo.
 
 La imagen es una representación un recuerdo de aquella persona, te lo explico de otra forma, cuando se esta haciendo oración ante una imagen no se rinde ningun tipo de culto a la imagen en si misma, no hablamos con la materia de la imagen sino que estamos rindiendo culto a Dios o estamos venerando a la Virgen Maria o estamos pidiendo la ayuda de los santos.
+
+El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien esta representado en ella"
+
+Asi es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
+
+Gracias a sus imagenes los recordamos, ademas gracias a la imagen del santo recordamos quien era el santo (si era un obispo o un sacerdote o quiza un seglar o laico) la imagen tambien nos recuerda que virtud practico más (la pureza, o la pobreza, o la obediencia), tambien nos dice la imagen del santo que lo hizo santo (si un martirio, o el estudio o la mision), de la misma forma al ver una imagen de la madre de Dios, nos viene a la memoria que ella es nuestra madre inmaculada, que nos ama, que intercede siempre por nosotros y nos pide que llevemos una vida santa.
+
+Y cuando estamos viendo imagenes de las benditas almas del purgatorio, estamos recordando una realidad tambien revelada en la biblia y esto nos lleva a orar por nuestro difuntos.
+
+Todos aquellos que afirman que los catolicos adoramos imagenes, tienes que entender que estas son como el retrato de los padres que tenemos en casa para mirarlos, recordarlos y besarlos con amor y respeto.
+
+Ya entienden ustedes que no se besa la foto sino a los padres que quiza estan lejos o ya han fallecido.
+
+Tambien en los libros hay retratos de personajes historicos con la finalidad de que los lectores los conozcan y si han hecho cosas buenas, los admiren y los imiten, y esto a nadie le puede parecer mal.
+
+A los santos por medio de las imagenes no se les adora, pues solo adoramos a Dios.
+
+A los santos se les venera, es decir se reconoce, el valor que tienen por ser ejemplos en el seguimiento de nuestro señor.
+
+No podemos sacar de contexto lo que nos enseña la biblia como hacen algunos protestantes.
+
+Lo que Dios prohibe, no es hacer imagenes sino adorarlas.
+
+Otra prueba de esto es asi se demuestra acudiendo al texto hebreo, la palabra usada es PÉSEL, que quiere decir ídolo.
+
+Incluso te dire que en este idioma existen otras palabras para referirse a imagenes decorativas o representativas, palabras que Dios no pronuncia en el primer mandamiento.
+
+Si la imagen no representa un ídolo no tiene ningun problema, el primer mandamiento no hace referencia a imagenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
+
+Por lo tanto los catolicos no adoramos imagenes si no la veneramos.
