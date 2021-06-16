@@ -19,7 +19,7 @@ San Pablo nos lo dice en su discurso, Hechos, 17:29:
 
 29 «Si somos, pues, del linaje de Dios, no debemos pensar que la divinidad sea algo semejante al oro, la plata o la piedra, modelados por el arte y el ingenio humano.
 
-Y el mismo apostol san juan nos advierte en la 1º Carta de Juan, 5:
+Y el mismo apostol san juan nos advierte en la 1º Carta de Juan, 5:21:
 
 21 Hijitos, guárdense de los ídolos.
 
