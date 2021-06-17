@@ -1,6 +1,14 @@
 ---
 layout: post
-title: Es cierto que los catolicos adoran imagenes
+description: Es cierto que los catolicos adoran imagenes ?, la respuesta es no los catolicos no adoran imagenes, los catolicos veneran imagenes, venerar y adorar no es lo mismo, si quieres saber más mira este articulo y tiene un justificación con la biblia
+keywords:
+    - Dios
+    - es cierto que los catolicos adoran imagenes
+    - es cierto que los catolicos
+    - catolicos
+    - venerar imagenes
+    - justificacion
+    - biblia
 ---
 
 Nosotros los catolicos, no adoramos imagenes sabemos perfectamente bien que en Exodo 20:3 - 5:
