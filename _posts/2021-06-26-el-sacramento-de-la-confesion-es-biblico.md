@@ -1,5 +1,13 @@
 ---
-layout: post1
+layout: post
+description: En este articulo veremos una justificación biblia del sacramento de la confesión, este mismo sacramento es mencionado en la biblia
+keywords:
+     - Dios
+     - biblia
+     - catolicismo
+     - sacramento de la confesion
+     - sacramento
+     - confesion
 ---
 
 Los hermanos separados nos dicen que la confesión no es biblica, pero yo les digo que si es biblica y esta en la biblia.
