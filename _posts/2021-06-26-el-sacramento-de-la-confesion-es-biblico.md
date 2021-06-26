@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En este articulo veremos una justificación biblia del sacramento de la confesión, este mismo sacramento es mencionado en la biblia
+description: En este articulo veremos una justificación biblica del sacramento de la confesión, este mismo sacramento es mencionado en la biblia
 keywords:
      - Dios
      - biblia
