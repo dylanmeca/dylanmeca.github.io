@@ -24,6 +24,9 @@ disqus:
 
 url: "https://dylan14567.github.io"
 
+paginate: 7
+paginate_path: "/03/07/2021/page:num/"
+
 defaults:
     scope:
       path: "assets/**/*.pdf"
