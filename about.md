@@ -38,7 +38,4 @@ Estas políticas son del blog y te pueden ayudar a conocer ciertas informacióne
 
 * [Política De Cookies](https://dylan14567.github.io/politica-de-cookies)
 
-## Repositorio apt
-
-Este sitio web tiene un repositorio apt y ese repositorio apt es para termux, [mira más información](https://dylan14567.github.io/2021/03/09/lab-termux.html) en el articulo del repositorio apt. 
 
