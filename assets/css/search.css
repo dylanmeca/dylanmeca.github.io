@@ -1,7 +1,3 @@
-* {
-  box-sizing: border-box;
-}
-
 form.search input[type=text] {
   padding: 10px;
   font-size: 17px;
