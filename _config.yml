@@ -23,7 +23,7 @@ disqus:
   shortname: dylan14567
 
 url: "https://dylan14567.github.io"
-paginate: 7
+paginate: 10
 paginate_path: "/page:num/"
 
 defaults:
