@@ -24,6 +24,7 @@ disqus:
 
 url: "https://dylan14567.github.io"
 paginate: 7
+paginate_path: "/"
 
 defaults:
     scope:
