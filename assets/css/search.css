@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-form.search input[type=search] {
+form.search input[type=text] {
   padding: 10px;
   font-size: 17px;
   border: 1px solid grey;
