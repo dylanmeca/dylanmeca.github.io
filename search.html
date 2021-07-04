@@ -9,10 +9,47 @@ keywords:
     - buscar en el sitio web
     - web
 ---
-<form action="search.html" method="get">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+form.search input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.search button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+
+form.search button:hover {
+  background: #0b7dda;
+}
+
+form.search::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<form class="search" action="search.html" method="get">
    <label for="search-box"></label>
    <input type="text" id="search-box" name="query">
-   <input type="submit" value="Buscar" class="boton">
+   <input type="submit" value="Buscar" class="fa fa-search">
 </form>
 
 <ul id="search-results"></ul>
