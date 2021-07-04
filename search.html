@@ -9,39 +9,6 @@ keywords:
     - buscar en el sitio web
     - web
 ---
-<style>
-textarea,
-input[type="text"] {
-	width: 100%;
-	padding: 10px;
-	font-size: 18px;
-	display: block;
-	box-sizing: padding-box;
-}
-
-textarea {
-	height: 250px;
-	line-height: 1.5em;
-	border: 1px solid #ccc;
-	resize: none;
-}
-
-label {
-	margin: 30px 0 10px 0;
-	display: block;
-}
-
-input[type="submit"] {
-	margin: 30px 0 0 0;
-	font-size: 20px;
-}
-
-.search {
-	width: 50%;
-	margin: 0 auto;
-	padding: 100px 0;
-}
-</style>
 <form action="search.html" method="get">
    <label for="search-box"></label>
    <input type="text" id="search-box" name="query">
@@ -52,29 +19,16 @@ input[type="submit"] {
 
 <script>
   window.store = {
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}",
-      "content"  : "{{ post.content | strip_html | strip_newlines }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for page in site.pages %}
-   {
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "category" : "{{ page.category }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines }}"
-     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    {% for post in site.posts %}
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
+        "category": "{{ post.category | xml_escape }}",
+        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ post.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
   };
 </script>
 <script src="{{ 'assets/js/lunr.min.js' | relative_url }}"></script>
