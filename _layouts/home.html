@@ -48,7 +48,7 @@ layout: default
         {%- endif %}
           <li><div class="current-page">{{ paginator.page }}</div></li>
         {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+          <li><a href="{{ paginator.next_page_path | relative_url | replace: ':num', page }}" class="next-page">{{ paginator.next_page }}</a></li>
         {%- else %}
           <li><div class="pager-edge">•</div></li>
         {%- endif %}
