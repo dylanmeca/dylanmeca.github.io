@@ -10,6 +10,8 @@ keywords:
     - web
 ---
 <style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 .search {
   width: 100%;
   position: relative;
@@ -53,12 +55,15 @@ keywords:
 }
 
 </style>
-<form action="search.html" method="get">
-   <label for="search-box"></label>
-   <input type="text" id="search-box" name="query">
-   <input type="submit" value="Search" class="boton">
-   <i class="fa fa-search"></i>
-</form>
+<div class="wrap">
+   <div class="search">
+     <form action="search.html" method="get">
+        <label for="search-box"></label>
+        <input type="text" id="search-box" name="query">
+        <i class="fa fa-search"></i>
+      </form>
+   </div>
+</div>
 
 <ul id="search-results"></ul>
 
