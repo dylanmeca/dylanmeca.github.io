@@ -73,3 +73,17 @@ pkg install proot-distro
 ```
 
 Una vez instalado debemos ejecutar el comando: ``` proot-distro install ubuntu-20.04 ```, esto instalara ubuntu en termux, una vez finalizada la instalación debemos ejecutar el comando ```proot-distro login ubuntu-20.04```, una vez ejecutado el comando se abra iniciado la interfaz de consola de ubuntu.
+
+# Interfaz Gráfica
+
+En este video veremos la instalación de la interfaz grafica de Ubuntu:
+
+<div class='youtube-video'>
+  <iframe title="video" width="640" height="390" src="https://www.youtube.com/embed/RRZsCa_jOy0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br />
+
+Se recomienda usar el entorno de escritorio xfce4 ya que consume menos recursos.
+
+
+
