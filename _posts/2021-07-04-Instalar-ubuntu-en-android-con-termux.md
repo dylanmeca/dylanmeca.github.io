@@ -48,6 +48,10 @@ Más información de proot en: [https://wiki.termux.com/wiki/PRoot](https://wiki
 Ubuntu es un sistema operativo de software libre y código abierto. Es una distribución de Linux basada en Debian. Puede correr en computadores de escritorio y servidores. Está orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario. [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)
 
 # Instalación
+<div class='youtube-video'>
+  <iframe title="video" width="640" height="390" src="https://www.youtube.com/embed/p-Fjww-52Mg" frameborder="0" allowfullscreen></iframe>
+</div>
+<br />
 
 Para instalar Ubuntu en Termux nesesitaremos instalar proot y para eso tenemos que ejecutar estos comandos:
 
