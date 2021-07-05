@@ -68,7 +68,7 @@ proot-distro es un script que te permite instalar distribuciónes linux en Termu
 
 ```shell
 
-pkg install proot-distro
+pkg install proot-distro -y
 
 ```
 
