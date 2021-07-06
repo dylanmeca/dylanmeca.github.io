@@ -70,7 +70,6 @@ Cuando ejecutamos eso creamos una carpeta con el nombre dist donde estara las ca
 
 mv dist/dists $PREFIX/share/apache2/default-site/htdocs
 
-
 ```
 
 Cuando ejecutamos este comando movemos la carpeta dists a ```$PREFIX/share/apache2/default-site/htdocs```, la ruta donde esta htdocs es la carpeta donde estan los archivos que seran visibles en el sitio web, para que el sitio web funcione debemos ejecutar el comando ```apachectl```, esto abrira un servidor en localhost en el puerto 8080.
