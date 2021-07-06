@@ -73,7 +73,7 @@ mv dist/dists $PREFIX/share/apache2/default-site/htdocs
 
 ```
 
-Cuando ejecutamos este comando movemos la carpeta dists a $PREFIX/share/apache2/default-site/htdocs, la ruta donde esta htdocs es la carpeta donde estan los archivos que seran visibles en el sitio web, para que el sitio web funcione debemos ejecutar el comando ```apachectl```, esto abrira un servidor en localhost en el puerto 8080.
+Cuando ejecutamos este comando movemos la carpeta dists a ```$PREFIX/share/apache2/default-site/htdocs```, la ruta donde esta htdocs es la carpeta donde estan los archivos que seran visibles en el sitio web, para que el sitio web funcione debemos ejecutar el comando ```apachectl```, esto abrira un servidor en localhost en el puerto 8080.
 
 Una vez hecho esto debemos probar que todo funciona correctamente pero primero debemos añadir el repositorio apt a sources.list, pero no lo añadiremos en ese mismo archivo si no tendremos que ejecutar este comando para ir a la carpeta sources.list.d y ahi crear una archivo donde pondremos el repositorio apt ```cd $PREFIX/etc/apt/sources.list.d```, una vez aqui debemos crear un archivo donde pondremos la configuración para usar el repositorio apt y para eso ejecutaremos este comando ```nvim name.list```, una vez dentro del editor de codigo tendremos que poner el siquiente codigo:
 
