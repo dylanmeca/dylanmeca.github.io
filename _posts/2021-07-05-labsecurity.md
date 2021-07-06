@@ -1,6 +1,5 @@
 ---
-layout: default
-title: labsecurity
+layout: post
 description: labsecurity is a framework and its use is for ethical hacking and computer security
 permalink: /labsecurity
 keywords:
