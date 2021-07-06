@@ -48,7 +48,9 @@ Dentro del editor de codigo debes buscar el siquiente codigo dentro de termux-ap
 
 ```python
 
-if False:                                     print('Signing with gpg...')       
+if False:                                     
+
+print('Signing with gpg...')       
 ```
 
 Si encuentras esas lineas de codigo reemplaza el ```if False``` por ```if True```, esto habilitara la creación del repositorio apt usando la firma gpg.
@@ -81,7 +83,7 @@ deb http://localhost:8080 termux extras
 
 ```
 
-Una vez hecho eso tenemos que ir a $HOME y ecutar estos comandos:
+Una vez hecho eso tenemos que ir a $HOME y ejecutar estos comandos:
 
 ```shell
 
@@ -90,7 +92,7 @@ gpg --export --armor correo@dominio >> clave.key
 
 ```
 
-Con estos comando habremos exportado una clave GPG, y esta misma clave nos permitira usar el repositorio apt y para eso ejecutaremos el comando ```apt-key add clave.key```, una vez ejecutado ese comando ya podremos probar el repositorio apt y para eso ejecutaremos el comando ```pkg update -y && pkg upgrade -y```, esto actualizaran los paquetes y ahi veremos el sitio web donde estan nuestros paquetes.
+Con estos comando habremos exportado una clave GPG, y esta misma clave nos permitira usar el repositorio apt y para eso ejecutaremos el comando ```apt-key add clave.key```, una vez ejecutado ese comando ya podremos probar el repositorio apt y para eso ejecutaremos el comando ```pkg update -y && pkg upgrade -y```, esto actualizara los paquetes y ahi veremos el sitio web donde estan nuestros paquetes.
 
 
 
