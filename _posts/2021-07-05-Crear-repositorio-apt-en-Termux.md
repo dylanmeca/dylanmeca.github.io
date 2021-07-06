@@ -77,7 +77,7 @@ Cuando ejecutamos este comando movemos la carpeta dists a $PREFIX/share/apache2/
 
 Una vez hecho esto debemos probar que todo funciona correctamente pero primero debemos añadir el repositorio apt a sources.list, pero no lo añadiremos en ese mismo archivo si no tendremos que ejecutar este comando para ir a la carpeta sources.list.d y ahi crear una archivo donde pondremos el repositorio apt ```cd $PREFIX/etc/apt/sources.list.d```, una vez aqui debemos crear un archivo donde pondremos la configuración para usar el repositorio apt y para eso ejecutaremos este comando ```nvim name.list```, una vez dentro del editor de codigo tendremos que poner el siquiente codigo:
 
-```list
+```shell
 
 deb http://localhost:8080 termux extras
 
