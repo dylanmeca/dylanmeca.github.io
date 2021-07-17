@@ -25,6 +25,7 @@ labsecurity is a framework and its use is for ethical hacking and computer secur
   - [Select ip](#select-ip)
   - [Select port](#select-port)
   - [How the use command works](#how-the-use-command-works)
+  - [Get NS from DNS](#get-ns-from-dns)
 
 Information about the installation and more details in: [https://github.com/dylan14567/labsecurity](https://github.com/dylan14567/labsecurity)
 
@@ -50,7 +51,7 @@ Now that we know how the ``` set ``` command works, we just have to put, for exa
 
 The ``` use ``` command is used to use something specific, for example if we put the ``` help ``` command in the console we will get ``` use scanports ```, what it does is that you will be using ``` scanports ``` and ``` scanports ``` is used to scan several ports, but first we would have to have used ``` set ip ``` to select our ip then at the end we put ``` run ``` or ``` exploit ``` to make it work.
 
-## Scan NS from DNS
+## Get NS from DNS
 
 To get the NS from DNS, you must put the following commands:
 
