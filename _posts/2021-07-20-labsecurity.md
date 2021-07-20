@@ -1,12 +1,37 @@
 ---
 layout: post
-description: labsecurity is a framework and its use is for ethical hacking and computer security
+description: labsecurity is a framework and its use is for ethical hacking and computer security, This documentation describes how to use the labsecurity commands
 permalink: /labsecurity
 keywords:
   - labsecurity
   - security
   - lab
   - documentation
+  - framework
+  - bookshop
+  - console
+  - program
+  - software
+  - python
+  - security
+  - security audit
+  - exploit
+  - scanner
+  - hacking
+  - pentesting
+  - vulnerability detection
+  - vulnerability
+  - hacking
+  - hacking tool
+  - vulnerability scanners
+  - security scanner
+  - linux tools
+  - information gathering
+  - security tools
+  - hacking tools
+  - security tool
+  - linux tool
+  - security scanners
 ---
 
 [![Build Status](https://img.shields.io/github/stars/dylan14567/labsecurity.svg)](https://github.com/dylan14567/labsecurity)
