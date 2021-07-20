@@ -38,7 +38,7 @@ To use the console we can use the ``` help ``` command to obtain information als
 
 The ``` set ``` command allows you to select something, for example with ``` set target ```, we select a target, but the complete command would be ``` set target 192.168.1.1 ```, with that we would be selecting the target's ip.
 
-But to select a port the command ``` set port ``` is used and an example would be ``` set port 80 ```, with which we would be selecting port 80.
+But to select a port, ``` set port ``` is used, and an example would be ``` set port 80 ```, with which we would be selecting port 80.
 
 ```
 
