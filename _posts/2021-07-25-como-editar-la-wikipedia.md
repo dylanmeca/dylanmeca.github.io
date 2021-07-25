@@ -25,4 +25,6 @@ Algo que debemos tener en cuenta es investisgar sobre como funciona el wikitexto
 
 En la wikipedia podemos mejorar articulos, más información en: [https://es.wikipedia.org/wiki/Ayuda:Como_puedes_colaborar](https://es.wikipedia.org/wiki/Ayuda:Como_puedes_colaborar).
 
+Debemos tener en cuenta que debemos tener buena gramatica y redacción, tambien debes saber que toda la información que añadas a un artículo, a la par, debes añadir también las referencias para que tus aportes tengan una sustentabilidad y se consideren válidas, recuerda que Wikipedia es una enciclopedia. 
+
 Tambien podemos encontrar mucha más información en: [https://es.wikipedia.org/wiki/Portal:Comunidad](https://es.wikipedia.org/wiki/Portal:Comunidad)
