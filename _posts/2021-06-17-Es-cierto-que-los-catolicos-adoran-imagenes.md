@@ -55,9 +55,9 @@ Por tanto en el Nuevo Testamento la permisión de hacer imágenes toma un nuevo 
 
 Dios, nuestro señor sique siendo puramente espiritual, pero se ha unido intimamente a la naturaleza humana que es material.
 
-Por ello es lógico que lo representemos para darle culto, el representar a Cristo por medio de imagenes es algo totalmente lícito, puesto que es la representación de alquien que verdaderamente es Dios.
+Por ello es lógico que lo representemos para venerarlo, el representar a Cristo por medio de imagenes es algo totalmente lícito, puesto que es la representación de alquien que verdaderamente es Dios.
 
-Por tanto el culto que le triburamos a Jesus mirando una imagen suya, no es adoración a la materialidad de la imagen, sino a la persona que en ella esta representada.
+Por tanto la veneración que le triburamos a Jesus mirando una imagen suya, no es adoración a la materialidad de la imagen, sino a la persona que en ella esta representada.
 
 Nosotros los catolicos sabemos que la imagen aunque sea de Cristo, no es la misma divinidad, y en consecuencia no rendimos culto a esa materia.
 
@@ -92,5 +92,7 @@ Otra prueba de esto es asi se demuestra acudiendo al texto hebreo, la palabra us
 Incluso te dire que en este idioma existen otras palabras para referirse a imagenes decorativas o representativas, palabras que Dios no pronuncia en el primer mandamiento.
 
 Si la imagen no representa un ídolo no tiene ningun problema, el primer mandamiento no hace referencia a imagenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
+
+Venerar significa recordar su ejemplo y admirar su ejemplo y tratar de sequir sus pasos.
 
 Por lo tanto los catolicos no adoramos imagenes si no la veneramos.
