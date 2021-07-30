@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 description: labsecurity is a framework and its use is for ethical hacking and computer security, This documentation describes how to use the labsecurity commands
 permalink: /labsecurity
 keywords:
