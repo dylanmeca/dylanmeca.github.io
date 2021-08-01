@@ -13,11 +13,11 @@ keywords:
 
 Nosotros los católicos, no adoramos imágenes sabemos perfectamente bien que en Exodo 20:3 - 5:
 
-3. No tendrás otros dioses delante de mi.
+3 No tendrás otros dioses delante de mi.
 
-4. No te harás estatua ni imagen alguna de lo que hay arriba, en el cielo, abajo, en la tierra, y en las aguas debajo de la tierra.
+4 No te harás estatua ni imagen alguna de lo que hay arriba, en el cielo, abajo, en la tierra, y en las aguas debajo de la tierra.
 
-5. No te postres ante esos dioses, ni les sirvas, porque yo, Yavé, tu Dios, soy un Dios celoso. yo pido cuentas a hijos, nietos y biznietos por la maldad de sus padres que no me quisieron.
+5 No te postres ante esos dioses, ni les sirvas, porque yo, Yavé, tu Dios, soy un Dios celoso. yo pido cuentas a hijos, nietos y biznietos por la maldad de sus padres que no me quisieron.
 
 Los católicos sabemos que esta prohibido y no adoramos imágenes, esta prohibido hacerse todo tipo de imagen que se presente como divinidad y nos prohíbe hacer ídolos.
 
