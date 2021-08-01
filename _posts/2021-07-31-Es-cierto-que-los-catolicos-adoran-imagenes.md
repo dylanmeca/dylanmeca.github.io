@@ -71,13 +71,19 @@ Una imagen representa al Hijo de Dios, o la Virgen y los santos que están intim
 
 La imagen es una representación un recuerdo de aquella persona, te lo explico de otra forma, cuando se esta haciendo oración ante una imagen no se rinde ningún tipo de culto a la imagen en si misma, no hablamos con la materia de la imagen sino que estamos rindiendo culto a Dios o estamos venerando a la Virgen María o estamos pidiendo la ayuda de los santos.
 
-Si leemos en la biblia en Josué, 7:6 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde.
+Si leemos en la biblia en Josué, 7:6 nos dice:
+
+6 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde.
 
 Aqui vemos que Josué se postro delante del arca pero nunca adoro al arca, y lo que hizo fue orarle a Dios.
 
-Josué le habla a Dios pero postrado delante del arca. La forma en que se narra dice claro: permanecieron postrados delante del arca.
+Josué le habla a Dios pero postrado delante del arca, la forma en que se narra dice claro que permanecieron postrados delante del arca.
 
-Josué 7, 10 menciona que Yahvé pregunta: ¿por qué estás postrado en tierra? Esa pregunta es curiosa, pues refleja que Josué lo hizo más por temor que por otra cosa. La respuesta de Dios demuestra que la postura no es un acto de adoración, porque si no, Dios acogiera la actitud de Josué de otro modo. Por tanto, se logra mostrar que no todo el que esté arrodillado está adorando, y si lo está delante de la presencia de Dios, por temor, tampoco se puede considerar que esté adorando a Dios.
+Si nos vamos a Josué 7:10 nos dice:
+
+10 Yavé respondió: «Levántate, ¿por qué estás postrado en tierra?
+
+Esa pregunta es curiosa, pues refleja que Josué lo hizo más por temor que por otra cosa, la respuesta de Dios demuestra que la postura no es un acto de adoración, porque si no, Dios acogiera la actitud de Josué de otro modo, por tanto, se logra mostrar que no todo el que esté arrodillado está adorando, y si lo está delante de la presencia de Dios, por temor, tampoco se puede considerar que esté adorando a Dios.
 
 El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien esta representado en ella"
 
