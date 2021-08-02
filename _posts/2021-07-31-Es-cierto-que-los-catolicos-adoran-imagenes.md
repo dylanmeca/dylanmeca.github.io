@@ -118,21 +118,21 @@ Así es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y
 
 Gracias a sus imágenes los recordamos, ademas gracias a la imagen del santo recordamos quien era el santo (si era un obispo o un sacerdote o quizá un seglar o laico) la imagen también nos recuerda que virtud practico más (la pureza, o la pobreza, o la obediencia), también nos dice la imagen del santo que lo hizo santo (si un martirio, o el estudio o la misión), de la misma forma al ver una imagen de la madre de Dios, nos viene a la memoria que ella es nuestra madre inmaculada, que nos ama, que intercede siempre por nosotros y nos pide que llevemos una vida santa.
 
-Y cuando estamos viendo imagenes de las benditas almas del purgatorio, estamos recordando una realidad tambien revelada en la biblia y esto nos lleva a orar por nuestro difuntos.
+Y cuando estamos viendo imágenes de las benditas almas del purgatorio, estamos recordando una realidad también revelada en la biblia y esto nos lleva a orar por nuestros difuntos.
 
-Todos aquellos que afirman que los catolicos adoramos imagenes, tienes que entender que estas son como el retrato de los padres que tenemos en casa para mirarlos, recordarlos y besarlos con amor y respeto.
+Todos aquellos que afirman que los católicos adoramos imágenes, tienes que entender que estas son como el retrato de los padres que tenemos en casa para mirarlos, recordarlos y besarlos con amor y respeto.
 
-Ya entienden ustedes que no se besa la foto sino a los padres que quiza estan lejos o ya han fallecido.
+Ya entienden ustedes que no se besa la foto sino a los padres que quizá están lejos o ya han fallecido.
 
-Tambien en los libros hay retratos de personajes historicos con la finalidad de que los lectores los conozcan y si han hecho cosas buenas, los admiren y los imiten, y esto a nadie le puede parecer mal.
+También en los libros hay retratos de personajes históricos con la finalidad de que los lectores los conozcan y si han hecho cosas buenas, los admiren y los imiten, y esto a nadie le puede parecer mal.
 
-A los santos por medio de las imagenes no se les adora, pues solo adoramos a Dios.
+A los santos por medio de las imágenes no se les adora, pues solo adoramos a Dios.
 
 A los santos se les venera, es decir se reconoce, el valor que tienen por ser ejemplos en el seguimiento de nuestro señor.
 
 No podemos sacar de contexto lo que nos enseña la biblia como hacen algunos protestantes.
 
-Lo que Dios prohibe, no es hacer imagenes sino adorarlas.
+Lo que Dios prohíbe, no es hacer imágenes sino adorarlas.
 
 Otra prueba de esto es asi se demuestra acudiendo al texto hebreo, la palabra usada es PÉSEL, que quiere decir ídolo.
 
