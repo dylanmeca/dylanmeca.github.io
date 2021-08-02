@@ -40,11 +40,11 @@ keywords:
 
 Nosotros los católicos, no adoramos imágenes sabemos perfectamente bien que en Exodo 20:3 - 5:
 
-3 No tendrás otros dioses delante de mi.
+> 3 No tendrás otros dioses delante de mi.
 
-4 No te harás estatua ni imagen alguna de lo que hay arriba, en el cielo, abajo, en la tierra, y en las aguas debajo de la tierra.
+> 4 No te harás estatua ni imagen alguna de lo que hay arriba, en el cielo, abajo, en la tierra, y en las aguas debajo de la tierra.
 
-5 No te postres ante esos dioses, ni les sirvas, porque yo, Yavé, tu Dios, soy un Dios celoso. yo pido cuentas a hijos, nietos y biznietos por la maldad de sus padres que no me quisieron.
+> 5 No te postres ante esos dioses, ni les sirvas, porque yo, Yavé, tu Dios, soy un Dios celoso. yo pido cuentas a hijos, nietos y biznietos por la maldad de sus padres que no me quisieron.
 
 Los católicos sabemos que está prohibido y no adoramos imágenes, está prohibido hacerse todo tipo de imagen que se presente como divinidad y nos prohíbe hacer ídolos.
 
@@ -54,11 +54,11 @@ La biblia nos enseña que los cristianos escaparon del uso de imágenes que se u
 
 San Pablo nos lo dice en su discurso, Hechos, 17:29:
 
-29 «Si somos, pues, del linaje de Dios, no debemos pensar que la divinidad sea algo semejante al oro, la plata o la piedra, modelados por el arte y el ingenio humano.
+> 29 «Si somos, pues, del linaje de Dios, no debemos pensar que la divinidad sea algo semejante al oro, la plata o la piedra, modelados por el arte y el ingenio humano.
 
 Y el mismo apostol san juan nos advierte en la 1º Carta de Juan, 5:21:
 
-21 Hijitos, guárdense de los ídolos.
+> 21 Hijitos, guárdense de los ídolos.
 
 La iglesia naciente tenia claro que solo se debía adorar a Dios, no solo hay ídolos que son materia también hay ídolos inmateriales, estos nos alejan de Dios.
 
@@ -68,7 +68,7 @@ En este sentido, que el mismo Dios manda hacer representaciones o imágenes de c
 
 Exodo, 25:18
 
-18 Asi mismo, harás dos querubines de oro macizo, y los pondrás en las extremidades de la cubierta.
+> 18 Asi mismo, harás dos querubines de oro macizo, y los pondrás en las extremidades de la cubierta.
 
 La misma tienda del encuentro, donde estaba el arca de la alianza esta llena de imágenes, lo mismo el templo de Jerusalén, también tenia imágenes y siempre por mandado divino.
 
@@ -100,7 +100,7 @@ La imagen es una representación un recuerdo de aquella persona, te lo explico d
 
 Si leemos en la biblia en Josué, 7:6 nos dice:
 
-6 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde.
+> 6 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde.
 
 Aquí vemos que Josué se postro delante del arca pero nunca adoro al arca, y lo que hizo fue orarle a Dios.
 
@@ -108,7 +108,7 @@ Josué le habla a Dios pero postrado delante del arca, la forma en que se narra 
 
 Si nos vamos a Josué 7:10 nos dice:
 
-10 Yavé respondió: «Levántate, ¿por qué estás postrado en tierra?
+> 10 Yavé respondió: «Levántate, ¿por qué estás postrado en tierra?
 
 Esa pregunta es curiosa, pues refleja que Josué lo hizo más por temor que por otra cosa, la respuesta de Dios demuestra que la postura no es un acto de adoración, porque si no, Dios acogiera la actitud de Josué de otro modo, por tanto, se logra mostrar que no todo el que esté arrodillado está adorando, y si lo está delante de la presencia de Dios, por temor, tampoco se puede considerar que esté adorando a Dios.
 
