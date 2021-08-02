@@ -46,7 +46,7 @@ Nosotros los católicos, no adoramos imágenes sabemos perfectamente bien que en
 
 5 No te postres ante esos dioses, ni les sirvas, porque yo, Yavé, tu Dios, soy un Dios celoso. yo pido cuentas a hijos, nietos y biznietos por la maldad de sus padres que no me quisieron.
 
-Los católicos sabemos que esta prohibido y no adoramos imágenes, esta prohibido hacerse todo tipo de imagen que se presente como divinidad y nos prohíbe hacer ídolos.
+Los católicos sabemos que está prohibido y no adoramos imágenes, está prohibido hacerse todo tipo de imagen que se presente como divinidad y nos prohíbe hacer ídolos.
 
 Por lo tanto los católicos no adoramos imágenes si no la veneramos y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
 
