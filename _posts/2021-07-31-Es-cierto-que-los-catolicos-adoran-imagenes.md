@@ -94,6 +94,7 @@ Por tanto la veneración que hacemos a Jesús mirando una imagen suya, no es ado
 
 Nosotros los católicos sabemos que la imagen aunque sea de Cristo, no es la misma divinidad, y en consecuencia no rendimos culto a esa materia.
 
+Una imagen representa al Hijo de Dios, o la Virgen y los santos que están íntimamente, unidos a nuestro señor Jesucristo.
 
 La imagen es una representación un recuerdo de aquella persona, te lo explico de otra forma, cuando se está haciendo oración ante una imagen no se rinde ningún tipo de culto a la imagen en si misma, no hablamos con la materia de la imagen sino que estamos rindiendo culto a Dios o estamos venerando a la Virgen María o estamos pidiendo la ayuda de los santos.
 
