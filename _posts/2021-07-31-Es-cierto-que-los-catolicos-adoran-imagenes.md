@@ -102,7 +102,7 @@ Si leemos en la biblia en Josué, 7:6 nos dice:
 
 6 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde.
 
-Aqui vemos que Josué se postro delante del arca pero nunca adoro al arca, y lo que hizo fue orarle a Dios.
+Aquí vemos que Josué se postro delante del arca pero nunca adoro al arca, y lo que hizo fue orarle a Dios.
 
 Josué le habla a Dios pero postrado delante del arca, la forma en que se narra dice claro que permanecieron postrados delante del arca.
 
@@ -112,11 +112,11 @@ Si nos vamos a Josué 7:10 nos dice:
 
 Esa pregunta es curiosa, pues refleja que Josué lo hizo más por temor que por otra cosa, la respuesta de Dios demuestra que la postura no es un acto de adoración, porque si no, Dios acogiera la actitud de Josué de otro modo, por tanto, se logra mostrar que no todo el que esté arrodillado está adorando, y si lo está delante de la presencia de Dios, por temor, tampoco se puede considerar que esté adorando a Dios.
 
-El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien esta representado en ella"
+El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien está representado en ella"
 
-Asi es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
+Así es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
 
-Gracias a sus imagenes los recordamos, ademas gracias a la imagen del santo recordamos quien era el santo (si era un obispo o un sacerdote o quiza un seglar o laico) la imagen tambien nos recuerda que virtud practico más (la pureza, o la pobreza, o la obediencia), tambien nos dice la imagen del santo que lo hizo santo (si un martirio, o el estudio o la mision), de la misma forma al ver una imagen de la madre de Dios, nos viene a la memoria que ella es nuestra madre inmaculada, que nos ama, que intercede siempre por nosotros y nos pide que llevemos una vida santa.
+Gracias a sus imágenes los recordamos, ademas gracias a la imagen del santo recordamos quien era el santo (si era un obispo o un sacerdote o quizá un seglar o laico) la imagen también nos recuerda que virtud practico más (la pureza, o la pobreza, o la obediencia), también nos dice la imagen del santo que lo hizo santo (si un martirio, o el estudio o la misión), de la misma forma al ver una imagen de la madre de Dios, nos viene a la memoria que ella es nuestra madre inmaculada, que nos ama, que intercede siempre por nosotros y nos pide que llevemos una vida santa.
 
 Y cuando estamos viendo imagenes de las benditas almas del purgatorio, estamos recordando una realidad tambien revelada en la biblia y esto nos lleva a orar por nuestro difuntos.
 
