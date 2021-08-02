@@ -134,10 +134,8 @@ No podemos sacar de contexto lo que nos enseña la biblia como hacen algunos pro
 
 Lo que Dios prohíbe, no es hacer imágenes sino adorarlas.
 
-Otra prueba de esto es asi se demuestra acudiendo al texto hebreo, la palabra usada es PÉSEL, que quiere decir ídolo.
+Incluso te diré que en este idioma existen otras palabras para referirse a imágenes decorativas o representativas, palabras que Dios no pronuncia en el primer mandamiento.
 
-Incluso te dire que en este idioma existen otras palabras para referirse a imagenes decorativas o representativas, palabras que Dios no pronuncia en el primer mandamiento.
+Si la imagen no representa un ídolo no tiene ningún problema, el primer mandamiento no hace referencia a imágenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
 
-Si la imagen no representa un ídolo no tiene ningun problema, el primer mandamiento no hace referencia a imagenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
-
-En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con la imágenes son venerarlas y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
+En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes son venerarlas y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
