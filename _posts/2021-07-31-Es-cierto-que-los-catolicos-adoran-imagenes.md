@@ -86,17 +86,16 @@ San Pablo nos dice que Cristo se hizo la "imagen visible del Dios invisible" (Co
 
 Por tanto en el Nuevo Testamento la permisión de hacer imágenes toma un nuevo sentido por la encarnación del hijo de Dios.
 
-Dios, nuestro señor sigue siendo puramente espiritual, pero se ha unido intimamente a la naturaleza humana que es material.
+Dios, nuestro señor sigue siendo puramente espiritual, pero se ha unido íntimamente a la naturaleza humana que es material.
 
 Por ello es lógico que lo representemos para venerarlo, el representar a Cristo por medio de imágenes es algo totalmente lícito, puesto que es la representación de alguien que verdaderamente es Dios.
 
-Por tanto la veneración que le triburamos a Jesús mirando una imagen suya, no es adoración a la materialidad de la imagen, sino a la persona que en ella esta representada.
+Por tanto la veneración que hacemos a Jesús mirando una imagen suya, no es adoración a la materialidad de la imagen, sino a la persona que en ella esta representada.
 
 Nosotros los católicos sabemos que la imagen aunque sea de Cristo, no es la misma divinidad, y en consecuencia no rendimos culto a esa materia.
 
-Una imagen representa al Hijo de Dios, o la Virgen y los santos que están intimamente, unidos a nuestro señor Jesucristo.
 
-La imagen es una representación un recuerdo de aquella persona, te lo explico de otra forma, cuando se esta haciendo oración ante una imagen no se rinde ningún tipo de culto a la imagen en si misma, no hablamos con la materia de la imagen sino que estamos rindiendo culto a Dios o estamos venerando a la Virgen María o estamos pidiendo la ayuda de los santos.
+La imagen es una representación un recuerdo de aquella persona, te lo explico de otra forma, cuando se está haciendo oración ante una imagen no se rinde ningún tipo de culto a la imagen en si misma, no hablamos con la materia de la imagen sino que estamos rindiendo culto a Dios o estamos venerando a la Virgen María o estamos pidiendo la ayuda de los santos.
 
 Si leemos en la biblia en Josué, 7:6 nos dice:
 
