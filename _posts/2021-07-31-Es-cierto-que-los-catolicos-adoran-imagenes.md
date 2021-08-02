@@ -134,7 +134,7 @@ No podemos sacar de contexto lo que nos enseña la biblia como hacen algunos pro
 
 Lo que Dios prohíbe, no es hacer imágenes sino adorarlas.
 
-Otra prueba de esto es así se demuestra acudiendo al texto hebreo, la palabra usada es PÉSEL, que quiere decir ídolo.
+Otra prueba de esto es si se demuestra acudiendo al texto hebreo, la palabra usada es PÉSEL, que quiere decir ídolo.
 
 Incluso te diré que en este idioma existen otras palabras para referirse a imágenes decorativas o representativas, palabras que Dios no pronuncia en el primer mandamiento.
 
