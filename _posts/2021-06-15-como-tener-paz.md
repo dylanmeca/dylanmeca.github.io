@@ -16,13 +16,13 @@ nos ayude a solucionar nuestros problemas, y se haga su voluntad, tambien tenemo
 
 Algunas personas nos causan problemas y nos insultan, y no se dan cuenta de lo que hacen, es mejor perdonarlos como dice San Lucas, 6:35 - 38 y dice haci:
 
-35 Amen a sus enemigos, hagan el bien y presten sin esperar nada a cambio. Entonces la recompensa de ustedes será grande, y serán hijos del Altísimo, que es bueno con los ingratos y los pecadores.
+> 35 Amen a sus enemigos, hagan el bien y presten sin esperar nada a cambio. Entonces la recompensa de ustedes será grande, y serán hijos del Altísimo, que es bueno con los ingratos y los pecadores.
 
-36 Sean compasivos como es compasivo el Padre de ustedes.
+> 36 Sean compasivos como es compasivo el Padre de ustedes.
 
-37 No juzguen y no serán juzgados; no condenen y no serán condenados; perdonen y serán perdonados.
+> 37 No juzguen y no serán juzgados; no condenen y no serán condenados; perdonen y serán perdonados.
 
-38 Den, y se les dará; se les echará en su delantal una medida colmada, apretada y rebosante. Porque con la medida que ustedes midan, serán medidos ustedes.»
+> 38 Den, y se les dará; se les echará en su delantal una medida colmada, apretada y rebosante. Porque con la medida que ustedes midan, serán medidos ustedes.»
 
 Tenemos que perdonarlos, aunque nuestros enemigos nos hagan daño tenemos que amarlos y bendecirlos y rezar por ellos para que sean hijos del Dios Padre todopoderoso, y cambien.
 
@@ -32,47 +32,45 @@ estan cegados por su maldad y debemos que rezar por ellos para que se den cuenta
 
 Si confiamos y tenemos la fe en que Dios nos protegue y nos da paz, estaremoa seguros como dice en Salmos 23:4 y dice haci:
 
-4 Aunque pase por valle tenebroso, ningún mal temeré, porque tú vas conmigo; tu vara y tu cayado, ellos me sosiegan.
+> 4 Aunque pase por valle tenebroso, ningún mal temeré, porque tú vas conmigo; tu vara y tu cayado, ellos me sosiegan.
 
 Si nos damos cuenta esa frase nos dice que aunque estemos en una dificultad no hay que temer por que Dios es tu refugio y el te proteje vajo el abrigo de sus alas, si lees salmos 91 te daras cuenta, y dice haci:
 
-1 Tú que habitas al amparo del Altísimo y resides a la sombra del Omnipotente,
+> 1 Tú que habitas al amparo del Altísimo y resides a la sombra del Omnipotente,
 
+> 2 dile al Señor: "Mi amparo, mi refugio, mi Dios, en quien yo pongo mi confianza".
 
-2 dile al Señor: "Mi amparo, mi refugio, mi Dios, en quien yo pongo mi confianza".
+> 3 El te librará del lazo del cazador y del azote de la desgracia;
 
-3 El te librará del lazo del cazador y del azote de la desgracia;
+> 4 te cubrirá con sus plumas y hallarás bajo sus alas un refugio.
 
-4 te cubrirá con sus plumas y hallarás bajo sus alas un refugio.
+> 5 No temerás los miedos de la noche ni la flecha disparada de día,
 
-5 No temerás los miedos de la noche ni la flecha disparada de día,
+> 6 ni la peste que avanza en las tinieblas, ni la plaga que azota a pleno sol.
 
+> 7 Aunque caigan mil hombres a tu lado y diez mil, a tu derecha, tú estarás fuera de peligro: su lealtad será tu escudo y armadura.
 
-6 ni la peste que avanza en las tinieblas, ni la plaga que azota a pleno sol.
+> 8 Basta que mires con tus ojos y verás cómo se le paga al impío.
 
-7 Aunque caigan mil hombres a tu lado y diez mil, a tu derecha, tú estarás fuera de peligro: su lealtad será tu escudo y armadura.
+> 9 Pero tú dices: "Mi amparo es el Señor", tú has hecho del Altísimo tu asilo.
 
-8 Basta que mires con tus ojos y verás cómo se le paga al impío.
+> 10 La desgracia no te alcanzará ni la plaga se acercará a tu tienda:
 
-9 Pero tú dices: "Mi amparo es el Señor", tú has hecho del Altísimo tu asilo.
+> 11 pues a los ángeles les ha ordenado que te escolten en todos tus caminos.
 
-10 La desgracia no te alcanzará ni la plaga se acercará a tu tienda:
+> 12 En sus manos te habrán de sostener para que no tropiece tu pie en alguna piedra;
 
-11 pues a los ángeles les ha ordenado que te escolten en todos tus caminos.
+> 13 andarás sobre víboras y leones y pisarás cachorros y dragones.
 
-12 En sus manos te habrán de sostener para que no tropiece tu pie en alguna piedra;
+> 14 "Pues a mí se acogió, lo libraré, lo protegeré, pues mi Nombre conoció.
 
-13 andarás sobre víboras y leones y pisarás cachorros y dragones.
+> 15 Si me invoca, yo le responderé, y en la angustia estaré junto a él, lo salvaré, le rendiré honores.
 
-14 "Pues a mí se acogió, lo libraré, lo protegeré, pues mi Nombre conoció.
-
-15 Si me invoca, yo le responderé, y en la angustia estaré junto a él, lo salvaré, le rendiré honores.
-
-16 Alargaré sus días como lo desea y haré que pueda ver mi salvación".
+> 16 Alargaré sus días como lo desea y haré que pueda ver mi salvación".
 
 Este salmo nos hace entender que Dios nos protegue y que no estamos solos, y si tienes fe veras la gloria de Dios como dice en San Juan 11:40 y dice haci:
 
-40 Jesús le respondió: «¿No te he dicho que si crees verás la gloria de Dios?»
+> 40 Jesús le respondió: «¿No te he dicho que si crees verás la gloria de Dios?»
 
 Si tienes fe veras la gloria de Dios y seras una persona diferente si haces oracion.
 
@@ -81,13 +79,13 @@ no hagas lo que ellos hacen, no trates de corregirles haciendo lo mismo pues est
 
 Aveces nos encontramos con personas que nos hacen imposible la vida y no se dan cuenta de lo que hacen como dice Jesus en Lucas, 23:34
 
-34 Jesús decía: «Padre, perdónales, porque no saben lo que hacen.» Se repartieron sus vestidos, echando a suertes.
+> 34 Jesús decía: «Padre, perdónales, porque no saben lo que hacen.» Se repartieron sus vestidos, echando a suertes.
 
 Debemos perdonarlos ya que debemos perdonar a nuestros enemigos como dijo Jesus en Mateo, 5:44 - 45
 
-44. Pero yo les digo: Amen a sus enemigos y recen por sus perseguidores, 
+> 44. Pero yo les digo: Amen a sus enemigos y recen por sus perseguidores, 
 
-45. para que así sean hijos de su Padre que está en los Cielos. Porque él hace brillar su sol sobre malos y buenos, y envía la lluvia sobre justos y pecadores.
+> 45. para que así sean hijos de su Padre que está en los Cielos. Porque él hace brillar su sol sobre malos y buenos, y envía la lluvia sobre justos y pecadores.
 
 Tambien tenemos que amarlos y orar por ellos.
 
