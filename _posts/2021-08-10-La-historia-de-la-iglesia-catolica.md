@@ -11,6 +11,8 @@ keywords:
 
 # Origen
 
+La iglesia católica fue fundada por Jesucristo, la misma resurreción de jesucristo es el dogma central del Cristianismo, y constituye la prueba decisiva de la verdad de su doctrina.
+
 Después de la muerte de Esteban (primer mártir cristiano) y de la destrucción del Templo de Jerusalén en el año 70 por los romanos, comenzaron dos procesos: el de la progresiva separación del cristianismo primitivo y el judaísmo rabínico y el de la propagación del cristianismo, como puede verse en los primeros centros de la cristiandad.
 
 En el relato de la Confesión de Pedro que se encuentra en el Evangelio de Mateo, Cristo designa a Pedro como la “roca” sobre la cual se edificará la iglesia de Cristo.
