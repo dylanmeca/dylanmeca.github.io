@@ -10,6 +10,16 @@ keywords:
    - politica de privacidad
 ---
 
+# Índice
+
+1. [Información que es recogida](#información-que-es-recogida)
+2. [Uso de la información recogida](#uso-de-la-información-recogida)
+3. [Cookies](#cookies)
+4. [Enlaces a Terceros](#enlaces-a-terceros)
+5. [Servicios de Terceros](#servicios-de-terceros)
+6. [Control de su información personal](#control-de-su-información-personal)
+7. [Actualización de la política](#actualización-de-la-política)
+
 El presente Política de Privacidad establece los términos en que Dylan Meca usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su blog. 
 
 Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado para que nos contacte, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. 
