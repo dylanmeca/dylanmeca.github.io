@@ -24,9 +24,7 @@ Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
 # Información del sitio web
 
-Bienvenidos a mi blog, aqui encontraran multiples articulos, como informatica, seguridad informatica, catolicismo y mucho más.
-
-Tambien aquí encontraras investigaciónes sobre algun tema.
+Bienvenidos a mi blog, aqui encontraran multiples articulos, como informatica, seguridad informatica, catolicismo, tambien encontraras investigaciónes sobre algun tema y mucho más.
 
 Este blog tiene copyright (Derechos de autor).
 
