@@ -10,6 +10,16 @@ keywords:
   - política de cookies
 ---
 
+# Índice
+
+1. [Entidad Responsable](#entidad-responsable)
+2. [¿Qué son las cookies?](#qué-son-las-cookies)
+3. [¿Qué tipos de cookies existen?](#qué-tipos-de-cookies-existen)
+4. [Cookies de geo-localización](#cookies-de-geo-localización)
+5. [Cookies de analíticas](#cookies-de-analíticas)
+6. [Cookies publicitarias de terceros](#cookies-publicitarias-de-terceros)
+7. [¿Cómo puedo deshabilitar las cookies en mi navegador?](#cómo-puedo-deshabilitar-las-cookies-en-mi-navegador)
+
 En esta web se utilizan cookies de terceros y propias para conseguir que tengas una mejor experiencia de navegación, puedas compartir contenido en redes sociales y para que podamos obtener estadísticas de los usuarios.
 
 Puedes evitar la descarga de cookies a través de la configuración de tu navegador, evitando que las cookies se almacenen en su dispositivo.
