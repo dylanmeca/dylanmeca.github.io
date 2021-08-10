@@ -17,13 +17,13 @@ Los hermanos separados nos critican porque llamamos Padre a nuestros Presbítero
 
 Interpretando equivocadamente la Biblia, dicen que Jesús ordenó no llamar padre a nadie, más que a Dios como dice en Mateo 23:9:
 
-9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
+> 9 No llamen Padre a nadie en la tierra, porque ustedes tienen un solo Padre, el que está en el Cielo.
 
 El texto nos dice que no se debe honrar a ningun hombre solo a Dios y ademas Jesus no menciona que no se debe llamar padre al padre biologico o al sacerdote.
 
 Sobre este tema san pablo escribio y dice en 1 Corintios 4:15:
 
-15 Pues aunque hayáis tenido 10.000 pedagogos en Cristo, no habéis tenido muchos padres. He sido yo quien, por el Evangelio, os engendré en Cristo Jesús.
+> 15 Pues aunque hayáis tenido 10.000 pedagogos en Cristo, no habéis tenido muchos padres. He sido yo quien, por el Evangelio, os engendré en Cristo Jesús.
 
 Si lo de llamar padre a un hombre fuera como lo interpretan los hermanos separados no tendria sentido esta parte de la biblia.
 
@@ -33,13 +33,13 @@ Nosotros llamamos padres a nuestros sacerdotes por que son nuestros padres en el
 
 En la biblia en Hechos 7:2-5 dice:
 
-2 El respondió: «Hermanos y padres, escuchad. El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que se estableciese en Jarán
+> 2 El respondió: «Hermanos y padres, escuchad. El Dios de la gloria se apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes de que se estableciese en Jarán
 
-3 y le dijo: Sal de tu tierra y de tu parentela y vete a la tierra que yo te muestre.
+> 3 y le dijo: Sal de tu tierra y de tu parentela y vete a la tierra que yo te muestre.
 
-4 Entonces salió de la tierra de los caldeos y se estableció en Jarán. Y después de morir su padre, Dios le hizo emigrar de allí a esta tierra que vosotros habitáis ahora.
+> 4 Entonces salió de la tierra de los caldeos y se estableció en Jarán. Y después de morir su padre, Dios le hizo emigrar de allí a esta tierra que vosotros habitáis ahora.
 
-5 Y no le dio en ella en heredad ni la medida de la planta del pie; sino que prometió dársela en posesión a él y a su descendencia después de él, aunque no tenía ningún hijo.
+> 5 Y no le dio en ella en heredad ni la medida de la planta del pie; sino que prometió dársela en posesión a él y a su descendencia después de él, aunque no tenía ningún hijo.
 
 Otras citas biblicas sobre este tema:
 
