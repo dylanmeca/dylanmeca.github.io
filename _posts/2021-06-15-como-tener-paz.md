@@ -83,9 +83,9 @@ Aveces nos encontramos con personas que nos hacen imposible la vida y no se dan 
 
 Debemos perdonarlos ya que debemos perdonar a nuestros enemigos como dijo Jesus en Mateo, 5:44 - 45
 
-> 44. Pero yo les digo: Amen a sus enemigos y recen por sus perseguidores, 
+> 44 Pero yo les digo: Amen a sus enemigos y recen por sus perseguidores, 
 
-> 45. para que así sean hijos de su Padre que está en los Cielos. Porque él hace brillar su sol sobre malos y buenos, y envía la lluvia sobre justos y pecadores.
+> 45 para que así sean hijos de su Padre que está en los Cielos. Porque él hace brillar su sol sobre malos y buenos, y envía la lluvia sobre justos y pecadores.
 
 Tambien tenemos que amarlos y orar por ellos.
 
