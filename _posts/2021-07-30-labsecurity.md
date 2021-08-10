@@ -2,6 +2,7 @@
 layout: post
 description: labsecurity is a framework and its use is for ethical hacking and computer security, This documentation describes how to use the labsecurity commands
 permalink: /labsecurity
+img: https://raw.githubusercontent.com/dylan14567/labsecurity/main/.github/icon.jpg
 keywords:
   - labsecurity
   - security
