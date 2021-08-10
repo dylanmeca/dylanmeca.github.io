@@ -10,6 +10,13 @@ keywords:
   - politica de comentarios
 ---
 
+# Índice
+
+1. [Identificación de usuario](#identificación-de-usuario)
+2. [Contenido de los comentarios](#contenido-de-los-comentarios)
+3. [Retirada de comentarios](#retirada-de-comentarios)
+4. [Responsabilidad del usuario](#responsabilidad-del-usuario)
+
 Dylan Meca pone a disposición de los usuarios la posibilidad de intercambiar opiniones y publicar comentarios al contenido expuesto en el sitio web.
 La presente política comprende las condiciones y términos que regulan la publicación de comentarios en el Sitio Web y a la cual los usuarios quedan obligados en el uso del mismo.
 
