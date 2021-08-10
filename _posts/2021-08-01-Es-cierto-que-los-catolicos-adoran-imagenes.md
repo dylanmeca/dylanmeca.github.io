@@ -140,4 +140,4 @@ Incluso te diré que en este idioma existen otras palabras para referirse a imá
 
 Si la imagen no representa un ídolo no tiene ningún problema, el primer mandamiento no hace referencia a imágenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
 
-En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es para recordarlos y tambien recordar sus enseñansas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
+En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es recordarlos y tambien recordar sus enseñansas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
