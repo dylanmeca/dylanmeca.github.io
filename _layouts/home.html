@@ -31,8 +31,8 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if page.img -%}
-            <img src="{{ page.img | escape }}">
+        {%- if post.img -%}
+            <img src="{{ post.img | escape }}">
             <br />
         {%- endif -%}
         {{ post.description | escape }}
