@@ -58,8 +58,4 @@ El ejemplo de la vida de San Martín de Porres, trasciende los linderos del tiem
 
 Nicomedes Santa Cruz, famoso decimista peruano, definió al santo mulato de la siquiente manera:
 
-Hermano del oprimido, lenitivo del doliente, abrigo del indigente, amparo del perseguido, pese a que hayas elegido llamarte "Perro Mulato", a tu milagroso trato presto las plantas crecieron y los muertos revivieron a tu divino mandato.
-
-De tu incansable escobita barrer precisa la Tierra barrer..., el fusil de guerra y el odio que al mundo agita.
-
-Haz Martín, que se repita tu famoso triunvirato y alrededor de ese plato comulguen todas las razas que son por sus amenazas perro, pericote y gato.
+> Hermano del oprimido, lenitivo del doliente, abrigo del indigente, amparo del perseguido, pese a que hayas elegido llamarte "Perro Mulato", a tu milagroso trato presto las plantas crecieron y los muertos revivieron a tu divino mandato. De tu incansable escobita barrer precisa la Tierra barrer..., el fusil de guerra y el odio que al mundo agita. Haz Martín, que se repita tu famoso triunvirato y alrededor de ese plato comulguen todas las razas que son por sus amenazas perro, pericote y gato.
