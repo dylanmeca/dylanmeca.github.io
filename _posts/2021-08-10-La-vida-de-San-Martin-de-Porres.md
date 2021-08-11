@@ -46,4 +46,12 @@ Debido a los extensos testimonios a favor de Martín de Porras, el arzobispo de 
 
 Es durante dicho proceso que su apellido es cambiado a Porres, pese a que sus biógrafos lo habían denominado Porras en sus diverso documentos, se determinó que el cambio se hizo de manera intencional debido al significado de la palabra Porras.
 
-Es recién en 1837, luego del proceso de independencia, que el proceso de beatificación pudo llevarse con éxito, tomándose como referencia para la presentación del expediente, la obra
+Es recién en 1837, luego del proceso de independencia, que el proceso de beatificación pudo llevarse con éxito, tomándose como referencia para la presentación del expediente, la obra biográfica realizada por Juan Manuel Valdés, que llamaba a Martín con el apellido Porres, siendo beatificado por el Papa Gregorio XVI como el beato Martin de Porres.
+
+Finalmente en 1962 el papa Juan XXIII, devoto del beato peruano, lo canonizaría en la ciudad del Vaticano el dia 6 de mayo, con las siquientes palabras que resaltan las virtudes del fraile:
+
+> "Procuró de todo corazón animar a los acomplejados por las propias culpas, confortó a los enfermos, proveía de ropas, alimentos y medicinas a los pobres, ayudó a campesinos, a negros y mulatos tenidos entonces como esclavos. La gente le llamaba "Martín, el bueno".
+
+Actualmente la casa donde nació es utilizada como casa hogar en ayuda a los más necesitados de la zona, y aunque no cuente con una iglesia dedicada en su honor como otros santos, su devoción se extiende por toda América, siendo celebrada principalmente el dia 3 de noviembre, fecha de su fallecimiento.
+
+El ejemplo de la vida de San Martín de Porres, trasciende los linderos del tiempo, superando las barreras culturales y raciales existentes en la sociedad americana, siendo su imagen un simbolo de fe y de orgullo para el pueblo latino y afroamericano en todo el mundo.
