@@ -19,3 +19,31 @@ En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a l
 En 1603, y dada su vocación y trabajo fue nombrado como hermano, siendo admitido finalmente en 1606 como fraile, profesando los votos de pobreza, castidad y obediencia.
 
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
+
+A los 24 años de edad inicia su labor de ayuda a los nesecitados, sobre todo a los enfermos a quienes socorría sin descuidar sus labores dentro del monasterio.
+
+Tambíen se desempeñaba como barbero y cirujano, siendo tal su entrega al prójimo que empezo a ser conocido como Martín de la caridad.
+
+Su celda se encontraba en el claustro de la enfermería, donde ayudaba a todos los que se acercaban buscando su ayuda, sobre todo a esclavos e indios a quienes socorría con curaciónes, alimentación y soporte pastoral.
+
+Por tal razón aquel lugar era conocido como "la oficina de caridad del convento".
+
+Sus modelos de santidad fueron Santo Domingo de Guzmán y Santa Catalina de Siena. Su labor social lo llevo a ser amigo y confidente de San Juan Macías, y a conocer a Rosa de Lima, futura santa, con quien coincidió en medio de los labores de ayuda a los más nesecitados.
+
+Su caridad era conocida por los habitantes de Lima, siendo requerido por autoridades eclesiásticas y de gobierno para recibir apoyo espiritual, por aquel entonces ya los habitantes de Lima lo empezaban a conocer como santo.
+
+Además de los dones de sanación, a Martín se le atribuía el control sobre la naturaleza logrando que germinen antes de tiempo, todas las plantas que sembraba asimismo, es famosa la referencia de obediencia que conseguía, sobre los animales, llegando a alimentar en un mismo plato a un perro, un gato y un ratón, animales contrarios por naturaleza.
+
+También se le atribuye el don de la bilocación, habiendo sido visto en lugares como México, China, Japón y algunos lugares de África, ayudando a misioneros y nesecitados, esto aunque Martín no visitó nunca dichos lugares.
+
+Casi a la edad de sesenta años, caería gravemente enfermo, causando una gran conmoción en la ciudad de Lima, siendo visitado por el mismo virrey Luis Jerónimo Fernández de Cabrera quien le besaría la mano solicitando su ayuda.
+
+Finalmente el 3 de noviembre de 1639, Martín falleceria en compañia de dolidos religiosos. Su entierro fue de los más concurridos de la historia de la ciudad, acudiendo autoridades eclesiásticas y políticas, siendo despedido con campanadas de la catedral y de las principales iglesias.
+
+Sus restos descansan actualmente en la cripta ubicada en la basílica y convento de santo domingo en Lima, junto a los de San Rosa de Lima y de San Juan Macías.
+
+Debido a los extensos testimonios a favor de Martín de Porras, el arzobispo de Lima, Pedro de Villagómez, iniciaria el proceso de beatificación del fray mulato, sin embargo, la sociedad colonial de aquel entonces se opondría dado a su origen racial.
+
+Es durante dicho proceso que su apellido es cambiado a Porres, pese a que sus biógrafos lo habían denominado Porras en sus diverso documentos, se determinó que el cambio se hizo de manera intencional debido al significado de la palabra Porras.
+
+Es recién en 1837, luego del proceso de independencia, que el proceso de beatificación pudo llevarse con éxito, tomándose como referencia para la presentación del expediente, la obra
