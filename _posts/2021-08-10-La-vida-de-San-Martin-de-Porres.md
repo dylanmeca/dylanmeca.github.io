@@ -55,3 +55,11 @@ Finalmente en 1962 el papa Juan XXIII, devoto del beato peruano, lo canonizaría
 Actualmente la casa donde nació es utilizada como casa hogar en ayuda a los más necesitados de la zona, y aunque no cuente con una iglesia dedicada en su honor como otros santos, su devoción se extiende por toda América, siendo celebrada principalmente el dia 3 de noviembre, fecha de su fallecimiento.
 
 El ejemplo de la vida de San Martín de Porres, trasciende los linderos del tiempo, superando las barreras culturales y raciales existentes en la sociedad americana, siendo su imagen un simbolo de fe y de orgullo para el pueblo latino y afroamericano en todo el mundo.
+
+Nicomedes Santa Cruz, famoso decimista peruano, definió al santo mulato de la siquiente manera:
+
+Hermano del oprimido, lenitivo del doliente, abrigo del indigente, amparo del perseguido, pese a que hayas elegido llamarte "Perro Mulato", a tu milagroso trato presto las plantas crecieron y los muertos revivieron a tu divino mandato.
+
+De tu incansable escobita barrer precisa la Tierra barrer..., el fusil de guerra y el odio que al mundo agita.
+
+Haz Martín, que se repita tu famoso triunvirato y alrededor de ese plato comulguen todas las razas que son por sus amenazas perro, pericote y gato.
