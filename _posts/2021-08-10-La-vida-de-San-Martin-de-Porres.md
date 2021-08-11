@@ -1,12 +1,27 @@
 ---
 layout: post
 title: La vida de San Martín de Porres
-description:
-keywords:
-
+description: El santo de la escoba y la humildad San Martín de Porrea Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
+keywords: 
+    - la vida de San Martín de Porres
+    - santidad
+    - una vida santa
+    - el santo de la escoba
+    - el santo de la escoba y la humildad
+    - el santo de la humildad
+    - San Martín de Porres
+    - modelos de santidad
+    - Santa Rosa de Lima
+    - San Juan Macías
+    - arzobispo
+    - beatificación
+    - Biografía de San Martín de Porres
+    - Biografía
+    - Historia
+    - Historia de San Martín de Porres
 ---
 
-El santo de la escoba y la humildad martín de porras velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
+El santo de la escoba y la humildad Martín de Porras Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
 
 Los padres de San Martín de Porres fueron Ana Velázques, Panameña Liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
 
