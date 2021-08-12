@@ -55,8 +55,6 @@ El santo de la escoba y la humildad Martín de Porras Velázquez, quien llegarí
 
 Los padres de San Martín de Porres fueron Ana Velázques, es Panameña y esta en liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
 
-Su padre no podía casarse con una mujer de su condición, porque era muy pobre, lo que no impidió su amancebamiento con Ana Velázquez. Fruto de esta relación nació Martín y, dos años después, Juana De Porres Velázquez, su única hermana. 
-
 Con su padre destacado en Guayaquil y su madre brindándoles educación en casa, Martin y su hermana sufrían la precariedad y limitaciónes propias de la comunidad afrodescendiente en la sociedad virreinal, por lo que Juan decide reconocerlos ante la ley y llevárselos consigo, dejándolos al cuidado de su tío Diego Marcos de Miranda, sin embargo, éste sólo acoge a Juana, debiendo Martín regresar a Lima, siendo encargado de doña Isabel García Michel en el arrabal de Malambo.
 
 En 1591, a los 12 años de edad, recibiría el sacramento de la confirmación a manos del arzobispo Toribio de Mogrovejo. Dada su condición de pobreza llegaría a desempeñarse, como barbero y como ayudante de boticario, aprendiendo aquí los labores de enfermería que le servirían años más tarde en su dedicación al auxilio de los desvalidos.
