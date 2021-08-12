@@ -77,6 +77,8 @@ Pronto la virtud del moreno dejó de ser un secreto. Su servicio como enfermero 
 
 Los religiosos de la Ciudad Virreinal van de sorpresa en sorpresa, por lo que el Superior le prohíbe realizar nada extraordinario sin su consentimiento. Un día, cuando regresaba al Convento, un albañil le grita al caer del andamio; el Santo le hace señas y corre a pedir permiso al superior, éste y el interesado quedan cautivados por su docilidad.
 
+De todas las virtudes que poseía Martín de Porres sobresalía la humildad, siempre puso a los demás por delante de sus propias necesidades. 
+
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
 
 A los 24 años de edad inicia su labor de ayuda a los nesecitados, sobre todo a los enfermos a quienes socorría sin descuidar sus labores dentro del monasterio.
