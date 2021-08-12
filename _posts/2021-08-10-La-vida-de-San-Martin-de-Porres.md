@@ -32,8 +32,6 @@ Con su padre destacado en Guayaquil y su madre brindándoles educación en casa,
 
 En 1591, a los 12 años de edad, recibiría el sacramento de la confirmación a manos del arzobispo Toribio de Mogrovejo. Dada su condición de pobreza llegaría a desempeñarse, como barbero y como ayudante de boticario, aprendiendo aquí los labores de enfermería que le servirían años más tarde en su dedicación al auxilio de los desvalidos.
 
-Tambien Martín a los 12 años entro como aprendiz de peluquero y asistente de un dentista.
-
 Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera.
 
 En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella, confiándosele la limpieza de la casa.
