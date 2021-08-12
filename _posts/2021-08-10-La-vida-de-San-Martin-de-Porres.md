@@ -81,6 +81,10 @@ De todas las virtudes que poseía Martín de Porres sobresalía la humildad, sie
 
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
 
+Ejerció constantemente su vocación pastoral y misionera; enseñaba la doctrina cristiana y fe de Jesucristo a los negros e indios y gente rústica que asistían a escucharlo en calles y en las haciendas cercanas a las propiedades de la Orden ubicadas en Limatambo.
+
+La situación de pobreza y abandono moral que estos padecían le preocupaban; es así que con la ayuda de varios ricos de la ciudad - entre ellos el virrey Luis Jerónimo Fernández de Cabrera y Bobadilla, IV Conde de Chinchón, que en propia mano le entregaba cada mes no menos de cien pesos - fundó el Asilo y Escuela de Santa Cruz para reunir a todos los vagos, huérfanos y limosneros y ayudarles a salir de su penosa situación.
+
 A los 24 años de edad inicia su labor de ayuda a los nesecitados, sobre todo a los enfermos a quienes socorría sin descuidar sus labores dentro del monasterio.
 
 Tambíen se desempeñaba como barbero y cirujano, siendo tal su entrega al prójimo que empezo a ser conocido como Martín de la caridad.
