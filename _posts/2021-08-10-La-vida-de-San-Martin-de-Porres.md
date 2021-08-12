@@ -47,7 +47,11 @@ Martín es bautizado en la iglesia de San Sebastián, donde años más tarde San
 
 En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, pero él se entrega a Dios y su vida está presidida por el servicio, la humildad, la obediencia y un amor sin medida, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella. El anhelo más profundo de San Martín siempre es de seguir a Jesús. Se le confía la limpieza de la casa, por lo que la escoba será, con la cruz, la gran compañera de su vida. 
 
+San Martín de Porres llevaba ya dos años en el convento, y hacía seis que no veía a su padre, éste lo visita y después de dialogar con el P. Provincial, éste y el Consejo Conventual deciden que Fray Martín se convierta en hermano cooperador.
+
 En 1603, y dada su vocación y trabajo fue nombrado como hermano, siendo admitido finalmente en 1606 como fraile, profesando los votos de pobreza, castidad y obediencia.
+
+El 2 de junio de 1603 se consagra a Dios por su profesión religiosa. El P. Fernando Aragonés testificará: "***Se ejercitaba en la caridad día y noche, curando enfermos, dando limosna a españoles, indios y negros, a todos quería, amaba y curaba con singular amor***". La portería del convento es un reguero de soldados humildes, indios, mulatos, y negros; él solía repetir: "***No hay gusto mayor que dar a los pobres***".
 
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
 
