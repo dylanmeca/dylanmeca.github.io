@@ -53,7 +53,7 @@ keywords:
 
 El santo de la escoba y la humildad Martín de Porras Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
 
-Los padres de San Martín de Porres fueron Ana Velázques, es de Panamá y esta en liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
+Los padres de San Martín de Porres fueron Ana Velázques, es Panameña y esta en liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
 
 Su padre no podía casarse con una mujer de su condición, porque era muy pobre, lo que no impidió su amancebamiento con Ana Velázquez. Fruto de esta relación nació Martín y, dos años después, Juana De Porres Velázquez, su única hermana. 
 
