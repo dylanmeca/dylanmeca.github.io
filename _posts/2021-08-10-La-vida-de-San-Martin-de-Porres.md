@@ -53,13 +53,17 @@ keywords:
 
 El santo de la escoba y la humildad Martín de Porras Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
 
-Los padres de San Martín de Porres fueron Ana Velázques, Panameña Liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
+Los padres de San Martín de Porres fueron Ana Velázques, es de Panamá y esta en liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
+
+Su padre no podía casarse con una mujer de su condición, porque era muy pobre, lo que no impidió su amancebamiento con Ana Velázquez. Fruto de esta relación nació Martín y, dos años después, Juana De Porres Velázquez, su única hermana. 
 
 Con su padre destacado en Guayaquil y su madre brindándoles educación en casa, Martin y su hermana sufrían la precariedad y limitaciónes propias de la comunidad afrodescendiente en la sociedad virreinal, por lo que Juan decide reconocerlos ante la ley y llevárselos consigo, dejándolos al cuidado de su tío Diego Marcos de Miranda, sin embargo, éste sólo acoge a Juana, debiendo Martín regresar a Lima, siendo encargado de doña Isabel García Michel en el arrabal de Malambo.
 
 En 1591, a los 12 años de edad, recibiría el sacramento de la confirmación a manos del arzobispo Toribio de Mogrovejo. Dada su condición de pobreza llegaría a desempeñarse, como barbero y como ayudante de boticario, aprendiendo aquí los labores de enfermería que le servirían años más tarde en su dedicación al auxilio de los desvalidos.
 
-Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera. Conoció al Fraile Juan de Lorenzana, famoso dominico como teólogo y hombre de virtudes, quien lo invita a entrar en el Convento de Nuestra Señora del Rosario.
+El 9 de diciembre de 1579, Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera. Conoció al Fraile Juan de Lorenzana, famoso dominico como teólogo y hombre de virtudes, quien lo invita a entrar en el Convento de Nuestra Señora del Rosario.
+
+Ana Velázquez dio cuidadosa educación cristiana a sus dos hijos. Juan de Porres estaba destinado en Guayaquil, y desde ahí les proveía de sustento. Viendo la situación precaria en que iban creciendo, sin padre ni maestros, decidió reconocerlos como hijos suyos ante la ley. En su infancia y temprana adolescencia sufrió la pobreza y limitaciones propias de la comunidad de raza negra en que vivió.
 
 En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, pero él se entrega a Dios y su vida está presidida por el servicio, la humildad, la obediencia y un amor sin medida, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella. El anhelo más profundo de San Martín siempre es de seguir a Jesús. Se le confía la limpieza de la casa, por lo que la escoba será, con la cruz, la gran compañera de su vida. 
 
