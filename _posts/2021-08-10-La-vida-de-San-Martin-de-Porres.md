@@ -43,9 +43,9 @@ Con su padre destacado en Guayaquil y su madre brindándoles educación en casa,
 
 En 1591, a los 12 años de edad, recibiría el sacramento de la confirmación a manos del arzobispo Toribio de Mogrovejo. Dada su condición de pobreza llegaría a desempeñarse, como barbero y como ayudante de boticario, aprendiendo aquí los labores de enfermería que le servirían años más tarde en su dedicación al auxilio de los desvalidos.
 
-Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera.
+Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera. Conoció al Fraile Juan de Lorenzana, famoso dominico como teólogo y hombre de virtudes, quien lo invita a entrar en el Convento de Nuestra Señora del Rosario.
 
-En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, pero él se entrega a Dios y su vida está presidida por el servicio, la humildad, la obediencia y un amor sin medida, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella, confiándosele la limpieza de la casa.
+En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, pero él se entrega a Dios y su vida está presidida por el servicio, la humildad, la obediencia y un amor sin medida, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella. El anhelo más profundo de San Martín siempre es de seguir a Jesús. Se le confía la limpieza de la casa, por lo que la escoba será, con la cruz, la gran compañera de su vida. 
 
 En 1603, y dada su vocación y trabajo fue nombrado como hermano, siendo admitido finalmente en 1606 como fraile, profesando los votos de pobreza, castidad y obediencia.
 
