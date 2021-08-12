@@ -41,7 +41,7 @@ En 1591, a los 12 años de edad, recibiría el sacramento de la confirmación a 
 
 Martín es bautizado en la iglesia de San Sebastián, donde años más tarde Santa Rosa de Lima también lo fuera.
 
-En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella, confiándosele la limpieza de la casa.
+En 1594, ingresa por invitación del famoso dominico Fray Juan de Lorenzana, a la orden de santo Domingo de Guzmán, en calidad de "donado", sin opción al sacerdoció y teniendo que servir de por vida al monasterio a cambio de una vida religiosa esto es debido a que las leyes de aquel entonces le impedían ser religioso por el color y por la raza, pero él se entrega a Dios y su vida está presidida por el servicio, la humildad, la obediencia y un amor sin medida, recibiendo alojamiento y desempeñando los labores más humildes dentro de ella, confiándosele la limpieza de la casa.
 
 En 1603, y dada su vocación y trabajo fue nombrado como hermano, siendo admitido finalmente en 1606 como fraile, profesando los votos de pobreza, castidad y obediencia.
 
