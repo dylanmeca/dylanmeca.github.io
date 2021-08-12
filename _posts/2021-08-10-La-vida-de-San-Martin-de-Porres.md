@@ -81,9 +81,9 @@ De todas las virtudes que poseía Martín de Porres sobresalía la humildad, sie
 
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
 
-Ejerció constantemente su vocación pastoral y misionera; enseñaba la doctrina cristiana y fe de Jesucristo a los negros e indios y gente rústica que asistían a escucharlo en calles y en las haciendas cercanas a las propiedades de la Orden ubicadas en Limatambo.
+Ejerció constantemente su vocación pastoral y misionera, enseñaba la doctrina cristiana y fe de Jesucristo a los negros e indios y gente rústica que asistían a escucharlo en calles y en las haciendas cercanas a las propiedades de la Orden ubicadas en Limatambo.
 
-La situación de pobreza y abandono moral que estos padecían le preocupaban; es así que con la ayuda de varios ricos de la ciudad - entre ellos el virrey Luis Jerónimo Fernández de Cabrera y Bobadilla, IV Conde de Chinchón, que en propia mano le entregaba cada mes no menos de cien pesos - fundó el Asilo y Escuela de Santa Cruz para reunir a todos los vagos, huérfanos y limosneros y ayudarles a salir de su penosa situación.
+La situación de pobreza y abandono moral que estos padecían le preocupaban, es así que con la ayuda de varios ricos de la ciudad - entre ellos el virrey Luis Jerónimo Fernández de Cabrera y Bobadilla, IV Conde de Chinchón, que en propia mano le entregaba cada mes no menos de cien pesos - fundó el Asilo y Escuela de Santa Cruz para reunir a todos los vagos, huérfanos y limosneros y ayudarles a salir de su penosa situación.
 
 A los 24 años de edad inicia su labor de ayuda a los nesecitados, sobre todo a los enfermos a quienes socorría sin descuidar sus labores dentro del monasterio.
 
@@ -101,13 +101,21 @@ Además de los dones de sanación, a Martín se le atribuía el control sobre la
 
 También se le atribuye el don de la bilocación, habiendo sido visto en lugares como México, China, Japón y algunos lugares de África, ayudando a misioneros y nesecitados, esto aunque Martín no visitó nunca dichos lugares.
 
+El futuro santo fue frugal, abstinente y vegetariano. Dormía solo dos o tres horas, mayormente por las tardes. Usó siempre un simple hábito de cordellate blanco con una capa larga de color negro. Alguna vez que el Prior lo obligó a recibir un hábito nuevo y otro fraile lo felicitó risueño, Martín, le respondió: «***pues con éste me han de enterrar***» y efectivamente, así fue.
+
+Martín de Porres fue confidente de San Juan Macías fraile dominico, con el cual forjó una entrañable amistad. Se sabe que también conoció a Santa Rosa de Lima, terciaria dominica, y que se trataron algunas veces.
+
+La personalidad carismática de Martín hizo que fuera buscado por personas de todos los estratos sociales, altos dignatarios de la Iglesia y del Gobierno, gente sencilla, ricos y pobres, todos tenían en Martín alivio a sus necesidades espirituales, físicas o materiales. Su entera disposición y su ayuda incondicional al prójimo propició que fuera visto como un hombre santo.
+
+Aunque él trataba de ocultarse, la fama de santo crecía día por día. Fueron varias las familias en Lima que recibieron ayuda de Martín de Porres de alguna forma u otra. También, muchos enfermos lo primero que pedían cuando se sentían graves era: «***Que venga el santo hermano Martín***». Y él nunca negaba un favor a quien podía hacerlo.
+
 Casi a la edad de sesenta años, caería gravemente enfermo, causando una gran conmoción en la ciudad de Lima, siendo visitado por el mismo virrey Luis Jerónimo Fernández de Cabrera quien le besaría la mano solicitando su ayuda.
 
 Finalmente el 3 de noviembre de 1639, Martín falleceria en compañia de dolidos religiosos, cuando vio que se acercaba el momento feliz de ir a gozar de la presencia de Dios, pidió a los religiosos que le rodeaban que entonasen el Credo. Su entierro fue de los más concurridos de la historia de la ciudad, acudiendo autoridades eclesiásticas y políticas, siendo despedido con campanadas de la catedral y de las principales iglesias.
 
 Su muerte causó profunda conmoción en la ciudad. Había sido el hermano y enfermero de todos, singularmente de los más pobres. Todos se disputaban por conseguir alguna reliquia. Toda la ciudad le dio el último adiós.
 
-Sus restos descansan actualmente en la cripta ubicada en la basílica y convento de santo domingo en Lima, junto a los de San Rosa de Lima y de San Juan Macías.
+Sus restos descansan actualmente en la cripta ubicada en la Basílica y convento de Santo Domingo en Lima, junto a los de San Rosa de Lima y de San Juan Macías en el denominado «***Altar de los Santos de Perú***».
 
 Debido a los extensos testimonios a favor de Martín de Porras, el arzobispo de Lima, Pedro de Villagómez, iniciaria el proceso de beatificación del fray mulato, sin embargo, la sociedad colonial de aquel entonces se opondría dado a su origen racial.
 
