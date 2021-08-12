@@ -51,6 +51,12 @@ San Martín de Porres llevaba ya dos años en el convento, y hacía seis que no 
 
 El 2 de junio de 1603 se consagra a Dios por su profesión religiosa. El P. Fernando Aragonés testificará: "***Se ejercitaba en la caridad día y noche, curando enfermos, dando limosna a españoles, indios y negros, a todos quería, amaba y curaba con singular amor***". La portería del convento es un reguero de soldados humildes, indios, mulatos, y negros; él solía repetir: "***No hay gusto mayor que dar a los pobres***" y dada su vocación y trabajo fue nombrado como hermano, siendo admitido finalmente en 1606 como fraile, profesando los votos de pobreza, castidad y obediencia.
 
+Su hermana Juana tenía buena posición social, por lo que, en una finca de ella, daba cobijo a enfermos y pobres. Y en su patio acoge a perros, gatos y ratones.
+
+Pronto la virtud del moreno dejó de ser un secreto. Su servicio como enfermero se extendía desde sus hermanos dominicos hasta las personas más abandonadas que podía encontrar en la calle. Su humildad fue probada en el dolor de la injuria, incluso de parte de algunos religiosos dominicos. Incomprensión y envidias: camino de contradicciones que fue asemejando al mulato a su Reconciliador.
+
+Los religiosos de la Ciudad Virreinal van de sorpresa en sorpresa, por lo que el Superior le prohíbe realizar nada extraordinario sin su consentimiento. Un día, cuando regresaba al Convento, un albañil le grita al caer del andamio; el Santo le hace señas y corre a pedir permiso al superior, éste y el interesado quedan cautivados por su docilidad.
+
 Debido a las remodelaciónes efectuadas en el convento de Santo Domingo, dicha orden pasaría por fuerte dificultades económicas, ofreciéndose Martín a ser vendido como esclavo para cancelar las deudas del convento, esta actitud fue recibida por el prior como muestra de desprendimiento y humildad por lo que rechazó categóricamente la propuesta.
 
 A los 24 años de edad inicia su labor de ayuda a los nesecitados, sobre todo a los enfermos a quienes socorría sin descuidar sus labores dentro del monasterio.
