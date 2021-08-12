@@ -47,6 +47,7 @@ keywords:
 # Índice
 
 1. [Biografía de San Martín de Porres](#biografía-de-san-martín-de-porres)
+2. [Frases de San Martín de Porres](#frases-de-san-martín-de-porres)
 
 # Biografía de San Martín de Porres
 
@@ -119,12 +120,21 @@ Nicomedes Santa Cruz, famoso decimista peruano, definió al santo mulato de la s
 # Frases de San Martín de Porres
 
 > Lo que hace el hombre por el bien del hombre, vive eternamente.
+
 > Dios hizo grande al ser humano y su grandeza no podrá ser olvidada.
+
 > Si tuviera 20 años pediría que me mandaran como misionero al oriente, para predicar el amor de cristo, para llevarles un mensaje de paz a mis hermanos los hombres, para que dejen el odio, la injusticia, que entiendan que solo el amor los puede salvar y que ayuden al necesitado con el amor de Dios.  
+
 > Seamos grandes y hagamos cosas importantes ante los ojos de Dios y no ante los hombres. 
+
 > Cuando el espíritu viaja no hay distancia
+
 > Donde hay fe, hay amor; donde hay amor, hay paz; donde hay paz, esta Dios, y donde esta Dios, no falta nada. 
+
 > A los enfermos: Yo te curo, Dios te sana. 
+
 > Barriendo nos enseña que hay que trabajar para comer el pan de cada día. 
+
 > Nos enseñó el amor a Dios, al hombre y murió en la cruz para salvarnos del pecado y de la muerte.
+
 > A través de los animales como el perro, el gato y el ratón, nos enseña a vivir como hermanos. 
