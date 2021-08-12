@@ -77,7 +77,9 @@ También se le atribuye el don de la bilocación, habiendo sido visto en lugares
 
 Casi a la edad de sesenta años, caería gravemente enfermo, causando una gran conmoción en la ciudad de Lima, siendo visitado por el mismo virrey Luis Jerónimo Fernández de Cabrera quien le besaría la mano solicitando su ayuda.
 
-Finalmente el 3 de noviembre de 1639, Martín falleceria en compañia de dolidos religiosos. Su entierro fue de los más concurridos de la historia de la ciudad, acudiendo autoridades eclesiásticas y políticas, siendo despedido con campanadas de la catedral y de las principales iglesias.
+Finalmente el 3 de noviembre de 1639, Martín falleceria en compañia de dolidos religiosos, cuando vio que se acercaba el momento feliz de ir a gozar de la presencia de Dios, pidió a los religiosos que le rodeaban que entonasen el Credo. Su entierro fue de los más concurridos de la historia de la ciudad, acudiendo autoridades eclesiásticas y políticas, siendo despedido con campanadas de la catedral y de las principales iglesias.
+
+Su muerte causó profunda conmoción en la ciudad. Había sido el hermano y enfermero de todos, singularmente de los más pobres. Todos se disputaban por conseguir alguna reliquia. Toda la ciudad le dio el último adiós.
 
 Sus restos descansan actualmente en la cripta ubicada en la basílica y convento de santo domingo en Lima, junto a los de San Rosa de Lima y de San Juan Macías.
 
