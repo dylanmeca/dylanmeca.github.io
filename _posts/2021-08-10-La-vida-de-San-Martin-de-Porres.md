@@ -44,6 +44,12 @@ keywords:
 
 ![San Martín de Porres](https://dylan14567.github.io/assets/img/San-Martin-de-Porres.jpg)
 
+# Índice
+
+1. [Biografía de San Martín de Porres](#biografía-de-san-martín-de-porres)
+
+# Biografía de San Martín de Porres
+
 El santo de la escoba y la humildad Martín de Porras Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
 
 Los padres de San Martín de Porres fueron Ana Velázques, Panameña Liberta, de origen africano residente en Lima, y del español Juan de Porras, caballero de la orden de Alcántara, quien debido a su posición social no pida casarse con una mujer de condición tan humilde, siendo Martín y luego su hermana Juana, en consecuencia nacidos en calidad de hijos ilegítimos.
@@ -109,3 +115,16 @@ El ejemplo de la vida de San Martín de Porres, trasciende los linderos del tiem
 Nicomedes Santa Cruz, famoso decimista peruano, definió al santo mulato de la siquiente manera:
 
 > Hermano del oprimido, lenitivo del doliente, abrigo del indigente, amparo del perseguido, pese a que hayas elegido llamarte "Perro Mulato", a tu milagroso trato presto las plantas crecieron y los muertos revivieron a tu divino mandato. De tu incansable escobita barrer precisa la Tierra barrer..., el fusil de guerra y el odio que al mundo agita. Haz Martín, que se repita tu famoso triunvirato y alrededor de ese plato comulguen todas las razas que son por sus amenazas perro, pericote y gato.
+
+# Frases de San Martín de Porres
+
+> Lo que hace el hombre por el bien del hombre, vive eternamente.
+> Dios hizo grande al ser humano y su grandeza no podrá ser olvidada.
+> Si tuviera 20 años pediría que me mandaran como misionero al oriente, para predicar el amor de cristo, para llevarles un mensaje de paz a mis hermanos los hombres, para que dejen el odio, la injusticia, que entiendan que solo el amor los puede salvar y que ayuden al necesitado con el amor de Dios.  
+> Seamos grandes y hagamos cosas importantes ante los ojos de Dios y no ante los hombres. 
+> Cuando el espíritu viaja no hay distancia
+> Donde hay fe, hay amor; donde hay amor, hay paz; donde hay paz, esta Dios, y donde esta Dios, no falta nada. 
+> A los enfermos: Yo te curo, Dios te sana. 
+> Barriendo nos enseña que hay que trabajar para comer el pan de cada día. 
+> Nos enseñó el amor a Dios, al hombre y murió en la cruz para salvarnos del pecado y de la muerte.
+> A través de los animales como el perro, el gato y el ratón, nos enseña a vivir como hermanos. 
