@@ -31,6 +31,15 @@ keywords:
     - bautizar
     - Martín de Porres
     - Martín
+    - Martín de la caridad
+    - virtudes
+    - fraile
+    - simbolo de fe y de orgullo
+    - simbolo de fe  
+    - fe
+    - orgullo
+    - simbolo de orgullo
+    - Martín el bueno
 ---
 
 ![San Martín de Porres](https://dylan14567.github.io/assets/img/San-Martin-de-Porres.jpg)
