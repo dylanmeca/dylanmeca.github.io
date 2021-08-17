@@ -9,6 +9,10 @@ keywords:
 1. [Qué es una caloría tradicionalmente](#qué-es-una-caloría-tradicionalmente)
 2. [El alimento, es salud](#el-alimento-es-salud)
 3. [¿Comes bien para mantener salud?](#comes-bien-para-mantener-salud)
+     - [¿Cuántas comidas tomas diariamente?](#cuántas-comidas-tomas-diariamente)
+     - [¿Cuántos tentempiés comes cada día?](#cuántos-tentempiés-comes-cada-día)
+     - [¿Pesas demasiado?](#pesas-demasiado)
+     - [¿Con qué frecuencia comes carnes rojas o grasas?](#con-qué-frecuencia-comes-carnes-rojas-o-grasas)
 
 Muchas veces comemos comida que nos puede hacer daño, pero la forma correcta en cómo podríamos prevenir y tener buena salud sería comer comida saludable entre esas comidas saludables encontramos el pescado y es rico en grasas insaturadas que reduce niveles de colesterol en la sangre algunos pescados a causa de contaminación pueden ser dañinos a la salud incluso hay pescados que tienen mercurio y el mercurio es malo para la salud.
 Sí de pequeños a los niños se les enseña a comer fruta y verdura fresca, así como carne magra lo más probable es que sigan conservando este hábito durante el resto de la vida que lo que aprende de niño a veces se vuelve costumbre.
