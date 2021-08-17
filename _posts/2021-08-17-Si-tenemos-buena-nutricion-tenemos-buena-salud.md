@@ -7,7 +7,7 @@ keywords:
 # Índice
 
 1. [Qué es una caloría tradicionalmente](#qué-es-una-caloría-tradicionalmente)
-2. [El alimento, es salud](#el-alimento,-es-salud)
+2. [El alimento, es salud](#el-alimento-es-salud)
 3. [¿Comes bien para mantener salud?](#¿comes-bien-para-mantener-salud?)
 
 Muchas veces comemos comida que nos puede hacer daño, pero la forma correcta en cómo podríamos prevenir y tener buena salud sería comer comida saludable entre esas comidas saludables encontramos el pescado y es rico en grasas insaturadas que reduce niveles de colesterol en la sangre algunos pescados a causa de contaminación pueden ser dañinos a la salud incluso hay pescados que tienen mercurio y el mercurio es malo para la salud.
