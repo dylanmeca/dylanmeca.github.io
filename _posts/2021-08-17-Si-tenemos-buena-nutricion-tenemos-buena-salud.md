@@ -32,3 +32,9 @@ El primer paso para desarrollar una dieta sana es el examinar tus costumbres ali
 
 Los alimentos que comes ejercen una gran influencia sobre tu salud, asi que la desición sobre lo que debes comer, y en que cantidad, posee un máximo interés. 
 
+## ¿Cuántas comidas tomas diariamente?
+
+Es mucho más conveniente comer dos o tres veces al día en cantidad moderada, que una sola vez y en grandes cantidades.
+
+Con un suministro regular de nutrientes, el metabolismo de tu cuerpo funcionará mejor. Con varias comidas fuertes al dia, o incluso con una sola, pero copiosa, tenderas a engordar, ademas
+de que podrás sufrir indigestiones y úlceras pépticas.
