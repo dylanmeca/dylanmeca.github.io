@@ -38,3 +38,9 @@ Es mucho más conveniente comer dos o tres veces al día en cantidad moderada, q
 
 Con un suministro regular de nutrientes, el metabolismo de tu cuerpo funcionará mejor. Con varias comidas fuertes al dia, o incluso con una sola, pero copiosa, tenderas a engordar, ademas
 de que podrás sufrir indigestiones y úlceras pépticas.
+
+## ¿Cuántos tentempiés comes cada día?
+
+Aunque tomar tentempíes es una mala constumbre que deberías intentar abandonar, lo que tomas entre comidas
+es más importante que el hábito en sí. Los dulces, pasteles, papas fritas, chocolates y pasta tienen un alto contenido calórico de azucar refinada y de grasas, de modo
+que si nesecitas un tentempié come una fruta fresca o alguna verdura cruda que te proporcione vitaminas, minarales y fibra.
