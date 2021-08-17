@@ -50,3 +50,11 @@ que si nesecitas un tentempié come una fruta fresca o alguna verdura cruda que 
 Si estas demasiado obeso debes remediarlo comiendo menos grasas y más fibra, ademas de practicar algún ejercicio físico.
 
 Las personas obesas suelen morir antes que las de peso normal. También están más expuestas a sufrir enfermedades coronarias, infarto de miocardio, hernias diabetes, artrosis y presión alta.
+
+## ¿Con qué frecuencia comes carnes rojas o grasas?
+
+No deberían comerse carnes rojas y grasas ***incluyendo aquellas procesadas como las salchichas y las hamburguesas***, que poseen un elevado contenido en grasas saturadas, más de dos veces por semana.
+
+Incorpora en tu dieta todas las alternativas proteicas posibles, por ejemplo: el pescado y la carne de pollo.
+
+También intenta no comer ningún tipo de carne durante un día a la semana y prepárate exquisitos platos a base de granos y legumbres.
