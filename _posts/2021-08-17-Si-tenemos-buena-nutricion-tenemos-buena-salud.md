@@ -6,7 +6,7 @@ keywords:
 
 # Índice
 
-1. [Qué es una caloría tradicionalmente](#qué-es-una-caloria-tradicionalmente)
+1. [Qué es una caloría tradicionalmente](#qué-es-una-caloría-tradicionalmente)
 2. [El alimento, es salud](#el-alimento,-es-salud)
 3. [¿Comes bien para mantener salud?](#¿comes-bien-para-mantener-salud?)
 
