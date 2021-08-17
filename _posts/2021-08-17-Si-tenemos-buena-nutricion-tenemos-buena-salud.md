@@ -20,5 +20,9 @@ Nunca se ha debatido y hablado tanto sobre la influencia de una alimentación sa
 Los principios de una alimentación sana son muy simples la clave está en comer una amplia variedad de alimentos diferentes que se complementan entre sí. Una buena alimentación es importante para una buena salud comiendo los alimentos correctos puedes protegerte contra las enfermedades cardíacas y contra algunos tipos de cáncer. Lamentablemente una gran proporción de la población del mundo occidental come incorrectamente. Los problemas actuales de la dieta diaria se deben a una ingestión excesiva de grasas saturadas de carbohidratos elaborados y demasiadas calorías, así como una cantidad insuficiente de fibra.
 Existen una gran cantidad de personas obesas y otras tantas que perjudican a su corazón llenando a sus arterias grasas y colesterol. La solución no reside en someterse a una dieta rígida pues nadie sería capaz de soportarla eternamente. Es mucho más sencillo introducir unos pequeños cambios en las costumbres dietéticas que pueden durar toda la vida y que mejoran tu balance nutricional y tu salud.
 
+# ¿Comes bien para mantener salud?
 
+El primer paso para desarrollar una dieta sana es el examinar tus costumbres alimentarias.
+
+Los alimentos que comes ejercen una gran influencia sobre tu salud, asi que la desición sobre lo que debes comer, y en que cantidad, posee un máximo interés. 
 
