@@ -44,3 +44,9 @@ de que podrás sufrir indigestiones y úlceras pépticas.
 Aunque tomar tentempíes es una mala constumbre que deberías intentar abandonar, lo que tomas entre comidas
 es más importante que el hábito en sí. Los dulces, pasteles, papas fritas, chocolates y pasta tienen un alto contenido calórico de azucar refinada y de grasas, de modo
 que si nesecitas un tentempié come una fruta fresca o alguna verdura cruda que te proporcione vitaminas, minarales y fibra.
+
+## ¿Pesas demasiado?
+
+Si estas demasiado obeso debes remediarlo comiendo menos grasas y más fibra, ademas de practicar algún ejercicio físico.
+
+Las personas obesas suelen morir antes que las de peso normal. También están más expuestas a sufrir enfermedades coronarias, infarto de miocardio, hernias diabetes, artrosis y presión alta.
