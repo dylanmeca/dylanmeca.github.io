@@ -2,6 +2,33 @@
 layout: post
 description: Si nos alimentamos adecuadamente podemos tener una buena salud, pero si investigamos sobre nutrición tendríamos una idea sobre que alimentos elegir, también tendríamos un detalle extenso sobre los alimentos incluso información que desconocíamos
 keywords:
+   - si tenemos buena nutricion
+   - buena salud
+   - salud
+   - buena 
+   - nutrición
+   - caloría
+   - qué es una caloría tradicionalmente
+   - el alimento es salud
+   - alimento
+   - comes bien para mantener salud
+   - cuántas comidas tomas diariamente
+   - cuántos tentempiés comes cada día
+   - pesas demasiado
+   - con qué frecuencia comes carnes rojas o grasas
+   - carnes rojas
+   - dieta sana
+   - alimentación sana
+   - personas obesas
+   - ejercicio
+   - menos grasas
+   - fibra
+   - fruta fresca
+   - verduras
+   - vitaminas
+   - pescado
+   - comida sana
+   - buena nutricion
 ---
 
 # Índice
@@ -14,7 +41,7 @@ keywords:
      - [¿Pesas demasiado?](#pesas-demasiado)
      - [¿Con qué frecuencia comes carnes rojas o grasas?](#con-qué-frecuencia-comes-carnes-rojas-o-grasas)
 
-Muchas veces comemos comida que nos puede hacer daño, pero la forma correcta en cómo podríamos prevenir y tener buena salud sería comer comida saludable entre esas comidas saludables encontramos el pescado y es rico en grasas insaturadas que reduce niveles de colesterol en la sangre algunos pescados a causa de contaminación pueden ser dañinos a la salud incluso hay pescados que tienen mercurio y el mercurio es malo para la salud.
+Muchas veces comemos comida que nos puede hacer daño, pero la forma correcta en cómo podríamos prevenir y tener buena salud sería comer comida saludable entre esas comidas saludables encontramos el pescado y es rico en grasas insaturadas que reduce niveles de colesterol en la sangre algunos pescados a causa de contaminación pueden ser dañinos a la salud incluso hay pescados que tienen mercurio y el mercurio es malo para la salud en exceso.
 Sí de pequeños a los niños se les enseña a comer fruta y verdura fresca, así como carne magra lo más probable es que sigan conservando este hábito durante el resto de la vida que lo que aprende de niño a veces se vuelve costumbre.
 
 Rico en vitaminas algunos alimentos como por ejemplo la verdura, la espinaca que son excelentes fuentes de vitaminas, ricas en fibra y de bajo contenido calórico, si queremos prevenir las caries necesitamos hacer una dieta equilibrada y variada ya que ayuda a conservar los dientes sanos y fuertes en cambio alimentos ricos en azúcares incrementan el riesgo de sufrir caries. Numerosos microorganismos y sus toxinas pueden contaminar o desarrollarse en determinados alimentos y ser origen de enfermedades.
