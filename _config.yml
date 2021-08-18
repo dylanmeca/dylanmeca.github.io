@@ -33,9 +33,9 @@ defaults:
       sitemap: false
 
 header_pages:
-  - search.md
   - about.md
   - contact.md
+  - search.md
 
 plugins:
  - jekyll-feed
