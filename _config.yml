@@ -34,8 +34,8 @@ defaults:
 
 header_pages:
   - about.md
-  - contact.md
-  - search.md
+  - contact.html
+  - search.html
 
 plugins:
  - jekyll-feed
