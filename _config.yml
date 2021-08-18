@@ -32,6 +32,11 @@ defaults:
     values:
       sitemap: false
 
+header_pages:
+  - search.md
+  - about.md
+  - contact.md
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
