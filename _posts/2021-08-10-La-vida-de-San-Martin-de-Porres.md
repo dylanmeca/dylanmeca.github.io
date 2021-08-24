@@ -2,7 +2,7 @@
 layout: post
 title: La vida de San Martín de Porres
 description: El santo de la escoba y la humildad San Martín de Porres Velázquez, quien llegaría a ser el primer santo mulato de América, nacio en la ciudad de Lima el 9 de diciembre de 1579, en su casa ubicada al lado del hospital del espiritu santo, muy cercana a donde 7 años después nacería Santa Rosa de Lima.
-img: https://dylan14567.github.io/assets/img/San-Martin-de-Porres.jpg
+img: https://dylanmeca.github.io/assets/img/San-Martin-de-Porres.jpg
 keywords: 
     - Dios
     - la vida de San Martín de Porres
@@ -42,7 +42,7 @@ keywords:
     - Martín el bueno
 ---
 
-![San Martín de Porres](https://dylan14567.github.io/assets/img/San-Martin-de-Porres.jpg)
+![San Martín de Porres](https://dylanmeca.github.io/assets/img/San-Martin-de-Porres.jpg)
 
 # Índice
 
