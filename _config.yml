@@ -4,7 +4,7 @@ author:
   name: Dylan Meca
   email: 
 show_downloads: false
-google_analytics: G-588R86TJDG
+google_analytics: G-GC9EL9QE9B
 comments: true
 show_excerpts: false
 
@@ -13,7 +13,7 @@ minima:
 
   social_links:
     twitter: meca_dylan
-    github: dylan14567
+    github: dylanmeca
     youtube_channel: UCSUN3qthUfkVO2OwnJh3HQg
     instagram: dylanmeca
 
@@ -22,7 +22,7 @@ theme: minima
 disqus:
   shortname: dylan14567
 
-url: "https://dylan14567.github.io"
+url: "https://dylanmeca.github.io"
 paginate: 10
 paginate_path: "/page:num/"
 
