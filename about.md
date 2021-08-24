@@ -18,9 +18,9 @@ Gracias a mis estudios de informática, aprendí más sobre el mundo cibernétic
 
 Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan14567&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
-![status](https://github-readme-stats.vercel.app/api?username=dylan14567)
+![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)
 
 # Información del sitio web
 
