@@ -2,7 +2,7 @@
 layout: post
 description: labsecurity is a framework and its use is for ethical hacking and computer security, This documentation describes how to use the labsecurity commands
 permalink: /labsecurity
-img: https://raw.githubusercontent.com/dylan14567/labsecurity/main/.github/icon.jpg
+img: https://raw.githubusercontent.com/dylanmeca/labsecurity/main/.github/icon.jpg
 keywords:
   - labsecurity
   - security
@@ -52,7 +52,7 @@ labsecurity is a framework and its use is for ethical hacking and computer secur
   - [How the use command works](#how-the-use-command-works)
   - [How to run the program](#how-to-run-the-program)
 
-Information about the installation and more details in: [https://github.com/dylan14567/labsecurity](https://github.com/dylan14567/labsecurity)
+Information about the installation and more details in: [https://github.com/dylanmeca/labsecurity](https://github.com/dylanmeca/labsecurity)
 
 This page is the labsecurity project documentation
 
