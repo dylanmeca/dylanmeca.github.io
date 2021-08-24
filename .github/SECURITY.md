@@ -12,4 +12,4 @@
 
 ## Report a vulnerability
 
-In case of error, in the scripts, inform us about the error in: https://github.com/dylan14567/dylan14567.github.io/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
+In case of error, in the scripts, inform us about the error in: https://github.com/dylanmeca/dylanmeca.github.io/blob/master/.github/ISSUE_TEMPLATE/bug_report.md
