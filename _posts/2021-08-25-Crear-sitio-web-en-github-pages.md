@@ -35,11 +35,11 @@ en el repositorio, podemos modificar el codigo del tema de la página para hacer
 
 Para ir a los ajustes de github pages debemos ir a los ajustes que se encuentra en el repositorio y darle clic donde dice ***pages***, y los ajustes de github pages son:
 
-* Source: 
+* ***Source:***
 
 Esta opción es para elegir de cual branch se tomarán los archivos para publicarse. Si le das clic a docs el sitio web tendra que alojarse en una carpeta llamada docs.
 
-* Theme Chooser:
+* ***Theme Chooser:***
 
 Permite seleccionar un tema para publicar utilizando la herramienta Jekyll.
 
