@@ -5,6 +5,30 @@ keywords:
    - github pages
    - github 
    - pages
+   - git
+   - alojar sitios webs estáticos
+   - sitios webs
+   - sitio web
+   - estáticos
+   - como crear un sitio web en github pages
+   - crear un sitio web en github pages
+   - hosting gratuito
+   - el github pages nos permite alojar sitios webs estáticos
+   - blog
+   - documentación
+   - codigo
+   - jekyll
+   - generar sitios webs estaticos
+   - web
+   - como alojar un sitio web en github pages
+   - alojar un sitio web en github pages
+   - temas de jekyll
+   - repositorio
+   - repositorio del proyecto
+   - proyecto
+   - página del proyecto
+   - página para tu empresa 
+   - página personal
 ---
 
 El Github Pages nos permite alojar sitios webs estáticos, para nuestra empresa o una página personal como un blog, pero tambien para crear
