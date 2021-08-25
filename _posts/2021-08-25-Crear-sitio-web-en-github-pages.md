@@ -1,8 +1,13 @@
 ---
 layout: post
+description: El Github Pages nos permite alojar sitios webs estáticos, para nuestra empresa o una página personal como un blog, pero tambien para crear sitios web para nuestros proyectos como la documentación. Para crear un sitio web en github pages debemos crear un repositorio en github y subir el codigo al repositorio. 
+keywords:
+   - github pages
+   - github 
+   - pages
 ---
 
-el Github Pages nos permite alojar sitios webs estáticos, para nuestra empresa o una página personal como un blog, pero tambien para crear
+El Github Pages nos permite alojar sitios webs estáticos, para nuestra empresa o una página personal como un blog, pero tambien para crear
 sitios web para nuestros proyectos como la documentación. GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
 
 Para crear un sitio web en github pages debemos 
@@ -42,5 +47,14 @@ Esta opción es para elegir de cual branch se tomarán los archivos para publica
 * ***Theme Chooser:***
 
 Permite seleccionar un tema para publicar utilizando la herramienta Jekyll.
+
+* ***Custom domain:***
+
+Nos permite añadir un dominio al sitio web.
+
+* ***Enforce HTTPS:***
+
+Permite el uso de HTTPS en nuestro sitio.
+
 
 
