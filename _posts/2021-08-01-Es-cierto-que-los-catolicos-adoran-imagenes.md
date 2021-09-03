@@ -72,6 +72,10 @@ Exodo, 25:18
 
 La misma tienda del encuentro, donde estaba el arca de la alianza esta llena de imágenes, lo mismo el templo de Jerusalén, también tenia imágenes y siempre por mandado divino.
 
+1 Reyes 7:29
+
+> 29 Sobre el panel que estaba entre los listones había leones, bueyes y querubines. Lo mismo sobre los listones. Por encima y por debajo de los leones y de los toros había adornos.
+
 Queda claro así nos lo enseña la biblia que estas imágenes, que no están destinadas a la adoración estaban permitidas por Dios.
 
 Pero tenemos más ejemplos como seria el caso de la serpiente de bronce que Dios, nuestro señor ordeno hacer a Moisés: "Hazte una serpiente de bronce y ponla sobre un mástil, todo el que haya sido mordido y la mire, vivirá" (Números 21:6 - 9)
