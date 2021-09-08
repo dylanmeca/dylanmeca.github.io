@@ -48,7 +48,7 @@ Nosotros los católicos, no adoramos imágenes sabemos perfectamente bien que en
 
 Los católicos sabemos que está prohibido y no adoramos imágenes, está prohibido hacerse todo tipo de imagen que se presente como divinidad y nos prohíbe hacer ídolos.
 
-Por lo tanto los católicos no adoramos imágenes si no veneramos a la persona que en ella esta representada y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
+Por lo tanto los católicos no adoramos imágenes si no veneramos a la persona que en ella esta representada y venerar significa sentir y demostrar gran amor y respeto a una persona por su virtud, dignidad, méritos o santidad.
 
 La biblia nos enseña que los cristianos escaparon del uso de imágenes que se usaban para ser adoradas.
 
@@ -144,4 +144,6 @@ Incluso te diré que en este idioma existen otras palabras para referirse a imá
 
 Si la imagen no representa un ídolo no tiene ningún problema, el primer mandamiento no hace referencia a imágenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
 
-En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es recordarlos y tambien recordar sus enseñanzas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
+En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es recordarlos y tambien recordar sus enseñanzas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa sentir y demostrar gran amor y respeto a una persona por su virtud, dignidad, méritos o santidad.
+
+Tambien usamos las imagenes para recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
