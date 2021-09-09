@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En este articulo se demostrara si se le puede llamar Padre al sacerdote catolico, y se usara la biblia para justificar si se le puede llamar Padre al sacerdote catolico
+description: En este articulo se demostrara si se le puede llamar Padre al sacerdote catolico, y tambien se usara la biblia para justificar si es biblico llamar padre al sacerdote
 keywords:
   - Dios
   - Jesucristo
