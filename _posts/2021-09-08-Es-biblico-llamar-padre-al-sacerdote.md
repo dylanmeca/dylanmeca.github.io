@@ -1,14 +1,22 @@
 ---
 layout: post
-description: Existen malinterpretaciónes con las acciónes de los catolicos pero en este articulo veras porque los catolicos llaman Padre al sacerdote y tambien se mostrara una justificación con la biblia
+description: En este articulo se demostrara si se le puede llamar Padre al sacerdote catolico, y se usara la biblia para justificar si se le puede llamar Padre al sacerdote catolico
 keywords:
   - Dios
+  - Jesucristo
   - biblia
   - porque los catolicos llamamos padre a los sacerdotes
   - porque los catolicos
   - sacerdotes
   - porque
   - catolicos
+  - sacerdote catolico
+  - es biblico llamar padre a un sacerdote
+  - apologética
+  - defensa de la fe
+  - abraham
+  - se le puede llamar padre al sacerdote
+  - apologética catolica
 ---
 
 En este articulo veremos si se le puede llamar Padre a un sacerdote, y se usara la biblia para demostrarlo:
