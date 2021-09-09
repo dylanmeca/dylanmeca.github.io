@@ -12,7 +12,7 @@ keywords:
   
 # Sobre Mi
 
-Soy Dylan Meca, científico e ingeniero informático y programador informático aficionado.
+Soy Dylan Meca, desarrollador de software y programador informático aficionado.
 
 Gracias a mis estudios de informática, aprendí más sobre el mundo cibernético, también aprendí sobre seguridad informática y me di cuenta de que podemos mejorar nuestros sistemas a través de pruebas de seguridad para hacerlos más seguros. 🛡️
 
