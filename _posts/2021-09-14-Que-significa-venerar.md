@@ -16,7 +16,7 @@ La palabra venerar y adorar no es lo mismo:
 Adorar significa: Rendir culto a la persona o cosa que se considera divina. Solo se adora a Dios
 
 Venerar significa: Sentir y demostrar gran amor y respeto a una cosa o a una persona por su virtud, dignidad, méritos o santidad. Como por ejemplo podriamos decir que una persona venera la memoria de sus antepasados, es decir, es guardar respeto
-a la persona por sus actos, los cuales son dignos de recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos, es decir imitar.
+a la persona por sus actos, los cuales son dignos de recordar, admirar su ejemplo y tratar de seguir sus pasos, es decir imitar.
 
 Estas 2 palabras no son lo mismo, tienen diferente significado
 
