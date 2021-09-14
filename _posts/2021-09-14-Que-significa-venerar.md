@@ -1,6 +1,6 @@
 ---
 layout: post
-description:
+description: Muchas veces nos preguntamos que significa venerar esa palabra no es lo mismo que adorar. Venerar significa sentir y demostrar gran amor y respeto a una cosa o a una persona por su virtud, dignidad, méritos o santidad, puedes ver más información en este articulo.
 keywords:
 
 ---
