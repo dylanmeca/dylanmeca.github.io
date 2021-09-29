@@ -136,6 +136,50 @@ Si nos vamos a Josué 7:10 nos dice:
 
 Esa pregunta es curiosa, pues refleja que Josué lo hizo más por temor que por otra cosa, la respuesta de Dios demuestra que la postura no es un acto de adoración, porque si no, Dios acogiera la actitud de Josué de otro modo, por tanto, se logra mostrar que no todo el que esté arrodillado está adorando, y si lo está delante de la presencia de Dios, por temor, tampoco se puede considerar que esté adorando a Dios.
 
+Pero estar de rodillas también puede hacerse como una muestra de veneración y respeto, como lo vemos en otros pasajes en que este acto no es reprobado, por ejemplo cuando el Rey Salomón se arrodilla ante su madre.
+
+1 Reyes, 2:19 - 22
+
+> 19 Entró Betsabé a ver al rey Salomón para hablarle en favor de Adonías. Se levantó el rey para recibirla y se postró ante ella; se sentó después en su trono y pusieron un trono para la madre del rey, la cual se sentó a su derecha.
+
+> 20 Ella le dijo: «Vengo a hacerte una pequeña petición, no me la niegues.» Contestó el rey: «Pide, madre mía, que no te lo negaré.»
+
+> 21 Ella añadió: «Da a Abisag, la sunamita, por esposa a tu hermano Adonías.»
+
+> 22 El rey Salomón respondió a su madre: «Con esto me pides que le entregue mi reino, pues es mi hermano mayor y lo apoyan el sacerdote Abiatar y Joab, hijo de Sarvia.»
+
+Abdías se arrodilló ante Elías y este no le corrige porque era por respeto también:
+
+1 Reyes, 18:7
+
+> 7 Estando Abdías en camino, Elías le salió al encuentro. Lo reconoció Abdías y, cayendo con el rostro en el suelo, le dijo: «¿Eres tú Elías, mi señor?»
+
+Ante Eliseo también se pusieron de rodillas:
+
+2 Reyes 2:15
+
+> 15 Del otro lado lo vieron los hermanos profetas de Jericó y dijeron: «El espíritu de Elías reposa sobre Eliseo.» Le salieron al encuentro, se arrodillaron ante él
+
+Daniel se arrodillo ante el ángel Gabriel:
+
+Daniel 8:15 - 18
+
+> 15 Mientras yo, Daniel, contemplaba esta visión y trataba de comprenderla, vi de pronto delante de mí un personaje de aspecto humano,
+
+> 16 y oí una voz humana, sobre el río Ulay, que gritaba: «Gabriel, explícale la visión.
+
+> 17 El se acercó al lugar donde yo estaba. Cuando llegó, me asusté y caí de bruces. Me dijo: «Hijo de hombre, entiende; esta visión se refiere al tiempo del fin.»
+
+> 18 Mientras me hablaba, perdí el conocimiento, cara en tierra. Me tocó y me hizo enderezarme donde estaba.
+
+Las mujeres se arrodillaron frente a ángeles en el sepulcro:
+
+Lucas 24:4 - 5
+
+> 4 No sabían que pensar de esto, cuando se presentaron ante ellas dos hombres con vestidos resplandecientes.
+
+> 5 Como ellas temiesen e inclinasen el rostro a tierra, les dijeron: «¿Por qué buscáis entre los muertos al que está vivo?
+
 El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien está representado en ella"
 
 Así es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
