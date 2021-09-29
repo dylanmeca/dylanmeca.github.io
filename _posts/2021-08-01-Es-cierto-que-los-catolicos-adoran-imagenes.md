@@ -96,6 +96,8 @@ Queda claro así nos lo enseña la biblia que estas imágenes, que no están des
 
 > 14 Hizo también la cortina de púrpura violeta, púrpura escarlata, carmesí y lino fino, y en ella hizo poner querubines.
 
+Tambien en este versiculo tenemos el uso de imagenes.
+
 Pero tenemos más ejemplos como seria el caso de la serpiente de bronce que Dios, nuestro señor ordeno hacer a Moisés: "Hazte una serpiente de bronce y ponla sobre un mástil, todo el que haya sido mordido y la mire, vivirá" (Números 21:6 - 9)
 
 Es evidente que esta serpiente no tenia ningún poder especial que la elevara al rango de divinidad, el acercarse a ella era un acto de fe y de confianza en el único Dios.
