@@ -1,0 +1,55 @@
+---
+layout: post
+description: Este jueves 30 de septiembre del 2021 ocurrira un apagon de internet que hara que muchos dispositivos pierdan una conexión con la web. En este articulo encontrara más información sobre este tema
+keywords:
+    - jueves 30 de septiembre
+    - 30 de septiembre
+    - septiembre
+    - apagon de internet
+    - internet
+    - conectarse a la red
+    - red
+    - problemas de conexion a internet
+    - problemas de conexion
+    - dispositivos
+    - dispositivos antiguos
+    - openssl
+    - Let’s Encrypt
+    - Encrypt
+    - web
+    - certificado de autentificación
+    - seguridad
+    - servidor
+    - vencimiento
+---
+
+Este jueves 30 de septiembre del 2021 ocurrira un apagon de internet que hara
+que muchos dispositivos pierdan una conexión con la web.
+
+Muchos no podran conectarse a la red. Los afectados por este fenómeno serán consolas de videojuegos, computadoras, televisores inteligentes, celulares y toda clase de dispositivos que puedan conectarse a internet.
+
+Este apagón sucederá debido al vencimiento de un certificado de autentificación necesario para validar la conexión entre el dispositivo y el servidor. Es decir, que los dispositivos que no estén actualizados quedarán obsoletos para la conexión a internet. ***Let’s Encrypt*** y los certificados ***HTTPSIdentTrust DST Root CA X3***, la cual es la raíz del problema.
+
+El certificado de seguridad en cuestión es el ***CA de DST Root CA X3 de Let’s Encrypt***, éste se encuentra principalmente en dispositivos móviles antiguos, ya sean celulares, consolas de videojuegos, tablets, televisores y otros, los cuales perderán la posibilidad de conectarse a internet luego del 30 de septiembre del 2021.
+
+Los celulares y dispositivos que se quedaran sin internet son:
+
+* Celulares y tablets con Android Gingerbread 2.3.6 o anteriores.
+
+* Dispositivos con iOS 9 o versiones anteriores.
+
+* Equipos Apple con macOS anteriores al 2016 o MacOs10.12.0.
+
+* PlayStation 3
+
+* PlayStation con sistema operativo anterior a la versión 5.0
+
+* Nintendo 3DS
+
+* Equipos BlackBerry con verisón inferior a 10.3.3
+
+* Ordenadores con Windows XP SP3 o más antiguos
+
+Los problemas de conexión a internet de los dispositivos mencionados se presentarán a partir del 30 de septiembre salvo que el firmware (programa básico que controla los circuitos electrónicos de cualquier dispositivo) del equipo sea actualizado.
+
+La solución es migrar a otro dispositivo o comprarse un dispositivo mucho más actual para evitar estas fallas de conexión a Internet.
