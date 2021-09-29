@@ -34,6 +34,10 @@ Este apagón sucederá debido al vencimiento de un certificado de autentificaci�
 
 El certificado de seguridad en cuestión es el ***CA de DST Root CA X3 de Let’s Encrypt***, éste se encuentra principalmente en dispositivos móviles antiguos, ya sean celulares, consolas de videojuegos, tablets, televisores y otros, los cuales perderán la posibilidad de conectarse a internet luego del 30 de septiembre del 2021.
 
+De acuerdo con Scott Helme, experto en tecnología y quien descubrió el fallo del sistema, aseguró que ***“uno de los clientes notables que aún se verá afectado por este vencimiento es cualquier cosa que dependa de la biblioteca OpenSSL 1.0.2 o anterior, la versión del 22 de enero de 2015 y la última actualización como OpenSSL 1.0.2u del 20 de diciembre de 2019″***.
+
+Cabe resaltar que algunos dispositivos podrán actualizar el sistema a ‘SGR Root X1′. Sin embargo, los dispositivos más antiguos no tendrán esta opción. 
+
 Los celulares y dispositivos que se quedaran sin internet son:
 
 * Celulares y tablets con Android Gingerbread 2.3.6 o anteriores.
