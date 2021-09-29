@@ -32,10 +32,10 @@ Este blog tiene copyright (Derechos de autor).
 
 Estas políticas son del blog y te pueden ayudar a conocer ciertas informaciónes del sitio web:
 
-* [Política De Privacidad](https://dylan14567.github.io/politica-de-privacidad)
+* [Política De Privacidad](https://dylanmeca.github.io/politica-de-privacidad)
 
-* [Política De Comentarios](https://dylan14567.github.io/politica-de-comentarios)
+* [Política De Comentarios](https://dylanmeca.github.io/politica-de-comentarios)
 
-* [Política De Cookies](https://dylan14567.github.io/politica-de-cookies)
+* [Política De Cookies](https://dylanmeca.github.io/politica-de-cookies)
 
 
