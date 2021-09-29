@@ -28,6 +28,8 @@ que muchos dispositivos pierdan una conexión con la web.
 
 Muchos no podran conectarse a la red. Los afectados por este fenómeno serán consolas de videojuegos, computadoras, televisores inteligentes, celulares y toda clase de dispositivos que puedan conectarse a internet.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s Encrypt&#39;s Root Certificate is expiring! <a href="https://t.co/aHI1GrmBCo">https://t.co/aHI1GrmBCo</a></p>&mdash; Scott Helme (@Scott_Helme) <a href="https://twitter.com/Scott_Helme/status/1439956774308614152?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Este apagón sucederá debido al vencimiento de un certificado de autentificación necesario para validar la conexión entre el dispositivo y el servidor. Es decir, que los dispositivos que no estén actualizados quedarán obsoletos para la conexión a internet. ***Let’s Encrypt*** y los certificados ***HTTPSIdentTrust DST Root CA X3***, la cual es la raíz del problema.
 
 El certificado de seguridad en cuestión es el ***CA de DST Root CA X3 de Let’s Encrypt***, éste se encuentra principalmente en dispositivos móviles antiguos, ya sean celulares, consolas de videojuegos, tablets, televisores y otros, los cuales perderán la posibilidad de conectarse a internet luego del 30 de septiembre del 2021.
