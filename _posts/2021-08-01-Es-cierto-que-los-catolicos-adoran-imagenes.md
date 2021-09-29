@@ -78,6 +78,24 @@ La misma tienda del encuentro, donde estaba el arca de la alianza esta llena de 
 
 Queda claro así nos lo enseña la biblia que estas imágenes, que no están destinadas a la adoración estaban permitidas por Dios.
 
+2 Crónicas, 3:7 - 14
+
+> 7 Recubrió de oro la Casa, las vigas, los umbrales, sus paredes y sus puertas, y esculpió querubines sobre las paredes.
+
+> 8 Construyó también la sala del Lugar Santísimo, cuya longitud, correspondiente al ancho de la Casa, era de veinte codos y su anchura igualmente de veinte codos. Lo revistió de oro puro, por seiscientos talentos.
+
+> 9 Los clavos de oro pesaban cincuenta siclos. Cubrió también de oro las salas altas.
+
+> 10 En el interior de la sala del Lugar Santísimo hizo los querubines de metal forjado, que revistió de oro.
+
+> 11 Las alas de los querubines se extendían por todo el largo, es decir, veinte codos. Cada ala tenía cinco codos; una tocaba la pared de la sala; la otra tocaba el ala del otro querubín.
+
+> 12 El ala del segundo querubín era de cinco codos y tocaba la pared de la sala; la otra ala tenía también cinco codos y estaba pegada con el ala del primer querubín.
+
+> 13 Las alas desplegadas de estos querubines medían veinte codos. Estaban de pie, y con sus caras vueltas hacia la Casa.
+
+> 14 Hizo también la cortina de púrpura violeta, púrpura escarlata, carmesí y lino fino, y en ella hizo poner querubines.
+
 Pero tenemos más ejemplos como seria el caso de la serpiente de bronce que Dios, nuestro señor ordeno hacer a Moisés: "Hazte una serpiente de bronce y ponla sobre un mástil, todo el que haya sido mordido y la mire, vivirá" (Números 21:6 - 9)
 
 Es evidente que esta serpiente no tenia ningún poder especial que la elevara al rango de divinidad, el acercarse a ella era un acto de fe y de confianza en el único Dios.
