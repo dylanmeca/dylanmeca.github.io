@@ -52,7 +52,7 @@ Los celulares y dispositivos que se quedaran sin internet son:
 
 * Nintendo 3DS
 
-* Equipos BlackBerry con verisón inferior a 10.3.3
+* Equipos BlackBerry con versión inferior a 10.3.3
 
 * Ordenadores con Windows XP SP3 o más antiguos
 
