@@ -38,7 +38,7 @@ Los comentarios y publicaciones deberán realizarse en un lenguaje claro y respe
 
 Les informo que no esta permitido esta clase de comentarios:
 
-* Esta prohibido comentarios que incluyan publicidad de productos o servicios de terceros distintos a Dylan Meca.
+* Esta prohibido comentarios que incluyan publicidad de productos o servicios de terceros distintos a los productos de Dylan Meca.
 * Esta prohibido comentarios que incluyan insultos, acusaciones, calumnias o otra palabra que puede dañar los derechos de los usuarios.
 * Esta prohibido comentarios que contengan spam o información protegida de otros sitios webs cuyo autor principal no haya consentido su difusión.
 * Esta prohibido comentarios que contengan enlaces o URL erróneas o que puedan generar daños informáticos a la plataforma del Sitio Web.
