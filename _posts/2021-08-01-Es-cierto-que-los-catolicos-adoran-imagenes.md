@@ -186,8 +186,12 @@ La iglesia respeta las imagenes de la misma forma que se respeta la foto de un f
 
 La palabra adorar y venerar no son lo mismo:
 
+***¿Que significa adorar?***
+
 * Adorar es el acto de religión que se ofrece a Dios en reconocimiento de su suprema perfección y dominio, y de que toda sus criaturas dependen de El (San Juan 4:24) 
 * Adorar significa rendir culto, obediencia, fidelidad a la persona o cosa que se considera divina. Solo se adora a Dios
+
+***¿Que significa venerar?***
 
 * Venerar significa honrar y tambien significa: Sentir y demostrar gran amor y respeto a una cosa o a una persona por su virtud, dignidad, méritos o santidad. Como por ejemplo podriamos decir que una persona venera la memoria de sus antepasados, es decir, es guardar respeto a la persona por sus actos, los cuales son dignos de recordar, admirar su ejemplo y tratar de seguir sus pasos, es decir imitar.
 * La veneración no reconoce a nadie como Dios.
