@@ -180,7 +180,9 @@ Lucas 24:4 - 5
 
 > 5 Como ellas temiesen e inclinasen el rostro a tierra, les dijeron: «¿Por qué buscáis entre los muertos al que está vivo?
 
-El concilio de Nicea de 787 ya nos enseñaba a todos que "el honor tributado a la imagen va dirigido a quien está representado en ella"
+El concilio de Nicea de 787 ya nos enseñaba a todos que "el quien venera(respeta) una imagen, venera(respeta) al que en ella esta representado."
+
+La iglesia respeta las imagenes de la misma forma que se respeta la foto de un familiar no porque sean imagenes sino porque nos recuerda a Jesucristo o a un santo.
 
 Así es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
 
