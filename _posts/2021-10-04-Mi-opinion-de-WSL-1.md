@@ -53,7 +53,7 @@ En conclusión WSL 1, hace que las aplicaciones de Linux se ejecuten junto con o
 
 ***En el espacio en disco:*** es ocupado por WSL varía según las distribuciones de Linux que instale en su computadora. Actualmente, es posible instalar múltiples distribuciones : por ejemplo, Ubuntu 20.04 y Debian. De hecho, puede [crear sus propias distribuciones](https://docs.microsoft.com/es-es/windows/wsl/build-custom-distro).
 
-Cuando instala una distribución de Linux desde la tienda de aplicaciones de Windows, se instala un lanzador de Linux. La primera vez que ejecuta el programa, descarga un archivo comprimido con la distribución y lo descomprime.
+Cuando instala una distribución de Linux desde la Microsoft Store, se instala un lanzador de Linux. La primera vez que ejecuta el programa, descarga un archivo comprimido con la distribución y lo descomprime.
 
 * El espacio en disco ocupado por WSL depende de la distribución de Linux que utilice.
 
