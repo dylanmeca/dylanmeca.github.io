@@ -204,6 +204,8 @@ Hebreos 12:9
 
 > 9 Por otra parte, tuvimos a nuestros padres terrenales que nos disciplinaban, y los venerábamos. ¿Por qué no obedeceremos mucho mejor al Padre de los espíritus, y viviremos?
 
+Aqui vemos que se usa la palabra venerábamos para decir que respetamos y amamos a nuestros padres terrenales ya que venerar significa honrar.
+
 Así es, en la iglesia veneramos a los santos ellos se merecen nuestro respeto y veneración porque siguieron a Jesucristo muy de cerca.
 
 Gracias a sus imágenes los recordamos, ademas gracias a la imagen del santo recordamos quien era el santo (si era un obispo o un sacerdote o quizá un seglar o laico) la imagen también nos recuerda que virtud practico más (la pureza, o la pobreza, o la obediencia), también nos dice la imagen del santo que lo hizo santo (si un martirio, o el estudio o la misión), de la misma forma al ver una imagen de la madre de Dios, nos viene a la memoria que ella es nuestra madre inmaculada, que nos ama, que intercede siempre por nosotros y nos pide que llevemos una vida santa.
