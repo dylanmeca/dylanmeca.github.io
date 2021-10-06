@@ -262,7 +262,7 @@ Otro versiculo donde aparece una procesión es en: 2 Samuel 6:1 - 5
 
 > 5 David y todo el pueblo de Israel bailaban delante de Yavé con todas sus fuerzas, cantando y tocando cítaras, arpas, panderos, sistros y címbalos.
 
-E incluso en la biblia Reina-Valera 1960 que usan los hermanos separaros aparece la palabra procesión:
+E incluso en la biblia Reina-Valera 1960 que usan los hermanos separados aparece la palabra procesión:
 
 Nehemías 12:31-40:
 
