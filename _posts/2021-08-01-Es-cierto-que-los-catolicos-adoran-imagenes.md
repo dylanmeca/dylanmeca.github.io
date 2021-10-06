@@ -236,6 +236,18 @@ Incluso te diré que en este idioma existen otras palabras para referirse a imá
 
 Si la imagen no representa un ídolo no tiene ningún problema, el primer mandamiento no hace referencia a imágenes que representen a Dios y podemos tener nuestros templos llenos de ellas, como lo estaba en el templo de salomón.
 
+E incluso las procesiones estan en la biblia pero antes debes saber que significa procesión esa palabra significa: Marcha de personas que caminan ordenadamente y de forma solemne por la calle con un motivo ceremonioso.
+
+El versiculo donde aparecen las procesiónes es en 1 Crónicas 15:15 - 16:
+
+1 Crónicas 15:15 - 16
+
+> 15 Luego los levitas trasladaron a hombros el Arca de Yavé, como lo había ordenado Moisés, según la palabra de Yavé, llevando las varas sobre los hombros.
+
+> 16 David dijo a los jefes de los levitas que dispusieran a sus hermanos, los cantores, con instrumentos musicales, salterios y címbalos para que los hicieran resonar, con voz de júbilo.
+
+Aquí vemos una procesión ya que se describe que se lleva el arca en los hombros algo muy similar a una procesión y tambien vemos el uso de instrumentos musicales algo que tambien se usa en una procesión.
+
 En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es recordarlos y tambien recordar sus enseñanzas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa sentir y demostrar gran amor y respeto a una persona por su virtud, dignidad, méritos o santidad.
 
 Tambien usamos las imagenes para recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
