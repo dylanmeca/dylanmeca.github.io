@@ -248,6 +248,26 @@ El versiculo donde aparecen las procesiónes es en 1 Crónicas 15:15 - 16:
 
 Aquí vemos una procesión ya que se describe que se lleva el arca en los hombros algo muy similar a una procesión y tambien vemos el uso de instrumentos musicales algo que tambien se usa en una procesión.
 
+Otro versiculo donde aparece una procesión es en: 2 Samuel 6:1 - 5
+
+2 Samuel 6:1 - 5
+
+> 1 David reunió de nuevo a todo lo mejor de Israel, unos treinta mil hombres.
+
+> 2 Cuando estuvieron listos, partió con todo su ejército para Baalá de Judá.
+
+> 3 Iban a buscar el Arca de Dios, sobre la cual se invoca el Nombre de Yavé de los ejércitos, quien se sienta en ella sobre los querubines.Pusieron el Arca de Dios en una carreta nueva y la llevaron de la casa de Abinadab, que está en la loma.
+
+> 4 Uzzá y Ajyó, hijos de Abinadab, conducían la carreta con el Arca de Dios. Uzzá caminaba al lado del Arca y Ajyó iba delante de ella.
+
+> 5 David y todo el pueblo de Israel bailaban delante de Yavé con todas sus fuerzas, cantando y tocando cítaras, arpas, panderos, sistros y címbalos.
+
+E incluso en la biblia Reina-Valera 1960 que usan los hermanos separaros aparece la palabra procesión:
+
+Nehemías 12:31-40:
+
+> 31 Hice luego subir a los príncipes de Judá sobre el muro, y puse dos coros grandes que fueron en procesión; el uno a la derecha, sobre el muro, hacia la puerta del Muladar.
+
 En conclusión los católicos no adoran imágenes, y lo que realmente se hacen con las imágenes es recordarlos y tambien recordar sus enseñanzas, la veneración que hacemos mirando una imagen, no es veneración a la materialidad de la imagen, sino a la persona que en ella esta representada y venerar significa sentir y demostrar gran amor y respeto a una persona por su virtud, dignidad, méritos o santidad.
 
 Tambien usamos las imagenes para recordar su ejemplo, admirar su ejemplo y tratar de seguir sus pasos.
