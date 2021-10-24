@@ -1,8 +1,28 @@
 ---
 layout: post
-description:
+description: En este articulo veremos como hallar un numero al cuadrado en python. Ya que con python podremos automatizar tareas y en este caso son operaciónes matematicas
 keywords:
+    - matematica
+    - numero
+    - numero al cuadrado
+    - 3 al cuadrado
+    - cuanto es 3 al cuadrado
+    - cuanto es un numero al cuadrado
+    - como hallar un numero al cuadrado
+    - como hallar un numero al cuadrado en python
+    - hallar numero al cuadrado en python
+    - numero al cuadrado en python
+    - python
+    - numero
+    - cuadrado
+    - hallar numero
+    - realizar operaciones matematicas en python
+    - realizar operaciones en python
+    - realizar operaciones matematicas
+    - tareas automatizadas en python
 ---
+
+En este articulo veremos como hallar un numero al cuadrado en python. Ya que con python podremos automatizar tareas y en este caso son operaciónes matematicas.
 
 Para hallar un numero al cuadrado por ejemplo 3<sup>2</sup>. Lo que hariamos normalmente es multiplicar 3 x 3 porque el mismo numero 3<sup>2 </sup> nos indica que se debe multiplicar 3 x 3.
 
