@@ -35,7 +35,7 @@ print (f"La respuesta es: {respuesta}")
 
 ```
 
-Si ejecutaramos este codigo saldria 9 porque 3 * 3 es 9.
+Si ejecutaramos este codigo saldria 9 porque 3 x 3 es 9.
 
 
 
