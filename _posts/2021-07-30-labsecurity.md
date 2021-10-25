@@ -58,7 +58,7 @@ This page is the labsecurity project documentation
 
 # How to use the console 
 
-To use the console we can use the ``` help ``` command to obtain information also on the available commands, but we can read this documentation to know more about those commands.
+To use the console we can use the ``` help ``` command to also obtain information about the available commands, although to obtain the information of all the commands you can use the ``` show options ``` command but we can also read this documentation to know more about those commands.
 
 ## How the set command works
 
