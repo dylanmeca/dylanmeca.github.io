@@ -26,9 +26,6 @@ url: "https://dylanmeca.github.io"
 paginate: 10
 paginate_path: "/page:num/"
 
-last-modified-at:
-    date-format: '%d-%b-%y'
-
 header_pages:
   - about.md
   - contact.html
@@ -37,4 +34,3 @@ header_pages:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-last-modified-at
