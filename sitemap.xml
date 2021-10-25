@@ -18,6 +18,9 @@ search: exclude
   {% unless page.search == "exclude" %}
   <url>
     <loc>{{ site.url | replace:'/index.html','/' }}{{ page.url}}</loc>
+    {% if page.last_modified_at %}
+       <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
   </url>
   {% endunless %}
   {% endfor %}
