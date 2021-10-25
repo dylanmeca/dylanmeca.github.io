@@ -17,7 +17,7 @@ search: exclude
   {% for page in site.html_pages %}
   {% unless page.search == "exclude" %}
   <url>
-    <loc>{{site.url | replace:'/index.html','/'}}{{ page.url}}</loc>
+    <loc>{{site.url | replace:'/index.html','/' }}{{ page.url}}</loc>
   </url>
   {% endunless %}
   {% endfor %}
