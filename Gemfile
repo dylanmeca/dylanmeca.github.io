@@ -8,4 +8,6 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
+gem 'github-pages', group: :jekyll_plugins
+
 
