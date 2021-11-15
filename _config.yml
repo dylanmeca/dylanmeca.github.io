@@ -27,6 +27,12 @@ url: "https://dylanmeca.github.io"
 paginate: 10
 paginate_path: "/page:num/"
 
+defaults:
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
+
 header_pages:
   - about.md
   - contact.html
@@ -35,3 +41,4 @@ header_pages:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
