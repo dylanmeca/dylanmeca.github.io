@@ -1,7 +1,27 @@
 ---
 layout: post
-description: Una de las formas de estudiar de forma autodidacta es mediante libros, aunque hoy en dia lo podemos hacer mediante articulos, aunque tambien se recomienda juntar el estudio de forma autodidacta con los cursos online para mejorar el conocimiento
+description: Una de las formas de aprender de forma autodidacta es mediante libros, aunque hoy en dia lo podemos hacer mediante articulos, aunque tambien se recomienda juntar el estudio de forma autodidacta con los cursos online para mejorar el conocimiento
 keywords: 
+    - como estudiar
+    - estudiar
+    - como estudiar de forma autodidacta
+    - como ser autodidacta
+    - ser autodidacta
+    - como aprender de forma autodidacta
+    - aprender de forma autodidacta
+    - como aprender
+    - aprender
+    - autodidacta
+    - aprender a aprender
+    - tecnicas de estudio
+    - estudiar de forma autodidacta
+    - estudiar
+    - forma autodidacta
+    - como estudiar de forma autodidacta
+    - consejos para ser autodidacta
+    - consejos
+    - consejos para estudiar matematicas
+    - consejos para estudiar
 ---
 
 Una de las formas de ser autodidacta, es buscar información en articulos 
