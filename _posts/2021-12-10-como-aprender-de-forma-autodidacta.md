@@ -25,7 +25,7 @@ keywords:
 ---
 
 Una de las formas de ser autodidacta, es buscar información en articulos 
-sobre lo que deseamos aprender, por ejemplo la programaciónn nosotros podemos buscar articulos
+sobre lo que deseamos aprender, por ejemplo la programación nosotros podemos buscar articulos
 o libros relacionados sobre ese tema y aprender sobre lo que estamos leyendo y al mismo tiempo tenemos
 que estudiar ese articulo o libro y poner todo lo que entendimos en un cuaderno.
 
