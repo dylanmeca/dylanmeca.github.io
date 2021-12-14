@@ -24,7 +24,7 @@ Actualmente estoy creando software, para mejorar la tecnología y el futuro.
 
 # Información del sitio web
 
-Bienvenido a mi blog, aquí encontrarás artículos relacionados con la informática y las matemáticas, ya que en estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te pueda interesar leer estos artículos, también publicaré artículos relacionados a la seguridad informática.
+Bienvenido a mi blog, aquí encontrarás artículos relacionados a la informática y las matemáticas, ya que en estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te pueda interesar leer estos artículos, también publicaré artículos relacionados a la seguridad informática.
 
 Este blog tiene copyright (Derechos de autor).
 
