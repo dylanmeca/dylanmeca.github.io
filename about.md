@@ -9,10 +9,10 @@ keywords:
    - sobre dylan meca y del blog
    - sobre el blog
 ---
-  
-# Sobre Mi
-
+ 
 Bienvenidos a mi blog, aquí hablaré sobre ciencia y tecnología, informática y matemática. 💻
+
+# Sobre Mi
 
 Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y un programador de informática.
 
