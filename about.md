@@ -12,11 +12,13 @@ keywords:
   
 # Sobre Mi
 
-Soy Dylan Meca, desarrollador de software y programador informático aficionado.
+Bienvenidos a mi blog, aquí hablaré sobre ciencia y tecnología, informática y matemática. 💻
 
-Gracias a mis estudios de informática, aprendí más sobre el mundo cibernético, también aprendí sobre seguridad informática y me di cuenta de que podemos mejorar nuestros sistemas a través de pruebas de seguridad para hacerlos más seguros. 🛡️
+Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y un programador de informática.
 
-Actualmente estoy creando software, para mejorar la tecnología y el futuro.
+Gracias a mis estudios de informática, pude entender cómo funciona la tecnología. También aprendí seguridad informática, ya que hoy en día la ciberseguridad es necesaria para evitar peligros. 🛡
+
+Una de las cosas que he aprendido son las matemáticas, ya que es una de mis pasiones como la informática y al mismo tiempo las matemáticas como la física se utilizan para calcular la velocidad y otras cosas interesantes.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
