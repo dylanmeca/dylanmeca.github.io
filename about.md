@@ -10,8 +10,6 @@ keywords:
    - sobre el blog
 ---
  
-Bienvenidos a mi blog, aquí hablaré sobre ciencia y tecnología, informática y matemática. 💻
-
 # Sobre Mi
 
 Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y un programador de informática.
@@ -26,7 +24,9 @@ Una de las cosas que he aprendido son las matemáticas, ya que es una de mis pas
 
 # Información del sitio web
 
-Bienvenido a mi blog, aquí encontrarás artículos relacionados a la informática y las matemáticas, ya que en estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te pueda interesar leer estos artículos, también publicaré artículos relacionados a la seguridad informática.
+Bienvenidos a mi blog, aquí publicaré artículos sobre ciencia y tecnología, informática y matemáticas. 💻
+
+En estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te interese leer estos artículos, también publicaré artículos relacionados con la seguridad informática.
 
 Este blog tiene copyright (Derechos de autor).
 
