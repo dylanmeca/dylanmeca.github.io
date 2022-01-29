@@ -36,6 +36,7 @@ defaults:
 header_pages:
   - about.md
   - contact.html
+  - categories.html
   - search.html
 
 plugins:
