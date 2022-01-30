@@ -5,6 +5,8 @@ permalink: /categories
 ---
 
 <h2 id="indice">Índice</h2>
+<p>Bienvenidos a las categorías del blog, aquí puedes navegar por 
+el blog a través de las categorías. Elige una categoría:</p>
 {% for category in site.categories %}
 {% capture category_name %}{{ category | first }}{% endcapture %}
 <ul>
@@ -12,8 +14,7 @@ permalink: /categories
 </ul>
 {% endfor %}
 
-<p>Bienvenidos a las categorias del blog:</p>
-
+<h2 id="categorias">Categorías</h2>
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
