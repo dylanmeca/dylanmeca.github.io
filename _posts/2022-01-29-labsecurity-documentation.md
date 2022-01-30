@@ -1,6 +1,6 @@
 ---
 layout: post
-description: labsecurity is a framework and its use is for ethical hacking and computer security
+description: labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface
 categories: [Documentacion, Ciberseguridad, Informatica, Linux]
 lang: en
 permalink: /labsecurity-documentation
