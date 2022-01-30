@@ -4,6 +4,14 @@ title: Categorias
 permalink: /categories
 ---
 
+<h2 id="indice">Índice</h2>
+{% for category in site.categories %}
+{% capture category_name %}{{ category | first }}{% endcapture %}
+<ol>
+   <li><a href="#{{ category_name }}">{{ category_name }}</a></li>
+</ol>
+{% endfor %}
+
 <p>Bienvenidos a las categorias del blog:</p>
 
 <div id="archives">
