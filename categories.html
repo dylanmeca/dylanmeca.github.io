@@ -1,11 +1,18 @@
 ---
 layout: default
 title: Categorias
+description: Bienvenido a las categorías del blog, aquí puedes navegar por el blog a través de las categorías
 permalink: /categories
+keywords:
+    - categorias
+    - categorias del blog
+    - blog
+    - dylan meca
+    - categorias del blog de dylan meca
 ---
 
 <h2 id="indice">Índice</h2>
-<p>Bienvenidos a las categorías del blog, aquí puedes navegar por 
+<p>Bienvenido a las categorías del blog, aquí puedes navegar por 
 el blog a través de las categorías. Elige una categoría:</p>
 {% for category in site.categories %}
 {% capture category_name %}{{ category | first }}{% endcapture %}
