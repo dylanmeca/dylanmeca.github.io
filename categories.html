@@ -27,7 +27,7 @@ el blog a través de las categorías. Elige una categoría:</p>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
     <ul>
-	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	<li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4></li>
         <li><p>{{ post.description }}</p></li>
     </ul>
     </article>
