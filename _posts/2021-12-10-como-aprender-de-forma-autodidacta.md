@@ -1,6 +1,7 @@
 ---
 layout: post
 description: Una de las formas de aprender de forma autodidacta es mediante libros, aunque hoy en dia lo podemos hacer mediante articulos, aunque tambien se recomienda juntar el estudio de forma autodidacta con los cursos online para mejorar el conocimiento
+categories: [Estudios, Consejos]
 keywords: 
     - como estudiar
     - estudiar

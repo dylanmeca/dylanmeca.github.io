@@ -3,6 +3,7 @@ layout: page
 title: Política de comentarios
 description: En este articulo encontrara la política de comentarios de este sitio web, dentro de este articulo encontrara las reglas de los comentarios.
 permalink: /politica-de-comentarios
+categories: [Politicas]
 keywords:
   - Dylan Meca
   - politica

@@ -1,6 +1,7 @@
 ---
 layout: post
 description: Si nos alimentamos adecuadamente podemos tener una buena salud, pero si investigamos sobre nutrición tendríamos una idea sobre que alimentos elegir, también tendríamos un detalle extenso sobre los alimentos incluso información que desconocíamos
+categories: [Nutricion, Tutoriales, Salud]
 keywords:
    - si tenemos buena nutricion
    - buena salud

@@ -1,6 +1,7 @@
 ---
 layout: post
 description: El Github Pages nos permite alojar sitios webs estáticos, para nuestra empresa o una página personal como un blog, pero tambien para crear sitios web para nuestros proyectos como la documentación. Para crear un sitio web en github pages debemos crear un repositorio en github y subir el codigo al repositorio. 
+categories: [Servidores, Linux, Tutoriales, Informatica, Github]
 keywords:
    - github pages
    - github 

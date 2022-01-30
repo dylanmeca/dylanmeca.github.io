@@ -1,6 +1,7 @@
 ---
 layout: post
 description: En este articulo encontraras respuestas de como aprender a programar y si es facil, tambien se mostraran cursos para aprender a programar.
+categories: [Python, Programacion, Tutoriales, Informatica]
 keywords:
     - aprender a programar
     - aprender
