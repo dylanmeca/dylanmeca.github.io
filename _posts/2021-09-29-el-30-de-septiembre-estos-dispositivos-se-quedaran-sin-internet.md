@@ -2,6 +2,7 @@
 layout: post
 description: Este jueves 30 de septiembre del 2021 ocurrira un apagon de internet que hara que muchos dispositivos pierdan una conexión con la web. Este apagón sucederá debido al vencimiento de un certificado de autentificación necesario para validar la conexión entre el dispositivo y el servidor. Es decir, que los dispositivos que no estén actualizados quedarán obsoletos para la conexión a internet. Let’s Encrypt y los certificados HTTPSIdentTrust DST Root CA X3, la cual es la raíz del problema.
 categories: [Noticias, Informatica, Ciberseguridad, Linux]
+permalink: /2021/09/29/el-30-de-septiembre-estos-dispositivos-se-quedaran-sin-internet.html
 keywords:
     - jueves 30 de septiembre
     - 30 de septiembre

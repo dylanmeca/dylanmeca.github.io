@@ -2,6 +2,7 @@
 layout: post
 description: En este articulo veremos como editar la wikipedia, y para eso debemos crear una cuenta y investigar más sobre la wikipedia, tambien de como funciona el wikitexto y debemos tener buena gramatica y redacción, se debe añadir una referencia para saber de donde sacaste esa información.
 categories: [Tutoriales, Informatica, Programacion]
+permalink: /2021/07/25/como-editar-la-wikipedia.html
 keywords:
    - wikipedia
    - como editar la wikipedia

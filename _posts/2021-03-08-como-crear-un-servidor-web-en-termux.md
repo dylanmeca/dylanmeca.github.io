@@ -3,6 +3,7 @@ layout: post
 title: Como crear un Servidor Web en Termux
 description: En este articulo veras como crear un servidor web en termux, y este servidor es creado mediante apache.
 categories: [Servidores, Termux, Web, Informatica, Tutoriales]
+permalink: /2021/03/08/como-crear-un-servidor-web-en-termux.html
 keywords:
     - termux
     - servidor web

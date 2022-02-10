@@ -3,6 +3,7 @@ layout: post
 description: Scienlib is a scientific Python library that adds mathematical functions and adds other functions like physics, but also has cybersecurity and other functions
 lang: en
 categories: [Documentacion, Ciencia, Informatica, Python, Matematicas]
+permalink: /2021/04/28/scienlib-documentation.html
 keywords:
   - scienlib
   - scienlib documentation

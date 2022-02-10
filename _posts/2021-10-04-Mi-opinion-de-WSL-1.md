@@ -2,6 +2,7 @@
 layout: post
 description: Windows Subsystem for Linux es una capa de compatibilidad desarrollada por Microsoft para correr ejecutables de Linux. En conclusión WSL 1, hace que las aplicaciones de Linux se ejecuten junto con otras aplicaciones de Windows, la memoria y la CPU solo se utilizan cuando se ejecutan aplicaciones de Linux
 categories: [Ubuntu, Linux, WSL, Consejos, Informatica]
+permalink: /2021/10/04/mi-opinion-de-wsl-1.html
 keywords:
     - WSL
     - Windows Subsystem for Linux

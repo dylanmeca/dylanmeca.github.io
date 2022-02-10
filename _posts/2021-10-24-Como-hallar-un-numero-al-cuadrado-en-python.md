@@ -2,6 +2,7 @@
 layout: post
 description: En este articulo veremos como hallar un numero al cuadrado en python. Ya que con python podremos automatizar tareas y en este caso son operaciónes matematicas
 categories: [Python, Programacion, Matematicas, Informatica]
+permalink: /2021/10/24/como-hallar-un-numero-al-cuadrado-en-python.html
 keywords:
     - matematica
     - numero

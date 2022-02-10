@@ -2,6 +2,7 @@
 layout: post
 description: En este articulo veras como crear un repositorio apt para Termux, un repositorio apt es un lugar donde se almacenan paquetes .deb y de ahi se pueden descargar los paquetes con tan solo tener instalado el respositorio apt en linux.
 categories: [Tutoriales, Informatica, Linux, Termux]
+permalink: /2021/07/05/Crear-repositorio-apt-en-Termux.html
 keywords:
   - repositorio apt
   - apt
