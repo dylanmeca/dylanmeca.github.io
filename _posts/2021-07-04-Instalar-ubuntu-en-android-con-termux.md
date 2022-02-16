@@ -74,7 +74,7 @@ pkg install proot-distro -y
 
 ```
 
-Una vez instalado debemos ejecutar el comando: ``` proot-distro install ubuntu-20.04 ```, esto instalara ubuntu en termux, una vez finalizada la instalación debemos ejecutar el comando ```proot-distro login ubuntu-20.04```, una vez ejecutado el comando se abra iniciado la interfaz de consola de ubuntu.
+Una vez instalado debemos ejecutar el comando: ``` proot-distro install ubuntu ```, esto instalara ubuntu en termux, una vez finalizada la instalación debemos ejecutar el comando ```proot-distro login ubuntu```, una vez ejecutado el comando se abra iniciado la interfaz de consola de ubuntu.
 
 # Interfaz Gráfica
 
