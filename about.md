@@ -34,7 +34,7 @@ Este blog tiene copyright (Derechos de autor).
 
 Estas políticas son del blog y te pueden ayudar a conocer ciertas informaciónes del sitio web:
 
-* [Política De Privacidad](https://dylanmeca.github.io/politica-de-privacidad)
+<a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}"></a>
 
 * [Política De Comentarios](https://dylanmeca.github.io/politica-de-comentarios)
 
