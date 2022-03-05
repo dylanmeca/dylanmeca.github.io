@@ -35,7 +35,7 @@ Este blog tiene copyright (Derechos de autor).
 Estas políticas son del blog y te pueden ayudar a conocer ciertas informaciónes del sitio web:
 
 <ul>
-    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad</a></li>
-    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios</a></li>
-    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li>
+    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad</a></li><br/>
+    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios</a></li><br/>
+    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li><br/>
 </ul>
