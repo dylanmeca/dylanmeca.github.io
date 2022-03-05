@@ -37,5 +37,5 @@ Estas políticas son del blog y te pueden ayudar a conocer ciertas informacióne
 <ul>
     <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad</a></li><br/>
     <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios</a></li><br/>
-    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li><br/>
+    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li>
 </ul>
