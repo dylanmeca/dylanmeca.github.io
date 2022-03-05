@@ -6,6 +6,8 @@ permalink: /2022/03/05/como-cambiar-el-color-de-fondo-de-whiptail.html
 keywords:
 ---
 
+<img src="{{ 'assets/img/whiptail-fondo.png' | relative_url }}"  alt="Imagen de fondo de whiptail">
+
 Muchas veces vemos que el fondo del dialogo de whiptail es de color morado, y es probable que alguna vez hemos querido cambiarlo de color. 
 
 En esta ocasión lo cambiaremos de color morado a azul. Para eso nesecitamos cambiar la paleta de colores de Ubuntu a la original. 
