@@ -5,6 +5,24 @@ categories: [Linux, Ubuntu, WSL, Informatica, Servidores]
 permalink: /2022/03/05/como-cambiar-el-color-de-fondo-de-whiptail.html
 img: https://dylanmeca.github.io/assets/img/whiptail-fondo.png
 keywords:
+    - como cambiar
+    - como cambiar el color
+    - como cambiar el color de fondo
+    - fondo
+    - color
+    - color de fondo
+    - como cambiar el color de fondo de whiptail
+    - whiptail
+    - whiptail de ubuntu
+    - ubuntu
+    - fondo morado
+    - fondo azul
+    - fondo de whiptail
+    - linux 
+    - ubuntu server
+    - paleta de colores
+    - paleta de colores de ubuntu
+    - colores de ubuntu
 ---
 
 <img src="https://dylanmeca.github.io/assets/img/whiptail-fondo.png"  alt="Imagen de fondo de whiptail">
