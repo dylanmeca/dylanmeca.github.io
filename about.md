@@ -24,7 +24,7 @@ Una de las cosas que he aprendido son las matemáticas, ya que es una de mis pas
 
 # Información del sitio web
 
-Bienvenidos a mi blog, aquí publicaré artículos sobre ciencia y tecnología, informática y matemáticas. 💻
+Bienvenidos a mi blog, aquí publicaré artículos sobre ciencia, machine learning, data science, ciberseguridad y mucho mas. 💻
 
 En estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te interese leer estos artículos, también publicaré artículos relacionados con la seguridad informática.
 
