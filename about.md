@@ -12,11 +12,11 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y estoy especializado en machine learning.
+Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de machine learning  y también me especializo en el área de las matemáticas. 
 
-Gracias a mis estudios de informática, pude entender cómo funciona la tecnología. También aprendí seguridad informática, ya que hoy en día la ciberseguridad es necesaria para evitar peligros. 🛡
+Durante esos años de estudio he aprendido diversas materias y lenguajes de programación, como por ejemplo python que es un lenguaje muy usado en machine learning. Uno de los motivos de porque considero a python como un lenguaje recomendado es por su facilidad de aprendizaje y porque te podrías especializar en computación cuántica gracias a la librería de IBM llamada Qiskit. 
 
-Una de las cosas que he aprendido son las matemáticas, ya que es una de mis pasiones como la informática y al mismo tiempo las matemáticas como la física se utilizan para calcular la velocidad y otras cosas interesantes.
+Una de las materias que he aprendido son las matemáticas, ya que es una de mis pasiones como la informática. Y las mismas matemáticas nos pueden ayudar a resolver problemas y crear nuevas tecnologías. 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
