@@ -12,7 +12,7 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y un programador de informática.
+Soy Dylan Meca, un estudiante especializado en informática y matemática. También soy un desarrollador de software y estoy especializado en machine learning.
 
 Gracias a mis estudios de informática, pude entender cómo funciona la tecnología. También aprendí seguridad informática, ya que hoy en día la ciberseguridad es necesaria para evitar peligros. 🛡
 
