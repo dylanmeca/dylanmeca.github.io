@@ -8,11 +8,7 @@ keywords:
 <p>En este articulo podrás probar python en el navegador gracias a <a href="https://pyscript.net/"><b>pyscript</b></a>.
 Las librerías disponibles para este editor de código son:</p><br />
 
-<ul>
-  <li>- numpy</li>
-  <li>- pandas</li>
-  <li>- matplotlib</li>
-</ul>
+<div id="list-libraries"></div>
 
 <br />
 <p> Y otras librerías que vienen por defecto en el sistema, gracias al framework pyscript podemos ejecutar
@@ -27,5 +23,12 @@ traeria futuros articulos donde podamos de mejor manera crear graficos estadisti
   - pandas
   - matplotlib
 </py-env>
+
+<py-script output="list-libraries">
+  import micropip
+  package_list = micropip.list()
+  for pl in package_list:
+       print("- " + pl)
+</py-script>
 
 <py-repl id="my-repl" auto-generate="true"></pyrepl>
