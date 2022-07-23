@@ -12,7 +12,7 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de data science  y también me especializo en el área de las matemáticas. 💻
+Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de data science y también me especializo en el área de las matemáticas. 💻
 
 Durante esos años de estudio he aprendido diversas materias y lenguajes de programación, como por ejemplo python que es un lenguaje muy usado en machine learning. Uno de los motivos de porque considero a python como un lenguaje recomendado es por su facilidad de aprendizaje y porque te podrías especializar en computación cuántica gracias a la librería de IBM llamada Qiskit. 
 
