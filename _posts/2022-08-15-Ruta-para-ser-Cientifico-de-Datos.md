@@ -14,7 +14,7 @@ keywords:
           * Intervalos de Confianza y Pruebas de Hipótesis
           * Probabilidades
 
-2. Programación:
+2. Lenguajes de Programación:
      * Python 
      * R
      * SQL (MySQL)
