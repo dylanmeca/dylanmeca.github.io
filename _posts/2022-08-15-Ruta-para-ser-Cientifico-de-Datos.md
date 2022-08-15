@@ -17,7 +17,6 @@ keywords:
 2. Lenguajes de Programación:
      * Python 
      * R
-     * SQL (MySQL)
 
 3. Python para Ciencia de Datos:
      * Recolección de Datos
@@ -31,4 +30,8 @@ keywords:
      * Desarrollo de Modelos
           * Scikit-learn
           * TensorFlow
+
+4. Bases de Datos:
+     * SQL (MySQL)
+     * 
 
