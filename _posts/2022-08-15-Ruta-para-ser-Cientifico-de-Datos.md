@@ -7,7 +7,7 @@ keywords:
 
 1. Matemáticas:
      * Álgebra
-     * Álgebra Lineal
+          * Álgebra Lineal
      * Cálculo
      * Estadística
           * Estadística descriptiva y distribuciones
@@ -19,4 +19,16 @@ keywords:
      * R
      * SQL (MySQL)
 
-3. 
+3. Python para Ciencia de Datos:
+     * Recolección de Datos
+          * Selenium
+          * Scrapy
+     * Análisis de Datos
+          * Numpy
+          * Pandas
+     * Visualización de Datos
+          * Matplotlib
+     * Desarrollo de Modelos
+          * Scikit-learn
+          * TensorFlow
+
