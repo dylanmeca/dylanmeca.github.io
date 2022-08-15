@@ -13,3 +13,10 @@ keywords:
           * Estadística descriptiva y distribuciones
           * Intervalos de Confianza y Pruebas de Hipótesis
           * Probabilidades
+
+2. Programación:
+     * Python 
+     * R
+     * SQL (MySQL)
+
+3. 
