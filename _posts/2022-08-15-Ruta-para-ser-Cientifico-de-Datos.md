@@ -5,6 +5,13 @@ description:
 keywords:
 ---
 
+La Ciencia de Datos es una carrera que estudia, administra, analiza 
+e interpreta todo tipo de datos con el fin de que las organizaciones tomen mejores decisiones y 
+resuelvan problemas complejos. Para lograrlo, se combinan técnicas de 
+*computación* y *estadística*, como el _aprendizaje automático_ o _machine learning_, 
+la inteligencia artificial, el reconocimiento de patrones, el aprendizaje estadístico, 
+los modelos de probabilidad y la visualización.
+
 1. Matemáticas:
      * Álgebra
           * Álgebra Lineal
