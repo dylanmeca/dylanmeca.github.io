@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /2022/08/15/Ruta-para-ser-Cientifico-de-Datos.html
-description: 
+description: La Ciencia de Datos es una carrera que estuda, administra, analiza e interpreta todo tipo de datos con el fin de que las organizaciones tomen mejores decisiones y resuelvan problemas complejos
 keywords:
 ---
 
@@ -40,5 +40,37 @@ los modelos de probabilidad y la visualización.
 
 4. Bases de Datos:
      * SQL (MySQL)
-     * 
+     * Conceptos de Base de Datos Relacionales
+     * Sentencias DDL
+          * Create
+          * Alter
+          * Drop
+          * Truncate
+          * Rename
+     * Sentencias DML
+          * Select 
+          * Insert 
+          * Update
+          * Delete
+     * Sentencias DCL
+          * Grant
+          * Revoke
+     * Sentencias TCL
+          * Commit
+          * Rollback
+     * Joins
 
+5. Visualización de Datos:
+     * EDA 
+       * Gráfico de Barras
+       * Gráfico de Dispersión 
+     * Power BI
+     * Tableau
+     * Librerias de Python 
+         * Seaborn
+
+6. Proyectos de Ciencia de Datos: 
+     * Detección de fraude en tarjetas de crédito
+     * Detección de spam en emails
+     * Recomendación de películas
+     * Customer Churn
