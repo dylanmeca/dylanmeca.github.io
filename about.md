@@ -16,7 +16,7 @@ Soy Dylan Meca, un estudiante especializado en informática sobre todo en el ár
 
 Durante esos años de estudio he aprendido diversas materias y lenguajes de programación, como por ejemplo python que es un lenguaje muy usado en inteligencia artificial. También aprendí ciberseguridad ya que es importante para mantener el software seguro y detectar vulnerabilidades. 🛡️
 
-Una de las materias que he aprendido es la física, ya que es una de mis pasiones como la informática. Y las misma física nos puede ayudar a resolver problemas y crear nuevas tecnologías. 📚
+Una de las materias que he aprendido es la física, ya que es una de mis pasiones como la informática. Y la misma física nos puede ayudar a resolver problemas y crear nuevas tecnologías. 📚
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
