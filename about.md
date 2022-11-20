@@ -12,7 +12,7 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de inteligencia artificial y también me especializo en física. 🖥️
+Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de inteligencia artificial y también me especializo en el área de la física. 🖥️
 
 Durante esos años de estudio he aprendido diversas materias y lenguajes de programación, como por ejemplo python que es un lenguaje muy usado en inteligencia artificial. También aprendí ciberseguridad ya que es importante para mantener el software seguro y detectar vulnerabilidades. 🛡️
 
