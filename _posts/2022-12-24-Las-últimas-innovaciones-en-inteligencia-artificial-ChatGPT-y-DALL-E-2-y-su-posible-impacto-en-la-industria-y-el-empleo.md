@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Las últimas innovaciones en inteligencia artificial: ChatGPT y DALL-E 2 y su posible impacto en la industria y el empleo
 permalink: /2022/12/24/Las-últimas-innovaciones-en-inteligencia-artificial-ChatGPT-y-DALL-E-2-y-su-posible-impacto-en-la-industria-y-el-empleo.md
 description: ChatGPT y DALL-E 2 son dos nuevas inteligencias artificiales que pueden tener un impacto significativo en la industria y en el empleo en el futuro, pero también es importante considerar los posibles impactos en la sociedad y tomar medidas para garantizar su uso ético y responsable.
 keywords:
