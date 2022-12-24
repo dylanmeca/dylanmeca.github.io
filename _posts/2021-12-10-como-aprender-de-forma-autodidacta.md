@@ -26,10 +26,19 @@ keywords:
     - consejos para estudiar
 ---
 
-Una de las formas de ser autodidacta, es buscar información en articulos 
-sobre lo que deseamos aprender, por ejemplo la programación nosotros podemos buscar articulos
-o libros relacionados sobre ese tema y aprender sobre lo que estamos leyendo y al mismo tiempo tenemos
-que estudiar ese articulo o libro y poner todo lo que entendimos en un cuaderno.
+Ser autodidacta es una forma de aprendizaje que implica adquirir conocimientos por cuenta propia, sin la necesidad de contar con una institución o profesor guía. Una de las formas de ser autodidacta es buscar información en artículos o libros sobre el tema que se desea aprender y estudiarlo de forma independiente.
+
+Además, hay otras formas de ser autodidacta, como:
+
+* Aprovechar los recursos disponibles en línea, como tutoriales en video, plataformas de aprendizaje en línea y foros de discusión.
+
+* Asistir a conferencias, talleres y otros eventos que ofrezcan información relevante para el tema que se desea aprender.
+
+* Participar en proyectos prácticos y aplicar lo que se ha aprendido en la práctica.
+
+* Mantenerse actualizado sobre las últimas tendencias y desarrollos en el campo de estudio.
+
+Es importante recordar que el aprendizaje autodidacta requiere disciplina y motivación, y es necesario tener una actitud proactiva y una disposición para buscar respuestas y soluciones por uno mismo.
 
 Para más información mira este video:
 
