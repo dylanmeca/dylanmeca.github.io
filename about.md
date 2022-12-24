@@ -12,11 +12,11 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un estudiante especializado en informática sobre todo en el área de inteligencia artificial y también me especializo en el área de la física. 🖥️
+Soy Dylan Meca, un estudiante especializado en informática y física. Mi campo de interés principal es la inteligencia artificial, y he dedicado tiempo y esfuerzo a aprender diversas materias y lenguajes de programación relacionados con esta área, como python. 💻
 
-Durante esos años de estudio he aprendido diversas materias y lenguajes de programación, como por ejemplo python que es un lenguaje muy usado en inteligencia artificial. También aprendí ciberseguridad ya que es importante para mantener el software seguro y detectar vulnerabilidades. 🛡️
+También me he interesado por la ciberseguridad, ya que entiendo la importancia de mantener la seguridad del software y detectar vulnerabilidades para proteger nuestros sistemas. 🛡️
 
-Una de las materias que he aprendido es la física, ya que es una de mis pasiones como la informática. Y la misma física nos puede ayudar a resolver problemas y crear nuevas tecnologías. 📚
+La física es otra de mis áreas de interés, y he aprendido sobre cómo podemos utilizar sus principios para resolver problemas y crear nuevas tecnologías. Continúo aprendiendo y desarrollando mis habilidades en ambas áreas de estudio. 📚
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
