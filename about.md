@@ -22,14 +22,6 @@ La física es otra de mis áreas de interés, y he aprendido sobre cómo podemos
 
 ![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)
 
-# Información del sitio web
-
-Bienvenidos a mi blog, aquí publicaré artículos sobre ciencia, machine learning, data science, ciberseguridad y mucho mas. 💻
-
-En estas publicaciones pondré contenido interesante para aprender y si eres un estudiante autodidacta es probable que te interese leer estos artículos, también publicaré artículos relacionados con la seguridad informática.
-
-Este blog tiene copyright (Derechos de autor).
-
 ## Políticas
 
 Estas políticas son del blog y te pueden ayudar a conocer ciertas informaciónes del sitio web:
@@ -39,3 +31,5 @@ Estas políticas son del blog y te pueden ayudar a conocer ciertas informacióne
     <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios</a></li><br/>
     <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li>
 </ul>
+
+Este blog tiene copyright (Derechos de autor).
