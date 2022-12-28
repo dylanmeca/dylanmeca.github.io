@@ -10,6 +10,53 @@ keywords:
     - web
 ---
 
+<style>
+/* Estilos para el formulario de búsqueda */
+form {
+  display: flex; /* Muestra el formulario como un elemento de tipo flex */
+  align-items: center; /* Alinea los elementos del formulario en el centro verticalmente */
+  width: 400px; /* Establece un ancho de 400px para el formulario */
+}
+
+/* Estilos para el cuadro de búsqueda */
+input[type="text"] {
+  width: 70%; /* Establece un ancho del 70% para el cuadro de búsqueda */
+  padding: 12px 20px; /* Añade un padding de 12px a la parte superior e inferior y de 20px a los lados */
+  margin: 8px 0; /* Añade un margen de 8px arriba y abajo */
+  box-sizing: border-box; /* Establece que el tamaño del cuadro de búsqueda incluirá el padding y el borde */
+  border: 2px solid #ccc; /* Añade un borde de 2px y color #ccc al cuadro de búsqueda */
+  border-radius: 4px; /* Añade un borde redondeado al cuadro de búsqueda */
+}
+
+/* Estilos para el botón de búsqueda */
+input[type="submit"] {
+  width: 30%; /* Establece un ancho del 30% para el botón de búsqueda */
+  background-color: #4caf50; /* Establece un color de fondo verde para el botón de búsqueda */
+  color: white; /* Establece un color blanco para el texto del botón de búsqueda */
+  padding: 14px 20px; /* Añade un padding de 14px a la parte superior e inferior y de 20px a los lados */
+  margin: 8px 0; /* Añade un margen de 8px arriba y abajo */
+  border: none; /* Elimina el borde del botón de búsqueda */
+  border-radius: 4px; /* Añade un borde redondeado al botón de búsqueda */
+  cursor: pointer; /* Cambia el cursor a mano cuando se pasa por encima del botón de búsqueda */
+}
+
+/* Estilos para la lista de resultados */
+ul {
+  list-style-type: none; /* Elimina los marcadores de la lista */
+  padding: 0; /* Elimina el padding de la lista */
+  margin: 0; /* Elimina el margen de la lista */
+}
+
+/* Estilos para cada elemento de la list
+li {
+  margin: 8px 0; /* Añade un margen de 8px arriba y abajo */
+  padding: 12px; /* Añade un padding de 12px a todos los lados */
+  border: 1px solid #ccc; /* Añade un borde de 1px y color #ccc a cada elemento de la lista */
+  border-radius: 4px; /* Añade un borde redondeado a cada elemento de la lista */
+}
+    
+</style>
+
 <form action="search.html" method="get">
   <label for="search-box"></label>
   <input type="text" id="search-box" name="query">
