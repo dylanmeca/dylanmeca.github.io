@@ -55,6 +55,23 @@ li {
   border-radius: 4px; /* Añade un borde redondeado a cada elemento de la lista */
 }
     
+/* Estilos para el formulario de búsqueda en dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  form {
+    flex-direction: column; /* Muestra los elementos del formulario en una columna */
+    width: 100%; /* Establece un ancho del 100% para el formulario */
+  }
+
+  /* Estilos para el cuadro de búsqueda en dispositivos móviles */
+  input[type="text"] {
+    width: 100%; /* Establece un ancho del 100% para el cuadro de búsqueda */
+  }
+
+  /* Estilos para el botón de búsqueda en dispositivos móviles */
+  input[type="submit"] {
+    width: 100%; /* Establece un ancho del 100% para el botón de búsqueda */
+  }
+}
 </style>
 
 <form action="search.html" method="get">
