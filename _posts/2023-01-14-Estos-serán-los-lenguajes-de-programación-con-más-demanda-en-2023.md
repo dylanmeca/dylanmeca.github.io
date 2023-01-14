@@ -33,9 +33,15 @@ keywords:
 
 En el mundo de la programación, el panorama está constantemente cambiando y evolucionando. Sin embargo, algunos lenguajes de programación siguen siendo altamente demandados en el mercado laboral. En el año 2023, los lenguajes de programación más populares y demandados son Python, JavaScript y Java.
 
+## Javascript
+
 JavaScript, por otro lado, es un lenguaje de programación de alto nivel que se ejecuta en el lado del cliente. Es ampliamente utilizado en desarrollo web para crear sitios y aplicaciones interactivas. Con la creciente popularidad de las **aplicaciones web y móviles**, la demanda de desarrolladores de JavaScript ha aumentado significativamente en los últimos años. Además, el surgimiento de nuevas tecnologías como React y Angular, ha hecho que JavaScript sea aún más valioso para los **desarrolladores web**.
 
+## Python
+
 Python es un lenguaje de programación de alto nivel con una sintaxis clara y legible. Es ampliamente utilizado en **aplicaciones de inteligencia artificial** y aprendizaje automático, así como en el **análisis de datos** y la **automatización de tareas**. La popularidad de Python se ha visto impulsada por el aumento del interés en la inteligencia artificial y el aprendizaje automático en los últimos años. La librería estandar de Python es muy completa y con una amplia comunidad detrás, lo que hace que sea muy fácil de aprender y utilizar para desarrollar proyectos complejos.
+
+## Java
 
 Java es un lenguaje de programación de alto nivel orientado a objetos que se utiliza en una variedad de aplicaciones, desde **aplicaciones móviles** hasta **sistemas empresariales**. Es uno de los **lenguajes de programación más antiguos y maduros** que sigue siendo relevante en la actualidad. La estabilidad, la seguridad y la escalabilidad son algunas de las razones por las que Java sigue siendo uno de los lenguajes **más populares en el mundo empresarial**.
 
