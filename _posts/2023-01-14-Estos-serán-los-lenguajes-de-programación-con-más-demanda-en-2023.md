@@ -39,6 +39,8 @@ JavaScript, por otro lado, es un lenguaje de programación de alto nivel que se 
 
 Según la encuesta de [StackOverflow](https://survey.stackoverflow.co/2022/#most-popular-technologies-language) Javascript sigue siendo el más popular.
 
+![Encuesta](https://dylanmeca.github.io/assets/img/encuesta-stackoverflow-2022.png)
+
 ## Python
 
 Python es un lenguaje de programación de alto nivel con una sintaxis clara y legible. Es ampliamente utilizado en **aplicaciones de inteligencia artificial** y aprendizaje automático, así como en el **análisis de datos** y la **automatización de tareas**. La popularidad de Python se ha visto impulsada por el aumento del interés en la inteligencia artificial y el aprendizaje automático en los últimos años. La librería estandar de Python es muy completa y con una amplia comunidad detrás, lo que hace que sea muy fácil de aprender y utilizar para desarrollar proyectos complejos.
