@@ -4,6 +4,8 @@ title: Que es el phishing y porque es malo ?
 description: El phishing es un método para engañarte para que caigas en una trampa y esa trampa es una página falsa de una red social o del banco para que pongas tus datos y te roben la cuenta
 categories: [Ciberseguridad, Linux, Informatica]
 permalink: /2021/09/29/que-es-el-phishing-y-porque-es-malo.html
+author:
+   - Dylan Meca
 keywords:
    - phishing
    - método
