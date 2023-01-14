@@ -3,6 +3,8 @@ layout: post
 description: En este articulo veras como se crea un servidor ssh en Termux, el servidor ssh en definición es una conexión remota desde otra pc al servidor.
 categories: [Servidores, Termux, Informatica, Tutoriales]
 permalink: /2021/04/27/Crear-servidor-SSH-en-Termux.html
+author:
+  - Dylan Meca
 keywords:
   - termux
   - servidor ssh
