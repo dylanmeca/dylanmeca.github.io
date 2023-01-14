@@ -3,6 +3,8 @@ layout: post
 description: En este articulo veras como crear un boton de like mediante un generador y se mostrara un ejemplo en codigo html.
 categories: [Tutoriales, Informatica, Programacion, Web]
 permalink: /2021/04/07/Crear-boton-de-like.html
+author:
+  - Dylan Meca
 keywords:
   - boton de like
   - like
