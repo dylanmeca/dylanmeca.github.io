@@ -3,6 +3,7 @@ layout: post
 permalink: /2023/01/14/Estos-serán-los-lenguajes-de-programación-con-más-demanda-en-2023.html
 description: En este artículo, se discuten los lenguajes de programación más demandados en el año 2023; Python, JavaScript y Java. Se detallan las razones por las que estos lenguajes son populares y ampliamente utilizados en aplicaciones de inteligencia artificial, aprendizaje automático, análisis de datos, automatización de tareas, desarrollo web y desarrollo de aplicaciones empresariales. Además, se destaca la importancia de actualizar constantemente las habilidades de los desarrolladores para adaptarse a las demandas del mercado.
 categories: [IA, Tecnologia, Noticias, Informatica, Java, Programacion, Python, Javascript]
+img: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 author: 
      - Dylan Meca
 keywords:
