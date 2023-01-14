@@ -4,6 +4,8 @@ description: Scienlib is a scientific Python library that adds mathematical func
 lang: en
 categories: [Documentacion, Ciencia, Informatica, Python, Matematicas]
 permalink: /2021/04/28/scienlib-documentation.html
+author:
+  - Dylan Meca
 keywords:
   - scienlib
   - scienlib documentation
