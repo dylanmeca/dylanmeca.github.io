@@ -32,7 +32,7 @@ Es muy importante que leas la presente política de cookies y comprendas que, si
 Según los términos incluidos en el artículo 22.2 de la Ley 34/2002 de Servicios de la Sociedad de la Información y Comercio Electrónico, si continúas navegando, estarás prestando tu consentimiento para el empleo de los referidos mecanismos.
 
 ## Entidad Responsable
-La entidad responsable de la recogida, procesamiento y utilización de tus datos personales, en el sentido establecido por la Ley de Protección de Datos Personales es la página [https://dylan14567.github.io](https://dylan14567.github.io), propiedad de Dylan Meca.
+La entidad responsable de la recogida, procesamiento y utilización de tus datos personales, en el sentido establecido por la Ley de Protección de Datos Personales es la página [https://dylanmeca.github.io](https://dylanmeca.github.io), propiedad de Dylan Meca.
 
 ## ¿Qué son las cookies?
 Las cookies son un conjunto de datos que un servidor deposita en el navegador del usuario para recoger la información de registro estándar de Internet y la información del comportamiento de los visitantes en un sitio web. Es decir, se trata de pequeños archivos de texto que quedan almacenados en el disco duro del ordenador y que sirven para identificar al usuario cuando se conecta nuevamente al sitio web. 
