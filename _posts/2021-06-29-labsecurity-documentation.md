@@ -5,6 +5,8 @@ categories: [Documentacion, Ciberseguridad, Informatica, Linux]
 lang: en
 permalink: /labsecurity-documentation
 img: https://raw.githubusercontent.com/dylanmeca/labsecurity/main/.github/icon.jpg
+author: 
+  - Dylan Meca
 keywords:
   - labsecurity
   - security
