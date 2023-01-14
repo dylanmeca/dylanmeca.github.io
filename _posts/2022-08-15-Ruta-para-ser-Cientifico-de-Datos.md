@@ -2,6 +2,8 @@
 layout: post
 permalink: /2022/08/15/Ruta-para-ser-Cientifico-de-Datos.html
 description: La Ciencia de Datos es una carrera que estuda, administra, analiza e interpreta todo tipo de datos con el fin de que las organizaciones tomen mejores decisiones y resuelvan problemas complejos
+author: 
+     - Dylan Meca
 keywords:
 ---
 
