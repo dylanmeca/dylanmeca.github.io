@@ -2,6 +2,9 @@
 layout: post
 permalink: /2022/12/24/Las-nuevas-IAs-están-revolucionando-la-forma-en-que-interactuamos-con-la-tecnología.html
 description: ChatGPT y DALL-E 2 son dos nuevas inteligencias artificiales que pueden tener un impacto significativo en la industria y en el empleo en el futuro, pero también es importante considerar los posibles impactos en la sociedad y tomar medidas para garantizar su uso ético y responsable.
+categories: [IA, Tecnologia, Noticias, Informatica, Ciencia, Programacion, Python]
+author: 
+     - Dylan Meca
 keywords:
      - Inteligencia artificial
      - ChatGPT
@@ -15,6 +18,25 @@ keywords:
      - Impacto en el empleo
      - Impacto en la sociedad
      - Uso ético y responsable de la IA
+     - IA
+     - Tecnología
+     - Interacción
+     - Revolución
+     - Nuevas tecnologías
+     - Aprendizaje automático
+     - Robótica
+     - Procesamiento del lenguaje natural
+     - Análisis de datos 
+     - Machine learning
+     - Automatización 
+     - Big data 
+     - Procesamiento de la información 
+     - Sistemas expertos 
+     - Inteligencia cognitiva
+     - Redes neuronales 
+     - Visión por computadora 
+     - Interfaz de usuario
+     - Aprendizaje profundo
 ---
 
 Las nuevas inteligencias artificiales (IAs) están revolucionando la forma en que interactuamos con la tecnología y cómo ésta puede ser utilizada en diversos campos. Una de las últimas innovaciones en el mundo de la IA es ChatGPT, un modelo de lenguaje desarrollado por OpenAI que permite a las computadoras mantener conversaciones con humanos de manera casi indistinguible de un ser humano.
