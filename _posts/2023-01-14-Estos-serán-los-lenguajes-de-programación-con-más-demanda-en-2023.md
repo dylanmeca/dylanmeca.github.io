@@ -39,7 +39,7 @@ JavaScript, por otro lado, es un lenguaje de programación de alto nivel que se 
 
 Según la encuesta de [StackOverflow](https://survey.stackoverflow.co/2022/#most-popular-technologies-language) Javascript sigue siendo el más popular.
 
-![Encuesta](https://dylanmeca.github.io/assets/img/encuesta-stackoverflow-2022.png)
+![Encuesta](https://dylanmeca.github.io/assets/img/encuesta-stackoverflow2022.png)
 
 ## Python
 
