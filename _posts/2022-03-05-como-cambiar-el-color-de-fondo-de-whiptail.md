@@ -4,6 +4,8 @@ description: Muchas veces vemos que el fondo del dialogo de whiptail es de color
 categories: [Linux, Ubuntu, WSL, Informatica, Servidores]
 permalink: /2022/03/05/como-cambiar-el-color-de-fondo-de-whiptail.html
 img: https://dylanmeca.github.io/assets/img/whiptail-fondo.png
+author:
+    - Dylan Meca
 keywords:
     - como cambiar
     - como cambiar el color
