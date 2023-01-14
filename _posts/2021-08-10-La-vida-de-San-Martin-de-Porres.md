@@ -5,6 +5,8 @@ description: El santo de la escoba y la humildad San Martín de Porres Velázque
 img: https://dylanmeca.github.io/assets/img/San-Martin-de-Porres.jpg
 categories: [Religion, Santos, Catolicismo]
 permalink: /2021/08/10/La-vida-de-San-Martin-de-Porres.html
+author: 
+    - Dylan Meca
 keywords: 
     - Dios
     - la vida de San Martín de Porres
