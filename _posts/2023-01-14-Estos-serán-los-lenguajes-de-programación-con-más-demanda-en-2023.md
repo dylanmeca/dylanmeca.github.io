@@ -37,6 +37,8 @@ En el mundo de la programación, el panorama está constantemente cambiando y ev
 
 JavaScript, por otro lado, es un lenguaje de programación de alto nivel que se ejecuta en el lado del cliente. Es ampliamente utilizado en desarrollo web para crear sitios y aplicaciones interactivas. Con la creciente popularidad de las **aplicaciones web y móviles**, la demanda de desarrolladores de JavaScript ha aumentado significativamente en los últimos años. Además, el surgimiento de nuevas tecnologías como React y Angular, ha hecho que JavaScript sea aún más valioso para los **desarrolladores web**.
 
+Según la encuesta de [StackOverflow](https://survey.stackoverflow.co/2022/#most-popular-technologies-language) Javascript sigue siendo el más popular.
+
 ## Python
 
 Python es un lenguaje de programación de alto nivel con una sintaxis clara y legible. Es ampliamente utilizado en **aplicaciones de inteligencia artificial** y aprendizaje automático, así como en el **análisis de datos** y la **automatización de tareas**. La popularidad de Python se ha visto impulsada por el aumento del interés en la inteligencia artificial y el aprendizaje automático en los últimos años. La librería estandar de Python es muy completa y con una amplia comunidad detrás, lo que hace que sea muy fácil de aprender y utilizar para desarrollar proyectos complejos.
