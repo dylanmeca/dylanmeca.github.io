@@ -42,6 +42,8 @@ keywords:
 
 ![PinturaIA](https://dylanmeca.github.io/assets/img/imagen-generada-por-stable-diffusion.jpg)
 
+> Imagen generada por Stable Diffusion
+
 Las nuevas inteligencias artificiales (IAs) están revolucionando la forma en que interactuamos con la tecnología y cómo ésta puede ser utilizada en diversos campos. Una de las últimas innovaciones en el mundo de la IA es ChatGPT, un modelo de lenguaje desarrollado por OpenAI que permite a las computadoras mantener conversaciones con humanos de manera casi indistinguible de un ser humano.
 
 Otra IA recientemente desarrollada es DALL-E 2, un modelo de procesamiento de lenguaje que es capaz de crear imágenes a partir de descripciones verbales. Por ejemplo, si se le pide a DALL-E 2 que cree una imagen de "un perro volando con un paraguas", el modelo es capaz de generar una imagen visualmente coherente de un perro con un paraguas volando en el cielo.
