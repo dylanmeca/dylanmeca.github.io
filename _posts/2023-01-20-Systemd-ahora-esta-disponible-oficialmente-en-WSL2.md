@@ -53,16 +53,16 @@ keywords:
 
 El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL.
 
-<div class='youtube-video'>
-  <iframe title="video" width="640" height="390" src="https://www.youtube.com/embed/Ja3qikzd-as" frameborder="0" allowfullscreen></iframe>
-</div>
-<br />
-
 ## ¿Que es Systemd?
 
 > Systemd es un conjunto de componentes básicos para un sistema Linux. Proporciona un sistema y administrador de servicios que se ejecuta como PID 1 e inicia el resto del sistema.
 
 Este cambio significa que WSL será aún más similar a usar distribuciones de Linux en una máquina completa y le permitirá usar software que depende del soporte de systemd.
+
+<div class='youtube-video'>
+  <iframe title="video" width="640" height="390" src="https://www.youtube.com/embed/Ja3qikzd-as" frameborder="0" allowfullscreen></iframe>
+</div>
+<br />
 
 ## ¿Como habilitar systemd en WSL2?
 
