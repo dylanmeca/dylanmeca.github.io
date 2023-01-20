@@ -5,6 +5,47 @@ description: El subsistema de Windows para Linux (WSL) ahora puede ejecutar syst
 categories: [WSL, Windows, Tecnologia, Informatica, Linux, Noticias]
 author:
    - Dylan Meca
+keywords:
+   - Systemd
+   - WSL2
+   - Linux
+   - Windows
+   - Sistema
+   - Administración
+   - Servicios
+   - Inicialización
+   - Compatibilidad
+   - Oficial
+   - Actualización
+   - Recursos
+   - Terminal
+   - Comandos
+   - Integración
+   - Desarrollo
+   - Virtualización
+   - Performance
+   - Scripting
+   - Shell
+   - WSL
+   - Microsoft
+   - Ubuntu
+   - Debian
+   - Fedora
+   - Arch Linux
+   - Contenedores
+   - Docker
+   - Kubernetes
+   - Automatización
+   - Script
+   - CLI
+   - GUI
+   - Seguridad
+   - SSH
+   - Red
+   - Firewall
+   - Configuración
+   - Depuración
+   - Documentación
 ---
 
 El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL.
