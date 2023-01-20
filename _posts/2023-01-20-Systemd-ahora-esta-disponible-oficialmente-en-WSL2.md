@@ -3,6 +3,7 @@ layout: post
 permalink: /2023/01/20/Systemd-ahora-esta-disponible-en-WSL2.html
 description: El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL. Este cambio significa que WSL será aún más similar a usar distribuciones de Linux en una máquina completa y le permitirá usar software que depende del soporte de systemd.
 categories: [WSL, Windows, Tecnologia, Informatica, Linux, Noticias]
+img: https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1440/https://lh6.googleusercontent.com/38nIp-WwreQQwfJoX27U6jr5BfZEN_4kzsF80rDMm7W2wJmYxcYefqFPW-ktQnSeAsQACtGcSw6ItOlBhSg3vkSP4GOPu1K9GsL9Tu_ad7ufz6LF87HjrNXcXS9EvZSWC0NLaNaYIt7M8sjkkp8zc9rEn-_LVES-VY_9NN0zspZbJ70Fn1y3tppnNQ
 author:
    - Dylan Meca
 keywords:
@@ -48,6 +49,8 @@ keywords:
    - Documentación
 ---
 
+![Ubuntu](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1440/https://lh6.googleusercontent.com/38nIp-WwreQQwfJoX27U6jr5BfZEN_4kzsF80rDMm7W2wJmYxcYefqFPW-ktQnSeAsQACtGcSw6ItOlBhSg3vkSP4GOPu1K9GsL9Tu_ad7ufz6LF87HjrNXcXS9EvZSWC0NLaNaYIt7M8sjkkp8zc9rEn-_LVES-VY_9NN0zspZbJ70Fn1y3tppnNQ)
+
 El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL.
 
 <div class='youtube-video'>
@@ -74,4 +77,7 @@ Una vez realizado lo indicado, dentro de la distribución linux usada en WSL, de
 systemd=true
 ```
 
-Para más información sobre el tema en: [https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it)
+Para más información sobre el tema en: 
+
+* [https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it)
+* [https://ubuntu.com/blog/ubuntu-wsl-enable-systemd](https://ubuntu.com/blog/ubuntu-wsl-enable-systemd)
