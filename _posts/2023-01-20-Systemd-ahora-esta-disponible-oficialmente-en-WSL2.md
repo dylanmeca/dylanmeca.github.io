@@ -21,6 +21,14 @@ Este cambio significa que WSL será aún más similar a usar distribuciones de L
 ## ¿Como habilitar systemd en WSL2?
 
 Este cambio solo esta disponible en la versión 0.67.6 y superior, verifique con el comando ```wsl --version```. Si el comando falla
-significa que esta ejecutando la versión en Windows de WSL, debe actualizar a la versión de la Microsoft Store y actualizar a la versión
+significa que esta ejecutando la versión en Windows de WSL, debe actualizar a la [versión de la Microsoft Store](https://apps.microsoft.com/store/detail/windows-subsystem-for-linux/9P9TQF7MRM4R) y actualizar a la versión
 0.67.6 con el comando ```wsl --update```.
 
+Una vez realizado lo indicado, dentro de la distribución linux usada en WSL, debera editar el archivo ```wsl.conf``` ubicada en ```/etc``` para asegurarse de que systemd se inicie en el arranque. Agregue las siguientes lineas:
+
+```conf
+[boot]
+systemd=true
+```
+
+Para más información sobre el tema en: [https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/#what-is-systemd-what-can-you-do-with-it)
