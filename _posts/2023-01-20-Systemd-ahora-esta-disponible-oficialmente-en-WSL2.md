@@ -2,6 +2,7 @@
 layout: post
 permalink: /2023/01/20/Systemd-ahora-esta-disponible-en-WSL2.html
 description: El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL. Este cambio significa que WSL será aún más similar a usar distribuciones de Linux en una máquina completa y le permitirá usar software que depende del soporte de systemd.
+categories: [WSL, Windows, Tecnologia, Informatica, Linux, Noticias]
 author:
    - Dylan Meca
 ---
