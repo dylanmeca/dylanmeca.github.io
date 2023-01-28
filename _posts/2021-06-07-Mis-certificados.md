@@ -10,8 +10,6 @@ keywords:
     - Sobre mi
 ---
 
-# Mis Certificados 
-
 ![certificado-python](https://dylanmeca.github.io/assets/img/certificado-python.png)
 <br />
 ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png)
