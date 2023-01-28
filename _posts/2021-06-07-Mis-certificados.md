@@ -12,8 +12,8 @@ keywords:
 
 ## Índice
 
-1. [Programación y Ciberseguridad](#Programación-y-Ciberseguridad)
-2. [Redes](#Redes)
+1. [Programación y Ciberseguridad](#programación-y-ciberseguridad)
+2. [Redes](#redes)
 
 ## Programación y Ciberseguridad
 
