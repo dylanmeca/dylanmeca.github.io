@@ -22,6 +22,10 @@ La física es otra de mis áreas de interés, y he aprendido sobre cómo podemos
 
 ![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)
 
+## Certificados 
+
+![certificado-programacion](https://dylanmeca.github.io/assets/img/certificado-programacion.png)
+
 ## Políticas
 
 A continuación encontrarás nuestras políticas, que te ayudarán a conocer cierta información sobre el sitio web:
