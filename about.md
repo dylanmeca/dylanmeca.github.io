@@ -28,6 +28,7 @@ A continuación encontrarás enlaces que te llevarán a sitios webs donde hay m�
 
 * [Certificados de estudio 📜](https://dylanmeca.github.io/mis-certificados.html)
 * [Proyectos y repositorios 👷](https://github.com/dylanmeca)
+* [Perfil de HackTheBox 👨‍💻](https://app.hackthebox.com/profile/1197337)
 
 ## Políticas
 
