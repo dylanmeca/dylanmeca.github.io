@@ -27,4 +27,4 @@ keywords:
 
 | Redes |
 |-------------|
-| ![certificado-redes](https://dylanmeca.github.io/assets/img/certificado-redes.jpg) |
+| ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) |
