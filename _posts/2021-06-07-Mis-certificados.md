@@ -12,19 +12,20 @@ keywords:
 
 ## Índice
 
-1. [Programación y Ciberseguridad](#programación-y-ciberseguridad)
-2. [Redes](#redes)
+1. [Programación](#programación)
+2. [Ciberseguridad y Redes](#ciberseguridad-y-redes)
 
-## Programación y Ciberseguridad
+## Programación 
 
-| Programación | Ciberseguridad
-|-------------| -------------|
-| ![certificado-python](https://dylanmeca.github.io/assets/img/certificado-python.png) | ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png) |
-| ![certificado-programacion](https://dylanmeca.github.io/assets/img/certificado-programacion.png) | ![certificado-termux](https://dylanmeca.github.io/assets/img/certificado-termux.png) |
-| ![certificado-introduccion-programacion](https://dylanmeca.github.io/assets/img/certificado-introduccion-programacion.png) | No disponible |
+| Programación | 
+|-------------| 
+| ![certificado-python](https://dylanmeca.github.io/assets/img/certificado-python.png) | 
+| ![certificado-programacion](https://dylanmeca.github.io/assets/img/certificado-programacion.png) | 
+| ![certificado-introduccion-programacion](https://dylanmeca.github.io/assets/img/certificado-introduccion-programacion.png) | 
 
-## Redes
+## Ciberseguridad y Redes
 
-| Redes |
-|-------------|
-| ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) |
+| Ciberseguridad | Redes
+|-------------|-------------|
+| ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png) | ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) | 
+| ![certificado-termux](https://dylanmeca.github.io/assets/img/certificado-termux.png) | No disponible |
