@@ -2,7 +2,7 @@
 layout: page 
 title: Mis certificados
 description: En este articulo encontraras mis certificados
-permalink: /mis-certificados
+permalink: /mis-certificados.html
 categories: [Certificados]
 keywords:
     - Dylan Meca
