@@ -18,7 +18,10 @@ También me he interesado por la ciberseguridad, ya que entiendo la importancia 
 
 La física es otra de mis áreas de interés, y he aprendido sobre cómo podemos utilizar sus principios para resolver problemas y crear nuevas tecnologías. Continúo aprendiendo y desarrollando mis habilidades en ambas áreas de estudio. 📚
 
-Puedes encontrar mis certificados de estudio en: [https://dylanmeca.github.io/mis-certificados.html](https://dylanmeca.github.io/mis-certificados.html) 📜
+Más información sobre mi:
+
+* [Certificados de estudio 📜](https://dylanmeca.github.io/mis-certificados.html)
+* [Proyectos y repositorios 👷](https://github.com/dylanmeca)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
@@ -29,9 +32,9 @@ Puedes encontrar mis certificados de estudio en: [https://dylanmeca.github.io/mi
 A continuación encontrarás nuestras políticas, que te ayudarán a conocer cierta información sobre el sitio web:
 
 <ul>
-    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del sitio web.</p>
-    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios</a></li><p>esta política establece las reglas que debes seguir al comentar en el sitio web, incluyendo el uso apropiado del lenguaje y el respeto a los derechos de autor de otros.</p>
-    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies</a></li><p>esta política describe cómo utilizamos las cookies en el sitio web y cómo puedes controlar su uso.</p>
+    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: 🔒 </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del sitio web.</p>
+    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios: ✍️ </a></li><p>esta política establece las reglas que debes seguir al comentar en el sitio web, incluyendo el uso apropiado del lenguaje y el respeto a los derechos de autor de otros.</p>
+    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies: 🍪 </a></li><p>esta política describe cómo utilizamos las cookies en el sitio web y cómo puedes controlar su uso.</p>
 </ul>
 
 Este blog tiene copyright (Derechos de autor).
