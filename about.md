@@ -18,7 +18,7 @@ También me he interesado por la ciberseguridad, ya que entiendo la importancia 
 
 La física es otra de mis áreas de interés, y he aprendido sobre cómo podemos utilizar sus principios para resolver problemas y crear nuevas tecnologías. Continúo aprendiendo y desarrollando mis habilidades en ambas áreas de estudio. 📚
 
-Puedes encontrar mis certificados de estudio en: 
+Puedes encontrar mis certificados de estudio en 📜: [https://dylanmeca.github.io/mis-certificados.html](https://dylanmeca.github.io/mis-certificados.html)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
