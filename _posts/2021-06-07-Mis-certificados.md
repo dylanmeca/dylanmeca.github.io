@@ -14,6 +14,7 @@ keywords:
 
 1. [Programación](#programación)
 2. [Ciberseguridad y Redes](#ciberseguridad-y-redes)
+3. [Sysadmin](#sysadmin)
 
 ## Programación 
 
@@ -29,3 +30,9 @@ keywords:
 |-------------|-------------|
 | ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png) | ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) | 
 | ![certificado-termux](https://dylanmeca.github.io/assets/img/certificado-termux.png) | No disponible |
+
+## Sysadmin
+
+| Sysadmin    |
+|-------------|
+| ![certificado-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg) |
