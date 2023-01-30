@@ -39,7 +39,8 @@ keywords:
 
 | Sysadmin    |
 |-------------|
-| ![certificado-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg) |
+| ![certificado-montajes-de-servidores-en-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-montajes-de-servidores-en-linux-desde-0.jpg) |
 | ![certificado-mantenimiento-de-computadoras](https://dylanmeca.github.io/assets/img/certificado-mantenimiento-de-computadoras.jpg) |
+| ![certificado-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg) |
 
 [Volver al índice](#índice)
