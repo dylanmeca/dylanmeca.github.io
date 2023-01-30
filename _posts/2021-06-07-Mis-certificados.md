@@ -24,6 +24,8 @@ keywords:
 | ![certificado-programacion](https://dylanmeca.github.io/assets/img/certificado-programacion.png) | 
 | ![certificado-introduccion-programacion](https://dylanmeca.github.io/assets/img/certificado-introduccion-programacion.png) | 
 
+[Volver al índice](#indice)
+
 ## Ciberseguridad y Redes
 
 | Ciberseguridad | Redes
@@ -31,8 +33,13 @@ keywords:
 | ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png) | ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) | 
 | ![certificado-termux](https://dylanmeca.github.io/assets/img/certificado-termux.png) | No disponible |
 
+[Volver al índice](#indice)
+
 ## Sysadmin
 
 | Sysadmin    |
 |-------------|
 | ![certificado-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg) |
+| ![certificado-mantenimiento-de-computadoras](https://dylanmeca.github.io/assets/img/certificado-mantenimiento-de-computadoras.jpg) |
+
+[Volver al índice](#indice)
