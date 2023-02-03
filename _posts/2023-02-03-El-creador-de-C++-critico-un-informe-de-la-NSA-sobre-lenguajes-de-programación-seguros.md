@@ -48,7 +48,7 @@ keywords:
    - lenguajes de programacion seguros
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg" width="400px" height="257px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg" width="400px" height="400px">
 
 **Bjarne Stroustrup, el creador del lenguaje C++**, publicó objeciones **del informe de la NSA donde se aconseja a las organizaciones** que consideren hacer un cambio estratégico de los lenguajes de programación que
 proporcionar poca o ninguna protección de memoria inherente, como C/C++, a un lenguaje seguro para la memoria
