@@ -53,3 +53,12 @@ En la linea donde dice: ```# %wheel ALL=(ALL:ALL) ALL```, descomentalo y guarda 
 Luego de eso edite usando ```nano``` el archivo ```locale.gen```, pulse ```CTRL W``` y escriba donde dice ```Search:```, ```en_US``` y descomente la linea: ```#en_US.UTF-8 UTF-8```:
 
 ![archlinux8](https://dylanmeca.github.io/assets/img/archlinux-8.png)
+![archlinux9](https://dylanmeca.github.io/assets/img/archlinux-9.png)
+
+Luego de eso edite usando ```nano``` el archivo ```vconsole.conf``` que esta ubicado en ```/etc``` y añada lo siguiente:
+
+![archlinux10](https://dylanmeca.github.io/assets/img/archlinux-10.png)
+
+Para poder usar WSLg y tener aplicaciones graficas, recomiendo instalar lo siguiente:
+
+![archlinux11](https://dylanmeca.github.io/assets/img/archlinux-11.png)
