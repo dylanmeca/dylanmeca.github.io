@@ -41,3 +41,15 @@ Una vez realizado eso ejecute los siguientes comandos:
 
 ![archlinux4](https://dylanmeca.github.io/assets/img/archlinux-4.png)
 ![archlinux5](https://dylanmeca.github.io/assets/img/archlinux-5.png)
+
+Una vez instalado sudo en nuestro sistema, utilizando ```nano``` o otro editor de codigo, edite el archivo ```sudoers``` que se encuentra en la carpeta ```/etc``` y encuentre la siguiente linea:
+
+![archlinux6](https://dylanmeca.github.io/assets/img/archlinux-6.png)
+
+En la linea donde dice: ```# %wheel ALL=(ALL:ALL) ALL```, descomentalo y guarda los cambios. Verifica que puedes usar sudo con los siguientes comandos:
+
+![archlinux7](https://dylanmeca.github.io/assets/img/archlinux-7.png)
+
+
+
+
