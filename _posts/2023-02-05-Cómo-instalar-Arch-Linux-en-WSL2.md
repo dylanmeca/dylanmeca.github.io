@@ -63,4 +63,7 @@ Para poder usar WSLg y tener aplicaciones graficas, recomiendo instalar lo sigui
 
 ![archlinux11](https://dylanmeca.github.io/assets/img/archlinux-11.png)
 
-En la configuración de ```Windows Terminal``` de Arch Linux añada el ```-u [user]``` en la linea de comandos
+En la configuración de ```Windows Terminal``` de Arch Linux añada el ```-u [user]``` en la linea de comandos:
+
+![archlinux12](https://dylanmeca.github.io/assets/img/archlinux-12.png)
+
