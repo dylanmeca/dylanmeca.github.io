@@ -8,6 +8,16 @@ author:
    - Dylan Meca
 keywords:
    - arch linux
+   - linux
+   - arch
+   - como
+   - como instalar
+   - instalar arch
+   - instalar arch linux
+   - linux arch
+   - wsl
+   - wsl2
+   - instalar arch linux en wsl2
 ---
 
 ![archlinux](https://dylanmeca.github.io/assets/img/archlinux-15.png)
@@ -75,3 +85,5 @@ Para instalar paru, ejecute los siguientes comandos:
 
 ![archlinux13](https://dylanmeca.github.io/assets/img/archlinux-13.png)
 ![archlinux14](https://dylanmeca.github.io/assets/img/archlinux-14.png)
+
+Este seria todo el proceso de instalación de Arch Linux en WSL2.
