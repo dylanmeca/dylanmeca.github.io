@@ -74,3 +74,4 @@ Esto nos permitira usar nuestro usuario que creamos.
 Para instalar paru, ejecute los siguientes comandos:
 
 ![archlinux13](https://dylanmeca.github.io/assets/img/archlinux-13.png)
+![archlinux14](https://dylanmeca.github.io/assets/img/archlinux-14.png)
