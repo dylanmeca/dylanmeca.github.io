@@ -16,7 +16,9 @@ En este artículo, se te enseñara cómo instalar Arch Linux en WSL2, usando Doc
 
 ## Usando Arch Linux en Docker para luego exportarlo
 
-![archlinux2](https://dylanmeca.github.io/assets/img/archlinux-1.png)
+En su distribución linux actual, instale Docker y ejecute los siguientes comandos:
+
+![archlinux1](https://dylanmeca.github.io/assets/img/archlinux-1.png)
 ![archlinux2](https://dylanmeca.github.io/assets/img/archlinux-2.png)
 
 Una vez exportado puedes mover el archivo ```.tar``` a una carpeta donde se realizara la importacion a WSL2, en este caso 
@@ -27,3 +29,15 @@ y para realizar la importacion ejecute el siguiente comando: ```wsl --import Arc
 wsl --import [Nombre de la distribucion] ./CarpetaDondeEstaraElDisco archlinux.tar
 ```
 
+## Configurando Arch Linux
+
+Una vez realizado los pasos anteriores, se debe abrir el ```Windows Terminal``` y abrir el Arch Linux, para luego poner los siguientes comandos para habilitar systemd en nuestra distribución: 
+
+![archlinux3](https://dylanmeca.github.io/assets/img/archlinux-3.png)
+
+Luego reinicia el Arch Linux, usando: ```wsl --shutdown```, y despues del reinicio entre de nuevo al Arch Linux y ejecute el comando: ```pacman-key --init```.
+
+Una vez realizado eso ejecute los siguientes comandos: 
+
+![archlinux4](https://dylanmeca.github.io/assets/img/archlinux-4.png)
+![archlinux5](https://dylanmeca.github.io/assets/img/archlinux-5.png)
