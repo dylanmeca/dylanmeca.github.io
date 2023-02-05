@@ -50,6 +50,4 @@ En la linea donde dice: ```# %wheel ALL=(ALL:ALL) ALL```, descomentalo y guarda 
 
 ![archlinux7](https://dylanmeca.github.io/assets/img/archlinux-7.png)
 
-
-
-
+Luego de eso edite usando ```nano``` el archivo ```locale.gen```, pulse ```CTRL W``` y escriba donde dice ```Search:```, ```en_US``` y descomente la linea: ```#en_US.UTF-8 UTF-8``` 
