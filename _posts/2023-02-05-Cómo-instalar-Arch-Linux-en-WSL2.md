@@ -67,3 +67,4 @@ En la configuración de ```Windows Terminal``` de Arch Linux añada el ```-u [us
 
 ![archlinux12](https://dylanmeca.github.io/assets/img/archlinux-12.png)
 
+Esto nos permitira usar nuestro usuario que creamos.
