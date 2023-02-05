@@ -62,3 +62,5 @@ Luego de eso edite usando ```nano``` el archivo ```vconsole.conf``` que esta ubi
 Para poder usar WSLg y tener aplicaciones graficas, recomiendo instalar lo siguiente:
 
 ![archlinux11](https://dylanmeca.github.io/assets/img/archlinux-11.png)
+
+En la configuración de ```Windows Terminal``` de Arch Linux añada el ```-u [user]``` en la linea de comandos
