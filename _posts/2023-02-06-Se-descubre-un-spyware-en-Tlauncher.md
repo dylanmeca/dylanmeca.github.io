@@ -27,7 +27,7 @@ En algunos casos es posible **que estos activen cámaras y micrófonos sin que e
 
 ![tlauncher-virustotal](https://dylanmeca.github.io/assets/img/tlauncher-virustotal.png)
 
-Si [analizamos Tlauncher en VirusTotal](https://www.virustotal.com/gui/file/318df7404e6c4d5538a6d31997b95af52bbb8d40caf5553b3cbd9b1bc4f6db96), 70 escaneres de virus nos dice que Tlauncher no tiene virus, pero a pesar de eso no descartemos que tlauncher tiene virus, porque si lo analizamos en [Triage](https://tria.ge/), nos muestra el comportamiento de Tlauncher y vemos que su comportamiento es igual al de un spyware. 
+Si [analizamos Tlauncher en VirusTotal](https://www.virustotal.com/gui/file/318df7404e6c4d5538a6d31997b95af52bbb8d40caf5553b3cbd9b1bc4f6db96), 70 escaneres de virus nos dice que Tlauncher no tiene virus, pero a pesar de eso no descartemos que tlauncher tiene virus, porque si lo analizamos en [Triage](https://tria.ge/), nos muestra el [comportamiento de Tlauncher y vemos que su comportamiento es igual al de un spyware](https://tria.ge/230203-a55pnshd53). 
 
 ![tlauncher-triage](https://dylanmeca.github.io/assets/img/tlauncher-triage.png)
 
