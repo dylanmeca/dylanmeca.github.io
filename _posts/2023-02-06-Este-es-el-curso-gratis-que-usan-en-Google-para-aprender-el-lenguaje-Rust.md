@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: 2023/02/06/Este-es-el-curso-gratis-que-usan-en-Google-para-aprender-el-lenguaje-Rust.html
-description: un curso de Rust de cuatro días desarrollado por el equipo de Android. El curso cubre el espectro completo de Rust, desde la sintaxis básica hasta temas avanzados como los genéricos y el manejo de errores. También incluye contenido específico de Android en el último día.
+description: Un curso de Rust de cuatro días desarrollado por el equipo de Android. El curso cubre el espectro completo de Rust, desde la sintaxis básica hasta temas avanzados como los genéricos y el manejo de errores. También incluye contenido específico de Android en el último día.
 img: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png
 categories: [Rust, Programacion, Noticias, Cursos, Informatica, Android]
 author:
@@ -26,6 +26,8 @@ keywords:
 --- 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png" width="400px" height="257px">
+
+Un curso de Rust desarrollado por el equipo de Android. El curso cubre el espectro completo de Rust, desde la sintaxis básica hasta temas avanzados como los genéricos y el manejo de errores. También incluye contenido específico de Android en el último día.
 
 El curso, bautizado como ['Comprehensive Rust'](https://google.github.io/comprehensive-rust/) esta pensado para ser cursado en 4 dias y **asume que ya sabes programar**.
 
