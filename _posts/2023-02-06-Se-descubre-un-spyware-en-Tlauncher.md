@@ -48,6 +48,6 @@ Una vez terminado el proceso de desinstalación el programa no aparecerá como a
 
 - Una vez que se han eliminado estos archivos, se deberá instalar un buen antivirus que pueda detectar algún otro archivo infectado.
 
-- Tambien se recomienda desisntalar Java ya que podria haberse infectado con el Tlauncher.
+- Tambien se recomienda desinstalar Java ya que podria haberse infectado con el Tlauncher.
 
 Recomendamos descargar [Minecraft desde el sitio web oficial y de manera legal](https://www.minecraft.net/es-es) o usar un lanzador premium de codigo abierto llamado [MultiMC](https://multimc.org/).
