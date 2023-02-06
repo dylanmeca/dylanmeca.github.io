@@ -2,7 +2,7 @@
 layout: post
 permalink: 2023/02/06/Se-descubre-un-spyware-en-Tlauncher.html
 description: Tlauncher el lanzador pirata de minecraft tiene spyware y es indectable a los escaneos de VirusTotal pero investigando a fondo se descubrio que tiene un spyware, por lo que es importante desinstarlo 
-img: https://dylanmeca.github.io/assets/img/tlauncher-tiene-spyware.png
+img: https://dylanmeca.github.io/assets/img/tlauncher-spyware.png
 categories: [Ciberseguridad, Informatica, Noticias]
 author:
    - Dylan Meca
@@ -10,7 +10,7 @@ keywords:
    - tlauncher
 ---
 
-![tlauncher-spyware](https://dylanmeca.github.io/assets/img/tlauncher-tiene-spyware.png)
+![tlauncher-spyware](https://dylanmeca.github.io/assets/img/tlauncher-spyware.png)
 
 Tlauncher el **lanzador pirata de minecraft tiene spyware** y es indectable a los **escaneos de VirusTotal** pero investigando a 
 fondo se descubrio que tiene un spyware, por lo que es importante desinstarlo.
