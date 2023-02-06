@@ -3,7 +3,7 @@ layout: post
 permalink: 2023/02/06/Veloren-el-juego-de-codigo-abierto-escrito-en-Rust.html
 description: Veloren es un juego de rol de vóxeles multijugador escrito en Rust. Está inspirado en juegos como Cube World, Legend of Zelda; Breath of the Wild, Dwarf Fortress y Minecraft.
 img: https://cdn.discordapp.com/attachments/541307708146581519/712295605170602075/logo.png
-categories:
+categories: [Rust, Informatica, Videojuegos, Programacion, Noticias]
 author:
    - Dylan Meca
 keywords:
