@@ -25,7 +25,7 @@ keywords:
    - google cursos
 --- 
 
-![rust](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png" width="400px" height="257px">
 
 El curso, bautizado como ['Comprehensive Rust'](https://google.github.io/comprehensive-rust/) esta pensado para ser cursado en 4 dias y **asume que ya sabes programar**.
 
@@ -35,7 +35,7 @@ El objetivo del curso es enseñarte Rust. Suponiendo que no sabe nada sobre Rust
 - Permitirle **modificar programas existentes y escribir nuevos** programas en Rust.
 - Mostrarle expresiones idiomáticas comunes de Rust.
 
-![rust2](https://upload.wikimedia.org/wikipedia/commons/6/6b/Rustc_building_paru_with_cargo_screenshot.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rustc_building_paru_with_cargo_screenshot.png" width="400px" height="257px">
 
 En el Día 4, se cubrira cosas específicas de Android como:
 
