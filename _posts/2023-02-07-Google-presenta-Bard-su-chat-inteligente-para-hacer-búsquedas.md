@@ -8,6 +8,13 @@ author:
    - Dylan Meca
 keywords:
    - bard
+   - google
+   - google presenta bard
+   - google presenta
+   - bard
+   - su chat 
+   - inteligente
+   - para hacer busquedas 
 ---
 
 ![google-bard](https://dylanmeca.github.io/assets/img/google-bard.png)
