@@ -15,6 +15,29 @@ keywords:
    - su chat 
    - inteligente
    - para hacer busquedas 
+   - Google
+   - Bard
+   - Chat inteligente
+   - Búsquedas
+   - IA generativa
+   - Modelos lingüísticos
+   - LaMDA
+   - Información actual
+   - Altamente fiable
+   - Alto nivel de calidad
+   - Basado en información real
+   - Ingeniería
+   - Productos de Google
+   - Interacción con información
+   - Lenguaje
+   - imágenes
+   - vídeo
+   - audio
+   - Desarrollo tecnológico
+   - Innovación
+   - Eficiencia en búsquedas
+   - Tecnología de la información
+   - Inteligencia artificial.
 ---
 
 ![google-bard](https://dylanmeca.github.io/assets/img/google-bard.png)
