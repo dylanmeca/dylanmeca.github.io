@@ -60,7 +60,7 @@ A diferencia de modelos de la competencia como DALL-E, Stable Diffusion es de c√
 <iframe
 	src="https://stabilityai-stable-diffusion.hf.space"
 	frameborder="0"
-	width="850"
+	width="675"
 	height="450"
 ></iframe>
 
