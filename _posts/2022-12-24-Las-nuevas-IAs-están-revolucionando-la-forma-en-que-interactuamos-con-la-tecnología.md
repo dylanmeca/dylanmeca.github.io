@@ -57,13 +57,12 @@ Tambien una de las IAs capaz de generar imágenes digitales de alta calidad a pa
 
 A diferencia de modelos de la competencia como DALL-E, Stable Diffusion es de código abierto y no limita artificialmente las imágenes que produce.
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/3.11.0/gradio.js"
-></script>
-
-<gradio-app src="https://stabilityai-stable-diffusion.hf.space"></gradio-app>
-<br />
+<iframe
+	src="https://stabilityai-stable-diffusion.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 
 En el futuro, es posible que veamos a estas IAs y otras similares desempeñar un papel cada vez más importante en la industria, ya sea en tareas de atención al cliente o en el análisis de datos. Sin embargo, también es importante tener en cuenta que la IA puede reemplazar ciertos trabajos, especialmente aquellos que son repetitivos o que no requieren un alto nivel de habilidades cognitivas.
 
