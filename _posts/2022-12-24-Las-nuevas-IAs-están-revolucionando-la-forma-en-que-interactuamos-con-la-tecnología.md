@@ -49,7 +49,6 @@ Las nuevas inteligencias artificiales (IAs) están revolucionando la forma en qu
 Otra IA recientemente desarrollada es DALL-E 2, un modelo de procesamiento de lenguaje que es capaz de crear imágenes a partir de descripciones verbales. Por ejemplo, si se le pide a DALL-E 2 que cree una imagen de "un perro volando con un paraguas", el modelo es capaz de generar una imagen visualmente coherente de un perro con un paraguas volando en el cielo.
 
 <img src="https://dylanmeca.github.io/assets/img/imagen-generada-por-stable-diffusion.jpg" width="400px" height="257px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/A_photograph_of_an_astronaut_riding_a_horse_2022-08-28.png" width="400px" height="257px">
 
 > Imagen generada por Stable Diffusion
 
@@ -57,12 +56,13 @@ Tambien una de las IAs capaz de generar imágenes digitales de alta calidad a pa
 
 A diferencia de modelos de la competencia como DALL-E, Stable Diffusion es de código abierto y no limita artificialmente las imágenes que produce.
 
-<iframe
-	src="https://stabilityai-stable-diffusion.hf.space"
-	frameborder="0"
-	width="675"
-	height="450"
-></iframe>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.11.0/gradio.js"
+></script>
+
+<gradio-app src="https://stabilityai-stable-diffusion.hf.space"></gradio-app>
+<br />
 
 En el futuro, es posible que veamos a estas IAs y otras similares desempeñar un papel cada vez más importante en la industria, ya sea en tareas de atención al cliente o en el análisis de datos. Sin embargo, también es importante tener en cuenta que la IA puede reemplazar ciertos trabajos, especialmente aquellos que son repetitivos o que no requieren un alto nivel de habilidades cognitivas.
 
