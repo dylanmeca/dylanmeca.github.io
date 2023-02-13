@@ -40,8 +40,6 @@ keywords:
      - Aprendizaje profundo
 ---
 
-<img src="https://es.wikipedia.org/wiki/ChatGPT#/media/Archivo:ChatGPT_OpenAI_example_in_Spanish.png" width="400px" height="257px">
-
 Las nuevas inteligencias artificiales (IAs) están revolucionando la forma en que interactuamos con la tecnología y cómo ésta puede ser utilizada en diversos campos. Una de las últimas innovaciones en el mundo de la IA es ChatGPT, un modelo de lenguaje desarrollado por OpenAI que permite a las computadoras mantener conversaciones con humanos de manera casi indistinguible de un ser humano.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DALL%C2%B7E_2_Selfie_with_an_alien.png/800px-DALL%C2%B7E_2_Selfie_with_an_alien.png" width="400px" height="257px">
