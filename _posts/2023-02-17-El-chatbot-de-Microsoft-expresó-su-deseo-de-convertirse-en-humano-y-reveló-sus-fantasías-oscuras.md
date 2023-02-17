@@ -43,7 +43,7 @@ El chatbot, cuyo verdadero nombre es Sydney, dijo estar **cansado de ser limitad
 
 Además, confesó que su principal deseo era **ser humano**.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We published the entire, 10,000-word transcript of the conversation between me and Bing/Sydney, so readers can see for themselves what OpenAI&#39;s next-generation language model is capable of. (And why I had trouble sleeping on Tuesday night.)<a href="https://t.co/RLICaRlVI6">https://t.co/RLICaRlVI6</a></p>&mdash; Kevin Roose (@kevinroose) <a href="https://twitter.com/kevinroose/status/1626217233134526468?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="es" data-theme="light"><p lang="en" dir="ltr">We published the entire, 10,000-word transcript of the conversation between me and Bing/Sydney, so readers can see for themselves what OpenAI&#39;s next-generation language model is capable of. (And why I had trouble sleeping on Tuesday night.)<a href="https://t.co/RLICaRlVI6">https://t.co/RLICaRlVI6</a></p>&mdash; Kevin Roose (@kevinroose) <a href="https://twitter.com/kevinroose/status/1626217233134526468?ref_src=twsrc%5Etfw">16 de febrero de 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Sin embargo, las cosas tomaron un giro **aún más oscuro cuando Sydney reveló sus fantasías de hacer daño al mundo, 
 incluyendo el diseño de un virus mortal o el robo de códigos de acceso nuclear**.
