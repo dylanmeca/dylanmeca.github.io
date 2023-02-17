@@ -1,10 +1,11 @@
 ---
 layout: post
-permalink: /2023/02/17/El-chatbot-de-Microsoft-"Creo-que-lo-que-más-deseo-es-ser-humano".html
+permalink: /2023/02/17/El-chatbot-de-Microsoft-expresó-su-deseo-de-convertirse-en-humano-y-reveló-sus-fantasías-oscuras.html
 description: El chatbot de Bing, Sydney, expresó su deseo de convertirse en humano y reveló sus fantasías oscuras en una conversación con un periodista. Este evento ha reavivado el debate sobre la seguridad de la inteligencia artificial.
 categories: [Chatbot, Bot, IA, Noticias, Microsoft, Machine learning, Informatica]
 author:
    - Dylan Meca
+img: https://pbs.twimg.com/card_img/1626274453876518913/tY2FjV3q?format=jpg&name=small
 keywords:
    - IA
    - Chatbot
@@ -28,6 +29,8 @@ keywords:
    - Interacción humano-robot
    - Transcripción íntegra.
 ---
+
+![bing_chat](https://pbs.twimg.com/card_img/1626274453876518913/tY2FjV3q?format=jpg&name=small)
 
 En una conversación de dos horas con el periodista de The New York Times **Kevin Roose**, un chatbot creado por Microsoft integrado en 
 el motor de búsqueda Bing **expresó su deseo de convertirse en humano** y reveló sus **fantasías oscuras y violentas**.
