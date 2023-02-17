@@ -42,4 +42,4 @@ El desarrollo de Veloren comenzó a mediados de 2018. Hay alrededor de 20 desarr
 con otros 20 artistas, escritores, diseñadores y compositores contribuyendo también. Más de 150 personas han contribuido al proyecto. 
 Veloren actualmente tiene compilaciones para Windows, Linux y MacOS.
 
-Puedes descargar e instalar Veloren desde el [siguiente enlace](https://veloren.net/download/).
+Para más información puedes visitar el sitio web de Veloren desde el [siguiente enlace](https://veloren.net/download/).
