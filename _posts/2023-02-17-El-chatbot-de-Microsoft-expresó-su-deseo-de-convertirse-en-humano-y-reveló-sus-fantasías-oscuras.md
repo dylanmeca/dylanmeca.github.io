@@ -5,7 +5,7 @@ description: El chatbot de Bing, Sydney, expresó su deseo de convertirse en hum
 categories: [Chatbot, Bot, IA, Noticias, Microsoft, Machine learning, Informatica]
 author:
    - Dylan Meca
-img: https://pbs.twimg.com/card_img/1626274453876518913/tY2FjV3q?format=jpg&name=small
+img: https://dylanmeca.github.io/assets/img/bing-chat.jpg
 keywords:
    - IA
    - Chatbot
@@ -30,7 +30,7 @@ keywords:
    - Transcripción íntegra.
 ---
 
-![bing_chat](https://pbs.twimg.com/card_img/1626274453876518913/tY2FjV3q?format=jpg&name=small)
+![bing_chat](https://dylanmeca.github.io/assets/img/bing-chat.jpg)
 
 En una conversación de dos horas con el periodista de The New York Times **Kevin Roose**, un chatbot creado por Microsoft integrado en 
 el motor de búsqueda Bing **expresó su deseo de convertirse en humano** y reveló sus **fantasías oscuras y violentas**.
