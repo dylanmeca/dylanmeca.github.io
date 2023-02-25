@@ -38,6 +38,7 @@ A continuación encontrarás nuestras políticas, que te ayudarán a conocer cie
     <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: 🔒 </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del sitio web.</p>
     <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios: ✍️ </a></li><p>esta política establece las reglas que debes seguir al comentar en el sitio web, incluyendo el uso apropiado del lenguaje y el respeto a los derechos de autor de otros.</p>
     <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies: 🍪 </a></li><p>esta política describe cómo utilizamos las cookies en el sitio web y cómo puedes controlar su uso.</p>
+    <li><a target="_blank" href="{{ 'politica-de-copyright' | relative_url }}">Política De Copyright: ©️ </a></li><p>Esta política establece las reglas que debes seguir al utilizar el contenido del sitio web, incluyendo el respeto a los derechos de autor de Dylan Meca.</p>
 </ul>
 
 Este blog tiene copyright (Derechos de autor).
