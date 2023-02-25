@@ -13,7 +13,7 @@ keywords:
 
 # Índice
 
-1. [Recopilación de Información](#recopilacion-de-información)
+1. [Recopilación de Información](#recopilación-de-información)
 2. [Uso de la Información](#uso-de-la-información)
 3. [Enlaces y Servicios de Terceros](#enlaces-y-servicios-de-terceros)
 4. [Control de Información Personal](#control-de-información-personal)
