@@ -23,7 +23,7 @@ Además de mi experiencia en el desarrollo de software, también tengo una pasi�
 - [📱 Termux-legacy-repo 📦](https://github.com/dylanmeca/termux-legacy-repo) un repositorio apt para Termux Legacy, instala paquetes que ya no están disponibles en Termux Legacy. Este repositorio apto no es oficial de Termux.
 - [☣ MecaU 🦠](https://github.com/dylanmeca/MecaU) es un programa diseñado para escanear y detectar la presencia de malware en un directorio especificado por el usuario a través de la línea de comandos.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 Lenguajes y más 📚
 
