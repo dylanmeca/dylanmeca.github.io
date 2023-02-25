@@ -13,90 +13,37 @@ keywords:
 
 # Índice
 
-1. [Información que es recogida](#información-que-es-recogida)
-2. [Uso de la información recogida](#uso-de-la-información-recogida)
-3. [Cookies](#cookies)
-4. [Enlaces a Terceros](#enlaces-a-terceros)
-5. [Servicios de Terceros](#servicios-de-terceros)
-6. [Control de su información personal](#control-de-su-información-personal)
-7. [Actualización de la política](#actualización-de-la-política)
+1. [Recopilación de Información](#recopilacion-de-información)
+2. [Uso de la Información](#uso-de-la-información)
+3. [Enlaces y Servicios de Terceros](#enlaces-y-servicios-de-terceros)
+4. [Control de Información Personal](#control-de-información-personal)
+7. [Actualización de la Política de Privacidad](#actualización-de-la-política-de-privacidad)
 
-El presente Política de Privacidad establece los términos en que Dylan Meca usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su blog. 
+Esta Política de Privacidad establece los términos en que se recopila, utiliza y protege la información proporcionada por los usuarios al utilizar el blog de Dylan Meca.
 
-Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado para que nos contacte, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. 
+# Recopilación de Información
+Cuando se solicita a los usuarios que completen campos de información personal, se hace con la finalidad de poder contactarlos. La información proporcionada será utilizada únicamente de acuerdo con los términos de esta política de privacidad.
 
-Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+La información personal que puede ser recopilada incluye nombre, dirección de correo electrónico. En algunos casos, puede ser necesaria información específica.
 
-# Información que es recogida
+# Uso de la Información
+Toda la información proporcionada será tratada con confidencialidad y se mantendrá segura. La información será utilizada únicamente con fines específicos, como para contactar a los usuarios que han proporcionado su información de contacto.
 
-El sitio web podrá recoger información personal por ejemplo: Nombre,  información de contacto como su dirección de correo electrónico e información demográfica. 
+Además, la información de las acciones de los usuarios en el sitio web será utilizada para crear estadísticas de visitas en el blog.
 
-Así mismo cuando sea necesario podrá ser requerida información específica.
+Las cookies se utilizan para identificar las páginas visitadas y su frecuencia con el fin de realizar análisis estadísticos. La información recopilada mediante las cookies se elimina permanentemente después de su uso.
 
-# Uso de la información recogida
+# Enlaces y Servicios de Terceros
+El sitio web de Dylan Meca puede contener enlaces a otros sitios web que pueden ser de interés para los usuarios. Una vez que se hace clic en estos enlaces y se abandona el sitio web, Dylan Meca no tiene control sobre los términos o la privacidad ni sobre la protección de los datos de los usuarios en esos otros sitios web.
 
-El sitio web protege la información obtenidad y esta segura.
+Por lo tanto, se recomienda a los usuarios que consulten las políticas de privacidad de los sitios web de terceros.
 
-El sitio web usa la información obtenidad para crear estadisticas de visitas de cada página del sitio y si agrega información en la parte de contacto, esa información estara protegidad y segura.
+El uso de servicios de terceros, como la sección de comentarios en el sitio web de Dylan Meca, está sujeto a sus propias políticas de privacidad. La información proporcionada en esos servicios será tratada de acuerdo con sus políticas de privacidad, por lo que se recomienda a los usuarios que las lean.
 
-Solo usamos dicha información para el uso especifico, por ejemplo si quieres contactarme se obtendra su información de contacto.
+# Control de Información Personal
+Toda la información personal recopilada será confidencial y estará protegida. Dylan Meca no venderá, compartirá ni distribuirá la información personal recopilada sin el consentimiento de los usuarios, salvo que sea requerido por un juez con una orden judicial o por órdenes policiales.
 
-Esa información solo sera usada para contactarlo y usamos la información de acciónes para saber que sitio del blog visita y de esa manera crear una estadistica. 
+La información personal proporcionada en la sección de comentarios del sitio web de Dylan Meca será transferida al servidor de Disqus y será tratada de acuerdo con su política de privacidad.
 
-Su información estara segura y protegida, no sera compartida con nadie y nos aseguramos que ningun tercero tenga acceso a su información.
-
-Y dicha información sera confidencial.
-
-# Cookies
-
-Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras [atletico de madrid noticias](https://noticiasatleticodemadrid.es/) recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.
-
-Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. 
-
-Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente.
-
-Usted puede eliminar las cookies en cualquier momento desde su ordenador. 
-
-Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente. 
-
-Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. 
-
-También usted puede cambiar la configuración de su ordenador para declinar las cookies. 
-
-Si se declinan es posible que no pueda ser identificado.
-
-# Enlaces a Terceros
-
-Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. 
-
-Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. 
-
-Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
-
-# Servicios de Terceros
-
-Al usar nuestro sitio web puede que se ha dado cuenta que para comentar debes, iniciar sesion
-pero ese inicio de seción es de una página de tercero, ya que nuestro sitio web
-usa disqus para que puedan comentar en la página, debemos informarle que cuando pone o coloca datos
-en la sección de comentarios esa información no es almacenada en ninguna base de datos nuestra si no es 
-transferida al servidor de disqus, por lo tanto no tenemos control sobre esa información.
-
-Si le preocupa su privacidad al usar la sección de comentarios debes leer la política de privacidad de disqus.
-
-Ya que disqus esta sujeta a su propia política de privacidad.
-
-# Control de su información personal
-
-Su información personal obtenidad al contactarnos sera confidencial y estara protegida.
-
-Tambien estara segura y nos aseguraramos que ningun tercero acceda a dicha información.
-
-No venderemos su informacion, no sera compartida con nadie, ni se distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial o por ordenes policiales.
-
-La información personal como email o contraseña al usar la sección de comentarios no es almacenada en nuestra base de datos, si no es transferida al servidor de disqus, por lo tanto no tenemos control de lo que suceda ahi pero la unica política que esta sujeta a la sección de comentarios es una de nuestras políticas y es la política de comentarios.
-
-# Actualización de la política
-
-Dylan Meca, se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
-
-
+# Actualización de la Política de Privacidad
+Dylan Meca se reserva el derecho de cambiar los términos de esta Política de Privacidad en cualquier momento. Se recomienda a los usuarios que revisen esta página de manera regular para asegurarse de estar de acuerdo con los cambios realizados.
