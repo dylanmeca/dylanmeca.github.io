@@ -18,35 +18,22 @@ keywords:
 3. [Retirada de comentarios](#retirada-de-comentarios)
 4. [Responsabilidad del usuario](#responsabilidad-del-usuario)
 
-Dylan Meca pone a disposición de los usuarios la posibilidad de intercambiar opiniones y publicar comentarios al contenido expuesto en el sitio web.
-La presente política comprende las condiciones y términos que regulan la publicación de comentarios en el Sitio Web y a la cual los usuarios quedan obligados en el uso del mismo.
+Esta política de comentarios tiene como objetivo garantizar un ambiente respetuoso y constructivo para todos los usuarios que deseen participar en nuestras discusiones. Agradecemos su participación y esperamos que sus comentarios sean pertinentes y enriquecedores para la comunidad.
 
 # Identificación de usuario
 
-Podrá identificarse y realizar comentarios públicos en el Sitio Web cualquier usuario con una cuenta activa en Disqus, Facebook, Twitter y Google.
-No será posible realizar comentarios o publicaciones de forma anónima en el Sitio Web, de forma que el usuario deba constar identificado de conformidad con los datos facilitados en su registro en Disqus.
-Así, el usuario será el único responsable del contenido expuesto y referencias realizadas en sus comentarios publicados.
+Para participar en la sección de comentarios de nuestro blog, los usuarios deben registrarse y utilizar su cuenta de Disqus. De esta forma, podemos garantizar que los comentarios provienen de personas reales y no de bots o cuentas falsas. Además, esto permite una mayor transparencia y responsabilidad en las discusiones.
 
 # Contenido de los comentarios
 
-Sin perjuicio de que Dylan Meca se reserve el derecho a supervisar o moderar las interacciones de sus usuarios en el Sitio Web, los usuarios deberán cumplir las siguientes condiciones aquí previstas para publicar.
-
-En caso de incumplimiento de los aspectos recogidos en la presente Política, Dylan Meca podrá retirar y eliminar el comentario del usuario considerado inapropiado, sin que ello otorgue al usuario derecho alguno de indemnización.
-
-Los comentarios y publicaciones deberán realizarse en un lenguaje claro y respetuoso con el Sitio Web y con el resto de los usuarios. En todo caso, los usuarios se comprometen a realizar comentarios relacionados con la publicación concreta, en forma de aportaciones relevantes y con fundamentación.
+Los comentarios deben ser relevantes para el tema en cuestión y respetuosos con todos los usuarios. No se permiten comentarios difamatorios, insultantes, discriminatorios, obscenos, amenazantes, spam o publicidad no solicitada. También se prohíben los comentarios que infrinjan derechos de autor o que contengan información falsa o engañosa.
 
 # Retirada de comentarios
 
-Les informo que no esta permitido esta clase de comentarios:
-
-* Esta prohibido comentarios que incluyan publicidad de productos o servicios de terceros distintos a los productos de Dylan Meca.
-* Esta prohibido comentarios que incluyan insultos, acusaciones, calumnias o otra palabra que puede dañar los derechos de los usuarios.
-* Esta prohibido comentarios que contengan spam o información protegida de otros sitios webs cuyo autor principal no haya consentido su difusión.
-* Esta prohibido comentarios que contengan enlaces o URL erróneas o que puedan generar daños informáticos a la plataforma del Sitio Web.
-* Esta prohibido comentarios que tengan información o datos de carácter personal de terceros usuarios sin haber obtenido previamente su consentimiento para ello.
+Nos reservamos el derecho de eliminar cualquier comentario que viole nuestra política de comentarios. Los comentarios que sean denunciados por otros usuarios también serán revisados y retirados si se determina que infringen nuestras reglas. Además, si un usuario reincide en comentarios inapropiados o ilegales, podemos tomar medidas adicionales.
 
 # Responsabilidad del usuario
 
-El usuario se compromete a respetar el contenido íntegro de esta Política y a realizar un uso adecuado del Sitio Web y publicar, de conformidad con las condiciones detalladas, comentarios aptos y respetuosos con terceros y el propio Sitio Web.
+Los usuarios son responsables de sus comentarios y deben asegurarse de que no infrinjan las leyes o los derechos de terceros. Al publicar un comentario, los usuarios aceptan que el contenido es de su autoría y que no viola derechos de autor, marcas comerciales o secretos comerciales de terceros. 
 
-En cualquier caso, el usuario será considerado el único responsable por el contenido y referencias realizadas en su publicación, quedando Dylan Meca exonerado de cualquier responsabilidad al respecto.
+Gracias por leer nuestra política de comentarios y esperamos que participen en nuestras discusiones de manera respetuosa y constructiva. Nos reservamos el derecho de modificar esta política en cualquier momento, por lo que le recomendamos que la revise regularmente para estar al tanto de cualquier cambio.
