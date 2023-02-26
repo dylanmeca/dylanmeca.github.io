@@ -11,7 +11,22 @@ keywords:
     - categorias del blog de dylan meca
 ---
 
+<script> 
+(function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+var d = document, s = d.createElement('script'); // IMPORTANT: Replace EXAMPLE with your forum shortname!
+s.src = 'https://dylan14567.disqus.com/recommendations.js'; s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>
+Please enable JavaScript to view the 
+<a href="https://disqus.com/?ref_noscript" rel="nofollow">
+comments powered by Disqus.
+</a>
+</noscript>
+
 <h2 id="indice">Índice</h2>
+<div id="disqus_recommendations"></div>
 <p>Bienvenido a las categorías del blog, aquí puedes navegar por 
 el blog a través de las categorías. Elige una categoría:</p>
 {% for category in site.categories %}
