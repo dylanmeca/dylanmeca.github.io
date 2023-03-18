@@ -184,6 +184,12 @@ Crea una ruta de aprendizaje para ser experto en matematicas desde 0 y que dicha
     * Teoría de categorías: categorías, funtores, transformaciones naturales y aplicaciones
 
 ## Experto en Algebra:
+La siguiente ruta de aprendizaje, fue generado por ChatGPT, utilizando el siguiente prompt:
+
+```txt
+Crea una ruta de aprendizaje para ser experto en algebra desde 0 y que dicha ruta sea nivel universitario es decir como si fuese la malla curricular de una universidad para estudiar algebra. 
+```
+
 * Semestre 1: Álgebra básica
    * Aritmética: operaciones básicas, divisibilidad, números primos y factorización
    * Álgebra elemental: ecuaciones de primer grado, fracciones algebraicas, polinomios y factorización
@@ -209,6 +215,12 @@ Crea una ruta de aprendizaje para ser experto en matematicas desde 0 y que dicha
    * Teoría de Galois: extensiones de cuerpos, polinomios irreducibles, grupos de Galois y aplicaciones
 
 ## Experto en Geometria:
+La siguiente ruta de aprendizaje, fue generado por ChatGPT, utilizando el siguiente prompt:
+
+```txt
+Crea una ruta de aprendizaje para ser experto en geometria desde 0 y que dicha ruta sea nivel universitario es decir como si fuese la malla curricular de una universidad para estudiar geometria. 
+```
+
 * Semestre 1: Geometría básica
    * Fundamentos de geometría: puntos, líneas, ángulos, figuras geométricas y congruencia
    * Geometría euclidiana: postulados, axiomas y teoremas básicos
@@ -230,6 +242,12 @@ Crea una ruta de aprendizaje para ser experto en matematicas desde 0 y que dicha
    * Álgebra y geometría: geometría algebraica en el espacio, proyección estereográfica, geometría de Grassmann y aplicaciones
 
 ## Experto en Estadistica:
+La siguiente ruta de aprendizaje, fue generado por ChatGPT, utilizando el siguiente prompt:
+
+```txt
+Crea una ruta de aprendizaje para ser experto en estadistica desde 0 y que dicha ruta sea nivel universitario es decir como si fuese la malla curricular de una universidad para estudiar estadistica
+```
+
 * Semestre 1: Estadística descriptiva
    * Introducción a la estadística: conceptos básicos, tipos de datos y medidas de tendencia central y de dispersión
    * Distribuciones de frecuencia: tablas, gráficas y medidas de posición
