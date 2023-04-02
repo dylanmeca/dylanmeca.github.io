@@ -29,12 +29,10 @@ el blog a través de las categorías. Elige una categoría:</p>
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <button class="btn" onclick="toggleCategory('{{ category_name | slugize }}')">Mostrar/Ocultar {{ category_name }}</button>
-    
     <h3 id="{{ category_name }}">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
-    <article class="archive-item" id="{{ category_name | slugize }}-post-{{ forloop.index }}">
+    <article class="archive-item">
     <ul>
 	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         <li><p>{{ post.description }}</p></li>
@@ -45,14 +43,3 @@ el blog a través de las categorías. Elige una categoría:</p>
   </div>
 {% endfor %}
 </div>
-
-<script>
-function toggleCategory(category) {
-  var x = document.getElementById(category);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
