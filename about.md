@@ -12,7 +12,7 @@ keywords:
  
 # Sobre Mi
 
-Soy Dylan Meca, un desarrollador de software 🖥️ altamente capacitado en el lenguaje Python 🐍. 
+Soy Dylan Meca, un desarrollador de software 🖥️ altamente capacitado en el lenguaje Python 🐍 con experiencia en el desarrollo de herramientas de automatización. 🤖
 
 Además de mi experiencia en el desarrollo de software, también tengo una pasión por la divulgación tecnológica y la educación 👨‍💻. Comparto contenido en [YouTube](https://www.youtube.com/c/DylanMeca) para informar y educar a las personas sobre las últimas tendencias en la industria tecnológica 🏭 y para explicar conceptos complejos de manera clara y accesible. 📜
 
