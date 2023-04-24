@@ -38,10 +38,10 @@ Ponen ese número porque define o caracteriza un elemento. Las otras partículas
 
 El carbono tiene 6 protones y el carbono 12 también tiene 6 protones, eso quiere decir que puede tener distinto número de neutrones pero tenemos el mismo número de protones los cuales no se deben cambiar.
 
-![carbono-quimica](https://dylanmeca.github.io/assets/img/quimica/carbono-quimica.jpeg)
+<img src="https://dylanmeca.github.io/assets/img/quimica/carbono-quimica.jpeg" width="400px" height="257px">
 
 En el centro del átomo de carbono habrá 12 partículas, las cuales son 6 protones y 6 neutrones. Otra versión del carbono es el carbono 14 que tiene 6 protones pero tiene 8 neutrones.
 
-![atomo](https://dylanmeca.github.io/assets/img/quimica/atomo.jpeg)
+<img src="https://dylanmeca.github.io/assets/img/quimica/atomo.jpeg" width="400px" height="257px">
 
 El carbono 12 es neutro, el carbono va a tener 6 electrones. La razón de por qué los electrones no se van del átomo es que están atraídos al núcleo tienen una velocidad muy alta.
