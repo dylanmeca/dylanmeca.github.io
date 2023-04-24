@@ -18,30 +18,30 @@ keywords:
    - Carbono
 ---
 
-Los seres humanos hemos sabido por miles de años que observando nuestro entorno vemos distintas sustancias y tienen propiedades
-distintas.
+Los seres humanos hemos sabido por miles de años que observando nuestro entorno vemos distintas sustancias y tienen propiedades distintas.
 
-Todas las sustancias que son puros, que tienen las propiedades especificas a ciertas temperaturas y reaccionan de cierta forma 
-se llaman elementos, por ejemplo el carbono, oro y plomo. Dichas sustancias se encuentran en la tabla periodica. La unidad basica de todos estos elementos es el atomo.
+Todas las sustancias que son puras, que tienen las propiedades específicas a ciertas temperaturas y reaccionan de cierta forma se llaman elementos, por ejemplo el carbono, oro y plomo. Dichas sustancias se encuentran en la tabla periódica. La unidad básica de todos estos elementos es el átomo.
 
-Lo que define el elemento es el numero de protones que hay en el nucleo.
+Lo que define el elemento es el número de protones que hay en el núcleo.
 
 ```
 Proton = Define elemento
 ```
 
-Cuando vemos la tabla periodica, vemos que estan escritos en el orden de numero atomico que literalmente es el numero de 
-protones del elemento.
+Cuando vemos la tabla periódica, vemos que están escritos en el orden de número atómico que literalmente es el número de protones del elemento.
 
 ```
-numero de protones = numero atomico 
+Número de protones = Número atómico 
 ```
 
-Ponen ese numero porque define o caracterisa un elemento. Las otras particulas que definen a un atomo, son el electron y el neutron.
+Ponen ese número porque define o caracteriza un elemento. Las otras partículas que definen a un átomo, son el electrón y el neutrón.
 
-El carbono tiene 6 protones y el carbono 12 tambien tiene 6 protones, eso quiere decir que puede tener distinto numero de neutrones pero tenemos el mismo numero de protones los cuales no se deben cambiar.
+El carbono tiene 6 protones y el carbono 12 también tiene 6 protones, eso quiere decir que puede tener distinto número de neutrones pero tenemos el mismo número de protones los cuales no se deben cambiar.
 
+![carbono-quimica](https://dylanmeca.github.io/assets/img/quimica/carbono-quimica.jpeg)
 
-En el centro del atomo de carbono habra 12 particulas, las cuales son 6 protones y 6 neutrones. Otra version del carbono es el carbono 14 que tiene 6 protones pero tiene 8 neutrones.
+En el centro del átomo de carbono habrá 12 partículas, las cuales son 6 protones y 6 neutrones. Otra versión del carbono es el carbono 14 que tiene 6 protones pero tiene 8 neutrones.
 
-El carbono 12 es neutro, el carbono va a tener 6 electrones. La razon de porque los electrones no se van del atomo es que estan atraidos al nucleo tienen una velocidad muy alta.
+![atomo](https://dylanmeca.github.io/assets/img/quimica/atomo.jpeg)
+
+El carbono 12 es neutro, el carbono va a tener 6 electrones. La razón de por qué los electrones no se van del átomo es que están atraídos al núcleo tienen una velocidad muy alta.
