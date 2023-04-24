@@ -20,17 +20,17 @@ keywords:
 
 <img src="https://dylanmeca.github.io/assets/img/quimica/bioquimica-laboratorio.jfif" width="400px" height="257px">
 
-La bioquimica es la ciencia que estudia la composicion quimica de los seres vivos.
+La bioquímica es la ciencia que estudia la composición química de los seres vivos.
 
-## Composicion quimica de los seres vivos:
+## Composición química de los seres vivos:
 <img src="https://dylanmeca.github.io/assets/img/quimica/composicion-quimica.jpg" width="400px" height="257px">
 
 ## Bioelementos
-Son los elementos quimicos que forman a los seres vivos, estos pueden ser:
+Son los elementos químicos que forman a los seres vivos, estos pueden ser:
 
-* **Primarios:** Constituyen alrededor del 96% de la materia viva, es decir de la masa total del organismo.
-* **Secundarios:** Su presencia en los seres vivos representa a valores superiores al 0,01%. 
-* **Oligoelementos:** Se encuentran en minimas proporciones en los seres vivos en valores inferiores al 0,01%. Sin embargos son indespensables para muchos organismos, como el:
+* **Primarios:** Constituyen alrededor del 96% de la materia viva, es decir, de la masa total del organismo.
+* **Secundarios:** Su presencia en los seres vivos representa valores superiores al 0,01%.
+* **Oligoelementos:** Se encuentran en mínimas proporciones en los seres vivos en valores inferiores al 0,01%. Sin embargo, son indispensables para muchos organismos, como el:
   * Fe (Hierro), que forma parte de la hemoglobina de la sangre. 
 
 <img src="https://dylanmeca.github.io/assets/img/quimica/hemoglobina.jpg" width="400px" height="257px">
