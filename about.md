@@ -13,7 +13,7 @@ keywords:
 # Sobre Mi
 
 <div style="text-align: center;">
-     <img src="/assets/img/avatar-dylan.png" width="235px" height="235px"></img>
+     <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
 </div>
 
 Soy Dylan Meca, un python developer 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de marketing 🧑‍💼 y analisis de datos 📈. 
