@@ -33,5 +33,23 @@ Son los elementos químicos que forman a los seres vivos, estos pueden ser:
 * **Secundarios:** Su presencia en los seres vivos representa valores superiores al 0,01%.
 * **Oligoelementos:** Se encuentran en mínimas proporciones en los seres vivos en valores inferiores al 0,01%. Sin embargo, son indispensables para muchos organismos, como el:
   * Fe (Hierro), que forma parte de la hemoglobina de la sangre. 
+  * F (Flúor), componente importante del esmalte de los dientes.
+  * Zn (Zinc), regulador indispensable en labor enzimático
+  * I (Yodo), constituyente importante de las hormonas tiroideas.
 
 <img src="https://dylanmeca.github.io/assets/img/quimica/hemoglobina.jpg" width="400px" height="257px">
+
+## Cuadro comparativo entre Biomoléculas Inorgánicas y Orgánicas
+
+|  Características | Biomoléculas Inorgánicas | Biomoléculas Orgánicas |
+| --- | --- | --- |
+| Composición química | Compuestos que no contienen átomos de carbono y/o hidrógeno. | Compuestos que contienen átomos de carbono y/o hidrógeno. |
+| Ejemplos | Agua, sales minerales (NaCl, CaCO3), gases (O2, CO2) | Carbohidratos, lípidos, proteínas, ácidos nucleicos |
+| Funciones biológicas | Constituyentes celulares, reguladores del pH y la osmolaridad, transporte de sustancias. | Reserva de energía, estructurales, catalíticas, informativas (almacenamiento y transmisión de información genética) |
+| Solubilidad en agua | Solubles en agua. | Solubles en disolventes orgánicos (hidrofóbicos) |
+| Enlaces químicos | Enlaces iónicos o covalentes no polares. | Enlaces covalentes polares o no polares. |
+| Estabilidad | Estables a temperaturas y pH extremos. | Sensibles a temperaturas y pH extremos. |
+| Síntesis | Procesos químicos o biológicos. | Procesos biológicos. |
+
+
+
