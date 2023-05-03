@@ -11,40 +11,35 @@ keywords:
     - categorias del blog de dylan meca
 ---
 
-{% assign categories_max = 0 %}
+<h2 id="indice">Índice</h2>
+<p>Bienvenido a las categorías del blog, aquí puedes navegar por 
+el blog a través de las categorías. Elige una categoría:</p>
 {% for category in site.categories %}
-  {% if category[1].size > categories_max %}
-    {% assign categories_max = category[1].size %}
-  {% endif %}
-{% endfor %}
-
-<ul class="taxonomy__index">
-  {% for i in (1..categories_max) reversed %}
-    {% for category in site.categories %}
-      {% if category[1].size == i %}
-        <li>
-          <a href="#{{ category[0] | slugify }}">
-            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+{% capture category_name %}{{ category | first }}{% endcapture %}
+<ul>
+   <li><a href="#{{ category_name }}">{{ category_name }}</a></li>
 </ul>
-
-{% for i in (1..categories_max) reversed %}
-  {% for category in site.categories %}
-    {% if category[1].size == i %}
-      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ category[0] }}</h2>
-        <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for post in category.last %}
-            {% include archive-single.html type=page.entries_layout %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
-    {% endif %}
-  {% endfor %}
 {% endfor %}
 
+<h2 id="categorias">Categorías</h2>
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 id="{{ category_name }}">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+    <ul>
+	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><p>{{ post.description }}</p></li>
+    </ul>
+    </article>
+    {% endfor %}
+    <a href="#indice">Volver al índice</a>
+  </div>
+{% endfor %}
+</div>
