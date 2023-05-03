@@ -11,57 +11,40 @@ keywords:
     - categorias del blog de dylan meca
 ---
 
-<h2 id="indice">Índice</h2>
-<p>Bienvenido a las categorías del blog, aquí puedes navegar por 
-el blog a través de las categorías. Elige una categoría:</p>
+{% assign categories_max = 0 %}
 {% for category in site.categories %}
-{% capture category_name %}{{ category | first }}{% endcapture %}
-<ul>
-   <li><a href="#{{ category_name }}">{{ category_name }}</a></li>
-</ul>
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
 {% endfor %}
 
-<h2 id="categorias">Categorías</h2>
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group" data-category="{{ category | first }}">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-
-    <h3 id="{{ category_name }}">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] limit:5 %}
-    <article class="archive-item">
-    <ul>
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-        <li><p>{{ post.description }}</p></li>
-    </ul>
-    </article>
+<ul class="taxonomy__index">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+          <a href="#{{ category[0] | slugify }}">
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
     {% endfor %}
-    {% if site.categories[category_name].size > 5 %}
-        <button class="load-more" data-category="{{ category_name }}">Cargar más publicaciones</button>
-    {% endif %}
-    <a href="#indice">Volver al índice</a>
-  </div>
-{% endfor %}
-</div>
+  {% endfor %}
+</ul>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-$(document).ready(function() {
-  $('.archive-group').each(function() {
-    var category = $(this).attr('data-category');
-    $(this).find('.archive-item').slice(5).hide();
-    if ($(this).find('.archive-item').length > 5) {
-      $(this).find('.load-more').click(function() {
-        $(this).siblings('.archive-item:hidden').slice(0, 5).slideDown();
-        if ($(this).siblings('.archive-item:hidden').length == 0) {
-            $(this).fadeOut();
-        }
-     });
-    }
-  });
-});
-</script>
+{% for i in (1..categories_max) reversed %}
+  {% for category in site.categories %}
+    {% if category[1].size == i %}
+      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ category[0] }}</h2>
+        <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          {% for post in category.last %}
+            {% include archive-single.html type=page.entries_layout %}
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      </section>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
