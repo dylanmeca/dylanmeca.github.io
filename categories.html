@@ -40,7 +40,7 @@ el blog a través de las categorías. Elige una categoría:</p>
     </article>
     {% endfor %}
     {% if site.categories[category_name].size > 5 %}
-    <div class="load-more" data-category="{{ category_name }}">Cargar más publicaciones</div>
+        <button class="load-more" data-category="{{ category_name }}">Cargar más publicaciones</button>
     {% endif %}
     <a href="#indice">Volver al índice</a>
   </div>
