@@ -12,3 +12,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'webrick'
 gem 'faraday-retry'
 gem 'jekyll-email-protect'
+gem 'jekyll-lazy-load'
