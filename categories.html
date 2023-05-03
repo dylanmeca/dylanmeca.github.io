@@ -24,22 +24,44 @@ el blog a través de las categorías. Elige una categoría:</p>
 <h2 id="categorias">Categorías</h2>
 <div id="archives">
 {% for category in site.categories %}
-  <div class="archive-group">
+  <div class="archive-group" data-category="{{ category | first }}">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
     <h3 id="{{ category_name }}">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
+    {% for post in site.categories[category_name] limit:5 %}
     <article class="archive-item">
     <ul>
-	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         <li><p>{{ post.description }}</p></li>
     </ul>
     </article>
     {% endfor %}
+    {% if site.categories[category_name].size > 5 %}
+    <div class="load-more" data-category="{{ category_name }}">Cargar más publicaciones</div>
+    {% endif %}
     <a href="#indice">Volver al índice</a>
   </div>
 {% endfor %}
 </div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('.archive-group').each(function() {
+    var category = $(this).attr('data-category');
+    $(this).find('.archive-item').slice(5).hide();
+    if ($(this).find('.archive-item').length > 5) {
+      $(this).find('.load-more').click(function() {
+        $(this).siblings('.archive-item:hidden').slice(0, 5).slideDown();
+        if ($(this).siblings('.archive-item:hidden').length == 0) {
+            $(this).fadeOut();
+        }
+     });
+    }
+});
+});
+</script>
+
