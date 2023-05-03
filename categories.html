@@ -11,18 +11,13 @@ keywords:
     - categorias del blog de dylan meca
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Ejemplo de carga progresiva de texto</title>
-    <style>
-      .archive-item {
-        opacity: 0; /* establecer la opacidad inicial en 0 */
-        transition: opacity 1s ease-in-out; /* transición suave a la opacidad completa */
-      }
-    </style>
-  </head>
-  <body>
+<style>
+    .archive-item {
+       opacity: 0; /* establecer la opacidad inicial en 0 */
+       transition: opacity 1s ease-in-out; /* transición suave a la opacidad completa */
+    }
+</style>
+
     <h2 id="indice">Índice</h2>
     <p>Bienvenido a las categorías del blog, aquí puedes navegar por el blog a través de las categorías. Elige una categoría:</p>
     {% for category in site.categories %}
@@ -75,5 +70,3 @@ keywords:
         observer.observe(item);
       });
     </script>
-  </body>
-</html>
