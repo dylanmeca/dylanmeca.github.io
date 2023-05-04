@@ -20,9 +20,9 @@ keywords:
 
 | Programación | 
 |-------------| 
-| ![certificado-python](https://dylanmeca.github.io/assets/img/certificado-python.png) | 
-| ![certificado-programacion](https://dylanmeca.github.io/assets/img/certificado-programacion.png) | 
-| ![certificado-introduccion-programacion](https://dylanmeca.github.io/assets/img/certificado-introduccion-programacion.png) | 
+| <img src="https://dylanmeca.github.io/assets/img/certificado-python.png" width="302px" height="189px"> 
+| <img src="https://dylanmeca.github.io/assets/img/certificado-programacion.png" width="302px" height="189px">
+| <img src="https://dylanmeca.github.io/assets/img/certificado-introduccion-programacion.png" width="302px" height="189px">
 
 [Volver al índice](#índice)
 
@@ -30,8 +30,8 @@ keywords:
 
 | Ciberseguridad | Redes
 |-------------|-------------|
-| ![certificado-kali-linux](https://dylanmeca.github.io/assets/img/certificado-kali-linux.png) | ![certificado-fundamentos-de-redes](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg) | 
-| ![certificado-termux](https://dylanmeca.github.io/assets/img/certificado-termux.png) | No disponible |
+| <img src="https://dylanmeca.github.io/assets/img/certificado-kali-linux.png" width="302px" height="189px"> | <img src="https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg" width="302px" height="189px"> | 
+| <img src="https://dylanmeca.github.io/assets/img/certificado-termux.png" width="302px" height="189px"> | No disponible |
 
 [Volver al índice](#índice)
 
@@ -39,8 +39,8 @@ keywords:
 
 | Sysadmin    |
 |-------------|
-| ![certificado-montajes-de-servidores-en-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-montajes-de-servidores-en-linux-desde-0.jpg) |
-| ![certificado-mantenimiento-de-computadoras](https://dylanmeca.github.io/assets/img/certificado-mantenimiento-de-computadoras.jpg) |
-| ![certificado-linux-desde-0](https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg) |
+| <img src="https://dylanmeca.github.io/assets/img/certificado-montajes-de-servidores-en-linux-desde-0.jpg" width="302px" height="189px"> |
+| <img src="https://dylanmeca.github.io/assets/img/certificado-mantenimiento-de-computadoras.jpg" width="302px" height="189px"> |
+| <img src="https://dylanmeca.github.io/assets/img/certificado-linux-desde-0.jpg" width="302px" height="189px"> |
 
 [Volver al índice](#índice)
