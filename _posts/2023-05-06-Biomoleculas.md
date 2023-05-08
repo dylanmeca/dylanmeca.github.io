@@ -44,3 +44,38 @@ Porcentajes en masa de las principales sustancias presentes en la materia viva.
 * Si se presentan solidos forman estructuras rigidas, como huesos y conchas, donde cumplen funciones de protección y sosten.
 * Si se encuentran disueltos participan en funciones muy especificas, como en la transmisión de impulsos nerviosos o en las contracciones musculares.
 
+# Carbohidratos
+Los glucidos, carbohidratos, hidratos de carbono o sacáridos son moleculas organicas constituidas por carbono, hidrogeno y oxigeno. Suelen recibir también el nombre de azúcares.
+
+Al estar constituido por los tres elementos mencionados se les denonima:
+
+```       
+                          - Carbono
+--> Compuestos ternarios  - Hidrogeno
+                          - Oxigeno
+```
+
+Conocido como la molécula de la vida: **"COH"**
+
+## Función
+Los carbohidratos constituyen la principal fuente de energía para los organismos.
+
+En función del numero de moléculas, se distinguen los siguientes grupos:
+
+* **Monosacáridos** (Una sola molécula de azucar) --> Dulce
+* **Disacáridos** (Dos moléculas de azucar) --> No tan dulce
+* **Polisácaridos** (Más de nueve monosacáridos) --> Sin sabor
+
+## Monosacáridos
+Son las unidades fundamentales de los hidratos de carbono, puesto que no pueden ser degradados o compuestos más simples. Entre los más importantes tenemos:
+
+* **Las pentosas** (5 átomos de carbono)
+* **Las hexosas** (6 átomos de carbono)
+
+* Dentro de las pentosas tenemos la **ribosa**.
+* Dentro de las hexosas tenemos a la **glucosa** y a la **fructosa**.
+
+### ¿Que función cumple los carbohidratos en los seres vivos?
+Los carbohidratos son una fuente importante de energía para el cuerpo humano y otros seres vivos. Junto con las grasas y las proteínas, los carbohidratos son uno de los tres macronutrientes en nuestra dieta y su función principal es proporcionar energía al cuerpo. Los carbohidratos se descomponen en azúcares antes de ser absorbidos en el torrente sanguíneo y proporcionan al organismo aproximadamente 4kcal por gramo. 
+
+Además de su función energética, los carbohidratos también tienen otras funciones importantes en el cuerpo humano, como la regulación del metabolismo de las grasas y la protección contra enfermedades cardiovasculares
