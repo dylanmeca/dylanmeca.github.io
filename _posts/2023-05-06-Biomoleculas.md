@@ -73,9 +73,31 @@ Son las unidades fundamentales de los hidratos de carbono, puesto que no pueden 
 * **Las hexosas** (6 átomos de carbono)
 
 * Dentro de las pentosas tenemos la **ribosa**.
+
+<img src="/assets/img/biologia/ribosa.jpeg" width="302px" height="189px"> 
+
 * Dentro de las hexosas tenemos a la **glucosa** y a la **fructosa**.
+
+<img src="/assets/img/biologia/glucosa-y-fructosa.jpeg" width="302px" height="189px">
 
 ### ¿Que función cumple los carbohidratos en los seres vivos?
 Los carbohidratos son una fuente importante de energía para el cuerpo humano y otros seres vivos. Junto con las grasas y las proteínas, los carbohidratos son uno de los tres macronutrientes en nuestra dieta y su función principal es proporcionar energía al cuerpo. Los carbohidratos se descomponen en azúcares antes de ser absorbidos en el torrente sanguíneo y proporcionan al organismo aproximadamente 4kcal por gramo. 
 
 Además de su función energética, los carbohidratos también tienen otras funciones importantes en el cuerpo humano, como la regulación del metabolismo de las grasas y la protección contra enfermedades cardiovasculares
+
+# Disacáridos y Polisácaridos
+
+## Disacáridos
+Son carbohidratos formados por la **union de dos monosacáridos** iguales o diferentes. Los disacáridos más comunes estan formados por hexosas; como la sacarosa, lactosa y maltosa. 
+
+Su formula es: Cn H2n On<sup>-1</sup>
+
+* Para la formulación de un disacárido se libera una molecula de H2O.
+
+<img src="/assets/img/biologia/disacaridos.jpeg" width="302px" height="189px">
+
+```
+Sacarosa --> glucosa + fructosa
+Lactosa --> glucosa + galactosa
+Maltosa --> glucosa + glucosa 
+```
