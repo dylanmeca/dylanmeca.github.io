@@ -21,55 +21,23 @@ keywords:
 
 # Indice
 
-1. [Elementos y atomos](#elementos-y-atomos)
-2. [Bioquimica](#bioquímica)
+1. [Bioquimica](#bioquímica)
   * [Composición química de los seres vivos](#composición-química-de-los-seres-vivos)
   * [Bioelementos](#bioelementos)
   * [Cuadro comparativo entre Biomoléculas Inorgánicas y Orgánicas](#cuadro-comparativo-entre-biomoléculas-inorgánicas-y-orgánicas)
-3. [Biomoleculas](#biomoleculas)
+2. [Biomoleculas](#biomoleculas)
   * [Biomoleculas Inorganicas](#biomoléculas-inorgánicas)
-4. [Carbohidratos](#carbohidratos)
+3. [Carbohidratos](#carbohidratos)
   * [Función](#función)
   * [Monosacáridos](#monosacáridos)
   * [¿Que función cumple los carbohidratos en los seres vivos?](#¿que-función-cumple-los-carbohidratos-en-los-seres-vivos)
-5. [Disacáridos y Polisácaridos](#disacáridos-y-polisácaridos)
+4. [Disacáridos y Polisácaridos](#disacáridos-y-polisácaridos)
   * [Disacáridos](#disacáridos)
-
-# Elementos y Atomos
-
-<img src="https://dylanmeca.github.io/assets/img/quimica/atomo-representacion.png" width="400px" height="257px">
-
-Los seres humanos hemos sabido por miles de años que observando nuestro entorno vemos distintas sustancias y tienen propiedades distintas.
-
-Todas las sustancias que son puras, que tienen las propiedades específicas a ciertas temperaturas y reaccionan de cierta forma se llaman elementos, por ejemplo el carbono, oro y plomo. Dichas sustancias se encuentran en la tabla periódica. La unidad básica de todos estos elementos es el átomo.
-
-Lo que define el elemento es el número de protones que hay en el núcleo.
-
-```
-Proton = Define elemento
-```
-
-Cuando vemos la tabla periódica, vemos que están escritos en el orden de número atómico que literalmente es el número de protones del elemento.
-
-```
-Número de protones = Número atómico 
-```
-
-Ponen ese número porque define o caracteriza un elemento. Las otras partículas que definen a un átomo, son el electrón y el neutrón.
-
-El carbono tiene 6 protones y el carbono 12 también tiene 6 protones, eso quiere decir que puede tener distinto número de neutrones pero tenemos el mismo número de protones los cuales no se deben cambiar.
-
-<img src="https://dylanmeca.github.io/assets/img/quimica/carbono-quimica.jpeg" width="400px" height="257px">
-
-En el centro del átomo de carbono habrá 12 partículas, las cuales son 6 protones y 6 neutrones. Otra versión del carbono es el carbono 14 que tiene 6 protones pero tiene 8 neutrones.
-
-<img src="https://dylanmeca.github.io/assets/img/quimica/atomo.jpeg" width="400px" height="257px">
-
-El carbono 12 es neutro, el carbono va a tener 6 electrones. La razón de por qué los electrones no se van del átomo es que están atraídos al núcleo tienen una velocidad muy alta.
-
-<img src="https://dylanmeca.github.io/assets/img/quimica/bioquimica-laboratorio.jfif" width="400px" height="257px">
+  * [Polisácaridos](#polisácaridos)
 
 # Bioquímica
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/bioquimica-laboratorio.jfif" width="400px" height="257px">
 
 La bioquímica es la ciencia que estudia la composición química de los seres vivos.
 
