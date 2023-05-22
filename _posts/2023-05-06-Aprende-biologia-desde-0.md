@@ -185,5 +185,34 @@ Sacarosa --> glucosa + fructosa
 Lactosa --> glucosa + galactosa
 Maltosa --> glucosa + glucosa 
 ```
+## Polisácaridos
+Formados por más de nueve monosacáridos unidos. Pueden construir largas cadenas, que adoptan una forma lineal o ramificada.
+A diferencia de los otros hidratos de carbono no son cristalinos y no presentan sabor dulce. 
 
+```
+Su formula es --> (C6 H10 O5)n
+              |
+              --> Por cada enlace 
+                  se libera una molecula 
+                  de H2O 
+```
+## Clasificacion de Polisácaridos
+Los polisácaridos se clasifican según su función:
 
+--> Polisácaridos de reserva 
+--> Polisácaridos estructurales 
+
+## Polisácaridos de Reserva
+En este grupo se encuentran el **almidón** en los vegetales y el **glucogeno** en los animales.
+
+Almidón --> Tuberculos, cereales y legumbres. Ademas podemos encontrarlo en algunas frutas como la manzana.
+Glucogeno --> Principalmente abundante en el higado y celulas musculares.
+
+## Polisácaridos estructurales
+Entre estos se encuentra la **celulosa** en los vegetales y la **quitina** en los animales. 
+
+Celulosa --> Forma parte fibrosa de la pared celular de las plantas. Es un polisácarido formado por **10 000 unidades de glucosa**. Lo vamos a encontrar en la madera, papel, celofan, algodon, pasto y en algunos alimentos como verduras verdes.
+
+Quitina --> Polisácarido presente en los moluscoz, caparazon de crustaceos, insectos, aracnidos, dandole una estructura rigida denominada **exoesqueleto**.
+
+**Recuerda:** Los polisácaridos de reserva constituyen la principal fuente de energia disponible para los seres vivos, mientras que las estructurales forman estructuras rigidas dandoles protección y estabilidad.  
