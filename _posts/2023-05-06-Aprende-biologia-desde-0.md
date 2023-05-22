@@ -19,6 +19,24 @@ keywords:
   - Ácidos nucleicos
 ---
 
+# Indice
+
+1. [Elementos y atomos](#elementos-y-atomos)
+2. [Bioquimica](#bioquímica)
+  * [Composición química de los seres vivos](#composición-química-de-los-seres-vivos)
+  * [Bioelementos](#bioelementos)
+  * [Cuadro comparativo entre Biomoléculas Inorgánicas y Orgánicas](#cuadro-comparativo-entre-biomoléculas-inorgánicas-y-orgánicas)
+3. [Biomoleculas](#biomoleculas)
+  * [Biomoleculas Inorganicas](#biomoléculas-inorgánicas)
+4. [Carbohidratos](#carbohidratos)
+  * [Función](#función)
+  * [Monosacáridos](#monosacáridos)
+  * [¿Que función cumple los carbohidratos en los seres vivos?](#¿que-función-cumple-los-carbohidratos-en-los-seres-vivos)
+5. [Disacáridos y Polisácaridos](#disacáridos-y-polisácaridos)
+  * [Disacáridos](#disacáridos)
+
+# Elementos y Atomos
+
 <img src="https://dylanmeca.github.io/assets/img/quimica/atomo-representacion.png" width="400px" height="257px">
 
 Los seres humanos hemos sabido por miles de años que observando nuestro entorno vemos distintas sustancias y tienen propiedades distintas.
@@ -51,6 +69,8 @@ El carbono 12 es neutro, el carbono va a tener 6 electrones. La razón de por qu
 
 <img src="https://dylanmeca.github.io/assets/img/quimica/bioquimica-laboratorio.jfif" width="400px" height="257px">
 
+# Bioquímica
+
 La bioquímica es la ciencia que estudia la composición química de los seres vivos.
 
 ## Composición química de los seres vivos:
@@ -80,6 +100,8 @@ Son los elementos químicos que forman a los seres vivos, estos pueden ser:
 | Enlaces químicos | Enlaces iónicos o covalentes no polares. | Enlaces covalentes polares o no polares. |
 | Estabilidad | Estables a temperaturas y pH extremos. | Sensibles a temperaturas y pH extremos. |
 | Síntesis | Procesos químicos o biológicos. | Procesos biológicos. |
+
+# Biomoleculas
 
 <img src="/assets/img/biologia/biomoleculas.png" width="302px" height="189px">
 
@@ -163,3 +185,5 @@ Sacarosa --> glucosa + fructosa
 Lactosa --> glucosa + galactosa
 Maltosa --> glucosa + glucosa 
 ```
+
+
