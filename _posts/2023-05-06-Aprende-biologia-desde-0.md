@@ -30,7 +30,7 @@ keywords:
 3. [Carbohidratos](#carbohidratos)
   * [Función](#función)
   * [Monosacáridos](#monosacáridos)
-  * [¿Que función cumple los carbohidratos en los seres vivos?](#¿que-función-cumple-los-carbohidratos-en-los-seres-vivos)
+  * [¿Que función cumple los carbohidratos en los seres vivos?](#¿que-función-cumple-los-carbohidratos-en-los-seres-vivos?)
 4. [Disacáridos y Polisácaridos](#disacáridos-y-polisácaridos)
   * [Disacáridos](#disacáridos)
   * [Polisácaridos](#polisácaridos)
@@ -167,20 +167,26 @@ Su formula es --> (C6 H10 O5)n
 ## Clasificacion de Polisácaridos
 Los polisácaridos se clasifican según su función:
 
+```
 --> Polisácaridos de reserva 
 --> Polisácaridos estructurales 
+```
 
 ## Polisácaridos de Reserva
 En este grupo se encuentran el **almidón** en los vegetales y el **glucogeno** en los animales.
 
+```
 Almidón --> Tuberculos, cereales y legumbres. Ademas podemos encontrarlo en algunas frutas como la manzana.
 Glucogeno --> Principalmente abundante en el higado y celulas musculares.
+```
 
 ## Polisácaridos estructurales
 Entre estos se encuentra la **celulosa** en los vegetales y la **quitina** en los animales. 
 
+```
 Celulosa --> Forma parte fibrosa de la pared celular de las plantas. Es un polisácarido formado por **10 000 unidades de glucosa**. Lo vamos a encontrar en la madera, papel, celofan, algodon, pasto y en algunos alimentos como verduras verdes.
 
 Quitina --> Polisácarido presente en los moluscoz, caparazon de crustaceos, insectos, aracnidos, dandole una estructura rigida denominada **exoesqueleto**.
+```
 
 **Recuerda:** Los polisácaridos de reserva constituyen la principal fuente de energia disponible para los seres vivos, mientras que las estructurales forman estructuras rigidas dandoles protección y estabilidad.  
