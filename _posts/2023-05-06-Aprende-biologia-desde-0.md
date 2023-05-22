@@ -1,8 +1,8 @@
 ---
 layout: post
-description: La materia viva está compuesta por bioelementos, que se combinan para formar biomoléculas. Las biomoléculas pueden ser inorgánicas (como agua y sales minerales) o orgánicas (como glúcidos, lípidos, proteínas y ácidos nucleicos). El agua es la sustancia más abundante en los seres vivos y constituye entre el 65% y el 90% del peso corporal. Las sales minerales participan en funciones específicas, como la transmisión de impulsos nerviosos y las contracciones musculares.
+description: La biología es la ciencia que se encarga del estudio de los seres vivos y de los procesos relacionados con ellos. Es una disciplina amplia y diversa que abarca desde el nivel molecular y celular hasta el nivel de los ecosistemas y la biosfera.
 img: /assets/img/biologia/biomoleculas.png
-permalink: /2023/05/06/biomoleculas.html
+permalink: /2023/05/22/aprende-biologia-desde-0.html
 categories: [Ciencia, Biologia, Academico]
 author:
   - Dylan Meca
@@ -18,6 +18,68 @@ keywords:
   - Proteínas
   - Ácidos nucleicos
 ---
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/atomo-representacion.png" width="400px" height="257px">
+
+Los seres humanos hemos sabido por miles de años que observando nuestro entorno vemos distintas sustancias y tienen propiedades distintas.
+
+Todas las sustancias que son puras, que tienen las propiedades específicas a ciertas temperaturas y reaccionan de cierta forma se llaman elementos, por ejemplo el carbono, oro y plomo. Dichas sustancias se encuentran en la tabla periódica. La unidad básica de todos estos elementos es el átomo.
+
+Lo que define el elemento es el número de protones que hay en el núcleo.
+
+```
+Proton = Define elemento
+```
+
+Cuando vemos la tabla periódica, vemos que están escritos en el orden de número atómico que literalmente es el número de protones del elemento.
+
+```
+Número de protones = Número atómico 
+```
+
+Ponen ese número porque define o caracteriza un elemento. Las otras partículas que definen a un átomo, son el electrón y el neutrón.
+
+El carbono tiene 6 protones y el carbono 12 también tiene 6 protones, eso quiere decir que puede tener distinto número de neutrones pero tenemos el mismo número de protones los cuales no se deben cambiar.
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/carbono-quimica.jpeg" width="400px" height="257px">
+
+En el centro del átomo de carbono habrá 12 partículas, las cuales son 6 protones y 6 neutrones. Otra versión del carbono es el carbono 14 que tiene 6 protones pero tiene 8 neutrones.
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/atomo.jpeg" width="400px" height="257px">
+
+El carbono 12 es neutro, el carbono va a tener 6 electrones. La razón de por qué los electrones no se van del átomo es que están atraídos al núcleo tienen una velocidad muy alta.
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/bioquimica-laboratorio.jfif" width="400px" height="257px">
+
+La bioquímica es la ciencia que estudia la composición química de los seres vivos.
+
+## Composición química de los seres vivos:
+<img src="https://dylanmeca.github.io/assets/img/quimica/composicion-quimica.jpg" width="400px" height="257px">
+
+## Bioelementos
+Son los elementos químicos que forman a los seres vivos, estos pueden ser:
+
+* **Primarios:** Constituyen alrededor del 96% de la materia viva, es decir, de la masa total del organismo.
+* **Secundarios:** Su presencia en los seres vivos representa valores superiores al 0,01%.
+* **Oligoelementos:** Se encuentran en mínimas proporciones en los seres vivos en valores inferiores al 0,01%. Sin embargo, son indispensables para muchos organismos, como el:
+  * Fe (Hierro), que forma parte de la hemoglobina de la sangre. 
+  * F (Flúor), componente importante del esmalte de los dientes.
+  * Zn (Zinc), regulador indispensable en labor enzimático
+  * I (Yodo), constituyente importante de las hormonas tiroideas.
+
+<img src="https://dylanmeca.github.io/assets/img/quimica/hemoglobina.jpg" width="400px" height="257px">
+
+## Cuadro comparativo entre Biomoléculas Inorgánicas y Orgánicas
+
+|  Características | Biomoléculas Inorgánicas | Biomoléculas Orgánicas |
+| --- | --- | --- |
+| Composición química | Compuestos que no contienen átomos de carbono y/o hidrógeno. | Compuestos que contienen átomos de carbono y/o hidrógeno. |
+| Ejemplos | Agua, sales minerales (NaCl, CaCO3), gases (O2, CO2) | Carbohidratos, lípidos, proteínas, ácidos nucleicos |
+| Funciones biológicas | Constituyentes celulares, reguladores del pH y la osmolaridad, transporte de sustancias. | Reserva de energía, estructurales, catalíticas, informativas (almacenamiento y transmisión de información genética) |
+| Solubilidad en agua | Solubles en agua. | Solubles en disolventes orgánicos (hidrofóbicos) |
+| Enlaces químicos | Enlaces iónicos o covalentes no polares. | Enlaces covalentes polares o no polares. |
+| Estabilidad | Estables a temperaturas y pH extremos. | Sensibles a temperaturas y pH extremos. |
+| Síntesis | Procesos químicos o biológicos. | Procesos biológicos. |
 
 <img src="/assets/img/biologia/biomoleculas.png" width="302px" height="189px">
 
