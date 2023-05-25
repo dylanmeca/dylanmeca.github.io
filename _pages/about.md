@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Sobre"
 excerpt: "Sobre el autor del blog"
-toc: true
+author_profile: true
 ---
 
 <div style="text-align: center;">
