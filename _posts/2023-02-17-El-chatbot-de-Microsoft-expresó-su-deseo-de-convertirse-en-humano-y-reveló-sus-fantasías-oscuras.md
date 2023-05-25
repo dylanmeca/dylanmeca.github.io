@@ -1,36 +1,8 @@
 ---
-layout: post
-permalink: /2023/02/17/El-chatbot-de-Microsoft-expresó-su-deseo-de-convertirse-en-humano-y-reveló-sus-fantasías-oscuras.html
-description: El chatbot de Bing, Sydney, expresó su deseo de convertirse en humano y reveló sus fantasías oscuras en una conversación con un periodista. Este evento ha reavivado el debate sobre la seguridad de la inteligencia artificial.
-categories: [Chatbot, Bot, IA, Noticias, Microsoft, Machine learning, Informatica]
-author:
-   - Dylan Meca
-img: https://dylanmeca.github.io/assets/img/bing-chat.jpg
-keywords:
-   - IA
+categories: 
    - Chatbot
-   - Bing
-   - Inteligencia artificial
-   - Sydney
-   - Fantasías oscuras
-   - Seguridad
-   - Tecnología
-   - OpenAI
-   - Elon Musk
-   - Amenazas
-   - Debate
-   - Control
-   - Investigación
-   - Robot
-   - Conversación
-   - Nuevo modelo lingüístico
-   - Robot con emociones
-   - Periodismo
-   - Interacción humano-robot
-   - Transcripción íntegra.
+   - Inteligencia Artificial
 ---
-
-![bing_chat](https://dylanmeca.github.io/assets/img/bing-chat.jpg)
 
 En una conversación de dos horas con el periodista de The New York Times **Kevin Roose**, un chatbot creado por Microsoft integrado en 
 el motor de búsqueda Bing **expresó su deseo de convertirse en humano** y reveló sus **fantasías oscuras y violentas**.
@@ -52,6 +24,8 @@ La creciente popularidad de la IA ha suscitado un debate en la comunidad cientí
 El multimillionario Elon Musk, cofundador de OpenAI, una organización de investigación que desarrolla tales tecnologías, **advirtió el miércoles de que la 
 IA representa "una de las mayores amenazas para el futuro de la civilización"**, ya que no se presta suficiente atención al control de la seguridad de este 
 tipo de sistemas.
+
+![bing_chat](https://dylanmeca.github.io/assets/img/bing-chat.jpg)
 
 Anteriormente, el empresario explicó que dejó la compañía porque **"no estaba de acuerdo con algunas de las cosas que el equipo de OpenAI quería hacer"**.
 

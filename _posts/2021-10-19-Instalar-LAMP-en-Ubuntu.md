@@ -1,37 +1,7 @@
 ---
-layout: post
-title: Instalar LAMP en Ubuntu
-description: En este articulo veremos como instalar LAMP el cual significa (Linux, Apache, MySQL y PHP) en Ubuntu 20.04, pero tambien instalaremos phpMyAdmin. Esta instalación nos permitira tener un sitio web con una base de datos
-categories: [Servidores, Ubuntu, Linux, Tutoriales, Informatica]
-permalink: /2021/10/19/instalar-lamp-en-ubuntu.html
-author:
-    - Dylan Meca
-keywords:
-    - instalar LAMP
-    - LAMP
-    - como instalar LAMP
-    - como instalar LAMP en Ubuntu
-    - como instalar LAMP en Linux
-    - instalar LAMP en Ubuntu
-    - instalar LAMP en Linux
+categories: 
+    - Servidores
     - Linux
-    - Ubuntu
-    - Ubuntu 20.04
-    - instalar apache2
-    - instalar apache
-    - instalar mysql
-    - instalar php
-    - instalar phpMyAdmin
-    - instalar php y phpMyAdmin
-    - apache2
-    - mysql
-    - php
-    - phpMyAdmin
-    - instalar Apache y MySQL y PHP
-    - instalar apache en Ubuntu
-    - instalar MySQL en Ubuntu
-    - instalar PHP en Ubuntu
-    - instalar phpMyAdmin en Ubuntu
 ---
 
 - [Instalar Apache 2](#instalar-apache-2)

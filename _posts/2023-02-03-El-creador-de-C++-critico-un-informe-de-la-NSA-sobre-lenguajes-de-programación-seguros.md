@@ -1,58 +1,13 @@
 ---
-layout: post
-permalink: 2023/02/03/El-creador-de-C++-critico-un-informe-de-la-NSA-sobre-lenguajes-de-programacion-seguros.html
-description: Bjarne Stroustrup, el creador del lenguaje C++, publicó objeciones del informe de la NSA donde se aconseja a las organizaciones que consideren hacer un cambio estratégico de los lenguajes de programación que proporcionar poca o ninguna protección de memoria inherente, como C/C++, a un lenguaje seguro para la memoria cuando sea posible.
-img: https://upload.wikimedia.org/wikipedia/commons/c/c1/Hello_World_C%2B%2B.png
-categories: [C++, Programacion, Ciberseguridad, Rust, Noticias, Tecnologia, Desarrollo]
-author:
-   - Dylan Meca
-keywords:
-   - Bjarne Stroustrup
-   - C++
-   - Lenguaje
-   - Seguridad
-   - Informe NSA
-   - Critica
-   - Creador
-   - Programación segura
-   - Vulnerabilidades
-   - Cifrado
-   - Desarrollo de software
-   - Eficiencia
-   - Privacidad
-   - Confidencialidad
-   - Comunidad de programación
-   - Estándares
-   - Compatibilidad
-   - Protección de datos
-   - Protección de la información
-   - Evaluación de seguridad
-   - Innovación tecnológica.
-   - El creador de c++ critico un informe de la NSA
-   - Creador de c++
-   - El creador
-   - de c++
-   - critico
-   - el creador de c++ critico
-   - un informe
-   - de la NSA
-   - critico un informe de la NSA
-   - informe de la NSA
-   - sobre lenguajes de programacion
-   - sobre lenguajes
-   - sobre
-   - sobre programacion
-   - lenguajes de programacion
-   - lenguajes seguros
-   - programacion segura
-   - lenguajes de programacion seguros
+categories: 
+   - Programación
 ---
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hello_World_C%2B%2B.png" width="400px" height="257px">
 
 **Bjarne Stroustrup, el creador del lenguaje C++**, publicó objeciones **del informe de la NSA donde se aconseja a las organizaciones** que consideren hacer un cambio estratégico de los lenguajes de programación que
 proporcionar poca o ninguna protección de memoria inherente, como C/C++, a un lenguaje seguro para la memoria
 cuando sea posible. Algunos ejemplos de **lenguajes seguros para la memoria son C#, Go, Java, Ruby™ y Swift®.**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hello_World_C%2B%2B.png" width="400px" height="257px">
 
 Según Bjarne Stroustrup, los lenguajes seguros mencionados por la NSA **no son realmente superiores a c++ en aplicaciones importantes**.
 

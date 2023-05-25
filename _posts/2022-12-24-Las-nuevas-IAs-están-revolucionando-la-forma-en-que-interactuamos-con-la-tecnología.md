@@ -1,44 +1,10 @@
 ---
-layout: post
-permalink: /2022/12/24/Las-nuevas-IAs-están-revolucionando-la-forma-en-que-interactuamos-con-la-tecnología.html
-description: ChatGPT y DALL-E 2 son dos nuevas inteligencias artificiales que pueden tener un impacto significativo en la industria y en el empleo en el futuro, pero también es importante considerar los posibles impactos en la sociedad y tomar medidas para garantizar su uso ético y responsable.
-categories: [IA, Tecnologia, Noticias, Informatica, Ciencia, Programacion, Python]
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DALL%C2%B7E_2_Selfie_with_an_alien.png/800px-DALL%C2%B7E_2_Selfie_with_an_alien.png
-author: 
-     - Dylan Meca
-keywords:
-     - Inteligencia artificial
-     - ChatGPT
-     - DALL-E 2
-     - Procesamiento de lenguaje
-     - Imágenes generativas
-     - Atención al cliente
-     - Análisis de datos
-     - Trabajos repetitivos
-     - Habilidades cognitivas
-     - Impacto en el empleo
-     - Impacto en la sociedad
-     - Uso ético y responsable de la IA
-     - IA
-     - Tecnología
-     - Interacción
-     - Revolución
-     - Nuevas tecnologías
-     - Aprendizaje automático
-     - Robótica
-     - Procesamiento del lenguaje natural
-     - Análisis de datos 
-     - Machine learning
-     - Automatización 
-     - Big data 
-     - Procesamiento de la información 
-     - Sistemas expertos 
-     - Inteligencia cognitiva
-     - Redes neuronales 
-     - Visión por computadora 
-     - Interfaz de usuario
-     - Aprendizaje profundo
+categories: 
+   - Inteligencia Artificial
+   - Chatbot 
 ---
+
+ChatGPT y DALL-E 2 son dos nuevas inteligencias artificiales que pueden tener un impacto significativo en la industria y en el empleo en el futuro, pero también es importante considerar los posibles impactos en la sociedad y tomar medidas para garantizar su uso ético y responsable.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DALL%C2%B7E_2_Selfie_with_an_alien.png/800px-DALL%C2%B7E_2_Selfie_with_an_alien.png" width="400px" height="257px">
 

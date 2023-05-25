@@ -1,23 +1,9 @@
+--- 
+categories: 
+   - Quimica
 ---
-layout: post
-description: En este artículo se explica de manera clara y concisa qué son los elementos y los átomos. Se describe cómo los elementos son sustancias puras que tienen propiedades específicas y se encuentran en la tabla periódica. Además, se detalla cómo el átomo es la unidad básica de todos los elementos y se define por el número de protones en su núcleo. El artículo también explica el número atómico y cómo éste define un elemento. Se incluye el ejemplo del carbono para mostrar cómo los átomos pueden tener diferentes números de neutrones pero deben tener el mismo número de protones para ser del mismo elemento. Por último, se explica por qué los electrones no se alejan del núcleo del átomo. En general, este artículo es una buena introducción a los elementos y átomos para aquellos que quieren aprender sobre química básica.
-categories: [Quimica, Academico]
-img: https://dylanmeca.github.io/assets/img/quimica/atomo-representacion.png
-permalink: /2023/04/23/Elementos-y-Atomos.html
-author:
-   - Dylan Meca
-keywords:
-   - Elementos
-   - Átomos
-   - Número atómico
-   - Tabla periódica
-   - Neutrones
-   - Protones
-   - Electrones
-   - Sustancias puras
-   - Propiedades específicas
-   - Carbono
----
+
+En este artículo se explica de manera clara y concisa qué son los elementos y los átomos. Se describe cómo los elementos son sustancias puras que tienen propiedades específicas y se encuentran en la tabla periódica. Además, se detalla cómo el átomo es la unidad básica de todos los elementos y se define por el número de protones en su núcleo. El artículo también explica el número atómico y cómo éste define un elemento. Se incluye el ejemplo del carbono para mostrar cómo los átomos pueden tener diferentes números de neutrones pero deben tener el mismo número de protones para ser del mismo elemento. Por último, se explica por qué los electrones no se alejan del núcleo del átomo. En general, este artículo es una buena introducción a los elementos y átomos para aquellos que quieren aprender sobre química básica.
 
 <img src="https://dylanmeca.github.io/assets/img/quimica/atomo-representacion.png" width="400px" height="257px">
 

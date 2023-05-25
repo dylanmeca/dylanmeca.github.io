@@ -1,29 +1,13 @@
 ---
-layout: post
-permalink: /2023/03/11/Xenomorph-el-virus-que-infecta-tu-móvil-y-va-por-tus-datos-bancarios.html
-description: La ciberseguridad es un tema cada vez más relevante en nuestra sociedad. El mundo digital en el que vivimos está repleto de amenazas que pueden poner en peligro nuestra privacidad, nuestras finanzas y, en general, nuestra vida en línea. Entre las diferentes formas de malware que existen, uno de los más peligrosos y sofisticados es el troyano bancario Xenomorph
-categories: [Informatica, Noticias, Consejos, Programacion, Ciberseguridad, Malware]
-author:
-   - Dylan Meca
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Malware_logo.svg/800px-Malware_logo.svg.png
-keywords:
-   - Xenomorph
-   - Troyano bancario
-   - Malware
-   - Ciberseguridad
-   - Protección de datos
-   - Virus informático
-   - Ataques cibernéticos
-   - Seguridad en línea
-   - Prevención de fraudes bancarios
-   - Protección contra amenazas digitales
+categories: 
+   - Ciberseguridad 
 ---
-
-![malware](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Malware_logo.svg/800px-Malware_logo.svg.png)
 
 La ciberseguridad es un tema cada vez más relevante en nuestra sociedad. El mundo digital en el que vivimos está repleto de amenazas que pueden poner en peligro nuestra privacidad, nuestras finanzas y, en general, nuestra vida en línea. Entre las diferentes formas de malware que existen, uno de los más peligrosos y sofisticados es el troyano bancario Xenomorph.
 
 Este software malicioso ha sido diseñado específicamente para robar información bancaria y otras credenciales valiosas de sus víctimas. Los ciberdelincuentes utilizan diferentes técnicas para infectar dispositivos, como la inserción de Xenomorph en aplicaciones comunes que pueden pasar desapercibidas para los sistemas de seguridad.
+
+![malware](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Malware_logo.svg/800px-Malware_logo.svg.png)
 
 Una vez que el troyano se ha instalado, se comunica con un servidor de control para recopilar información valiosa sobre la red afectada, que posteriormente se vende en el mercado negro. Entre las capacidades de Xenomorph se encuentran el acceso a aplicaciones bancarias, SMS y notificaciones de segundo factor, lo que le permite aprovechar cualquier vulnerabilidad o brecha del sistema.
 

@@ -1,40 +1,7 @@
 ---
-layout: post
-description: En este articulo veremos como instalar ubuntu en android sin root, y usaremos la aplicación termux para su instalación, la instalación de ubuntu sera mediante proot, no será Ubuntu Desktop, será como un Ubuntu Server (técnicamente hablando es Ubuntu Core)
-categories: [Ubuntu, Servidores, Termux, Tutoriales, Informatica, Android, Android]
-permalink: /2021/07/04/Instalar-ubuntu-en-android-con-termux.html
-author:
-   - Dylan Meca
-keywords:
-   - termux
-   - ubuntu
-   - instalar
-   - instalar ubuntu
-   - instalar ubuntu en android
-   - ubuntu en android
-   - android
-   - como instalar ubuntu en android
-   - como instalar
-   - como instalar ubuntu en android con termux
-   - instalar ubuntu en android con termux
-   - proot
-   - proot-distro
-   - instalacion de ubuntu mediante proot
-   - terminal de android
-   - emulador
-   - linux en android
-   - linux
-   - que es ubuntu
-   - ubuntu desktop
-   - server
-   - desktop
-   - ubuntu server
-   - ubuntu core
-   - core
-   - sistema operativo
-   - distribucion
-   - distribucion linux
-   - terminal
+categories:
+   - Linux
+   - Termux
 ---
 
 En este articulo veremos como instalar ubuntu en android sin root, y usaremos la aplicación termux para su instalación.

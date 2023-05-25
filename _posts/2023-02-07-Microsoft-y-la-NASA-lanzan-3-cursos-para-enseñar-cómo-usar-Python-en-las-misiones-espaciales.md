@@ -1,37 +1,13 @@
 ---
-layout: post
-permalink: 2023/02/07/Microsoft-y-la-NASA-lanzan-3-cursos-para-enseñar-cómo-usar-Python-en-las-misiones-espaciales.html
-description: Microsoft y la NASA han unido esfuerzos y acaban de anunciar el lanzamiento conjunto de una serie de cursos online destinados a formar a aquellos se inician en la programación a usar el lenguaje Python y algoritmos de machine learning, para tareas relacionadas con el ámbito de la NASA desde clasificar rocas espaciales a predecir las condiciones meteorológicas durante el lanzamiento de los cohetes.
-img: https://dylanmeca.github.io/assets/img/python-nasa.png
-categories: [NASA, Microsoft, Cursos, Python, Machine Learning, IA, Programacion, Informatica, Ciencia]
-author:
-   - Dylan Meca
-keywords:
-   - NASA
-   - Microsoft
-   - Y la NASA
-   - la NASA
-   - lanzan
-   - 3 cursos
-   - lanzan 3 cursos
-   - para enseñar
-   - enseñar
-   - como usar
-   - python
-   - como usar python
-   - usar python
-   - en las misiones
-   - las misiones
-   - las misiones espaciales
-   - espaciales
-   - en las misiones espaciales
+categories:
+   - Ciencia de Datos
 ---
-
-![python-nasa](https://dylanmeca.github.io/assets/img/python-nasa.png)
 
 Microsoft y la NASA han unido esfuerzos y acaban de anunciar el lanzamiento conjunto de una serie de cursos online destinados a formar 
 a aquellos se inician en la programación a usar el lenguaje Python y algoritmos de machine learning, para tareas relacionadas con el ámbito de la NASA: 
 desde clasificar rocas espaciales a predecir las condiciones meteorológicas durante el lanzamiento de los cohetes.
+
+![python-nasa](https://dylanmeca.github.io/assets/img/python-nasa.png)
 
 Pero no nos engañemos: el curso no nos enseñará cómo codifican en Python los ingenieros de la NASA, 
 sino que aporta ideas de cómo Python podría ser útil para afrontar algunos desafíos reales de la exploración espacial.

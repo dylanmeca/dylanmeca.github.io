@@ -1,31 +1,6 @@
 ---
-layout: post
-permalink: /2022/08/15/Ruta-para-ser-Cientifico-de-Datos.html
-description: La Ciencia de Datos es una carrera que estuda, administra, analiza e interpreta todo tipo de datos con el fin de que las organizaciones tomen mejores decisiones y resuelvan problemas complejos
-categories: [Ciencia, IA, Tecnologia, Informatica]
-author: 
-     - Dylan Meca
-keywords:
-     - Ciencia de datos
-     - Análisis de datos
-     - Machine Learning
-     - Big Data
-     - Aprendizaje automático
-     - Estadísticas
-     - Modelado
-     - Python
-     - R
-     - SQL
-     - Visualización
-     - Minería de datos
-     - Inteligencia artificial
-     - Aprendizaje profundo
-     - Procesamiento de lenguaje natural
-     - Cibernética
-     - Ciencia computacional
-     - Investigación
-     - Estudio de caso
-     - Aplicaciones empresariales
+categories: 
+   - Ciencia de Datos
 ---
 
 La Ciencia de Datos es una carrera que estudia, administra, analiza 

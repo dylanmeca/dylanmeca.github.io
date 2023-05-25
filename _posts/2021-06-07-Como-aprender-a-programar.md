@@ -1,15 +1,6 @@
 ---
-layout: post
-description: En este articulo encontraras respuestas de como aprender a programar y si es facil, tambien se mostraran cursos para aprender a programar.
-categories: [Python, Programacion, Tutoriales, Informatica]
-permalink: /2021/06/07/Como-aprender-a-programar.html
-author:
-    - Dylan Meca
-keywords:
-    - aprender a programar
-    - aprender
-    - programar
-    - python
+categories:
+    - Programación
 ---
 
 Para iniciar en el mundo de la programación es nesesario tener conocimiento basico de informatica ya que

@@ -1,28 +1,11 @@
 ---
-layout: post
-permalink: 2023/02/05/Cómo-instalar-Arch-Linux-en-WSL2.html
-description: En este artículo, se te enseñara cómo instalar Arch Linux en WSL2, usando Docker para la imagen de Arch Linux y luego exportarlo en un archivo .tar, para finalmente importarlo a WSL2
-img: https://dylanmeca.github.io/assets/img/archlinux-15.png
-categories: [Arch Linux, Linux, Informatica, Tecnologia]
-author:
-   - Dylan Meca
-keywords:
-   - arch linux
-   - linux
-   - arch
-   - como
-   - como instalar
-   - instalar arch
-   - instalar arch linux
-   - linux arch
-   - wsl
-   - wsl2
-   - instalar arch linux en wsl2
+categories: 
+   - Linux
 ---
 
-![archlinux](https://dylanmeca.github.io/assets/img/archlinux-15.png)
-
 En este artículo, se te enseñara cómo instalar Arch Linux en WSL2, usando Docker para la imagen de Arch Linux y luego exportarlo en un archivo .tar, para finalmente importarlo a WSL2.
+
+![archlinux](https://dylanmeca.github.io/assets/img/archlinux-15.png)
 
 ## Usando Arch Linux en Docker para luego exportarlo
 

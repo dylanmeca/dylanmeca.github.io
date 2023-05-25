@@ -1,57 +1,13 @@
 ---
-layout: post
-permalink: /2023/01/20/Systemd-ahora-esta-disponible-en-WSL2.html
-description: El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL. Este cambio significa que WSL será aún más similar a usar distribuciones de Linux en una máquina completa y le permitirá usar software que depende del soporte de systemd.
-categories: [WSL, Windows, Tecnologia, Informatica, Linux, Noticias]
-img: https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1440/https://lh6.googleusercontent.com/38nIp-WwreQQwfJoX27U6jr5BfZEN_4kzsF80rDMm7W2wJmYxcYefqFPW-ktQnSeAsQACtGcSw6ItOlBhSg3vkSP4GOPu1K9GsL9Tu_ad7ufz6LF87HjrNXcXS9EvZSWC0NLaNaYIt7M8sjkkp8zc9rEn-_LVES-VY_9NN0zspZbJ70Fn1y3tppnNQ
-author:
-   - Dylan Meca
-keywords:
-   - Systemd
-   - WSL2
-   - Linux
-   - Windows
-   - Sistema
-   - Administración
-   - Servicios
-   - Inicialización
-   - Compatibilidad
-   - Oficial
-   - Actualización
-   - Recursos
-   - Terminal
-   - Comandos
-   - Integración
-   - Desarrollo
-   - Virtualización
-   - Performance
-   - Scripting
-   - Shell
-   - WSL
-   - Microsoft
-   - Ubuntu
-   - Debian
-   - Fedora
-   - Arch Linux
-   - Contenedores
-   - Docker
-   - Kubernetes
-   - Automatización
-   - Script
-   - CLI
-   - GUI
-   - Seguridad
-   - SSH
-   - Red
-   - Firewall
-   - Configuración
-   - Depuración
-   - Documentación
+categories: 
+    - Linux
+    - Windows
 ---
 
-![Ubuntu](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1440/https://lh6.googleusercontent.com/38nIp-WwreQQwfJoX27U6jr5BfZEN_4kzsF80rDMm7W2wJmYxcYefqFPW-ktQnSeAsQACtGcSw6ItOlBhSg3vkSP4GOPu1K9GsL9Tu_ad7ufz6LF87HjrNXcXS9EvZSWC0NLaNaYIt7M8sjkkp8zc9rEn-_LVES-VY_9NN0zspZbJ70Fn1y3tppnNQ)
 
 El subsistema de Windows para Linux (WSL) ahora puede ejecutar systemd dentro de sus distribuciones de WSL.
+
+![Ubuntu](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1440/https://lh6.googleusercontent.com/38nIp-WwreQQwfJoX27U6jr5BfZEN_4kzsF80rDMm7W2wJmYxcYefqFPW-ktQnSeAsQACtGcSw6ItOlBhSg3vkSP4GOPu1K9GsL9Tu_ad7ufz6LF87HjrNXcXS9EvZSWC0NLaNaYIt7M8sjkkp8zc9rEn-_LVES-VY_9NN0zspZbJ70Fn1y3tppnNQ)
 
 ## ¿Que es Systemd?
 

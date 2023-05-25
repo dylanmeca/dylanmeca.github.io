@@ -1,29 +1,14 @@
 ---
-layout: post
-permalink: /2023/03/18/ChatGPT-crea-una-ruta-para-ingresar-a-la-Universidad-y-ser-ingeniero.html
-description: En este artículo presentaremos una ruta de aprendizaje diseñada por ChatGPT para aquellos interesados en ingresar a la universidad y comenzar su carrera académica.
-categories: [Informatica, IA, Programacion, Roadmap, Universidad]
-img: /assets/img/universidad-libros.jpg
-author:
-   - Dylan Meca
-keywords:
-   - ChatGPT
-   - ruta de aprendizaje
-   - Universidad
-   - ingeniero
-   - estudios universitarios
-   - preparación universitaria
-   - ingreso a la universidad
-   - matemáticas
-   - física
-   - química
+categories: 
+  - Inteligencia Artificial
+  - Chatbot
 ---
-
-<img src="/assets/img/universidad-libros.jpg" width="400px" height="257px">
 
 En este artículo presentaremos una ruta de aprendizaje diseñada por ChatGPT para aquellos interesados en ingresar a la universidad y comenzar su carrera académica.
 
 Es importante tener en cuenta que esta ruta de aprendizaje se enfoca en los conocimientos y habilidades necesarios para ingresar a cualquier universidad, por lo que puede adaptarse a diferentes programas de estudio. A continuacion, se mostrara la ruta de aprendizaje, y tambien otras rutas de aprendizaje para ser experto en matematica, ya que es importante para ingresar a la Universidad y ser Ingeniero. 
+
+<img src="/assets/img/universidad-libros.jpg" width="400px" height="257px">
 
 ## Nivel Preuniversitario:
 La siguiente ruta de aprendizaje, fue generado por ChatGPT, utilizando el siguiente prompt:
