@@ -4,8 +4,8 @@ main:
   #  url: https://dylanmeca.github.io/
   - title: "Sobre"
     url: https://dylanmeca.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Categorías"
+    url: https://dylanmeca.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
