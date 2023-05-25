@@ -2,7 +2,7 @@
 title: "Sobre"
 permalink: /politica-de-comentarios
 excerpt: "Politica de comentarios del Blog"
-toc: true
+author_profile: true
 ---
 
 # Índice
