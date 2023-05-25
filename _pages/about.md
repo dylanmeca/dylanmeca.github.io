@@ -5,8 +5,6 @@ excerpt: "Sobre el autor del blog"
 toc: true
 ---
 
-# Sobre Mi
-
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
 </div>
