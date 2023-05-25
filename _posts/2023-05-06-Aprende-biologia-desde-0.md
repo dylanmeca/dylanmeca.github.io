@@ -1,4 +1,7 @@
 ---
+header:
+  teaser: /assets/img/quimica/bioquimica-laboratorio.jfif
+  teaser_home_page: true
 categories:
   - Biologia
 ---
