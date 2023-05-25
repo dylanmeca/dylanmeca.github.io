@@ -1,6 +1,4 @@
 ---
-image: 
-   feature: /assets/img/quimica/bioquimica-laboratorio.jfif
 categories:
   - Biologia
 ---
