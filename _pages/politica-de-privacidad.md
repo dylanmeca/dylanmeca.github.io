@@ -2,7 +2,8 @@
 title: "Politica de privacidad"
 permalink: /politica-de-privacidad
 excerpt: "Politica de privacidad del Blog"
-author_profile: true
+layout: archive
+toc: true
 ---
 
 # Índice
