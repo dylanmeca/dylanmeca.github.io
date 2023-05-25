@@ -1,8 +1,9 @@
 ---
-title: "Sobre"
+title: "Politica de comentarios"
 permalink: /politica-de-comentarios
 excerpt: "Politica de comentarios del Blog"
-author_profile: true
+layout: archive
+toc: true
 ---
 
 # Índice
