@@ -6,7 +6,7 @@ main:
     url: https://dylanmeca.github.io/about/
   - title: "Categorías"
     url: https://dylanmeca.github.io/categories/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Etiquetas"
+    url: https://dylanmeca.github.io/tags/
   # - title: "Sitemap"
   #   url: /sitemap/
