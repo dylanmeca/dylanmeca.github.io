@@ -1,7 +1,10 @@
 ---
 categories: 
   - Inteligencia Artificial
+tags:
   - Chatbot
+  - ChatGPT
+  - Ruta de Aprendizaje
 ---
 
 En este artículo presentaremos una ruta de aprendizaje diseñada por ChatGPT para aquellos interesados en ingresar a la universidad y comenzar su carrera académica.
