@@ -1,6 +1,10 @@
 ---
 categories: 
    - Programación
+tags:
+   - C++
+   - Lenguajes seguros
+   - NSA
 ---
 
 **Bjarne Stroustrup, el creador del lenguaje C++**, publicó objeciones **del informe de la NSA donde se aconseja a las organizaciones** que consideren hacer un cambio estratégico de los lenguajes de programación que
