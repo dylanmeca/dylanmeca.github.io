@@ -1,6 +1,8 @@
 ---
 categories: 
    - Ciberseguridad
+tags:
+   - Phishing
 ---
 
 El phishing es un método para engañarte y hacer que compartas contraseñas, números de tarjeta de crédito, y otra información confidencial haciéndose pasar por una institución de confianza en un mensaje de correo electrónico o llamada telefónica.
