@@ -1,7 +1,11 @@
 ---
 categories: 
    - Inteligencia Artificial
-   - Chatbot 
+tags:
+    - Chatbot 
+    - ChatGPT
+    - DALLE
+    - Stable Diffusion
 ---
 
 ChatGPT y DALL-E 2 son dos nuevas inteligencias artificiales que pueden tener un impacto significativo en la industria y en el empleo en el futuro, pero también es importante considerar los posibles impactos en la sociedad y tomar medidas para garantizar su uso ético y responsable.
