@@ -1,6 +1,10 @@
 ---
 categories:
    - Ciencia de Datos
+tags:
+   - Microsoft
+   - NASA
+   - Cursos
 ---
 
 Microsoft y la NASA han unido esfuerzos y acaban de anunciar el lanzamiento conjunto de una serie de cursos online destinados a formar 
