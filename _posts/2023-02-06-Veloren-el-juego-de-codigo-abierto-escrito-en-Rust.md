@@ -1,6 +1,9 @@
 ---
 categories: 
    - Videojuegos
+tags:
+  - Codigo abierto
+  - Rust
 --- 
 
 Veloren es un juego de rol de vóxeles multijugador escrito en Rust. Está inspirado en juegos como Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress y Minecraft.
