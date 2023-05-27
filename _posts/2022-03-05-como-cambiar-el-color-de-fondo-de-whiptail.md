@@ -1,6 +1,8 @@
 ---
 categories: 
    - Linux
+tags:
+   - Ubuntu
 ---
 
 Muchas veces vemos que el fondo del dialogo de whiptail es de color morado, y es probable que alguna vez hemos querido cambiarlo de color. 
