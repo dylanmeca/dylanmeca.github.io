@@ -1,6 +1,10 @@
 ---
 categories: 
    - Programación
+tags:
+   - Rust
+   - Google
+   - Cursos
 --- 
 
 
