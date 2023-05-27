@@ -1,6 +1,10 @@
 ---
 categories: 
   - Cloud Computing
+tags:
+  - Cloud
+  - Google
+  - Universidad
 ---
 
 El cloud computing o la computación en la nube se ha convertido en una herramienta esencial para las empresas, y su adopción se ha acelerado en los últimos años. Según las previsiones de Boston Consulting Group, en 2025, el 40% de las cargas TI se habrán movido a la nube y el 85% de las empresas adoptarán políticas que incentivan el uso de soluciones en la nube. Además, se espera que el 95% de las nuevas cargas digitales se desplieguen en plataformas nativas de nube.
