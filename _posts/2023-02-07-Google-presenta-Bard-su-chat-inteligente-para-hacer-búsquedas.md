@@ -1,7 +1,10 @@
 ---
 categories:
-   - Chatbot
    - Inteligencia Artificial 
+tags:
+   - Chatbot
+   - Bard
+   - Google
 ---
 
 El éxito de ChatGPT, un robot conversacional desarrollado por OpenAI, está llevando a las grandes tecnológicas a competir en el mercado de inteligencia artificial generativa. Microsoft ha anunciado una inversión de 10,000 millones en OpenAI, mientras que Google ha presentado Bard, su propio chatbot inteligente. Bard está en fase de pruebas y se dice que es más potente y fiable que ChatGPT, y puede ofrecer respuestas actuales y de alta calidad.
