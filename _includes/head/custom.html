@@ -1,5 +1,9 @@
 <!-- start custom head snippets -->
 
+{% if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}">
+{% endif %}
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
