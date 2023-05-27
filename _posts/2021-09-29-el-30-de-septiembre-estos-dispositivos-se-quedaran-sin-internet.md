@@ -1,6 +1,8 @@
 ---
 categories:
    - Internet
+tags:
+   - Dispositivos
 ---
 
 Este jueves 30 de septiembre del 2021 ocurrira un apagon de internet que hara
