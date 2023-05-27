@@ -2,6 +2,9 @@
 categories: 
     - Linux
     - Windows
+tags:
+    - WSL2
+    - Systemd
 ---
 
 
