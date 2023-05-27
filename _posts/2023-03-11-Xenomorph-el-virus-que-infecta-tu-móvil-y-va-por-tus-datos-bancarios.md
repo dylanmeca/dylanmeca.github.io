@@ -1,6 +1,10 @@
 ---
 categories: 
    - Ciberseguridad 
+tags:
+   - Malware
+   - Movil
+   - Cracker
 ---
 
 La ciberseguridad es un tema cada vez más relevante en nuestra sociedad. El mundo digital en el que vivimos está repleto de amenazas que pueden poner en peligro nuestra privacidad, nuestras finanzas y, en general, nuestra vida en línea. Entre las diferentes formas de malware que existen, uno de los más peligrosos y sofisticados es el troyano bancario Xenomorph.
