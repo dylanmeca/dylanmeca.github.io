@@ -3,6 +3,8 @@ categories:
   - Biologia
 tags:
   - Bioquimica
+  - Biologia
+  - Documentación
 ---
 
 La biología es la ciencia que se encarga del estudio de los seres vivos y de los procesos relacionados con ellos. Es una disciplina amplia y diversa que abarca desde el nivel molecular y celular hasta el nivel de los ecosistemas y la biosfera.
