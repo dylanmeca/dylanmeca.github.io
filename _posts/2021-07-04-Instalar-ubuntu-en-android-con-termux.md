@@ -2,6 +2,8 @@
 categories:
    - Linux
    - Termux
+tags:
+   - Ubuntu
 ---
 
 En este articulo veremos como instalar ubuntu en android sin root, y usaremos la aplicación termux para su instalación.
