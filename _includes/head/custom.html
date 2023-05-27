@@ -1,6 +1,6 @@
 <!-- start custom head snippets -->
 
-{% if page.tags %}
+{% if page.tags and page.categories %}
   <meta name="keywords" content="{{ page.tags | concat: page.categories | join: ', ' | escape }}">
 {% endif %}
 
