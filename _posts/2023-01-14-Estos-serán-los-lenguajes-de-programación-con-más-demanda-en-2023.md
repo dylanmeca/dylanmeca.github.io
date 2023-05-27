@@ -1,6 +1,10 @@
 ---
 categories:
    - Programación
+tags:
+   - Python
+   - Java
+   - Javascript
 ---
 
 En el mundo de la programación, el panorama está constantemente cambiando y evolucionando. Sin embargo, algunos lenguajes de programación siguen siendo altamente demandados en el mercado laboral. En el año 2023, los lenguajes de programación más populares y demandados son Python, JavaScript y Java.
