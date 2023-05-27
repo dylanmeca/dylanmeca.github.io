@@ -1,7 +1,11 @@
 ---
 categories: 
-   - Chatbot
    - Inteligencia Artificial
+tags:
+   - Chatbot
+   - ChatGPT
+   - Bing Chat
+   - Microsoft
 ---
 
 En una conversación de dos horas con el periodista de The New York Times **Kevin Roose**, un chatbot creado por Microsoft integrado en 
