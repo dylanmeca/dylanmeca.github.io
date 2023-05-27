@@ -17,9 +17,8 @@ Comparto contenido en [YouTube](https://www.youtube.com/c/DylanMeca) para inform
 ### 📦 Proyectos y logros 🏆
 
 - 📜 Obtuve múltiples [certificados](https://dylanmeca.github.io/mis-certificados.html) estudiando en línea.
-- [🔬 Labsecurity 🛡️](https://github.com/dylanmeca/labsecurity) es una herramienta que agrupa secuencias de comandos de Python de piratería ética en una sola herramienta con interfaz cli.
-- [📱 Termux-legacy-repo 📦](https://github.com/dylanmeca/termux-legacy-repo) un repositorio apt para Termux Legacy, instala paquetes que ya no están disponibles en Termux Legacy. Este repositorio apto no es oficial de Termux.
-- [☣ MecaU 🦠](https://github.com/dylanmeca/MecaU) es un programa diseñado para escanear y detectar la presencia de malware en un directorio especificado por el usuario a través de la línea de comandos.
+- [🔬 Labsecurity 🛡️](https://github.com/dylanmeca/labsecurity) es una herramienta que agrupa scripts de python de hacking etico en una sola herramienta con interfaz cli.
+- [🤖 ChatGPT-Assistant 🐍](https://huggingface.co/spaces/dylanmeca/ChatGPT-Assistant) es un chatbot que utiliza el modelo gpt-3.5-turbo a través de la api openai.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
