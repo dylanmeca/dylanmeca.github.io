@@ -1,7 +1,11 @@
 ---
 categories: 
-   - Biotecnologia
    - Biologia
+tags:
+   - Biotecnologia
+   - Tecnologia
+   - Cerebro
+   - Ordenador
 ---
 
 El avance tecnológico siempre ha sido un tema de debate en cuanto a los límites éticos que se deben respetar. La creación de ordenadores biológicos basados en el cerebro humano es una muestra más de cómo la ciencia y la tecnología pueden avanzar juntas, pero al mismo tiempo, plantean problemas éticos sin precedentes.
