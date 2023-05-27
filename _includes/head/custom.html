@@ -1,7 +1,7 @@
 <!-- start custom head snippets -->
 
 {% if page.tags %}
-  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}">
+  <meta name="keywords" content="{{ page.tags | concat: page.categories | join: ', ' | escape }}">
 {% endif %}
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
