@@ -3,7 +3,6 @@ categories:
   - Biologia
 tags:
   - Bioquimica
-  - Biologia
   - Documentación
 ---
 
