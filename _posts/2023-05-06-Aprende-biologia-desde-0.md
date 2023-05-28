@@ -179,3 +179,15 @@ Quitina --> Polisácarido presente en los moluscoz, caparazon de crustaceos, ins
 ```
 
 **Recuerda:** Los polisácaridos de reserva constituyen la principal fuente de energia disponible para los seres vivos, mientras que las estructurales forman estructuras rigidas dandoles protección y estabilidad.  
+
+| | Monosacáridos | Disacáridos | Polisácaridos |
+| --- | --- | --- | --- |
+| Unidades | Uno | Dos | Más de nueve |
+| Formulas | Cn Hy On | Cn H2n On^-1 | (C6 H10 O5)n |
+| Ejemplo | Ribosa - Glucosa - Fructosa | Sacarosa - Maltosa - Lactosa | Almidon - Glucogeno - Celulosa - Quitina |
+
+¿Porque no todos los carbohidratos son dulces?
+
+Los carbohidratos son moléculas contenidas en diferentes alimentos que tienen diferentes sabores, siendo los mismos propios de cada alimento. La relación que existe entre ellos y el sabor dulce es que, estos al ser procesados por nuestro organismo, se degradan hasta convertirse en glucosa, la cual es dulce.
+
+Es importante mencionar que no todos los carbohidratos son iguales. Los 3 primeros Monosacáridos Disacáridos Polioles son los más dulces. Los demás son provenientes del almidón y fibras como las verduras, el arroz y el aguacate 
