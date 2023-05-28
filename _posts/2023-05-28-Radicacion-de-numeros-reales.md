@@ -21,7 +21,7 @@ Donde:
 
 $$ \sqrt[n]{+} = + $$
 
-$$ \sqrt[n]{-} = $\bar{\mathrm{Ǝ}} ; en \mathbb{R} $$
+$$ \sqrt[n]{-} = \bar{\mathrm{Ǝ}} ; en \mathbb{R} $$
 
 * Indice impar:
 
