@@ -6,7 +6,7 @@ tags:
    - Estadistica
 ---
 
-Es la ciencia que se encarga de recopilar y organizar los datos en tablas y graficos para que apartir de ellas se puedan realizar interpretaciones, hasta tomar decisiones. 
+Es la ciencia que se encarga de recopilar y organizar los datos en tablas y graficos para que apartir de ellas se puedan realizar interpretaciones, hasta tomar decisiones. Gottfried Achenwall fue un economista nacido en Prusia en 1719 y es considerado como el padre de la estadística. Fue el primero en usar la denominación “estadística” para llamar a esta disciplina. Sin embargo, algunos ingleses niegan esa afirmación.
 
 * **Estadistica descriptiva:** Nos enseña a recopilar la información a organizar esa información, a elaborar tablas estadisticas, graficos estadisticos a hacer interpretaciones y algo de analisis estadistico. 
 * **Estadistica inferencial:** Generalmente es un estudio de tipo muestral, trabaja con muestras. Se hacen estimaciones, pronosticos , se prueban hipotesis. Todos los resultados obtenidos se generaliza a la población.
