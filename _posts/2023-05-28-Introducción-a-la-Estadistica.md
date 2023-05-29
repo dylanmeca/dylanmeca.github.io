@@ -77,8 +77,11 @@ Ejemplo:
 $$ n = \sum fi = 12 +  14 + 16 + 8 = 50 $$
 
 $$ h1 = \frac{f1}{n} = \frac{12}{50} = 0,24 = 24% $$
+
 $$ h2 = \frac{f2}{n} = \frac{14}{50} = 0,28 = 28% $$
+
 $$ h3 = \frac{f3}{n} = \frac{16}{50} = 0,32 = 32% $$
+
 $$ h4 = \frac{f4}{n} = \frac{8}{50} = 0,16 = 16% $$ 
 
 La suma de todas las hi daria como resultado 1 y la suma de todos los porcentajes daria 100%.
@@ -118,6 +121,7 @@ La coma decimal corre 2 veces a la derecha.
 |       | n= 50 | 1 | |
 
 $$ h1 = \frac{8}{50} = 0,16 $$
+
 $$ h5 = \frac{11}{50} = 0,22 $$
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
