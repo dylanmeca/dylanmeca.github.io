@@ -7,6 +7,8 @@ tags:
   - Aritmetica
 ---
 
+La teoría de exponentes es un conjunto de definiciones y teoremas que estudian a los exponentes a través de las operaciones de potenciación y radicación. También se le conoce como Leyes de los exponentes y radicales. La potenciación presenta las siguientes partes: base, exponente y potencia. El exponente es el número que indica cuántas veces se debe multiplicar la base por sí misma. Por ejemplo, en la expresión 2^3, la base es 2 y el exponente es 3. La potencia es el resultado de la operación de potenciación.
+
 # Potenciación de numeros reales
 
 La potenciación es una operación matemática que se utiliza para expresar la multiplicación de un número por sí mismo varias veces. El número que se multiplica se llama base y el número de veces que se multiplica se llama exponente. Por ejemplo, 2 elevado a la 3 es igual a 2 x 2 x 2 = 8. La potenciación se puede representar con el símbolo “^”. Por lo tanto, 2 elevado a la 3 se puede escribir como 2^3.
