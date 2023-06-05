@@ -124,5 +124,62 @@ $$ h1 = \frac{8}{50} = 0,16 $$
 
 $$ h5 = \frac{11}{50} = 0,22 $$
 
+## Ej: Var. continua
+
+### Clase 
+Son los intervalos que se usan para agrupar cierto numero de elementos en la forma.
+
+$$ \left [ Li, Ls \right > = \left [ Li, Ls \right [ $$
+
+* **Li:** Es el limite inferior.
+* **Ls:** Es el limite superior.
+
+Ej:
+
+$$ \left [ 10 ; 30 \right > $$ Toma valores desde 20 a menor de 30. 
+
+### Rango
+Es la diferencia entre el valor maximo y minimo de un conjunto de datos.
+
+$$ R = Xmax - Xmin $$
+
+### Número de intervalos
+Regla de Sturges.
+
+$$ \texttt{#interv} = 1 + 3,322 * \log(n) $$
+
+* **n:** Tamaño de la muestra.
+
+```                       
+                          -> 7
+Si n=50 -> #Interv = 6,6 
+                          -> 6
+```
+
+En la mayoria de libros de estadistica recomiendan trabajar con una cantidad impar de intervalos, por lo tanto se puede tomar el 7.
+
+### Amplitud (A):
+Es el numero que te indica de cuanto en cuanto vamos a agrupar los datos.
+
+$$ A = \frac{R}{#intervalos} $$
+
+Ej:
+
+$$ [15 ; 25> $$
+
+$$ A = 25 - 15 = 10 $$ Cuando se conoce el intervalo haci se halla la amplitud.
+
+### Marca de clase ( $$ \bar{xi} $$ ):
+
+$$ \bar{xi} = \frac{Li + Ls}{2} $$
+
+Se conoce como marca de clase al punto medio de un intervalo.
+
+Ej:
+
+$$ [15 ; 25> $$
+
+$$ \bar{xi} = \frac{15 + 25}{2} = 20 $$
+
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
