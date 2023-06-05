@@ -23,6 +23,9 @@ La biología es la ciencia que se encarga del estudio de los seres vivos y de lo
 4. [Disacáridos y Polisácaridos](#disacáridos-y-polisácaridos)
   * [Disacáridos](#disacáridos)
   * [Polisácaridos](#polisácaridos)
+5. [Proteinas](#proteinas)
+  * [Aminoácidos](#aminoácidos)
+  * [Enlaces peptídicos](#enlaces-peptídicos)
 
 # Bioquímica
 
@@ -213,7 +216,7 @@ Presentan en su estructura un átomo de carbono en posicion central, unido a cua
 
 * Un grupo amino: **NH2**
 * Un grupo carboxilo: **COOH**
-* Un grupo R: $$ \textcircled{R} $$
+* Un grupo R: (R)
 * Un átomo de hidrogeno: **H**
 
 ## Veamos
