@@ -190,4 +190,44 @@ Quitina --> Polisácarido presente en los moluscoz, caparazon de crustaceos, ins
 
 Los carbohidratos son moléculas contenidas en diferentes alimentos que tienen diferentes sabores, siendo los mismos propios de cada alimento. La relación que existe entre ellos y el sabor dulce es que, estos al ser procesados por nuestro organismo, se degradan hasta convertirse en glucosa, la cual es dulce.
 
-Es importante mencionar que no todos los carbohidratos son iguales. Los 3 primeros Monosacáridos Disacáridos Polioles son los más dulces. Los demás son provenientes del almidón y fibras como las verduras, el arroz y el aguacate 
+Es importante mencionar que no todos los carbohidratos son iguales. Los 3 primeros Monosacáridos Disacáridos Polioles son los más dulces. Los demás son provenientes del almidón y fibras como las verduras, el arroz y el aguacate.
+
+# Proteinas
+Son las moléculas orgánicas más abundante en las celulas. Todas estan constituidas fundamentalmente por:
+
+* Carbono
+* Hidrogeno
+* Oxigeno
+* Nitrogeno
+
+* **CHON:** Aunque algunas tambien contienen **S** y potros Fe, Zn o Cu.
+
+* Las proteinas varian en formas y tamaños y funciones biologicas.
+
+Todas ellas son macromoleculas formados por la union de moleculas sencillas llamadas **aminoacidos**.
+
+## Aminoácidos
+Son moleculas organicas que constituyen la unidad básica de las proteinas.
+
+Presentan en su estructura un átomo de carbono en posicion central, unido a cuatro grupos de átomos:
+
+* Un grupo amino: **NH2**
+* Un grupo carboxilo: **COOH**
+* Un grupo R: $$ \textcircled{R} $$
+* Un átomo de hidrogeno: **H**
+
+## Veamos
+
+<img src="/assets/images/ciencia/biologia/grupo-aminoacidos.jpeg" width="302px" height="189px">
+
+* El grupo **R**, puede ser desde un simple hidrogeno, hasta una cadena carbonada compleja.
+* Por lo tanto tenemos que:
+
+<img src="/assets/images/ciencia/biologia/grupo-aminoacidos2.jpeg" width="302px" height="189px">
+
+## Enlaces peptídicos
+Es un enlace entre el grupo amino de un aminoacido y el grupo acido de otro aminoacido. Las proteinas estan formadas por la union de aminoacidos mediante enlaces peptídicos. El enlace peptídico implica la perdida de una molecula de agua. 
+
+
+
+
