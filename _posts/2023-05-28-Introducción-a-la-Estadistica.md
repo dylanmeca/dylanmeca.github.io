@@ -161,7 +161,7 @@ En la mayoria de libros de estadistica recomiendan trabajar con una cantidad imp
 ### Amplitud (A):
 Es el numero que te indica de cuanto en cuanto vamos a agrupar los datos.
 
-$$ A = \frac{R}{#intervalos} $$
+$$ A = \frac{R}{\texttt{#interv}} $$
 
 Ej:
 
