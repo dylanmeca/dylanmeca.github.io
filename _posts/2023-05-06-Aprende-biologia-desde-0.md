@@ -216,7 +216,7 @@ Presentan en su estructura un átomo de carbono en posicion central, unido a cua
 
 * Un grupo amino: **NH2**
 * Un grupo carboxilo: **COOH**
-* Un grupo R: (R)
+* Un grupo R: **(R)**
 * Un átomo de hidrogeno: **H**
 
 ## Veamos
