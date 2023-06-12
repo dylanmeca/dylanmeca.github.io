@@ -26,6 +26,11 @@ La biología es la ciencia que se encarga del estudio de los seres vivos y de lo
 5. [Proteinas](#proteinas)
   * [Aminoácidos](#aminoácidos)
   * [Enlaces peptídicos](#enlaces-peptídicos)
+  * [Funciones de las proteinas](#funciones-de-las-proteinas)
+  * [¿Que llamamos desnaturalización de proteinas? y ¿Que factores la producen?](#que-llamamos-desnaturalización-de-proteinas-y-que-factores-la-producen)
+6. [Ácidos nucleicos](#ácidos-nucleicos)
+  * [Componentes de los ácidos nucleicos](#componentes-de-los-ácidos-nucleicos)
+  * [Nucleotido](#nucleotido)
 
 # Bioquímica
 
