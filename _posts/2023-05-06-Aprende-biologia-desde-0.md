@@ -231,6 +231,70 @@ Presentan en su estructura un átomo de carbono en posicion central, unido a cua
 ## Enlaces peptídicos
 Es un enlace entre el grupo amino de un aminoacido y el grupo acido de otro aminoacido. Las proteinas estan formadas por la union de aminoacidos mediante enlaces peptídicos. El enlace peptídico implica la perdida de una molecula de agua. 
 
+## Veamos:
 
+<img src="/assets/images/ciencia/biologia/enlaces.jpeg" width="302px" height="189px">
 
+## Funciones de las proteinas
+Entre las más importantes tenemos:
 
+* Reguladora, como la **insulina**.
+* Estructural, como el **colageno**.
+* Transportadora, como la **hemoglobina**
+* Defensiva, como los **anticuerpos**.
+* Reserva, como la **ovoalbumina**.
+* Enzimatica, como la **amilasa salival**.
+
+## ¿Que llamamos desnaturalización de proteinas? y ¿Que factores la producen?
+La desnaturalización de las proteínas es la pérdida de la estructura tridimensional por distintos factores ambientales, como temperatura, pH o ciertos agentes químicos. La pérdida de la estructura da como resultado la pérdida de la función biológica asociada a esa proteína, ya sea enzimática, estructural, transportadora.
+
+Los factores que pueden causar la desnaturalización de las proteínas son diversos y algunos de ellos son:
+
+* Temperatura (calor excesivo)
+* Alteración de la concentración
+* Agitación intensa (física)
+* Polaridad del solvente
+* Fuerza iónica
+
+# Ácidos nucleicos
+Los acidos nucleicos son biomoleculas organicas constituidas por carbono, oxigeno, hidrogeno, nitrogeno y fosforo.
+
+Se encuentran formados dentro del nucleo. En los seres vivos se presentan 2 tipos de acidos nucleicos.
+
+* El ADN (ácido desoxirribonucleico)
+* El ARN (ácido ribonucleico)
+
+## Componentes de los ácidos nucleicos 
+Los acidos nucleicos son las macromoleculas más grandes presentes en las celulas y estan constituidas por 3 tipos de componentes: 
+
+## 1. Grupo de pentosas
+
+<img src="/assets/images/ciencia/biologia/grupo-de-pentosas.jpeg" width="302px" height="189px">
+
+## 2. Grupo fosfato
+
+```
+    OH
+    |
+ OH-P-OH
+    |
+    OH
+```
+
+## 3. Bases nitrogenadas
+Son de cinco tipos. Tres se encuentran presentes tanto en el ADN como en el ARN.
+
+1. Adenina (A)
+2. Guanina (G)
+3. Citocina (C) 
+4. Timina (T)
+5. Uracilo (U)
+
+* **Siempre se va a unir:**
+* Una (A) con una (T) en el ADN o un (U) en el ARN.
+* Una (G) con una (C)
+
+## Nucleotido:
+Es la unidad basica de los acidos nucleicos formados por un frio molecular.
+
+<img src="/assets/images/ciencia/biologia/nucleotido.jpeg" width="302px" height="189px">
