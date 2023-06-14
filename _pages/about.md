@@ -8,10 +8,10 @@ toc: true
 
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
-     <h3>🛡️ Python Developer 👨‍💻</h3>
+     <h3>🛡️ Programador 👨‍💻</h3>
 </div>
 
-Soy Dylan Meca, un python developer 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de marketing 🧑‍💼 y arduino 🛠️.
+Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de marketing 🧑‍💼 y arduino 🛠️.
 
 Comparto contenido en [YouTube](https://www.youtube.com/c/DylanMeca) para informar y educar a las personas sobre las últimas tendencias en la industria tecnológica 🏭 y para explicar conceptos complejos de manera clara y accesible. 📜
 
