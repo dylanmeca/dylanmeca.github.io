@@ -303,3 +303,15 @@ Son de cinco tipos. Tres se encuentran presentes tanto en el ADN como en el ARN.
 Es la unidad basica de los acidos nucleicos formados por un frio molecular.
 
 <img src="/assets/images/ciencia/biologia/nucleotido.jpeg" width="302px" height="189px">
+
+# La célula
+Las celulas son **estructuras complejas** que constituyen el minimo nivel de vida, es decir no hay estructuras más sencillas con vida.
+
+Pueden ser **muy pequeñas, como los micoplasmas** que son bacterias de menos de una micro, o gigantes con más de un metro, como las células nerviosas de algunos pulpos o calamares.
+
+## Estructuras de las células:
+Todos los tipos de células presentan en común las siguientes estructuras:
+
+* a) **La membrana plasmatica:** Envuelve a la celula y la aisla del medio externo, permitiendo el paso y salida de ciertas sustancias.
+* b) **El citoplasma:** Formado por un liquido viscoso y por las estructuras y las sustancias que permiten el metabolismo celular.
+* c) **El material genetico:** Que son el **ADN** y el **ARN**, en las cuales se encuentran codificadas la información que determinan las caracteristicas del organismo. 
