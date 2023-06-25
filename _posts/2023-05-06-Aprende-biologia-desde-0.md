@@ -317,3 +317,38 @@ Todos los tipos de células presentan en común las siguientes estructuras:
 * a) **La membrana plasmatica:** Envuelve a la celula y la aisla del medio externo, permitiendo el paso y salida de ciertas sustancias.
 * b) **El citoplasma:** Formado por un liquido viscoso y por las estructuras y las sustancias que permiten el metabolismo celular.
 * c) **El material genetico:** Que son el **ADN** y el **ARN**, en las cuales se encuentran codificadas la información que determinan las caracteristicas del organismo. 
+
+## Tipos de celulas:
+Podemos reconocer entre todos los seres vivos dos tipos de celulas: las procariotas y las eucariotas. Este criterio principal de reparación considera **la presencia de un nucleo o no**.
+
+## Celula procariota:
+* No poseen nucleo celular, el ADN esta disperso en el citoplasma.
+* No poseen organelos citoplasmaticos, solo los ribosomas que participan activamente en la sintecis de proteinas.
+* La mayoria presentan pared celular que se encuentran rodeando a la membrana celular.
+* Las celulas procariotas forman los reinos eubacterias y achaeas (bacterias y augueas).
+* Solo pueden formar organismos unicelulares.
+
+## Celula eucaritota:
+* Tienen diversos organelos y presenta nucleo.
+* El ADN se encuentra en el nucleo, esta cubierto por una doble membrana o una doble membrana que lo aisla del citoplasma.
+* Pueden organizar su material genetico en más de un cromosoma.
+* Las celulas eucariotas conforman los organismos que pertenecen a los reinos protista, fungi, plantae y animalia.
+
+## ¿En qué consisten los postulados de la teoría celular?
+La teoría celular es una teoría científica que postula que todos los organismos están compuestos de células, que la célula es la unidad básica de la vida y que todas las células provienen de otras células. Los postulados de la teoría celular son tres:
+
+1. Todos los seres vivos están formados por células.
+2. La célula es la unidad básica de la vida.
+3. Todas las células provienen de otras células.
+
+## ¿Por qué a los virus no se les considera auténticos seres vivos?
+Los virus no se consideran seres vivos porque no pueden reproducirse por sí mismos sin un huésped. Los virus son parásitos obligatorios ya que no realizan su función fuera de un huésped. Además, los virus no realizan funciones básicas de los seres vivos, tal como la reproducción. Los virus son muy pequeños y básicamente son solo paquetes de ácido nucleico y proteínas.
+
+## Funciones de las principales organulos citoplasmáticos
+Los orgánulos citoplasmáticos son estructuras de la célula que se encuentran en el citoplasma de las mismas, de manera más habitual en las células eucariotas. En las células procariotas, comúnmente llamadas bacterias, escasean los orgánulos. Cada orgánulo cumple una función vital para la célula. Algunos de los principales orgánulos citoplasmáticos y sus funciones son:
+
+* **Núcleo:** Es el orgánulo más importante de la célula eucariota. Contiene el material genético y es responsable de la regulación de la expresión génica.
+* **Mitocondrias:** Son los orgánulos encargados de la respiración celular y la producción de energía en forma de ATP.
+* **Retículo endoplásmico:** Es un sistema de membranas que se extiende por todo el citoplasma y se divide en dos tipos: el retículo endoplásmico rugoso y el retículo endoplásmico liso. El primero está cubierto por ribosomas y es responsable de la síntesis y transporte de proteínas. El segundo no tiene ribosomas y es responsable de la síntesis y transporte de lípidos.
+* **Aparato de Golgi:** Es un conjunto de sacos membranosos que se encargan del procesamiento, clasificación y distribución de proteínas y lípidos.
+* **Lisosomas:** Son orgánulos encargados de la digestión intracelular. Contienen enzimas hidrolíticas que son capaces de descomponer moléculas complejas en moléculas más simples.
