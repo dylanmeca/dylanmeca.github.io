@@ -33,6 +33,13 @@ La biología es la ciencia que se encarga del estudio de los seres vivos y de lo
   * [Nucleotido](#nucleotido)
 7. [La celula](#la-célula)
   * [Estructuras de las células](#estructuras-de-las-células)
+  * [Tipos de celulas](#tipos-de-celulas)
+  * [Celula procariota](#celula-procariota)
+  * [Celula eucariota](#celula-eucaritota)
+  * [¿En qué consisten los postulados de la teoría celular?](#en-qué-consisten-los-postulados-de-la-teoría-celular)
+  * [¿Por qué a los virus no se les considera auténticos seres vivos?](#por-qué-a-los-virus-no-se-les-considera-auténticos-seres-vivos)
+  * [Funciones de las principales organulos citoplasmáticos](#funciones-de-las-principales-organulos-citoplasmáticos)
+  
 
 # Bioquímica
 
