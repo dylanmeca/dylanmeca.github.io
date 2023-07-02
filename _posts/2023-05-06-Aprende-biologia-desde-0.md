@@ -39,7 +39,11 @@ La biología es la ciencia que se encarga del estudio de los seres vivos y de lo
   * [¿En qué consisten los postulados de la teoría celular?](#en-qué-consisten-los-postulados-de-la-teoría-celular)
   * [¿Por qué a los virus no se les considera auténticos seres vivos?](#por-qué-a-los-virus-no-se-les-considera-auténticos-seres-vivos)
   * [Funciones de las principales organulos citoplasmáticos](#funciones-de-las-principales-organulos-citoplasmáticos)
-  
+8. [Célula vegetal y célula animal](#célula-vegetal-y-célula-animal)
+  * [Estructuras exclusivas de las celulas vegetales](#estructuras-exclusivas-de-las-celulas-vegetales)
+  * [Seres con celulas animales](#seres-con-celulas-animales)
+  * [¿En que consiste la pared celular?](#en-que-consiste-la-pared-celular)
+  * [Diferencias entre celula animal y celula vegetal](#diferencias-entre-celula-animal-y-celula-vegetal)
 
 # Bioquímica
 
