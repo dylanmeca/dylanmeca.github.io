@@ -361,7 +361,15 @@ Los orgánulos citoplasmáticos son estructuras de la célula que se encuentran 
 * **Lisosomas:** Son orgánulos encargados de la digestión intracelular. Contienen enzimas hidrolíticas que son capaces de descomponer moléculas complejas en moléculas más simples.
 
 # Célula vegetal y célula animal
-
 Las células eucariotas pueden ser de dos tipos: **vegetales y animales**. Pese a tener tres partes bien diferenciales y comunes a ellas 
 (la membrana, el citoplasma y el núcleo), presenta diferencias: hay estructuras celulares exclusivas de las celulas animales y otros solo presenta en las vegetales.
+
+## Estructuras exclusivas de las celulas vegetales:
+Ademas de la pared celular, las celulas vegetales se caracterizan por la presencia de unos organelos llamados plastos y por la existencia de grandes bacudas.
+
+Los plastos son organelos exclusivos de las celulas vegetales, que pueden ser de distintos tipos y realizan varias funciones.
+
+Siendo los plastos más importantes **cloroplastos**: se trata de los organelos que realizan la fotosintesis. Poseen un pimento verde la **clorofila**, sustancia clave en la captación de energia de la luz solar. 
+
+
 
