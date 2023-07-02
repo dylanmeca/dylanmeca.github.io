@@ -371,5 +371,8 @@ Los plastos son organelos exclusivos de las celulas vegetales, que pueden ser de
 
 Siendo los plastos más importantes **cloroplastos**: se trata de los organelos que realizan la fotosintesis. Poseen un pimento verde la **clorofila**, sustancia clave en la captación de energia de la luz solar. 
 
+## Seres con celulas animales:
+Una celula animal no quiere decir que esté solo en los animales. Este tipo de celulas se encuentran tambien en los protozoarios y en los hongos, ademas en las metazoos.
 
+Sea cual sea el ser vivo al que pertenezcan, las celulas animales tienen una serie de caracteristicas que las diferencian de los vegetales. Por ejemplo, carecen de pared celular, cloroplastos y vacuolas, pero si presentan citroelos y vesiculas, que son exclusivas de las celulas animales.
 
