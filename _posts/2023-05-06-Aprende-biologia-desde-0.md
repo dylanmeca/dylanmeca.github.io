@@ -376,3 +376,14 @@ Una celula animal no quiere decir que esté solo en los animales. Este tipo de c
 
 Sea cual sea el ser vivo al que pertenezcan, las celulas animales tienen una serie de caracteristicas que las diferencian de los vegetales. Por ejemplo, carecen de pared celular, cloroplastos y vacuolas, pero si presentan citroelos y vesiculas, que son exclusivas de las celulas animales.
 
+## ¿En que consiste la pared celular?
+La pared celular es una capa resistente y rígida que se localiza en el exterior de la membrana plasmática en las células de plantas, hongos, algas, bacterias y arqueas. La pared celular se construye a partir de diversos materiales, dependiendo de la clase de organismo. En las plantas, la pared celular se compone, sobre todo, de un polímero de carbohidrato denominado celulosa, un polisacárido. La pared celular en la mayoría de los organismos cumple las siguientes funciones: Soporte estructural: la pared celular mantiene la célula confinada en el espacio que limita debido a su mayor rigidez. Mantenimiento de la presión celular interna: las células poseen dentro una alta concentración de solutos que les confiere una presión osmótica elevada. La pared celular evita que la célula explote al soportar esta presión. Protección y defensa: La pared celular es la primera línea de defensa que tienen las células vegetales (de algas y plantas) contra los patógenos y los factores ambientales adversos.
+
+## Diferencias entre celula animal y celula vegetal
+
+| Característica | Célula animal | Célula vegetal |
+| --- | --- | --- |
+| Pared celular | No tiene pared celular | Tiene pared celular |
+| Forma | Redonda o irregular | Rectangular |
+| Cloroplastos | No tiene cloroplastos | Tiene cloroplastos |
+| Vacuolas | Tiene vacuolas pequeñas | Tiene una vacuola grande |
