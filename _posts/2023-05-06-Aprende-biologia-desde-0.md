@@ -359,3 +359,9 @@ Los orgánulos citoplasmáticos son estructuras de la célula que se encuentran 
 * **Retículo endoplásmico:** Es un sistema de membranas que se extiende por todo el citoplasma y se divide en dos tipos: el retículo endoplásmico rugoso y el retículo endoplásmico liso. El primero está cubierto por ribosomas y es responsable de la síntesis y transporte de proteínas. El segundo no tiene ribosomas y es responsable de la síntesis y transporte de lípidos.
 * **Aparato de Golgi:** Es un conjunto de sacos membranosos que se encargan del procesamiento, clasificación y distribución de proteínas y lípidos.
 * **Lisosomas:** Son orgánulos encargados de la digestión intracelular. Contienen enzimas hidrolíticas que son capaces de descomponer moléculas complejas en moléculas más simples.
+
+# Célula vegetal y célula animal
+
+Las células eucariotas pueden ser de dos tipos: **vegetales y animales**. Pese a tener tres partes bien diferenciales y comunes a ellas 
+(la membrana, el citoplasma y el núcleo), presenta diferencias: hay estructuras celulares exclusivas de las celulas animales y otros solo presenta en las vegetales.
+
