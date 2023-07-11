@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
-     <h3>👨‍💻 Divulgador de Tecnología 🛠️</h3>
+     <h3>💻 C Developer 🛠️</h3>
 </div>
 
 Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de arduino 🛠️.
