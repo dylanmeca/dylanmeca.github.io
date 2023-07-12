@@ -21,12 +21,6 @@ Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 👨‍💻 Lenguajes y más 📚
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact&theme=tokyonight)
-
-![status](https://github-readme-stats.vercel.app/api?username=dylanmeca&show_icons=true&theme=tokyonight)
-
 ## Más Sobre Mi
 
 A continuación encontrarás enlaces que te llevarán a sitios webs donde hay más información sobre mí:
