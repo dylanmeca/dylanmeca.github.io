@@ -25,7 +25,7 @@ Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo
 A continuación encontrarás enlaces que te llevarán a sitios webs donde hay más información sobre mí:
 
 * [Certificados de estudio 📜](https://dylanmeca.github.io/mis-certificados.html)
-* [Proyectos y repositorios 👷](https://github.com/dylanmeca)
+* [Repositorios 👷](https://github.com/dylanmeca)
 * [Perfil de HackTheBox 👨‍💻](https://app.hackthebox.com/profile/1197337)
 
 ## Políticas
