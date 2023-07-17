@@ -11,7 +11,7 @@ toc: true
      <h3>🐍 Python Developer 👨‍💻</h3>
 </div>
 
-Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de arduino 🛠️ y python 📚.
+Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de python 🐍 y matemática 📚.
 
 ### 📦 Proyectos 🧑‍💼
 
