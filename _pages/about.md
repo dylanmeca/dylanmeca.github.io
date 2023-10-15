@@ -11,7 +11,7 @@ toc: true
      <h3>👨‍💻 Programador Autodidacta 📚</h3>
 </div>
 
-Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de python 🐍 y matemáticas 📚.
+Soy Dylan Meca, un programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de matemáticas 📚.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
