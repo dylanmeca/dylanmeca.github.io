@@ -20,7 +20,7 @@ title                    : "Dylan Meca"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dylan Meca"
-description              : "Soy Dylan Meca, un programador autodidacta con experiencia en el desarrollo de herramientas de automatización, especializado en temas de python y matemáticas."
+description              : "Soy Dylan Meca, un programador autodidacta con experiencia en el desarrollo de herramientas de automatización, especializado en temas de python y matemáticas"
 url                      : "https://dylanmeca.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dylanmeca/dylanmeca.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
