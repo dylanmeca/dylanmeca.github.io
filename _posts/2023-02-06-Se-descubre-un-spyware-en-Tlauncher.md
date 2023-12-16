@@ -14,8 +14,6 @@ La plataforma de TLauncher, que se presenta a sí misma como **“el mejor lanza
 instalación de versiones modificadas del videojuego, estaría infectando a los dispositivos de los usuarios con un virus spyware, 
 algo que se estaría produciendo por un periodo de varios años.
 
-![tlauncher-spyware](https://dylanmeca.github.io/assets/img/tlauncher-spyware.png)
-
 Este tipo de virus, **según la empresa de seguridad Avast**, puede permitir a los ciberdelincuentes acceso completo a la
 información privada de las personas que se registran dentro de los sitios web y las actividades que se realizan en el dispositivo. 
 En algunos casos es posible **que estos activen cámaras y micrófonos sin que el usuario lo sepa**.
