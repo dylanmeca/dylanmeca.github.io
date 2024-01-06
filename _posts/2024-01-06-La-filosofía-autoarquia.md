@@ -44,4 +44,14 @@ En las cualidades espiritualidades de esta filosofía encontramos las siguientes
 
 8. **Meta de Productividad**: En este caso debemos apartar la pereza de nuestras vidas, ya que al ser perezoso estamos contribuyendo a ser pobres, y a no enfocarnos en una meta o objetivo al cual podríamos lograr. **A su vez la procrastinación o el perder el tiempo en películas o videojuegos , también es un factor más para evitar progresar en este mundo.** Por tal motivo lo que debemos hacer es leer libros y evitar caer en la trampa de las redes sociales o el típico comentario de que no leo porque es mucho texto, pues si supieras los beneficios de la lectura no estarías quejándote de esa manera.
 
-En conclusión, debemos dominarnos a nosotros mismos, para evitar la pereza, tentaciones, malas acciones y entre otras cosas, a su vez así mejoramos como personas y transcendemos de vivir como animales a vivir según el espíritu, **ya que un animal se guía por su instinto y no se controla**, también es importante tener en cuenta luchar contra el pecado, principalmente los 7 pecados capitales y les recomiendo la siguiente conferencia. 
+En conclusión, debemos dominarnos a nosotros mismos, para evitar la pereza, tentaciones, malas acciones y entre otras cosas, a su vez así mejoramos como personas y transcendemos de vivir como animales a vivir según el espíritu, **ya que un animal se guía por su instinto y no se controla**, también es importante tener en cuenta luchar contra el pecado, principalmente los 7 pecados capitales.
+
+## Referencias:
+
+* **EL AMOR LO ES TODO (SAN AGUSTIN):** [https://www.templarioshoy.es/noticias/lamore-s-agostino/](https://www.templarioshoy.es/noticias/lamore-s-agostino/).
+  
+* **Los 53 Sutras de Sidharta Gautama Buda:** [https://www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf](https://www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf).
+
+* **De la Lujuria a TikTok: Un Descenso por el Infierno Moderno:** [https://youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k](https://youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k).
+
+* **¿Por qué meditar puede ser peligroso para tu salud?:** [https://www.bbc.com/mundo/noticias/2016/03/160322_mindfulness_meditacion_peligrosa_finde_dv](https://www.bbc.com/mundo/noticias/2016/03/160322_mindfulness_meditacion_peligrosa_finde_dv).
