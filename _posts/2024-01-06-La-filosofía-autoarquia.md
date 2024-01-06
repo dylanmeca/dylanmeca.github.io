@@ -44,14 +44,34 @@ En las cualidades espiritualidades de esta filosofía encontramos las siguientes
 
 8. **Meta de Productividad**: En este caso debemos apartar la pereza de nuestras vidas, ya que al ser perezoso estamos contribuyendo a ser pobres, y a no enfocarnos en una meta o objetivo al cual podríamos lograr. **A su vez la procrastinación o el perder el tiempo en películas o videojuegos , también es un factor más para evitar progresar en este mundo.** Por tal motivo lo que debemos hacer es leer libros y evitar caer en la trampa de las redes sociales o el típico comentario de que no leo porque es mucho texto, pues si supieras los beneficios de la lectura no estarías quejándote de esa manera.
 
-En conclusión, debemos dominarnos a nosotros mismos, para evitar la pereza, tentaciones, malas acciones y entre otras cosas, a su vez así mejoramos como personas y transcendemos de vivir como animales a vivir según el espíritu, **ya que un animal se guía por su instinto y no se controla**, también es importante tener en cuenta luchar contra el pecado, principalmente los 7 pecados capitales.
+En conclusión, debemos dominarnos a nosotros mismos, para evitar la pereza, tentaciones, malas acciones y entre otras cosas, a su vez así mejoramos como personas y transcendemos de vivir como animales a vivir según el espíritu, **ya que un animal se guía por su instinto y no se controla**, también es importante tener en cuenta luchar contra el pecado, principalmente los 7 pecados capitales. 
+
+Para poner en práctica la filosofía de la autoarquia debemos poner en práctica la enseñanza de este artículo y a su vez hacer lo siguiente:
+
+* Realizar una meditación de al menos 10 o 15 minutos, donde respiramos lentamente y nos concentramos en el aire que va y viene, sin imaginar ni visualizar, ya que no nos vamos a centrar en los pensamientos, ya que **nuestro objetivo es dominarlos y no ser distraído**, para mantenernos concentrados, pero también debes saber que la meditación excesiva puede ser peligrosa ya que muchas investigaciones científicas nos advierten de ello: *"Muchas personas experimentan sentimientos de insensibilidad. Dicen: 'No puedo sentir nada. ¿Qué puedo hacer? ' ?'"*.
+
+* En la mañana, es necesario realizar ejercicio, ya que mejora la función cognitiva, la memoria, la eficiencia y la atención y también previene el deterioro cognitivo. Y a su vez evita que seamos obesos y suframos alguna enfermedad relacionada por falta de actividad fisica.
+
+* Al menos leer un libro por la mañana, ya que normalmente lo primero que hacemos cuando estamos aburridos o nos levantamos es ir al celular, es por eso que debemos tener el hábito de la lectura para mejorar no solo nuestra concentración, sino también evitar la adicción al celular. 
+
+* Practicar el ayuno de dopamina para evitar las distracciones y dominar la mente, ya que asi evitamos no usar ningún tipo de dispositivo electrónico, no consumir ningún tipo de comida y entre otras actividades.
+
+* Al momento de finalizar el día, es necesario que un cuaderno anotemos las cosas positivas que hicimos durante el dia y las cosas negativas, asu vez reflexionar ¿Como podriamos mejorar como personas? o ¿Como debo cambiar esa situación para mejor?, teniendo en cuenta la ayuda de la sabiduria que encuentres en libros como por ejemplo El Combate espiritual, los 53 sutras de buda, la Biblia, las Meditaciones de Marco Aurelio o entre otros libros donde encuentres enseñansas para mejorar como persona, tener disciplina o sobre desarrollo personal, como por ejemplo el Estoicismo. 
 
 ## Referencias:
 
-* **EL AMOR LO ES TODO (SAN AGUSTIN):** [https://www.templarioshoy.es/noticias/lamore-s-agostino/](https://www.templarioshoy.es/noticias/lamore-s-agostino/).
+* **EL AMOR LO ES TODO (SAN AGUSTIN):** [www.templarioshoy.es/noticias/lamore-s-agostino/](https://www.templarioshoy.es/noticias/lamore-s-agostino/).
   
-* **Los 53 Sutras de Sidharta Gautama Buda:** [https://www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf](https://www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf).
+* **Los 53 Sutras de Sidharta Gautama Buda:** [www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf](https://www.budismolibre.org/docs/sutras/Los_53_Sutras_del_Buda.pdf).
 
-* **De la Lujuria a TikTok: Un Descenso por el Infierno Moderno:** [https://youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k](https://youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k).
+* **De la Lujuria a TikTok: Un Descenso por el Infierno Moderno:** [youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k](https://youtu.be/qbEoaleZi3E?si=wI_buyEKObbxwr1k).
 
-* **¿Por qué meditar puede ser peligroso para tu salud?:** [https://www.bbc.com/mundo/noticias/2016/03/160322_mindfulness_meditacion_peligrosa_finde_dv](https://www.bbc.com/mundo/noticias/2016/03/160322_mindfulness_meditacion_peligrosa_finde_dv).
+* **¿Por qué meditar puede ser peligroso para tu salud?:** [BBC Noticias](https://www.bbc.com/mundo/noticias/2016/03/160322_mindfulness_meditacion_peligrosa_finde_dv).
+
+* **El lado oscuro del 'mindfulness': por qué a veces puede ser perjudicial para la salud:** [El Confidencial](https://www.elconfidencial.com/alma-corazon-vida/2021-02-11/salud-mindfulness-vida-sana-mente-meditar_2941059/)
+
+* **Día Mundial del Libro: 8 beneficios de la lectura:** [www.clinicauandes.cl/noticia/beneficios-de-la-lectura](https://www.clinicauandes.cl/noticia/beneficios-de-la-lectura)
+
+* **¿Qué efectos tiene en el cerebro realizar actividad física?:** [Clínic Barcelona](https://www.clinicbarcelona.org/noticias/que-efectos-tiene-en-el-cerebro-realizar-actividad-fisica#:~:text=La%20actividad%20f%C3%ADsica%20mejora%20la,la%20ansiedad%20y%20la%20depresi%C3%B3n.)
+
+* **Cuáles son los beneficios del "ayuno de dopamina" y qué pasa en tu cerebro cuando te abstienes del exceso de placer:** [BBC Noticias](https://www.bbc.com/mundo/noticias-62640877#:~:text=%22El%20ayuno%20de%20dopamina%20significa,liberar%20dopamina%20en%20el%20cerebro%22.)
