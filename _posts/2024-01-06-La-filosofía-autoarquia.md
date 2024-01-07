@@ -6,6 +6,9 @@ tags:
    - Filosofía
 ---
 
+![monje-autoarca](/assets/img/monje-autoarca.jpg)
+> Imagen creada con Bing Designer, con tecnología DALL-E 3.
+
 La espiritualidad es una palabra que deriva del griego y que está compuesta por la voz spiritus que significa 'respiro', -alis, 
 que se refiere a 'lo relativo a', y el sufijo -dad, que indica cualidad, por lo tanto, etimológicamente, **espiritualidad es todo 
 lo relativo a la cualidad de lo espiritual o espíritu**, y en ese sentido nos preguntaríamos **¿Cuál es la cualidad espiritual? y 
