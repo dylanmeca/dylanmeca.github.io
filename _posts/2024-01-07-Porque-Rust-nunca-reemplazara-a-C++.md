@@ -12,8 +12,10 @@ tags:
 La discusión en torno a la seguridad y la eficiencia en la programación de sistemas ha llevado a comparaciones entre diferentes lenguajes 
 de programación, siendo C++ y Rust dos opciones destacadas en este ámbito. Aunque Rust ha ganado popularidad por su enfoque en la 
 seguridad de la memoria y la ausencia de errores de acceso a memoria, surge la pregunta: ¿Puede Rust realmente reemplazar a C++ en todos 
-los casos? En este artículo, exploraremos las razones por las cuales la versatilidad única de C++ lo mantiene como una opción insustituible 
-en ciertos escenarios.
+los casos? En este artículo, exploraremos las razones por las cuales la versatilidad única de C++ lo mantiene como una opción insustituible en ciertos escenarios.
+
+![cpp-vs-rust](/assets/img/cpp-vs-rust.png)
+> Imagen generada con Bing Designer, con tecnología DALL-E 3 e editada. 
 
 **1. Experiencia y Legado de C++:** C++ ha sido un pilar en el desarrollo de sistemas durante más de tres décadas. Su legado y la vasta cantidad de código existente en este lenguaje son testamentos de su adopción generalizada. La comunidad, las bibliotecas y los proyectos de código abierto construidos en C++ forman una base sólida que ha resistido la prueba del tiempo. Rust, aunque prometedor, aún no ha alcanzado el mismo nivel de madurez y aceptación.
 
@@ -30,3 +32,11 @@ en ciertos escenarios.
 **7. Perspectiva a Largo Plazo:** C++ no se queda estático; el Comité de Estándares ISO C++ continúa trabajando en mejoras y extensiones. La evolución constante del estándar demuestra el compromiso de la comunidad con la adaptabilidad y la resolución de problemas emergentes. Esta perspectiva a largo plazo fortalece la posición de C++ como una tecnología confiable y en constante evolución.
 
 En conclusión, mientras Rust aporta avances significativos en seguridad de memoria, la versatilidad, la experiencia acumulada y la infraestructura existente hacen que C++ sea irremplazable en muchos contextos. 
+
+### Referencias:
+
+* **CSI_SOFTWARE_MEMORY_SAFETY:** [pdf](https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF)
+
+* **A call to action: Think seriously about “safety”; then do something sensible about it:** [pdf](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
+
+* **Punteros inteligentes (C++ moderno):** [Microsoft Learn](https://learn.microsoft.com/es-es/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
