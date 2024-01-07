@@ -14,7 +14,7 @@ filosofía que le puse de nombre **autoarquia**, que es la fusión de la palabra
 tanto, etimológicamente, **autoarquia es el dominio o gobierno de si mismo**. 
 
 ![monje-autoarca](/assets/img/monje-autoarca.jpg)
-> Imagen creada con Bing Designer, con tecnología DALL-E 3.
+> Imagen generada con Bing Designer, con tecnología DALL-E 3.
 
 Para empezar en la filosofía autoarquia, debemos entender que **la espiritualidad no es algo externo o esotérico**, porque las ideas 
 del mundo existieron después que nosotros, ya que vinimos a este mundo sin nada y nos iremos sin nada, por lo tanto, la 
