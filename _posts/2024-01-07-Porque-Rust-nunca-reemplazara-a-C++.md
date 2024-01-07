@@ -7,6 +7,7 @@ tags:
    - Lenguajes seguros
    - NSA
    - Rust
+   - Microsoft
 ---
 
 La discusión en torno a la seguridad y la eficiencia en la programación de sistemas ha llevado a comparaciones entre diferentes lenguajes 
