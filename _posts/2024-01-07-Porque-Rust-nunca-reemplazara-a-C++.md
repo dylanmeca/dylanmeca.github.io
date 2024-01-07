@@ -15,7 +15,7 @@ seguridad de la memoria y la ausencia de errores de acceso a memoria, surge la p
 los casos? En este artículo, exploraremos las razones por las cuales la versatilidad única de C++ lo mantiene como una opción insustituible en ciertos escenarios.
 
 ![cpp-vs-rust](/assets/img/cpp-vs-rust.png)
-> Imagen generada con Bing Designer, con tecnología DALL-E 3 e editada. 
+> Imagen generada con Bing Designer, con tecnología DALL-E 3 y editada. 
 
 **1. Experiencia y Legado de C++:** C++ ha sido un pilar en el desarrollo de sistemas durante más de tres décadas. Su legado y la vasta cantidad de código existente en este lenguaje son testamentos de su adopción generalizada. La comunidad, las bibliotecas y los proyectos de código abierto construidos en C++ forman una base sólida que ha resistido la prueba del tiempo. Rust, aunque prometedor, aún no ha alcanzado el mismo nivel de madurez y aceptación.
 
