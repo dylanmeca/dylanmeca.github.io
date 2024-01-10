@@ -19,7 +19,7 @@ tanto, etimológicamente, **autoarquia es el dominio o gobierno de si mismo**.
 Para empezar en la filosofía autoarquia, debemos entender que **la espiritualidad no es algo externo o esotérico**, porque las ideas 
 del mundo existieron después que nosotros, ya que vinimos a este mundo sin nada y nos iremos sin nada, por lo tanto, la 
 espiritualidad verdadera es algo interno y consiste en volver a ser puros, ya que si observamos el pasado para saber *¿Cual es la cualidad del espíritu?*, nos damos cuenta de que un niño que  
-no comprende como es el mundo, el seria puro e inocente, pero cuando va creciendo esa pureza se va 
+no comprende como es el mundo, el seria puro, pero cuando va creciendo esa pureza se va 
 perdiendo, ya que es el mundo el que nos corrompe, por lo que podemos concluir que **el ser humano es bueno por naturaleza pero 
 es el mundo o sociedad el que lo corrompe**, es ahí donde nos damos cuenta de que **el espíritu es bueno y es puro**, por lo tanto eso seria la cualidad del espíritu.
 
