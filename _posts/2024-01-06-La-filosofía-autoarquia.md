@@ -20,18 +20,18 @@ Para empezar en la filosofía autoarquia, debemos entender que **la espiritualid
 del mundo existieron después que nosotros, ya que vinimos a este mundo sin nada y nos iremos sin nada, por lo tanto, la 
 espiritualidad verdadera es algo interno y consiste en volver a ser puros, ya que si observamos el pasado para saber *¿Cual es la cualidad del espíritu?*, nos damos cuenta de que un niño que  
 no comprende como es la sociedad y no se mal influencia, el seria puro, pero cuando va creciendo esa pureza se va 
-perdiendo, ya que es la sociedad el que nos corrompe, por lo que podemos concluir que **el ser humano es bueno por naturaleza pero 
+perdiendo, ya que es la sociedad el que lo corrompe, por lo que podemos concluir que **el ser humano es bueno por naturaleza pero 
 es la sociedad el que lo corrompe**, es ahí donde nos damos cuenta de que **el espíritu es bueno y es puro**, por lo tanto eso seria la cualidad del espíritu.
 
 > **Decía Rousseau (1712-1778)** que el hombre es bueno por naturaleza y que la sociedad es la que lo corrompe.
 
-Antes de explorar las características espirituales de esta filosofía, es crucial reconocer que la vida se presenta como una escuela continua, donde cada experiencia y situación nos ofrece oportunidades de aprendizaje, es por eso que la espiritualidad verdadera no solo es llegar a ser puro y dominarse a si mismo, también es alcanzar la sabiduría, que es la meta final de nuestra vida y por lo tanto para llegar a ser sabios tenemos que conocer nuestro interior para reconocer nuestros errores y mejorar como personas, para así desarrollar la virtud, a la vez reconocer humildemente que no lo sabemos todo y que la verdad solo se puede hallar mediante la razón y no por el empirismo o el fideísmo, las cuales promueven lo irracional y la ignorancia. 
+Antes de explorar las características espirituales de esta filosofía, es crucial reconocer que la vida se presenta como una escuela continua, donde cada experiencia y situación nos ofrece oportunidades de aprendizaje, es por eso que la espiritualidad verdadera no solo es llegar a ser puro y dominarse a si mismo, también es alcanzar la sabiduría, que es la meta final de nuestra vida y por lo tanto para llegar a ser sabios tenemos que conocer nuestro interior, para reconocer nuestros errores y mejorar como personas, para así desarrollar la virtud, a la vez reconocer humildemente que no lo sabemos todo y que la verdad solo se puede hallar mediante la razón y no por el empirismo o el fideísmo, las cuales promueven lo irracional e ignorancia, porque no pueden demostrar con argumentos lógicos sus afirmaciones. 
 
-> **Lao Tse:** "El hombre sabio, al ponerse en el último lugar, es el primero".
+> **Decía Lao Tse:** "El hombre sabio, al ponerse en el último lugar, es el primero".
 
-> **Jhon Locke:** Nuestra ignorancia es infinitamente más grande que nuestro conocimiento".
+> **Decía Jhon Locke:** "Nuestra ignorancia es infinitamente más grande que nuestro conocimiento".
 
-> **Goethe:** "Cuando crece el conocimiento, también crece la duda. La duda es la confesión de la ignorancia; cuando crece una, también aumenta la otra".
+> **Decía Goethe:** "Cuando crece el conocimiento, también crece la duda. La duda es la confesión de la ignorancia; cuando crece una, también aumenta la otra".
 
 En el contexto de las cualidades espirituales de esta filosofía, se delinean siete metas fundamentales:
 
