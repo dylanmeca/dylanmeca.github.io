@@ -20,7 +20,7 @@ Soy Dylan Meca, programador autodidacta 💻 con experiencia en el desarrollo de
 A continuación encontrarás enlaces que te llevarán a sitios webs donde hay más información sobre mí:
 
 * [Certificados de estudio 📜](https://dylanmeca.github.io/mis-certificados.html)
-* [Repositorios 👷](https://github.com/dylanmeca)
+* [Repositorios 👷](https://github.com/dylanmeca?tab=repositories)
   
 ## Políticas
 
