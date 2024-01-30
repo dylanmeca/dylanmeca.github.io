@@ -26,7 +26,6 @@ toc: true
 
 ## Enlaces
 
-* [📜 Certificados de estudio](https://dylanmeca.github.io/mis-certificados.html)
 * [👷 Repositorios](https://github.com/dylanmeca?tab=repositories)
   
 ## Políticas
