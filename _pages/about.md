@@ -21,7 +21,6 @@ toc: true
   - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
   - 🌐 Para fortalecer mis conocimientos en redes, en el año 2021 aprendí Fundamentos de Redes, que finalizó el 14 de noviembre. [🏆Certificado](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
   - 📚 Actualmente, estoy aprendiendo [C++](https://isocpp.org/), con el propósito de aprender cómo crear librerías optimizadas para Python.
-  - 📧 Correo electrónico: dylanmeca70@gmail.com  
   
 ## Enlaces
 
