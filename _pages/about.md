@@ -8,12 +8,21 @@ toc: true
 
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
-     <h3>👨‍💻 Matemático 📘</h3>
+     <h3>👨‍💻 Programador 🔧</h3>
 </div>
 
-Soy Dylan Meca, programador autodidacta 💻 con experiencia en el desarrollo de herramientas de automatización 🤖, especializado en temas de matemáticas 📚.
+<div style="text-align: left;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight" alt="dylanmeca" style="max-width: 100%;">
+    </a>
+</div><br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  - 🐧 En 2019, conocí el terminal de Linux gracias a un emulador llamado [Termux](https://termux.dev/en/). Sin embargo, más tarde, alrededor de 2020, comencé a usar la distribución [Ubuntu](https://ubuntu.com/) a través de [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Debido a problemas de estabilidad e inconvenientes que surgieron, decidí cambiar a la distribución [Debian](https://www.debian.org/), que es mi favorita y todavía la uso hasta el día de hoy.
+  - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre.
+       [🏆Certificado](https://dylanmeca.github.io/assets/img/certificado-python.png)
+  - 🌐 Para fortalecer mis conocimientos de redes, en el año 2021 aprendí Fundamentos de Redes, que finalizó el 14 de noviembre.
+       [🏆Certificado](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg)
+  - 📚 Actualmente, estoy aprendiendo [C++](https://isocpp.org/), con el propósito de aprender a crear librerías optimizadas para Python.
 
 ## Más Sobre Mi
 
