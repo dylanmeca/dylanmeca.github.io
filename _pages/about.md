@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Sobre"
-excerpt: "Sobre el autor del blog"
+excerpt: "Sobre el autor Dylan Meca"
 layout: archive
 toc: true
 ---
@@ -17,13 +17,12 @@ toc: true
     </a>
 </div><br />
 
-  - 🐧 En 2019, conocí el terminal de Linux gracias a un emulador llamado [Termux](https://termux.dev/en/). Sin embargo, más tarde, alrededor de 2020, comencé a usar la distribución [Ubuntu](https://ubuntu.com/) a través de [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Debido a problemas de estabilidad e inconvenientes que surgieron, decidí cambiar a la distribución [Debian](https://www.debian.org/), que es mi favorita y todavía la uso hasta el día de hoy.
-  - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre.
-       [🏆Certificado](https://dylanmeca.github.io/assets/img/certificado-python.png)
-  - 🌐 Para fortalecer mis conocimientos de redes, en el año 2021 aprendí Fundamentos de Redes, que finalizó el 14 de noviembre.
-       [🏆Certificado](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg)
-  - 📚 Actualmente, estoy aprendiendo [C++](https://isocpp.org/), con el propósito de aprender a crear librerías optimizadas para Python.
-
+   - 🐧 En 2019, conocí el terminal de Linux gracias a un emulador llamado [Termux](https://termux.dev/en/). Sin embargo, más tarde, alrededor de 2020, comencé a usar la distribución [Ubuntu](https://ubuntu.com/) a través de [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Debido a problemas de estabilidad e inconvenientes que surgieron, decidí cambiar a la distribución [Debian](https://www.debian.org/), que es mi favorita y aún la uso hasta el día de hoy.
+  - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
+  - 🌐 Para fortalecer mis conocimientos en redes, en el año 2021 aprendí Fundamentos de Redes, que finalizó el 14 de noviembre. [🏆Certificado](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
+  - 📚 Actualmente, estoy aprendiendo [C++](https://isocpp.org/), con el propósito de aprender cómo crear librerías optimizadas para Python.
+  - 📧 Correo electrónico: dylanmeca70@gmail.com  
+  
 ## Enlaces
 
 * [👷 Repositorios](https://github.com/dylanmeca?tab=repositories)
