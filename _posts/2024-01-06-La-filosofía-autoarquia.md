@@ -1,6 +1,8 @@
 ---
 categories: 
    - Opinión
+tags:
+   - Filosofía
 ---
 
 La espiritualidad es una palabra que deriva del griego y está compuesta por la voz "spiritus", que significa 'respiro', "-alis," que se refiere a 'lo relativo a', y el sufijo "-dad," que indica cualidad. Por lo tanto, etimológicamente, **la espiritualidad es todo lo relativo a la cualidad de lo espiritual o espíritu**. En ese sentido, nos preguntaríamos, **¿Cuál es la cualidad espiritual? y ¿Cuál es la espiritualidad verdadera?** Por tal motivo, reflexionando, llegué a una conclusión que da lugar a una nueva filosofía a la que llamé "autoarquía", que es la fusión de la palabra "auto" (uno mismo) y "arquía" (dominio o gobierno). Por lo tanto, etimológicamente, **la autoarquía es el dominio o gobierno de sí mismo**.
