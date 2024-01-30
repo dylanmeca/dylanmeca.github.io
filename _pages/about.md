@@ -15,7 +15,7 @@ toc: true
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight" alt="dylanmeca" style="max-width: 100%;">
     </a>
-</div><br />
+</div>
 
    - 🐧 En 2019, conocí el terminal de Linux gracias a un emulador llamado [Termux](https://termux.dev/en/). Sin embargo, más tarde, alrededor de 2020, comencé a usar la distribución [Ubuntu](https://ubuntu.com/) a través de [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Debido a problemas de estabilidad e inconvenientes que surgieron, decidí cambiar a la distribución [Debian](https://www.debian.org/), que es mi favorita y aún la uso hasta el día de hoy.
   - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
