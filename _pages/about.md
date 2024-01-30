@@ -24,22 +24,18 @@ toc: true
        [🏆Certificado](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg)
   - 📚 Actualmente, estoy aprendiendo [C++](https://isocpp.org/), con el propósito de aprender a crear librerías optimizadas para Python.
 
-## Más Sobre Mi
+## Enlaces:
 
-A continuación encontrarás enlaces que te llevarán a sitios webs donde hay más información sobre mí:
-
-* [Certificados de estudio 📜](https://dylanmeca.github.io/mis-certificados.html)
-* [Repositorios 👷](https://github.com/dylanmeca?tab=repositories)
+* [📜 Certificados de estudio](https://dylanmeca.github.io/mis-certificados.html)
+* [👷 Repositorios](https://github.com/dylanmeca?tab=repositories)
   
-## Políticas
-
-A continuación encontrarás nuestras políticas, que te ayudarán a conocer cierta información sobre el sitio web:
+## Políticas:
 
 <ul>
     <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: 🔒 </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del sitio web.</p>
     <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios: ✍️ </a></li><p>esta política establece las reglas que debes seguir al comentar en el sitio web, incluyendo el uso apropiado del lenguaje y el respeto a los derechos de autor de otros.</p>
     <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies: 🍪 </a></li><p>esta política describe cómo utilizamos las cookies en el sitio web y cómo puedes controlar su uso.</p>
-    <li><a target="_blank" href="{{ 'politica-de-copyright' | relative_url }}">Política De Copyright: ©️ </a></li><p>esta política establece las reglas que debes seguir al utilizar el contenido del sitio web, incluyendo el respeto a los derechos de autor de Dylan Meca.</p>
+    <li><a target="_blank" href="{{ 'politica-de-copyright' | relative_url }}">Política De Copyright: ©️ </a></li><p>esta política establece las reglas que debes seguir al utilizar el contenido del sitio web, incluyendo el respeto a los derechos de autor.</p>
 </ul>
 
 Este blog tiene copyright (Derechos de autor).
