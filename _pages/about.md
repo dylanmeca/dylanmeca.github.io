@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
-     <h3>👨‍💻 Programador 🔧</h3>
+     <h3>👨‍💻 Programador y Matemático 🔧</h3>
 </div>
 
 <div style="text-align: left;">
