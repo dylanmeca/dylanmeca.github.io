@@ -21,7 +21,7 @@ toc: true
    - 🐧 En 2019, conocí el terminal de Linux gracias a un emulador llamado [Termux](https://termux.dev/en/). Sin embargo, más tarde, alrededor de 2020, comencé a usar la distribución [Ubuntu](https://ubuntu.com/) a través de [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Debido a problemas de estabilidad e inconvenientes que surgieron, decidí cambiar a la distribución [Debian](https://www.debian.org/), que es mi favorita y aún la uso hasta el día de hoy.
   - 🐍 En 2020, aprendí el lenguaje de programación [Python](https://www.python.org/) a través de un curso, que finalizó el 8 de diciembre. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
   - 🌐 Para fortalecer mis conocimientos en redes, en el año 2021 aprendí Fundamentos de Redes, que finalizó el 14 de noviembre. [🏆Certificado](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
-  - 📚 En la actualidad, me encuentro aprendiendo y profundizando en diversos temas relacionados con la ciencia de datos.
+  - 📚 Actualmente, estoy aprendiendo y profundizando mis conocimientos en varios temas relacionados con el análisis de datos. 
   
 ## Enlaces
 
