@@ -5,12 +5,14 @@ tags:
    - Filosofía
 ---
 
+> La filosofía autoarquía es racionalista; por lo tanto, su definición de espiritualidad es racional.
+
 La espiritualidad es una palabra que deriva del griego y está compuesta por la voz "spiritus", que significa 'respiro', "-alis," que se refiere a 'lo relativo a', y el sufijo "-dad," que indica cualidad. Por lo tanto, etimológicamente, **la espiritualidad es todo lo relativo a la cualidad de lo espiritual o espíritu**. En ese sentido, nos preguntaríamos, **¿Cuál es la cualidad espiritual? y ¿Cuál es la espiritualidad verdadera?** Por tal motivo, reflexionando, llegué a una conclusión que da lugar a una nueva filosofía a la que llamé "autoarquía", que es la fusión de la palabra "auto" (uno mismo) y "arquía" (dominio o gobierno). Por lo tanto, etimológicamente, **la autoarquía es el dominio o gobierno de sí mismo**.
 
 ![monje-autoarca](/assets/img/monje-autoarca.jpg)
 > Imagen generada con Bing Designer, con tecnología DALL-E 3.
 
-Para adentrarnos en la filosofía de la autoarquía, es fundamental comprender que la espiritualidad no es algo externo o esotérico, ya que las ideas del mundo existieron después de nuestro nacimiento, y llegamos a este mundo sin posesiones, nos iremos sin nada. Por lo tanto, **la espiritualidad verdadera es algo interno y consiste en recuperar la pureza**. Al observar el pasado para comprender **¿cuál es la cualidad del espíritu?**, nos damos cuenta de que un niño que no comprende cómo es la sociedad y no se ve mal influenciado sería puro. Sin embargo, al ir creciendo, esa pureza se va perdiendo, ya que es la sociedad la que lo corrompe. Podemos concluir que el ser humano es bueno por naturaleza, pero es la sociedad la que lo corrompe. Ahí es donde nos percatamos de que el espíritu es bueno y puro; por lo tanto, **esa sería la cualidad del espíritu**.
+Para adentrarnos en la filosofía autoarquía, es fundamental comprender que la espiritualidad no es algo externo o esotérico, ya que las ideas del mundo existieron después de nuestro nacimiento, y llegamos a este mundo sin posesiones, nos iremos sin nada. Por lo tanto, **la espiritualidad verdadera es algo interno y consiste en recuperar la pureza**. Al observar el pasado para comprender **¿cuál es la cualidad del espíritu?**, nos damos cuenta de que un niño que no comprende cómo es la sociedad y no se ve mal influenciado sería puro. Sin embargo, al ir creciendo, esa pureza se va perdiendo, ya que es la sociedad la que lo corrompe. Podemos concluir que el ser humano es bueno por naturaleza, pero es la sociedad la que lo corrompe. Ahí es donde nos percatamos de que el espíritu es bueno y puro; por lo tanto, **esa sería la cualidad del espíritu**.
 
 > **Citando a Rousseau (1712-1778):** "El hombre es bueno por naturaleza y que la sociedad es la que lo corrompe".
 
