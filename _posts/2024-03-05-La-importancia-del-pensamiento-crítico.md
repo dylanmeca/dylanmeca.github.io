@@ -9,6 +9,9 @@ tags:
 
 **El pensamiento crítico** es el proceso de dudar de las afirmaciones que en la vida cotidiana suelen aceptarse como verdaderas. Por lo tanto, surge la pregunta: ¿por qué es importante ponerlo en práctica? Para responder a esa pregunta, debemos notar que ciertas creencias que considerábamos verdaderas al final resultaron falsas. Un ejemplo es el caso de la noticia **"La guerra de los mundos: la invasión marciana lanzada por la radio que aterrorizó a América"**, donde muchas personas creyeron firmemente que iba a ocurrir una invasión marciana. La ficción de la invasión marciana fue recreada con trucos ingeniosos y efectos especiales de sonido tan bien logrados que la histeria colectiva continuó a pesar de las advertencias. Esto nos hace comprender que si una persona no utiliza **el pensamiento crítico** o no cuestiona si algo es verdad o falso, terminará en una situación similar.
 
+![pensador-crítico](/assets/img/pensador-crítico.jpg)
+> Imagen generada con Bing Designer, con tecnología DALL-E 3.
+
 En nuestra vida cotidiana, estamos saturados de información que nos ofrece perspectivas distintas sobre la realidad o incluso la tergiversa. Un ejemplo serían las **fake news**, donde se crea desinformación. Sin embargo, **la lectura crítica**, que nos permite poner en práctica **el pensamiento crítico**, nos ayuda a contrastar diferentes fuentes de información para validar su veracidad. Además, debemos evaluar, entre otros aspectos, la validez y relevancia de un texto, descubrir interacciones comunicativas, rastrear la ideología y construir una postura.
 
 > **Citando a René Descartes:** “Para investigar la verdad es preciso dudar, en cuanto sea posible, de todas las cosas”.
