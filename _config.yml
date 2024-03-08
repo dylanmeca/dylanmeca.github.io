@@ -128,7 +128,7 @@ author:
       url: "https://github.com/dylanmeca"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dylanmeca/"
+      # url: "https://www.instagram.com/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/c/DylanMeca"
