@@ -37,4 +37,6 @@ Después de cambiar la combinación de colores de Campbell, verifica que esa sea
 
 ![pwsh-terminal](/assets/img/entorno-wsl2/pwsh-terminal.jpeg)
 
+> **El color de la terminal es:** ***#00061A***
+
 ## Configurar Neovim e instalar NvChad
