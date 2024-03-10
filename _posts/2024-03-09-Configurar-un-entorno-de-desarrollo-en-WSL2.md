@@ -35,4 +35,6 @@ Luego, debes ir al archivo **settings.json** de Windows Terminal, al cual puedes
 
 Después de cambiar la combinación de colores de Campbell, verifica que esa sea la combinación que estás utilizando. Si es así, entonces obtendrías el siguiente resultado en Windows Terminal:
 
+![pwsh-terminal](/assets/img/entorno-wsl2/pwsh-terminal.jpeg)
+
 ## Configurar Neovim e instalar NvChad
