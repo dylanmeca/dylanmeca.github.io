@@ -32,3 +32,7 @@ Luego, debes ir al archivo **settings.json** de Windows Terminal, al cual puedes
             "yellow": "#C19C00"
         },
 ```
+
+Después de cambiar la combinación de colores de Campbell, verifica que esa sea la combinación que estás utilizando. Si es así, entonces obtendrías el siguiente resultado en Windows Terminal:
+
+## Configurar el archivo .bashrc
