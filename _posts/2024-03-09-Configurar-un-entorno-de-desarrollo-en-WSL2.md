@@ -7,7 +7,7 @@ Una vez instalado WSL2, es necesario instalar la fuente **[FiraCode Nerd Font](h
 
 Luego, debes ir al archivo **settings.json** de Windows Terminal, al cual puedes acceder desde la opción que se encuentra en la configuración. Una vez que abras ese archivo, debes modificar la combinación de colores de Campbell por los siguientes colores:
 
-```
+```yml
         {
             "background": "#00061A",
             "black": "#171421",
