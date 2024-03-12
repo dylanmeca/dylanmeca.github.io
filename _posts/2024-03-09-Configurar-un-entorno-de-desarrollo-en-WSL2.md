@@ -128,7 +128,7 @@ Al terminar la configuración tendremos nuestro editor de código de la siguient
 ## Personalizar Debian GNU/Linux
 Para personalizar Debian GNU/Linux, debes tener en cuenta que al final de los cambios que realizaremos, el archivo ```.bashrc``` debería lucir de la siguiente manera:
 
-```bashrc
+```bash
 # Bash Prompt
 . ~/.git-prompt.sh
 export GIT_PS1_SHOWDIRTYSTATE=1
