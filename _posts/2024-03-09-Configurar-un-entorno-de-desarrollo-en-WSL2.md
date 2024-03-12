@@ -40,3 +40,17 @@ Después de cambiar la combinación de colores de Campbell, verifica que esa sea
 > **El color de la terminal es:** ***#00061A***
 
 ## Configurar Neovim e instalar NvChad
+Antes de comenzar a instalar Neovim, es necesario instalar lo siguiente:
+
+```bash
+sudo apt install build-essential git wget curl tar mesa-utils lua 
+```
+
+Una vez que hayas concluido la instalación de esos paquetes, ahora sería necesario instalar Rust con el siguiente comando:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+Al terminar la instalación, ahora es necesario que instalemos un administrador de versiones para Neovim, por lo que instalaremos bob con el siguiente comando: ```cargo install bob-nvim```. Luego, para instalar una versión de Neovim compatible con NvChad, ejecutaremos el siguiente comando: ```bob install 0.9.5```.
+
