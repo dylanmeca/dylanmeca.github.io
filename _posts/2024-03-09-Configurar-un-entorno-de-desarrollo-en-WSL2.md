@@ -54,3 +54,67 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 Al terminar la instalación, ahora es necesario que instalemos un administrador de versiones para Neovim, por lo que instalaremos bob con el siguiente comando: ```cargo install bob-nvim```. Luego, para instalar una versión de Neovim compatible con NvChad, ejecutaremos el siguiente comando: ```bob install 0.9.5```.
 
+Para concluir, necesitamos instalar NvChad a través del siguiente comando:
+
+```bash
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+```
+
+Al terminar la instalación de NvChad, debemos realizar algunas modificaciones en la configuracion de Neovim y para realizar eso debemos ir a la carpeta **"/home/username/.config/nvim/lua/core"**, donde en el archivo **"default_config.lua"**, añadimos el siguiente codigo:
+
+```lua
+-- Chadrc overrides this file
+
+local M = {}
+
+M.options = {
+  nvChad = {
+    update_url = "https://github.com/NvChad/NvChad",
+    update_branch = "main",
+  },
+}
+
+M.ui = {
+  -- hl = highlights
+  hl_add = {},
+  hl_override = {},
+  changed_themes = {},
+  theme_toggle = { "nightowl", "one_light" },
+  theme = "nightowl", -- default theme
+  transparency = false,
+}
+
+M.plugins = {}
+
+-- check core.mappings for table structure
+M.mappings = require "core.mappings"
+
+return M
+```
+
+Y en la carpeta **"/home/username/.config/nvim/lua/custom"**, en el archivo **"chadrc.lua"**, añadimos el siguiente codigo:
+
+```lua
+---@type ChadrcConfig
+local M = {}
+
+-- Path to overriding theme and highlights files
+local highlights = require "custom.highlights"
+
+M.ui = {
+  theme = "nightowl",
+  theme_toggle = { "nightowl", "one_light" },
+
+  hl_override = highlights.override,
+  hl_add = highlights.add,
+}
+
+M.plugins = "custom.plugins"
+
+-- check core.mappings for table structure
+M.mappings = require "custom.mappings"
+
+return M
+```
+
+Al terminar la configuración tendremos nuestro editor de código de la siguiente manera:
