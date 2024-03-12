@@ -123,5 +123,7 @@ Al terminar la configuración tendremos nuestro editor de código de la siguient
 
 ![nvim-custom.jpeg](/assets/img/entorno-wsl2/nvim-custom.jpeg)
 
+> El tema es **nightowl** pero este tema también está disponible para [*Visual Studio Code*](https://code.visualstudio.com/) con el nombre [**Night Owl**](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl).
+
 ## Personalizar Debian GNU/Linux
 
