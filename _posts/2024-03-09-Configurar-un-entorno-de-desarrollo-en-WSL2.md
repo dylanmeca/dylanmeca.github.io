@@ -120,3 +120,5 @@ return M
 ```
 
 Al terminar la configuración tendremos nuestro editor de código de la siguiente manera:
+
+![nvim-custom.jpeg](/assets/img/entorno-wsl2/nvim-custom.jpeg)
