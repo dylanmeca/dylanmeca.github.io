@@ -181,3 +181,5 @@ eval "$(oh-my-posh prompt init bash --config $HOME/.poshthemes/catppuccin_mocha.
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 ```
+
+
