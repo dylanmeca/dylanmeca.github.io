@@ -60,6 +60,8 @@ Para concluir, necesitamos instalar NvChad a través del siguiente comando:
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
 
+> Ejecute el comando :MasonInstallAll después de que lazy.nvim termine de descargar los plugins.
+
 Al terminar la instalación de NvChad, debemos realizar algunas modificaciones en la configuracion de Neovim y para realizar eso debemos ir a la carpeta **"/home/username/.config/nvim/lua/core"**, donde en el archivo **"default_config.lua"**, añadimos el siguiente codigo:
 
 ```lua
