@@ -126,4 +126,58 @@ Al terminar la configuración tendremos nuestro editor de código de la siguient
 > El tema es **nightowl** pero este tema también está disponible para [*Visual Studio Code*](https://code.visualstudio.com/) con el nombre [**Night Owl**](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl).
 
 ## Personalizar Debian GNU/Linux
+Para personalizar Debian GNU/Linux, debes tener en cuenta que al final de los cambios que realizaremos, el archivo ```.bashrc``` debería lucir de la siguiente manera:
 
+```bashrc
+# Bash Prompt
+. ~/.git-prompt.sh
+export GIT_PS1_SHOWDIRTYSTATE=1
+export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[33m\]$(__git_ps1 "(%s)")\[\033[00m\]\$\[\033[00m\] '
+
+# Local PATH
+export PATH="/home/dylanmeca/.local/bin:$PATH"
+
+# Drop Cache
+alias drop_cache="sudo sh -c \"echo 3 >'/proc/sys/vm/drop_caches' && swapoff -a && swapon -a && printf '\n%s\n' 'Ram-cache and Swap Cleared'\""
+
+# Clean
+alias clean="sudo apt clean && journalctl --disk-usage && sudo journalctl --vacuum-time=3d"
+
+# Cargo PATH
+. "$HOME/.cargo/env"
+
+# nvim PATH
+export PATH="$HOME/.local/share/bob/v0.8.3/nvim-linux64/bin:$PATH"
+
+# Manual aliases
+alias ll='lsd -lh --group-dirs=first'
+alias la='lsd -a --group-dirs=first'
+alias l='lsd --group-dirs=first'
+alias lla='lsd -lha --group-dirs=first'
+alias ls='lsd --group-dirs=first'
+alias cat='batcat'
+alias icat='icat -m 24bit'
+
+# Functions
+function rmk(){
+        scrub -p dod $1
+        shred -zun 10 -v $1
+}
+
+# Set 'man' colors
+function man() {
+    env \
+    LESS_TERMCAP_mb=$'\e[01;31m' \
+    LESS_TERMCAP_md=$'\e[01;31m' \
+    LESS_TERMCAP_me=$'\e[0m' \
+    LESS_TERMCAP_se=$'\e[0m' \
+    LESS_TERMCAP_so=$'\e[01;44;33m' \
+    LESS_TERMCAP_ue=$'\e[0m' \
+    LESS_TERMCAP_us=$'\e[01;32m' \
+    man "$@"
+}
+
+eval "$(oh-my-posh prompt init bash --config $HOME/.poshthemes/catppuccin_mocha.omp.json)"
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+```
