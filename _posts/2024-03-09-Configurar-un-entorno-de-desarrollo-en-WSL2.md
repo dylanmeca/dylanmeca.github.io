@@ -182,4 +182,14 @@ eval "$(oh-my-posh prompt init bash --config $HOME/.poshthemes/catppuccin_mocha.
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 ```
 
+Finalmente, lo que debemos hacer es instalar paso a paso para que funcione el archivo **.bashrc**, y lo que instalaremos será lo siguiente
 
+- [git-prompt](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh)
+- [lsd](https://github.com/lsd-rs/lsd)
+- [batcat](https://github.com/sharkdp/bat)
+- [icat](https://github.com/atextor/icat)
+- [Oh My Posh](https://ohmyposh.dev/)
+- **Tema para Oh My Posh:** [catppuccin_mocha.omp.json](https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_mocha.omp.json)
+- [fzf](https://github.com/junegunn/fzf)
+
+Una vez que hayamos terminado de instalar todos esos componentes, finalmente habremos concluido los pasos y tendremos nuestro entorno de desarrollo en WSL2 completamente listo.
