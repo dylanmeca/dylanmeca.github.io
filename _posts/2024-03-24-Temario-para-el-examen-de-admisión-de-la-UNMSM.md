@@ -47,3 +47,4 @@ Este horario contiene los 18 cursos que se incluyen en el examen de admisión de
 - Biología
 
 ## Temario 
+El siguiente temario para el examen de admisión de la UNMSM fue extraído del [PROSPECTO 2024-1](https://drive.google.com/file/d/1O4B9GwCSj_Nqj0mslzIuVAXhw3nTf8Ib/view?usp=drive_link):
