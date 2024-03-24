@@ -12,3 +12,26 @@ Es por ello que, en este caso, me centraré en proporcionar no solo un temario, 
 | 📖 R. Verbal   | 📏 Geometría  | 💱 Economía  | 🚅 Física  | 🥼 Psicología  | 🏙️ Educación Cívica  |
 
 > 👉 El horario se estructuró de manera coherente para facilitar la asimilación y progresión del aprendizaje. Cada día se centra en un conjunto de materias relacionadas entre sí para promover una comprensión más profunda y conexa de los conceptos.
+
+Este horario contiene los 18 cursos que se incluyen en el examen de admisión de la Universidad Nacional Mayor de San Marcos. El propósito es permitir que en 6 días se estudien los 18 cursos, con un ritmo de 3 cursos por día. Los 18 cursos son los siguientes:
+
+- Razonamiento Verbal
+- Razonamiento Matemático
+- Aritmética
+- Álgebra
+- Trigonometría
+- Geometría
+- Lenguaje
+- Literatura
+- Psicología
+- Educación Cívica
+- Historia del Perú
+- Historia Universal
+- Geografía
+- Economía
+- Filosofía
+- Física
+- Química
+- Biología
+
+## Temario 
