@@ -1,3 +1,14 @@
+---
+categories: 
+   - Universidad
+tags:
+   - UNMSM
+   - Temario
+   - Examen
+   - Admisión
+   - Temas
+   - Preuniversitario
+---
 
 Al momento de querer ingresar a la Universidad y para acceder, es necesario aprobar un examen de admisión. Surge la pregunta: ¿Qué debo estudiar para superar este examen? y ¿Cuáles serán los temas abordados? Por esta razón, algunas personas optan por asistir a una academia para prepararse, ya que desconocen el temario. Mientras tanto, aquellos que poseen el conocimiento de los temas a estudiar y los recursos necesarios podrían optar por el estudio autodidacta.
 
