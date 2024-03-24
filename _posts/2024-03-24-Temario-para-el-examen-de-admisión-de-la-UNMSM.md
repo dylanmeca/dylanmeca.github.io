@@ -1,6 +1,7 @@
 ---
 categories: 
    - Universidad
+   - Opinión
 tags:
    - UNMSM
    - Temario
