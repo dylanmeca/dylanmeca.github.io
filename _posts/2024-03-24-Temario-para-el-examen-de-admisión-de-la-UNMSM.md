@@ -49,6 +49,9 @@ Este horario contiene los 18 cursos que se incluyen en el examen de admisión de
 ## Temario 
 El siguiente temario para el examen de admisión de la UNMSM fue extraído del [PROSPECTO 2024-1](https://drive.google.com/file/d/1O4B9GwCSj_Nqj0mslzIuVAXhw3nTf8Ib/view?usp=drive_link):
 
+1. [Habilidad Verbal](#habilidad-verbal)
+2. [Habilidad Lógico-Matemática](#habilidad-lógico-matemática)
+
 ### Habilidad Verbal
 El examen de Habilidad Verbal consta de 3 textos con 5 preguntas cada uno, las mismas que
 presentan cinco alternativas: Una respuesta correcta y cuatro distractores. Este examen
