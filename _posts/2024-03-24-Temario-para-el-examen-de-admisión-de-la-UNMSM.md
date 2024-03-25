@@ -55,26 +55,26 @@ presentan cinco alternativas: Una respuesta correcta y cuatro distractores. Este
 toma en consideración los siguientes elementos:
 
 **Tipología textual:**
-• Textos con gráfico (infografías, cuadros estadísticos, fotografías, caricaturas, etc).
-• Textos dialécticos (expresan dos posiciones diferentes sobre un mismo problema).
-• Textos en inglés (nivel básico).
+- Textos con gráfico (infografías, cuadros estadísticos, fotografías, caricaturas, etc).
+- Textos dialécticos (expresan dos posiciones diferentes sobre un mismo problema).
+- Textos en inglés (nivel básico).
 
 **Tipología de preguntas para la evaluación de la comprensión lectora:**
-• Tema central e idea principal
-       * Cohesión.
-       * Coherencia.
-• Síntesis
-       * Seleccionar, generalizar y abstraer información.
-• Relaciones semántico-textuales
-       * Sinonimia contextual.
-       * Antonimia contextual.
-       * Denotación y connotación.
-• Compatibilidad e incompatibilidad
-       * Compatibilidad e incompatibilidad literal.
-       * Compatibilidad e incompatibilidad inferencial.
-• Inferencia
-       * Inferencia holística, de datos, léxica, causal, de intención y prospectiva.
-• Extrapolación
-       * Cognitiva y referencial.
+- **Tema central e idea principal**
+       - Cohesión.
+       - Coherencia.
+- **Síntesis**
+       - Seleccionar, generalizar y abstraer información.
+- **Relaciones semántico-textuales**
+       - Sinonimia contextual.
+       - Antonimia contextual.
+       - Denotación y connotación.
+- **Compatibilidad e incompatibilidad**
+       - Compatibilidad e incompatibilidad literal.
+       - Compatibilidad e incompatibilidad inferencial.
+- **Inferencia**
+       - Inferencia holística, de datos, léxica, causal, de intención y prospectiva.
+- **Extrapolación**
+       - Cognitiva y referencial.
 
 ### Habilidad Lógico-Matemática
