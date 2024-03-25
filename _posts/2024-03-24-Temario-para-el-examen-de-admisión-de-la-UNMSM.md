@@ -78,7 +78,7 @@ toma en consideración los siguientes elementos:
     - Cognitiva y referencial.
 
 ### Habilidad Lógico-Matemática
-1. Problemas de cantidad
+1. **Problemas de cantidad**
    1. Máximos y mínimos
    2. Pesadas y balanzas
    3. Arreglos numéricos
@@ -86,12 +86,12 @@ toma en consideración los siguientes elementos:
    5. Elementos recreativos: Dados, cerillos, dominó, etc.
    6. Calendarios
    7. Traslados
-2. Problemas de regularidad, equivalencia y cambio
+2. **Problemas de regularidad, equivalencia y cambio**
    1. Frecuencia de sucesos
    2. Inductivo numérico, inductivo verbal e inductivo geométrico
    3. Cronometría
    4. Interpretación de la información: Simbolización y ecuaciones
-3. Problemas de forma, movimiento y localización
+3. **Problemas de forma, movimiento y localización**
    1. Rotación y traslación de figuras
    2. Rutas, trayectorias y puntos cardinales
    3. Trazo de figuras
@@ -101,7 +101,7 @@ toma en consideración los siguientes elementos:
    7. Perímetros y áreas de regiones poligonales y circulares
    8. Ruedas, poleas y engranajes
    9. Congruencia y semejanza de figuras
-4. Problemas de gestión de datos e incertidumbre - inferencia lógica
+4. **Problemas de gestión de datos e incertidumbre - inferencia lógica**
    1. Tablas y gráficos estadísticos
    2. Situaciones deportivas
    3. Suficiencia de datos
