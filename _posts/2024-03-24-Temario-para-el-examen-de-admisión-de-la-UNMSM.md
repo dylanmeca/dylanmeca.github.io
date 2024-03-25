@@ -61,20 +61,20 @@ toma en consideración los siguientes elementos:
 
 **Tipología de preguntas para la evaluación de la comprensión lectora:**
 - **Tema central e idea principal**
-       - Cohesión.
-       - Coherencia.
+    - Cohesión.
+    - Coherencia.
 - **Síntesis**
-       - Seleccionar, generalizar y abstraer información.
+    - Seleccionar, generalizar y abstraer información.
 - **Relaciones semántico-textuales**
-       - Sinonimia contextual.
-       - Antonimia contextual.
-       - Denotación y connotación.
+    - Sinonimia contextual.
+    - Antonimia contextual.
+    - Denotación y connotación.
 - **Compatibilidad e incompatibilidad**
-       - Compatibilidad e incompatibilidad literal.
-       - Compatibilidad e incompatibilidad inferencial.
+    - Compatibilidad e incompatibilidad literal.
+    - Compatibilidad e incompatibilidad inferencial.
 - **Inferencia**
-       - Inferencia holística, de datos, léxica, causal, de intención y prospectiva.
+    - Inferencia holística, de datos, léxica, causal, de intención y prospectiva.
 - **Extrapolación**
-       - Cognitiva y referencial.
+    - Cognitiva y referencial.
 
 ### Habilidad Lógico-Matemática
