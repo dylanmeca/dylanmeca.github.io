@@ -27,6 +27,8 @@ Es por ello que, en este caso, me centraré en proporcionar no solo un temario, 
 
 Este horario contiene los 18 cursos que se incluyen en el examen de admisión de la Universidad Nacional Mayor de San Marcos. El propósito es permitir que en 6 días se estudien los 18 cursos, con un ritmo de 3 cursos por día. 
 
+![san-marcos](/assets/img/san-marcos.jpg)
+
 # Temario 
 El siguiente temario para el examen de admisión de la UNMSM fue extraído del [PROSPECTO 2024-1](https://drive.google.com/file/d/1O4B9GwCSj_Nqj0mslzIuVAXhw3nTf8Ib/view?usp=drive_link):
 
