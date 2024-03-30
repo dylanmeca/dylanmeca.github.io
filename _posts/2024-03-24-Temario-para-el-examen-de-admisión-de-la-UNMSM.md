@@ -364,4 +364,128 @@ toma en consideración los siguientes elementos:
    - Dimensiones del desarrollo humano (físico, cognitivo y psicosocial)
    - Etapas del ciclo vital humano (prenatal, infancia, adolescencia, adultez)
    - Identidad personal: Cultural y sexual. Imagen corporal. Autoconocimiento, autoconcepto y autoestima
-   - Amistad y enamoramiento. Comportamiento sexual
+   - Amistad y enamoramiento. Comportamiento sexual y sexualidad responsable. Salud sexual y reproductiva
+   - Estilo de vida saludable. Conductas de riesgo: Definición, consecuencias y prevención
+   - Proyecto de vida: Orientación vocacional y uso del tiempo
+5. Afectividad humana y motivación
+   - Afectividad: Conceptos importantes: Afecto, sentimiento, emoción, pasión y estado de ánimo. Inteligencia emocional y manejo de emociones
+   - Motivación: Definición. Tipos de motivación y necesidades psicológicas
+
+## Educación Cívica
+
+1. Derechos humanos
+   - Comprensión del concepto y las características de los Derechos Humanos
+   - Reconocimiento del derecho Internacional acerca de los Derechos Humanos
+   - Valoración de la Declaración Universal de los Derechos Humanos
+   - Comprensión de la Convención sobre los Derechos del niño
+   - Reconocimiento de los Organismos internacionales de protección de los derechos humanos: La Comisión y la Corte Interamericanas del Pacto de San José de Costa Rica o Convención Americana sobre Derechos Humanos
+   - Reflexión sobre los Derechos fundamentales de la persona en la Constitución Política del Perú y las Garantías constitucionales
+2. Participación ciudadana
+   - Identificación de los mecanismos de participación y control ciudadano: Iniciativa en la formación de leyes; iniciativa de reforma constitucional; referéndum, revocatoria, remoción, demanda de rendición de cuentas, presupuesto participativo, consulta previa
+   - Evaluación de la organización de la sociedad civil, sus instituciones civiles y movimientos sociales
+3. Problemas de convivencia en el Perú
+   - Convivencia democrática sustentada en una cultura de paz. Discriminación, delitos y corrupción
+   - Mecanismos democráticos de resolución de conflictos: Negociación, mediación, conciliación y arbitraje
+   - Violencia terrorista en el Perú. Pacificación, reconciliación y convivencia democrática
+4. Identidad e Interculturalidad
+   - Reconocimiento de la diversidad étnica y lingüística, y del patrimonio histórico y natural
+   - Comprensión del sentido de pertenencia, costumbres y tradiciones comunes
+   - Valoración de la identidad cultural y la interculturalidad
+5. Estructura y funciones del Estado
+   - Comprensión de las características del Estado de Derecho
+   - Definición de la estructura y deberes del Estado
+   - Comprensión de la organización, funciones y atribuciones del Poder Legislativo, Poder Ejecutivo y Poder Judicial
+   - Reconocimiento del Sistema de Seguridad y Defensa Nacional: Roles constitucionales de las Fuerzas Armadas y la Policía Nacional
+   - Comprensión de las funciones de los órganos constitucionales autónomos: Contraloría General de la República. Banco Central de Reserva. Junta Nacional de Justicia. Ministerio Público. Defensoría del Pueblo. Tribunal Constitucional
+   - Evaluación del Sistema Electoral: Elecciones y acto de sufragio. Jurado Nacional de Elecciones. Oficina Nacional de Procesos Electorales. Registro Nacional de Identificación y Estado Civil
+
+## Historia del Perú
+
+1. Poblamiento de América y el surgimiento de la cultura en los Andes
+   - Hipótesis sobre las rutas migratorias del poblamiento americano
+   - Periodos lítico y arcaico: Periodificación, características y yacimientos representativos
+2. Del Periodo formativo al Periodo de los Estados regionales
+   - Periodo formativo: Complejidad sociopolítica, económica y cultural
+   - Periodo de desarrollos regionales: Culturas Nazca, Moche y Recuay
+   - Estados panandinos: Culturas Tiahuanaco y Wari
+   - Estados regionales: Culturas Chimú, Chincha, Chachapoyas, Chanca y reinos aymaras
+3. El Tawantinsuyo
+   - Origen y expansión
+   - Organización política, social, económica y cultural
+   - Caída del Tawantinsuyo y resistencia a la conquista española
+4. El establecimiento del orden virreinal
+   - Consolidación del sistema colonial. Las reformas toledanas
+   - Virreinato del Perú. Instituciones políticas, organización social, economía y cultura
+5. De las Reformas borbónicas a las guerras de independencia
+   - Reformas borbónicas. Medidas políticas, económicas y culturales
+   - Rebeliones andinas: Juan Santos Atahualpa, Túpac Amaru II y Túpac Katari
+   - El Perú entre la crisis del Imperio español en 1808 y las cortes de Cádiz
+   - Rebeliones y conspiraciones a inicios del siglo XIX
+   - Guerras de Independencia y proyectos políticos de San Martín y Bolívar
+6. El siglo XIX en el Perú
+   - Primer militarismo y caudillismo. Política, sociedad y economía
+   - Boom del guano. Cambios sociales, económicos, políticos y culturales
+   - Guerra con Chile: Causas, desarrollo del conflicto y consecuencias
+   - Segundo militarismo y reconstrucción Nacional
+7. De la República Aristocrática al Reformismo moderado
+   - República Aristocrática. Aspectos políticos, sociales y económicos
+   - Régimen del Oncenio de Augusto B. Leguía
+   - Surgimiento de nuevas ideologías políticas: Aprismo y socialismo
+   - Regímenes democráticos y autocráticos: Del gobierno de Luis M. Sánchez Cerro al Ochenio de Odría
+   - Transición demográfica: Consecuencias económicas, sociales y culturales en la segunda mitad del siglo XX
+   - Reformismo moderado. Segundo gobierno de Manuel Prado y primer gobierno de Fernando Belaunde
+8. El Perú en las últimas décadas
+   - Gobierno Revolucionario de las Fuerzas Armadas. Juan Velasco Alvarado y Francisco Morales Bermúdez
+   - Restauración de la democracia y crisis económica: Desde el segundo gobierno de Fernando Belaunde hasta el 5 de abril de 1992
+   - El fujimorato
+   - El Perú en la primera década del siglo XXI. Política, sociedad y economía
+   - Comisión de la Verdad y la Reconciliación (CVR)
+
+## Historia Universal
+
+1. Aspectos teóricos y metodológicos de la historia
+   - La historia como ciencia: Definición, origen e importancia
+   - Fuentes para su estudio y su interpretación
+   - Periodización de la historia universal
+2. Proceso de hominización y orígenes de la civilización
+   - De los homínidos al Homo sapiens: Géneros, especies y avances culturales
+   - Prehistoria, periodización y características principales: Paleolítico, Mesolítico, Neolítico y Edad de los Metales
+   - Aspectos económicos, sociales, políticos y culturales de las primeras civilizaciones
+   - Mesopotamia, Egipto, India y China
+3. El mundo clásico. Grecia y Roma
+   - Etapas de su historia
+   - Organización política, social, económica y aportes culturales
+   - Desintegración del Imperio romano de Occidente
+4. La Edad Media en Occidente
+   - Reinos germánicos
+   - Los imperios carolingio y bizantino. Formación y desintegración. Organización política y aportes culturales
+   - Islam: Origen, organización política, social y económica, y aportes culturales
+   - Expansión medieval (siglos XI-XIII)
+   - Sociedad, religiosidad y cultura en la Baja Edad Media
+5. Modernidad
+   - Humanismo y Renacimiento
+   - Reforma religiosa y Contrarreforma en Europa
+   - Grandes descubrimientos geográficos e imperios coloniales (siglos XV-XVI)
+   - Las monarquías absolutistas en Europa: España y Francia
+6. Revoluciones burguesas
+   - Ilustración
+   - Independencia de los Estados Unidos y Revolución francesa: Causas, etapas y consecuencias
+   - Primera Revolución Industrial
+7. Siglo XIX
+   - Guerras napoleónicas y Restauración
+   - Nuevas corrientes de pensamiento: Liberalismo, nacionalismo y socialismo
+   - Revoluciones de 1830 y 1848
+   - Segunda Revolución Industrial
+   - Imperios coloniales del siglo XIX e inicios del siglo XX
+8. La primera mitad del siglo XX
+   - Europa a inicios del Siglo XX. La Paz Armada
+   - Primera Guerra Mundial
+   - Revoluciones rusa y mexicana
+   - Crisis del sistema capitalista de 1929 y ascenso de los movimientos fascistas
+   - Segunda Guerra Mundial
+9. De la Guerra Fría al mundo contemporáneo
+   - Guerra Fría: Causas, etapas y consecuencias
+   - Descolonización y Tercer Mundo
+   - Descomposición del bloque socialista y desintegración de la Unión Soviética
+   - Nuevo orden mundial y globalización
+   - Crisis económica del 2008
