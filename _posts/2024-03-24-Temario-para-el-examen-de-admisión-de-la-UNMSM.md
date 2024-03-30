@@ -123,31 +123,31 @@ toma en consideración los siguientes elementos:
 ## Matemática
 
 ### Aritmética
-1. Relaciones lógicas y conjuntos
+1. **Relaciones lógicas y conjuntos**
    - Lógica proposicional, tablas de verdad de proposiciones compuestas.
    - Noción de conjunto, determinación de conjunto, relaciones y operaciones entre conjuntos.
-2. Sistema de los números naturales (ℕ)
+2. **Sistema de los números naturales (ℕ)**
    - Operaciones elementales
    - Potenciación y radicación
    - Sistema de numeración decimal
-3. Sistema de números enteros (ℤ)
+3. **Sistema de números enteros (ℤ)**
    - Operaciones, relaciones de orden
    - Algoritmo de la división, divisibilidad
    - Números primos, teorema de factorización única, cantidad de divisores de un número
    - Máximo común divisor, Algoritmo de Euclides
    - Mínimo común múltiplo
-4. Sistema de los números racionales (ℚ)
+4. **Sistema de los números racionales (ℚ)**
    - Fracciones ordinarias: Clases
    - Operaciones, relaciones de orden
    - Representación decimal de una fracción
-5. Razones y proporciones aritméticas y geométricas
+5. **Razones y proporciones aritméticas y geométricas**
    - Series de razones geométricas iguales
    - Magnitudes directas e inversamente proporcionales. Reparto proporcional. Regla de tres simple y compuesta
    - Porcentajes
    - Sucesiones
    - Progresiones aritméticas y geométricas
    - Sumatorias. Aplicaciones: Reglas de interés, de descuento, de mezclas, de aleaciones
-6. Estadística y probabilidad
+6. **Estadística y probabilidad**
    - Medidas de tendencia central: Media aritmética, moda, mediana, media geométrica y media armónica
    - Medidas de localización o posición: Deciles, terciles, cuartiles, quintiles y percentiles
    - Medidas de dispersión: Varianza, desviación estándar
