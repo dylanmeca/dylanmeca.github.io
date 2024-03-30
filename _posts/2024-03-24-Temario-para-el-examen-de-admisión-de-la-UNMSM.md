@@ -200,65 +200,65 @@ toma en consideración los siguientes elementos:
 ### Álgebra
 
 14. Números Reales y Complejos
-   - Operaciones con números reales
-   - Intervalos
-   - Valor Absoluto
-   - Representación binomial de un número complejo
-   - Módulo y Conjugado. Propiedades
+    - Operaciones con números reales
+    - Intervalos
+    - Valor Absoluto
+    - Representación binomial de un número complejo
+    - Módulo y Conjugado. Propiedades
 15. Ecuaciones e inecuaciones
-   - Ecuaciones de primer y segundo grado con una variable
-   - Ecuaciones bicuadradas
-   - Inecuaciones de primer y segundo grado con una variable
+    - Ecuaciones de primer y segundo grado con una variable
+    - Ecuaciones bicuadradas
+    - Inecuaciones de primer y segundo grado con una variable
 16. Sistema de ecuaciones
-   - Sistema de ecuaciones lineales con dos y tres variables
-   - Métodos de Cramer y Gauss
-   - Sistemas de inecuaciones de primer grado con dos variables
-   - Introducción a la programación lineal
+    - Sistema de ecuaciones lineales con dos y tres variables
+    - Métodos de Cramer y Gauss
+    - Sistemas de inecuaciones de primer grado con dos variables
+    - Introducción a la programación lineal
 17. Expresiones algebraicas
-   - Operaciones
-   - Potenciación
-   - Radicación
-   - Polinomios con coeficientes en ℝ, ℚ o ℤ
-   - Grado de expresiones algebraicas
-   - Operaciones de adición y multiplicación de polinomios
-   - División de polinomios. Método clásico. Método de Ruffini y Horner para división de polinomios
-   - Teorema del Resto
-   - Teorema del factor
-   - Productos Notables. Binomio de Newton y cocientes notables
-   - Factorización
-   - Máximo Común Divisor y Mínimo Común Múltiplo de polinomios
-   - Teorema fundamental del álgebra
-   - Relación entre raíces y coeficientes de un polinomio
+    - Operaciones
+    - Potenciación
+    - Radicación
+    - Polinomios con coeficientes en ℝ, ℚ o ℤ
+    - Grado de expresiones algebraicas
+    - Operaciones de adición y multiplicación de polinomios
+    - División de polinomios. Método clásico. Método de Ruffini y Horner para división de polinomios
+    - Teorema del Resto
+    - Teorema del factor
+    - Productos Notables. Binomio de Newton y cocientes notables
+    - Factorización
+    - Máximo Común Divisor y Mínimo Común Múltiplo de polinomios
+    - Teorema fundamental del álgebra
+    - Relación entre raíces y coeficientes de un polinomio
 18. Funciones reales de variable real
-   - Dominio y rango
-   - Representación tabular y gráfica de una función
-   - Funciones Elementales: Lineal, cuadrática, raíz cuadrada y valor absoluto
-   - Funciones par e impar
-   - Funciones monótonas: Crecientes y decrecientes
-   - Funciones inyectivas y sobreyectivas
-   - Funciones inversas
-   - Función exponencial
-   - Función logarítmica
-   - Modelación del mundo real con funciones
+    - Dominio y rango
+    - Representación tabular y gráfica de una función
+    - Funciones Elementales: Lineal, cuadrática, raíz cuadrada y valor absoluto
+    - Funciones par e impar
+    - Funciones monótonas: Crecientes y decrecientes
+    - Funciones inyectivas y sobreyectivas
+    - Funciones inversas
+    - Función exponencial
+    - Función logarítmica
+    - Modelación del mundo real con funciones
 
 ### Trigonometría
 
 19. Sistema de medidas angulares
-   - Sexagesimal, centesimal y radial
-   - Longitud de arco, área de un sector circular
-   - Razones trigonométricas de ángulos agudos del triángulo rectángulo: De ángulos notables de 30°, 60°, 45°, 37°, y 53°, de ángulos complementarios. Resolución de triángulos rectángulos
+    - Sexagesimal, centesimal y radial
+    - Longitud de arco, área de un sector circular
+    - Razones trigonométricas de ángulos agudos del triángulo rectángulo: De ángulos notables de 30°, 60°, 45°, 37°, y 53°, de ángulos complementarios. Resolución de triángulos rectángulos
 20. Ángulo en posición normal
-   - Círculo trigonométrico, razones trigonométricas de un ángulo en posición normal. Reducción al primer cuadrante. Razones trigonométricas de ángulos negativos
+    - Círculo trigonométrico, razones trigonométricas de un ángulo en posición normal. Reducción al primer cuadrante. Razones trigonométricas de ángulos negativos
 21. Identidades trigonométricas
-   - Razones trigonométricas de suma y diferencias de ángulos
-   - Razones trigonométricas del ángulo doble y ángulo mitad
-   - Transformaciones de suma o diferencia a producto
+    - Razones trigonométricas de suma y diferencias de ángulos
+    - Razones trigonométricas del ángulo doble y ángulo mitad
+    - Transformaciones de suma o diferencia a producto
 22. Ecuaciones trigonométricas
-   - Ecuaciones trigonométricas elementales y no elementales
+    - Ecuaciones trigonométricas elementales y no elementales
 23. Resolución de triángulos oblicuángulos
-   - Leyes de senos, cosenos y tangentes
-   - Ángulos de elevación y de depresión
+    - Leyes de senos, cosenos y tangentes
+    - Ángulos de elevación y de depresión
 24. Funciones trigonométricas
-   - Las Funciones trigonométricas, Dominio, rango y gráfica
-   - Funciones trigonométricas inversas
-   - Aplicaciones de las funciones trigonométricas
+    - Las Funciones trigonométricas, Dominio, rango y gráfica
+    - Funciones trigonométricas inversas
+    - Aplicaciones de las funciones trigonométricas
