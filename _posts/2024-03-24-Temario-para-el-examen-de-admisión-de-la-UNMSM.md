@@ -1,4 +1,4 @@
-![image](https://github.com/dylanmeca/dylanmeca.github.io/assets/55631040/ac5aa9c2-90bb-4f7a-bbfa-c2d6282c57db)---
+---
 categories: 
    - Universidad
    - Opinión
