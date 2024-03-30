@@ -267,3 +267,79 @@ toma en consideración los siguientes elementos:
     - Las Funciones trigonométricas, Dominio, rango y gráfica
     - Funciones trigonométricas inversas
     - Aplicaciones de las funciones trigonométricas
+
+## Lenguaje
+
+1. Comunicación, lenguaje y lengua
+   - Comunicación: Elementos de la comunicación. Lenguaje: Definición, propiedades y funciones
+   - Lengua y habla: Características e interrelación. Variedades: Regional, situacional, social y estándar
+   - Lengua española en el Perú: Antecedentes en el latín, características de su fonología, morfología y sintaxis
+   - Realidad lingüística del Perú: Familias lingüísticas y lenguas andinas y amazónicas
+2. Fonología de la lengua española
+   - Fonema: Definición y clases. Relación fonema-letra
+   - Sílaba: Definición, estructura y clases
+   - Secuencias de vocales: Diptongo, triptongo y hiato
+   - Segmentación silábica o silabeo ortográfico
+3. Acentuación escrita
+   - Acentuación general: Monosílabos y polisílabos
+   - Acentuación especial: Diacrítica y enfática, y de formas o expresiones complejas
+4. Morfosintaxis de la lengua española
+   - Morfología: Morfemas y alomorfía. Formación de palabra: Flexión y derivación, y composición, parasíntesis y acronimia
+   - Frase nominal: Definición, estructura, clases, concordancia y funciones
+   - Sustantivo: Caracterización, estructura y clases
+   - Adjetivo: Caracterización, estructura, clases y funciones
+   - Frase verbal: Definición, estructura, clases y función
+   - Verbo: Caracterización, estructura, clases y conjugación
+   - Adverbio, preposición y conjunción: Clases y funciones
+   - Oración: Definición, estructura, clases según la actitud del hablante, y complejidad: Simples y compuestas
+5. Discurso escrito
+   - Uso de punto, coma, punto y coma, dos puntos, puntos suspensivos, paréntesis, corchetes, raya, comillas y signos de interrogación y exclamación
+   - Uso de letras mayúsculas y minúsculas
+6. Semántica de la lengua española
+   - Lexicología
+   - Signo: Definición y clases. Signo lingüístico: Definición, estructura y características
+   - Semántica. Significado: Definición y clases. Contexto y situación. Anáfora y catáfora
+   - Relaciones semánticas: Polisemia, sinonimia, homonimia, antonimia, hiperonimia, hiponimia, cohiponimia, paronimia y meronimia.
+
+## Literatura
+
+1. Conceptos básicos
+   - Géneros literarios: Épico, lírico y dramático
+   - Figuras literarias: Metáfora, anáfora, hipérbaton, símil, hipérbole
+2. Literatura antigua
+   - Épica griega. Ilíada y Odisea. Tragedia griega. Sófocles: Edipo rey
+3. Literatura Moderna
+   - William Shakespeare: Romeo y Julieta
+   - Romanticismo. Goethe: Las cuitas del joven Werther
+   - Realismo. Fiòdor Dostoyevski: Crimen y castigo
+4. Literatura contemporánea
+   - Franz Kafka: La Metamorfosis
+5. Literatura española
+   - Edad Media: Poema del Mio Cid
+   - Barroco: Narrativa. Miguel de Cervantes Saavedra: El ingenioso hidalgo don Quijote de La Mancha
+   - Calderón de la Barca: La vida es Sueño
+   - Siglo XIX: Romanticismo. Gustavo Adolfo Bécquer: Rimas y Leyendas
+6. Literatura hispanoamericana
+   - Modernismo. Rubén Darío: Azul
+   - Poesía contemporánea
+     - Pablo Neruda: Veinte poemas de amor y una canción desesperada
+     - Jorge Luis Borges: Ficciones
+     - Alejo Carpentier: El reino de este mundo
+     - Gabriel García Márquez: Cien años de soledad
+7. Literatura de la Conquista al Romanticismo
+   - Inca Garcilaso de la Vega: Comentarios Reales de los Incas
+   - Manuel Ascencio Segura: Ña Catita
+   - Romanticismo. Ricardo Palma: Tradiciones peruanas
+8. Literatura peruana del Siglo XX
+   - Realismo. Clorinda Matto de Turner: Aves sin nido y Manuel González Prada: “Discurso en el Politeama”
+   - Posmodernismo
+     - José María Eguren: Simbólicas
+     - Abraham Valdelomar: “El caballero Carmelo”
+     - César Vallejo y el vanguardismo: Los heraldos negros. Trilce y Poemas humanos
+     - Indigenismo. Ciro Alegría: El Mundo es Ancho y Ajeno
+     - José María Arguedas: Los ríos profundos
+9. Literatura peruana contemporánea
+   - Generación del 50
+     - Poesía: Blanca Varela: Canto villano
+     - Cuento: Julio Ramón Ribeyro: “Los Gallinazos sin plumas”
+     - Novela: Mario Vargas Llosa: La ciudad y los perros. Conversación en La Catedral
