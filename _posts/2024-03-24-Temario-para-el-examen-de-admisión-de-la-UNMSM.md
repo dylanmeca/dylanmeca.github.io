@@ -489,3 +489,325 @@ toma en consideración los siguientes elementos:
    - Descomposición del bloque socialista y desintegración de la Unión Soviética
    - Nuevo orden mundial y globalización
    - Crisis económica del 2008
+
+## Geografía
+
+1. Geografía y espacio geográfico
+   - Comprensión del Geosistema
+   - Utilización de las líneas imaginarias terrestres, las coordenadas geográficas y las representaciones cartográficas (mapas, cartas, planos) para la localización geográfica
+2. Factores de la transformación del relieve
+   - Comprensión de las fuerzas geológicas internas (tectónica de placas y vulcanismo) y de las fuerzas externas (meteorización, erosión y sedimentación) en la transformación del relieve
+   - Conocimiento de la estructura y dinámica de la geosfera, la deriva continental y la teoría de las placas tectónicas
+3. Principales relieves de la costa, región andina y selva del Perú
+   - Descripción de los principales relieves:
+     - Submarino
+     - Costa
+     - Región andina
+     - Selva
+4. Clima
+   - Identificación de los principales factores del Clima del Perú y de la clasificación de climas del Perú según Senamhi
+   - Comprensión de los procesos que originan los desastres de origen climático (helada, friaje, inundación, sequía) y su impacto socioeconómico
+   - Comprensión de los fenómenos El Niño y La Niña
+5. Cambio climático y proceso de calentamiento global
+   - Comprensión del calentamiento global y sus impactos
+   - Valoración del Acuerdo de Kioto, la COP 21 (Acuerdo de París sobre cambio climático)
+6. Hidrografía
+   - Reconocimiento de las Vertientes hidrográficas del Perú
+   - Identificación de las características del Mar peruano y de la Corriente peruana
+   - Identificación de las características de los glaciares
+   - Valoración, manejo y gestión de cuencas hidrográficas
+7. Gestión de riesgo de desastres
+   - Definiciones básicas: Peligro, vulnerabilidad, desastre, gestión de riesgo
+   - Clasificación de peligros: Peligros generados por fenómenos de origen natural (por fenómenos de geodinámica interna, por fenómenos de geodinámica externa, por fenómenos hidrometeorológicos y oceanográficos) y peligros generados por acción humana (físicos, químicos y biológicos)
+   - Factores de la vulnerabilidad: Exposición, fragilidad y resiliencia
+   - Dimensiones de los elementos expuestos: Sociales, económicos y ambientales
+8. Biodiversidad y ecosistemas en el mundo y en el Perú
+   - Identificación de las nociones básicas de la Biodiversidad y su importancia
+   - Reconocimiento de los principales biomas en el mundo
+   - Comprensión de la Amazonía y la Antártida como reservas de biodiversidad en el mundo
+   - Identificación de las áreas naturales protegidas por el Estado: Parques, santuarios y reservas nacionales
+   - Identificación de las áreas de reconocimiento internacional: Reservas de biósfera y lugares patrimonio de la humanidad
+9. Recursos naturales y el desarrollo sostenible
+   - Comprensión de los problemas ambientales y los impactos en la calidad de vida de la población: Desertificación, deforestación, contaminación del agua, aire y suelos y pérdida de biodiversidad
+   - Comprensión de desarrollo sostenible: Definición y antecedentes
+   - Evaluación de la Agenda 2030
+10. Actividades económicas
+    - Reconocimiento de las actividades económicas: Agricultura, ganadería, pesca, minería, industria, comercio, transporte y turismo
+    - Evaluación del Índice de Desarrollo Humano (IDH) en el Perú
+11. Población humana del Perú
+    - Comprensión de la estructura, la dinámica, las migraciones y la organización del espacio rural y urbano
+12. Organización política y administrativa del territorio peruano
+    - Conocimiento del proceso de descentralización, la regionalización y sus oportunidades
+    - Conocimiento de las fronteras del Perú, sus límites y las posibilidades de desarrollo
+    - Conocimiento de las características del mar territorial del Perú y su defensa
+13. América, Asia, África, Europa y Oceanía
+    - Descripción de los principales elementos físicos y sociales de cada continente
+    - Evaluación de la población y calidad de vida según el IDH
+    - Identificación de los principales recursos naturales
+
+## Economía
+
+1. Temas básicos y principios económicos
+   - Economía. Definición, campo y método
+   - Necesidades humanas
+   - Problemas económicos: Qué, cómo, para quién, dónde y cuándo producir
+   - Principios básicos de la economía: Escasez, eficiencia, equidad, interacción, especialización y costo de oportunidad
+   - Flujo circular de la economía
+   - Teoría y política económica. Niveles microeconómico y macroeconómico
+2. Mercado de bienes
+   - Función de demanda. Elasticidades precio e ingreso
+   - Teoría de la producción, costos e ingresos
+   - Función de oferta y elasticidades
+   - Tipos de mercado: Competencia perfecta, monopolio, oligopolio, competencia monopolística
+   - Fallas de mercado, externalidades, bienes públicos. Organismos reguladores: Funciones
+3. Mercado de factores
+   - Mercado de factores: Trabajo, tierra y capital
+   - Capital humano: Definición y características. Fuentes de acumulación de capital humano
+   - Determinación del salario. Productividad laboral. Diferencias salariales por segmentación
+4. Sector financiero y política monetaria
+   - Sistema financiero: Activos, instituciones y estructura
+   - El Banco Central del Reserva: Funciones. Instrumentos de política monetaria
+   - Dinero: Tipos, funciones y características
+   - Oferta y demanda de dinero
+   - Determinación de la tasa de interés
+5. Sector público y política fiscal
+   - Rol del estado en la economía
+   - Presupuesto público: Ingresos, gastos y resultado fiscal. Instrumentos de la política fiscal
+   - Sistema tributario: Principios, tipos y características
+   - Deuda pública: Causas y consecuencias
+6. Consumo, ahorro e inversión
+   - Funciones de consumo y ahorro
+   - Canasta de consumo. Índice de precios al consumidor
+   - Tipos de inversión. Función de inversión
+7. Sector externo
+   - Balanza de pagos y balanza comercial. Estructura
+   - Comercio internacional. Teoría del comercio exterior. Ventajas comparativas y ventajas competitivas
+   - Política comercial: Arancel
+   - Mercado cambiario: Tipos de cambio y regímenes cambiarios
+   - Integración económica. Razones de la integración. Modalidades o etapas de la integración económica. Principales acuerdos de integración económica
+8. Ciclo económico, crecimiento económico, desarrollo económico y desarrollo humano
+   - Ciclo económico: Características y causas
+   - Crecimiento económico. Definición y características. Fuentes del crecimiento económico
+   - Desarrollo económico. Definición y características. Componentes y fuentes del desarrollo económico
+   - Desarrollo humano. Concepto. Indicadores del desarrollo humano
+9. Economía informal y distribución de ingresos
+   - Economía informal. Definición y tipos. Causas de la informalidad. Costos y beneficios de la informalidad
+   - La distribución de la renta. Causas de la desigualdad en la distribución de ingresos
+   - Pobreza: Definición, tipos y causas
+10. Emprendimiento
+    - Emprendimiento. Definición. Características del emprendedor. Tipos de emprendimiento
+    - Proyecto. Definición. Ciclo de vida del producto. Idea. Árbol de objetivos y árbol de problemas. Programación de actividades. Flujo de caja. Evaluación costo-beneficio. Organización de la unidad económica y organigrama estructural
+
+## Filosofía
+
+1. Nociones preliminares de filosofía
+   - Reflexión sobre la naturaleza de la filosofía. Etimología. Definición. Origen histórico de la filosofía. Características de la filosofía. Disciplinas filosóficas
+   - Identificación de las principales problemáticas abordadas durante la historia de la filosofía: Filosofía antigua, Filosofía moderna y Filosofía contemporánea
+   - Reflexión sobre la posibilidad de la filosofía en Latinoamérica y en el Perú
+      - Etapas de la filosofía latinoamericana: Colonial, Ilustración, Romanticismo, Positivismo, Espiritualismo
+      - Filosofía del siglo XX y Filosofía contemporánea
+2. Ética, sociedad y democracia
+   - Discusión sobre la naturaleza humana y la construcción de la subjetividad
+   - Comprensión de la relación entre individuo y sociedad
+   - Evaluación de los problemas éticos y dilemas morales
+   - Origen y naturaleza del poder y del Estado
+   - Reflexión sobre la tolerancia, el pluralismo, los valores democráticos y el feminismo en el mundo contemporáneo
+3. Ciencia y Conocimiento
+   - Evaluación de las características del conocimiento científico
+   - Comprensión de la ciencia y el método científico
+   - Interpretación de los problemas e hipótesis científicas
+   - Reflexión sobre la crítica a la ciencia y la tecnología
+   - Discusión sobre las relaciones entre el lenguaje, la ciencia,
+4. Teoría de la Argumentación
+   - Comprensión de la Teoría de la Argumentación
+   - Análisis de argumentos: Identificación de premisas y conclusiones
+   - Identificación y reconocimiento de las paradojas y falacias más notables
+   - Evaluación de la argumentación en la investigación científica
+5. Apreciación estética
+   - Apreciación crítica de las manifestaciones artístico – culturales
+   - Comprensión de los movimientos y géneros en el arte contemporáneo
+   - Interpretación de los problemas en la valoración estética
+   - Comprensión de las relaciones entre arte, cultura, sociedad y estética
+
+## Física
+
+1. Estudio cinemático del movimiento
+   - Magnitudes físicas, su caracterización y representación matemática: Vectores y escalares. Análisis dimensional. Adición y sustracción de vectores: Métodos geométricos y analíticos
+   - Cantidades cinemáticas: Sistemas de referencia. Posición y desplazamiento. Velocidad media y velocidad instantánea. Aceleración media y aceleración instantánea. Dependencia del tiempo de las cantidades cinemáticas y su representación gráfica
+   - Tipos de movimiento:
+     - Movimiento rectilíneo: A velocidad constante (MRU). Gráficas de posición-tiempo y velocidad-tiempo. Composición de velocidades. Movimiento relativo. Uniformemente variado (MRUV y caída libre). Gráficas de velocidad-tiempo y aceleración-tiempo
+     - Movimiento en dos dimensiones: Movimiento de un proyectil. Movimiento circular con velocidad angular constante (MCU) y con aceleración angular constante (MCUV)
+2. Estudio dinámico del movimiento
+   - Conceptos de sistema físico, fuerza, inercia, masa y peso. Leyes de Newton de la mecánica clásica. Fuerza de rozamiento. Dinámica del movimiento rectilíneo. Dinámica del movimiento circular
+   - Equilibrio de fuerzas concurrentes. Fuerza elástica. Torque o momento de fuerza. Equilibrio de fuerzas paralelas. Condiciones de equilibrio
+   - Cantidad de movimiento lineal. Impulso. Teorema del impulso y la cantidad de movimiento. Ley de conservación de la cantidad de movimiento lineal. Colisiones elásticas e inelásticas. Coeficiente de restitución. Ley de gravitación universal de Newton. Campo gravitatorio. Leyes de Kepler del movimiento planetario
+3. Leyes de conservación
+   - Trabajo y potencia mecánica: Definición de trabajo y potencia. Trabajo realizado por fuerzas constantes y variables. Aplicaciones de la potencia mecánica
+   - Energía cinética: Definición de energía cinética. Teorema del trabajo y la energía cinética
+   - Energía potencial: Energía potencial gravitatoria y elástica. Ley de conservación de la energía mecánica
+4. Fenómenos térmicos
+   - Temperatura: Concepto de temperatura. Equilibrio térmico. Escalas termométricas. Dilatación de sólidos y líquidos
+   - Energía térmica: Calor, capacidad calorífica, calor específico, calor latente, cambios de fase
+5. Mecánica de fluidos
+   - Densidad y presión: Definición de la densidad y la presión. Tipos de presión: Presión atmosférica, presión hidrostática, presión manométrica
+   - Hidrostática: Principio de Pascal. Principio de Arquímedes y flotación. Concepto de tensión superficial
+   - Hidrodinámica: Hidrodinámica y principio de Bernoulli. Concepto de Viscosidad
+6. Electrostática
+   - Definiciones básicas: Carga eléctrica. Aisladores y conductores. Fuerza eléctrica y campo eléctrico. Ley de Coulomb. Líneas de campo
+   - Energía electrostática: Energía potencial eléctrica y potencial eléctrico. Superficies equipotenciales. Capacidad eléctrica. Asociación de condensadores en serie y en paralelo. Energía en un condensador
+7. Electrodinámica
+   - Corriente eléctrica: Definición y unidades. Resistencia eléctrica y fuerza electromotriz. Ley de Ohm
+   - Circuitos eléctricos: Asociación de resistencias en serie y en paralelo. Fuerza electromotriz (F.E.M.) y leyes de Kirchhoff. Potencia eléctrica. Mediciones eléctricas: Amperímetro, voltímetro
+8. Electromagnetismo
+   - Magnetismo: Imanes naturales y artificiales. Campo magnético
+   - Fuerza magnética: Fuerza magnética sobre cargas en movimiento dentro de un campo magnético. Descubrimiento de Oersted. Campo magnético debido a una corriente rectilínea y circular. Ley de Biot-Savart
+   - Inducción magnética: Flujo magnético. Ley de inducción de Faraday. Ley de Lenz. El generador y el transformador
+9. Oscilaciones y ondas
+   - Movimiento oscilatorio: Movimiento armónico simple de una partícula (MAS). Sistema bloque-resorte. Péndulo simple
+   - Energía del movimiento oscilatorio: Energía cinética y potencial de un oscilador armónico simple
+   - Movimiento ondulatorio: Clases de ondas. Ondas sonoras. Intensidad y nivel de intensidad de una onda sonora
+   - La luz: Propagación de la luz: reflexión y refracción. Ley de Snell. Reflexión y formación de imágenes en espejos planos y esféricos. Refracción y formación de imágenes en lentes delgadas. Espectro electromagnético
+10. Física moderna
+    - Fundamentos cuánticos: Hipótesis de Planck. Efecto fotoeléctrico. Principio de incertidumbre. Radiactividad: importancia y usos
+    - Teoría de la relatividad especial: Postulados de la relatividad especial. Efectos relativistas: dilatación del tiempo y contracción de la longitud
+
+## Química
+
+1. Química, ramas, materia: Mezclas y sustancias. Sistema Internacional (SI)
+   - Definición de Química y sus ramas. El método científico aplicado a Química. El Sistema Internacional de unidades de medida (SI)
+   - Definición de materia. Clasificación según su composición: Mezclas y sustancias. Clasificación según su estado de agregación (gaseoso, líquido y sólido)
+   - Propiedades de la materia: Físicas y químicas
+   - Los fenómenos físicos, químicos y nucleares
+   - Transferencia de calor. Ejercicios. Conversión de la materia en energía, ecuación de Einstein
+2. Estructura atómica y Tabla Periódica
+   - El átomo. Notación de núclidos: Número atómico y Número de masa. Isótopos. Unidad de masa atómica
+   - Teoría atómica de Dalton. Los modelos atómicos, Thomson, Rutherford, Bohr, Schrödinger. Ondas y corpúsculos
+   - Los números cuánticos: Nivel, subnivel, magnético, giro del electrón. Principios fundamentales: De construcción, máxima multiplicidad, exclusión. Configuración electrónica de átomos e iones
+   - Tabla Periódica Moderna: Periodos y grupos. Metales y no metales. Metales alcalinos y alcalino térreos. Halógenos y anfígenos. Carbonoides y nitrogenados. Primera serie de transición. Notación de Lewis
+   - Propiedades periódicas de los elementos químicos: Radio atómico, energía de ionización, carácter metálico, no metálico, electronegatividad. Radio iónico
+3. Enlace químico y nomenclatura de compuestos inorgánicos
+   - Definición de enlace y clasificación: Covalente, iónico y metálico. Propiedades de las moléculas, compuestos iónicos y los metales
+   - Las fuerzas intermoleculares y los estados de agregación
+   - Formación y nomenclatura de compuestos: Número de oxidación, tipos de nomenclaturas (tradicional, sistemática, IUPAC, STOCK)
+   - Funciones químicas inorgánicas: Óxidos o anhídridos, hidruros, hidrácidos, ácidos oxácidos, ácidos hidrácidos, sales haloideas y sales oxisales
+4. Reacciones químicas
+   - Definición y clasificación de las reacciones químicas
+   - Ecuaciones químicas: Escritura y balance o igualación de las ecuaciones
+   - Reacciones redox. Agente oxidante y agente reductor, especie oxidada y especie reducida. Importancia en sistemas biológicos y ambientales
+   - Métodos de balanceo: Número de oxidación y ion electrón en medio ácido. Aniones oxidantes y aniones reductores. Las semirreacciones
+5. Estequiometría
+   - Definición de mol y el número de Avogadro. Masa molar. Composición porcentual. Fórmula empírica y molecular. Leyes ponderales
+   - Cálculos estequiométricos. Relaciones masa-masa, mol-mol, volumen-volumen. Condiciones normales de Presión y temperatura
+   - Reactivo limitante y reactivo en exceso
+   - Pureza de un reactivo
+   - Rendimiento de una reacción
+6. Los estados naturales de la materia
+   - Estado gaseoso: La teoría cinético-molecular. Leyes de los gases ideales, las leyes combinadas y ecuación general de los gases ideales. Ejercicios
+   - Ley de Dalton y Ley de Efusión o de Graham
+   - Estado líquido. Propiedades del estado líquido: Tensión superficial, viscosidad, presión de vapor. El punto de congelamiento y de ebullición. La evaporación y condensación. Importancia
+   - Estado sólido. Los sólidos cristalinos y amorfos. Propiedades. El punto de fusión. El fenómeno de disolución. Aplicaciones
+7. Los sistemas dispersos
+   - Definición y diferencia entre solución, coloide y suspensión. Solubilidad. Importancia
+   - Unidades de concentración físicas y químicas: Porcentuales, Molaridad y Normalidad. Soluciones concentradas y diluidas. Diluciones. Ejercicios
+   - Definición de Ácidos y bases. Arrhenius y Bronsted-Lowry. Reacciones ácido-base. Neutralización. pH. Soluciones con carácter ácido y básico. Ejercicios de cálculo de pH. Importancia del pH
+8. Cinética y equilibrio químico
+   - Teorías que explican la ocurrencia de una reacción química. Estado de activación, complejo activado. Reacciones endotérmicas y exotérmicas
+   - Velocidad de reacción: Medición de la velocidad de reacción. Factores que influyen en la velocidad de reacción
+   - Leyes de la velocidad de reacción. Mecanismos: Reacciones sencillas y complejas. Tiempo de vida media. Definición de reacciones de primer y de segundo orden
+   - Definición de equilibrio químico y la constante de equilibrio. El Principio de Le Chatelier. Importancia
+9. Electroquímica
+   - Reacciones de reducción y oxidación. Ánodo y cátodo. Flujo de electrones
+   - Celdas galvánicas o pilas: Conductividad. Potencial estándar de redu
+
+## Biología
+
+1. Biología
+   - Objeto de estudio. Método científico. Áreas de estudio de la biología
+   - Características de los seres vivos
+   - Niveles de organización. Nivel supramolecular: Virus
+   - Composición química de la materia viviente. Principios inmediatos inorgánicos (CO2, agua, sales minerales) y orgánicos (Carbohidratos, lípidos, proteínas, ácidos nucleicos y vitaminas)
+2. Célula
+   - Teoría Celular
+   - Célula procariota: Estructura y función
+   - Importancia de las bacterias en ecosistemas, salud, industria y en biorremediación
+   - Célula eucariota: Estructura y función
+   - Sistema de membranas, organelas, inclusiones citoplasmáticas
+   - Núcleo: Estructura y función. Síntesis de proteínas y código genético
+3. Tejidos
+   - Tejidos vegetales: Crecimiento, protectores, fundamentales, de sostén, secretores, vasculares
+   - Tejidos animales:
+     - Tejido epitelial
+     - Tejido conectivo: Cartilaginoso, óseo, sanguíneo, adiposo
+     - Tejido muscular
+     - Tejido nervioso
+4. Nutrición
+   - Tipos de nutrición: Autótrofa y heterótrofa
+   - Fotosíntesis: Fase lumínica, fase oscura (Ciclo de Calvin y Benson)
+   - Respiración: Anaeróbica y aeróbica de la glucosa, fosforilación oxidativa, balance energético
+   - Intercambio de gases en plantas y animales
+   - Sistema respiratorio humano: Órganos y fisiología
+5. Sistema digestivo
+   - Digestión. Tipos de digestión
+   - Sistema digestivo: Estructura y función en invertebrados y vertebrados
+   - Sistema digestivo humano: Órganos y fisiología
+6. Circulación y transporte
+   - Sistema circulatorio humano: Órganos y fisiología
+   - Sistema linfático: Órganos y fisiología
+   - Sistema circulatorio en animales
+   - Mecanismo de transporte en plantas
+7. Sistema excretor y Sistema inmunológico
+   - Excreción. Sistema excretor en animales
+   - Sistema urinario humano: Órganos y fisiología
+   - Sistema Inmunológico. Componentes
+   - Inmunidad: Activa y pasiva
+8. Coordinación química en los seres vivos
+   - Coordinación química en vegetales (fitohormonas)
+   - Coordinación química en animales
+   - Sistema endocrino humano: Órganos y fisiología
+9. Coordinación nerviosa en los animales: Sistema nervioso
+   - Sistema nervioso en algunos animales
+   - Sistema nervioso humano: Órganos y fisiología
+   - Órganos de los sentidos
+10. Reproducción
+    - Ciclo celular. Tipos de reproducción: Asexual y sexual. Mitosis y meiosis
+    - Reproducción sexual en plantas con flores
+    - Reproducción sexual en animales. Metamorfosis y desarrollo embrionario
+    - Sistema Reproductor humano: Órganos y fisiología
+11. Continuidad de las especies
+    - Genética. Conceptos básicos
+    - Experimentos de Mendel y las Leyes de la herencia
+    - Dominancia incompleta. Codominancia
+    - Cruce de prueba. Alelos múltiples
+    - Genética del sexo. Determinación del sexo y herencia ligada al sexo
+    - Herencia restricta al sexo. Herencia influenciada por el sexo
+    - Genética humana. Mutaciones
+    - Principios de bioética y aconsejamiento genético
+12. Evolución y biodiversidad
+    - Teorías sobre el origen de la vida: Generación espontánea, quimiosintética y cosmogónica
+    - Teorías sobre evolución: Lamarck, Darwin, De Vries y Dobzhansky
+    - Evidencias de la evolución
+    - Mecanismos y patrones de evolución. Selección natural y artificial
+    - Evolución humana: Origen de la especie humana
+    - Sistemas de clasificación de los seres vivos
+13. Reino Animal
+    - Características diferenciales de los diferentes Phyla del reino animal
+    - Animales útiles al hombre
+    - Animales extintos, en peligro de extinción, en situación vulnerable
+14. Reino Plantae
+    - Características diferenciales de las Divisiones del reino vegetal
+    - Plantas medicinales, alimenticias, de uso industrial y artesanal
+    - Plantas en peligro de extinción y en situación vulnerable
+15. Salud e Higiene
+    - Concepto de salud y enfermedad. Hábitos y estilos de vida saludable
+    - Tipos de enfermedades por su duración, frecuencia y origen
+    - Enfermedades infecciosas, etapas, postulados, mecanismos de transmisión, artrópodos transmisores de enfermedades
+    - Higiene de las enfermedades infecciosas
+16. Ecología y recursos naturales
+    - Ecosistemas. Clases de ecosistemas. Dinámica de poblaciones
+    - Flujo de energía. Cadenas tróficas. Ciclos biogeoquímicos
+    - Relaciones interespecíficas e intraespecíficas
+    - Sucesión y equilibrio ecológico
+    - Recursos naturales. Tipos de recursos. Contaminación del aire, suelo, agua y sus efectos. Cambio climático
+    - Restauración de ecosistemas
+    - Desarrollo sostenible y hábitos de consumo responsable
+    - Conservación de los recursos naturales. Áreas Naturales Protegidas: Parque nacional, reserva nacional, santuario nacional y santuario histórico
