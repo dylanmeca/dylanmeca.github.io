@@ -56,6 +56,21 @@ El siguiente temario para el examen de admisión de la UNMSM fue extraído del [
     - [Geometría](#geometría)
     - [Álgebra](#álgebra)
     - [Trigonometría](#trigonometría)
+4. [Lenguaje](#lenguaje)
+5. [Literatura](#literatura)
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
+16. []()
+17. []()
+18. []()
 
 ## Habilidad Verbal
 El examen de Habilidad Verbal consta de 3 textos con 5 preguntas cada uno, las mismas que
