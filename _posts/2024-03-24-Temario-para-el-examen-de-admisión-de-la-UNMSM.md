@@ -343,3 +343,25 @@ toma en consideración los siguientes elementos:
      - Poesía: Blanca Varela: Canto villano
      - Cuento: Julio Ramón Ribeyro: “Los Gallinazos sin plumas”
      - Novela: Mario Vargas Llosa: La ciudad y los perros. Conversación en La Catedral
+
+## Psicología
+1. Introducción a la psicología
+   - Orígenes de la Psicología como ciencia
+   - Enfoques psicológicos: Psicoanálisis, conductismo, humanismo, cognitivismo
+2. Bases biológicas del comportamiento humano
+   - Bases fisiológicas del comportamiento humano
+   - Proceso de socialización. Agentes y tipos de socialización. Roles sociales y normas de convivencia
+   - Familia: Funciones, tipos de familia, apego y estilos de crianza
+   - Actitudes y valores
+3. Procesos cognitivos y aprendizaje
+   - Sensación. Atención. Percepción. Memoria
+   - Pensamiento. Lenguaje
+   - Desarrollo de la inteligencia
+   - Teorías del aprendizaje: Aprendizaje por condicionamiento, significativo, por descubrimiento y observacional
+   - Aprendizaje cooperativo y autorregulado
+4. Desarrollo humano, identidad y vivencia saludable
+   - Definición y factores que intervienen en el desarrollo humano
+   - Dimensiones del desarrollo humano (físico, cognitivo y psicosocial)
+   - Etapas del ciclo vital humano (prenatal, infancia, adolescencia, adultez)
+   - Identidad personal: Cultural y sexual. Imagen corporal. Autoconocimiento, autoconcepto y autoestima
+   - Amistad y enamoramiento. Comportamiento sexual
