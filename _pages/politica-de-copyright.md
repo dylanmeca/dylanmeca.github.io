@@ -6,19 +6,20 @@ layout: archive
 toc: true
 ---
 
-El blog de Dylan Meca es un sitio web que contiene artículos y páginas creadas por Dylan Meca, y aunque el código fuente del sitio está disponible 
-públicamente bajo la licencia [MIT](https://github.com/dylanmeca/dylanmeca.github.io/blob/main/LICENSE), el contenido del sitio está protegido por derechos de autor y no se puede modificar, distribuir, 
-patentar ni utilizar con fines comerciales sin el permiso explícito de Dylan Meca.
+Este blog es propiedad de **Dylan Meca**, quien posee la autoría de todo el contenido disponible. Asimismo, este blog está bajo la licencia **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)**, por lo que se deben cumplir los siguientes términos:
 
-Los visitantes del sitio pueden leer, comentar y compartir el contenido en las redes sociales, siempre y cuando se cite adecuadamente la fuente y 
-se respeten los derechos de autor. Sin embargo, cualquier otro uso del contenido del sitio, incluyendo la reproducción, modificación o distribución 
-sin permiso explícito de Dylan Meca, está estrictamente prohibido.
+### **Eres libre de:**
+- **Compartir:** copiar y redistribuir el material en cualquier medio o formato.
+- El licenciante no puede revocar estas libertades siempre que cumpla con los términos de la licencia.
 
-Cualquier uso no autorizado del contenido del sitio puede dar lugar a una acción legal, incluyendo la eliminación del contenido infractor y 
-la indemnización por daños y perjuicios. Además, cualquier intento de utilizar el contenido del sitio para fines comerciales o de competencia
-desleal será perseguido enérgicamente.
+### **Bajo los siguientes términos:**
+- **Atribución:** debe dar el [crédito apropiado](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-appropriate-credit), proporcionar un enlace a la licencia e [indicar si se realizaron cambios](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-indicate-changes). Puede hacerlo de cualquier manera razonable, pero no de ninguna manera que sugiera que el licenciante lo respalda a usted o su uso.
+- **No comercial:** no puede utilizar el material con [fines comerciales](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-commercial-purposes).
+- **Sin derivados:** si [remezcla, transforma o construye](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-some-kinds-of-mods) sobre el material, no podrá distribuir el material modificado.
+- **Sin restricciones adicionales:** no puede aplicar términos legales ni [medidas tecnológicas](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-technological-measures) que restrinjan legalmente a otros hacer cualquier cosa que la licencia permita.
 
-En resumen, el contenido del sitio web de Dylan Meca está protegido por derechos de autor y no se puede utilizar sin permiso explícito. 
-Los visitantes del sitio pueden leer, comentar y compartir el contenido en las redes sociales, siempre y cuando se cite adecuadamente la fuente 
-y se respeten los derechos de autor. Cualquier otro uso del contenido del sitio, incluyendo la reproducción, modificación o distribución sin permiso 
-explícito de Dylan Meca, está estrictamente prohibido.
+### **Avisos:**
+- No tiene que cumplir con la licencia para elementos del material que sean de dominio público o donde su uso esté permitido por una [excepción o limitación](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-exception-or-limitation) aplicable.
+- No se dan garantías. Es posible que la licencia no le otorgue todos los permisos necesarios para el uso previsto. Por ejemplo, otros derechos como [publicidad](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-publicity-privacy-or-moral-rights), [privacidad o derechos morales](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-publicity-privacy-or-moral-rights) pueden limitar la forma en que utiliza el material.
+
+<p xmlns:cc="http://creativecommons.org/ns#" >Este blog tiene la licencia <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref= selecter-v1" target="_blank" rel="licencia noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px ;alineación vertical:texto-abajo;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="altura:22px!important;margin-left:3px;vertical -align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="altura:22px!important;margin-left:3px;vertical -align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="altura:22px!important;margin-left:3px;vertical -align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
