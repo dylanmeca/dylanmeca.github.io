@@ -30,10 +30,9 @@ toc: true
 ## Políticas
 
 <ul>
-    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: 🔒 </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del sitio web.</p>
-    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios: ✍️ </a></li><p>esta política establece las reglas que debes seguir al comentar en el sitio web, incluyendo el uso apropiado del lenguaje y el respeto a los derechos de autor de otros.</p>
-    <li><a target="_blank" href="{{ 'politica-de-cookies' | relative_url }}">Política De Cookies: 🍪 </a></li><p>esta política describe cómo utilizamos las cookies en el sitio web y cómo puedes controlar su uso.</p>
-    <li><a target="_blank" href="{{ 'politica-de-copyright' | relative_url }}">Política De Copyright: ©️ </a></li><p>esta política establece las reglas que debes seguir al utilizar el contenido del sitio web, incluyendo el respeto a los derechos de autor.</p>
+    <li><a target="_blank" href="{{ 'politica-de-privacidad' | relative_url }}">Política De Privacidad: 🔒 </a></li><p>esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del blog.</p>
+    <li><a target="_blank" href="{{ 'politica-de-comentarios' | relative_url }}">Política De Comentarios: ✍️ </a></li><p>esta política establece las reglas que debes seguir al comentar en el blog, incluyendo el uso apropiado del lenguaje.</p>
+    <li><a target="_blank" href="{{ 'politica-de-copyright' | relative_url }}">Política De Copyright: ©️ </a></li><p>esta política establece las reglas que debes seguir al utilizar el contenido del blog, incluyendo el respeto a los derechos de autor y el cumplimiento a la licencia CC BY-NC-ND 4.0.</p>
 </ul>
 
 Este blog tiene copyright (Derechos de autor).
