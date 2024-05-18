@@ -6,39 +6,38 @@ layout: archive
 toc: true
 ---
 
-# Índice
+## Índice
 
 1. [Recopilación de Información](#recopilación-de-información)
 2. [Uso de la Información](#uso-de-la-información)
 3. [Enlaces y Servicios de Terceros](#enlaces-y-servicios-de-terceros)
 4. [Control de Información Personal](#control-de-información-personal)
-7. [Actualización de la Política de Privacidad](#actualización-de-la-política-de-privacidad)
+5. [Actualización de la Política de Privacidad](#actualización-de-la-política-de-privacidad)
 
 Esta Política de Privacidad establece los términos en que se recopila, utiliza y protege la información proporcionada por los usuarios al utilizar el blog de Dylan Meca.
 
-# Recopilación de Información
-Cuando se solicita a los usuarios que completen campos de información personal, se hace con la finalidad de poder contactarlos. La información proporcionada será utilizada únicamente de acuerdo con los términos de esta política de privacidad.
+## Recopilación de Información
 
-La información personal que puede ser recopilada incluye nombre, dirección de correo electrónico. En algunos casos, puede ser necesaria información específica.
+Utilizamos Google Analytics para recopilar información sobre las visitas y el comportamiento de los usuarios en el blog de Dylan Meca. Esta herramienta nos proporciona datos como el tipo de navegador, el sistema operativo, la duración de las visitas y las páginas visitadas. La información recopilada es anónima y se utiliza exclusivamente para mejorar el contenido y la experiencia del usuario en el blog.
 
-# Uso de la Información
-Toda la información proporcionada será tratada con confidencialidad y se mantendrá segura. La información será utilizada únicamente con fines específicos, como para contactar a los usuarios que han proporcionado su información de contacto.
+## Uso de la Información
 
-Además, la información de las acciones de los usuarios en el sitio web será utilizada para crear estadísticas de visitas en el blog.
+Toda la información recopilada a través de Google Analytics se utiliza para realizar análisis estadísticos y mejorar el blog. Utilizamos cookies para identificar las páginas visitadas y su frecuencia, lo que nos ayuda a entender mejor las preferencias de los usuarios. La información recopilada mediante cookies se elimina automáticamente después de su uso.
 
-Las cookies se utilizan para identificar las páginas visitadas y su frecuencia con el fin de realizar análisis estadísticos. La información recopilada mediante las cookies se elimina permanentemente después de su uso.
+En cuanto a la sección de comentarios, utilizamos Disqus para permitir la interacción entre los usuarios. La información proporcionada en la sección de comentarios se transfiere a los servidores de Disqus y se trata de acuerdo con su política de privacidad.
 
-# Enlaces y Servicios de Terceros
-El sitio web de Dylan Meca puede contener enlaces a otros sitios web que pueden ser de interés para los usuarios. Una vez que se hace clic en estos enlaces y se abandona el sitio web, Dylan Meca no tiene control sobre los términos o la privacidad ni sobre la protección de los datos de los usuarios en esos otros sitios web.
+## Enlaces y Servicios de Terceros
 
-Por lo tanto, se recomienda a los usuarios que consulten las políticas de privacidad de los sitios web de terceros.
+El blog de Dylan Meca puede contener enlaces a otros sitios web que pueden ser de interés para los usuarios. Una vez que se hace clic en estos enlaces y se abandona el blog, Dylan Meca no tiene control sobre los términos de privacidad ni sobre la protección de los datos en esos otros sitios web. Se recomienda a los usuarios que consulten las políticas de privacidad de los sitios web de terceros.
 
-El uso de servicios de terceros, como la sección de comentarios en el sitio web de Dylan Meca, está sujeto a sus propias políticas de privacidad. La información proporcionada en esos servicios será tratada de acuerdo con sus políticas de privacidad, por lo que se recomienda a los usuarios que las lean.
+El uso de servicios de terceros, como la sección de comentarios proporcionada por Disqus, está sujeto a sus propias políticas de privacidad. Por lo tanto, se recomienda a los usuarios que lean dichas políticas para entender cómo se manejará su información.
 
-# Control de Información Personal
-Toda la información personal recopilada será confidencial y estará protegida. Dylan Meca no venderá, compartirá ni distribuirá la información personal recopilada sin el consentimiento de los usuarios, salvo que sea requerido por un juez con una orden judicial o por órdenes policiales.
+## Control de Información Personal
 
-La información personal proporcionada en la sección de comentarios del sitio web de Dylan Meca será transferida al servidor de Disqus y será tratada de acuerdo con su política de privacidad.
+Toda la información recopilada será tratada con confidencialidad y protegida adecuadamente. Dylan Meca no venderá, compartirá ni distribuirá la información recopilada sin el consentimiento de los usuarios, salvo que sea requerido por una orden judicial.
 
-# Actualización de la Política de Privacidad
-Dylan Meca se reserva el derecho de cambiar los términos de esta Política de Privacidad en cualquier momento. Se recomienda a los usuarios que revisen esta página de manera regular para asegurarse de estar de acuerdo con los cambios realizados.
+La información proporcionada en la sección de comentarios del blog se transfiere a los servidores de Disqus y se gestiona según su política de privacidad.
+
+## Actualización de la Política de Privacidad
+
+Dylan Meca se reserva el derecho de modificar los términos de esta Política de Privacidad en cualquier momento. Se recomienda a los usuarios revisar esta página regularmente para estar informados de cualquier cambio.
