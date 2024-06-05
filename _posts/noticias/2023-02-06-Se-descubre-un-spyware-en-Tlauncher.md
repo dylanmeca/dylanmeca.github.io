@@ -1,10 +1,11 @@
 ---
 categories: 
-   - Ciberseguridad
-   - Videojuegos
+   - Noticias 
 tags:
    - Malware
    - Spyware
+   - Ciberseguridad
+   - Videojuegos
 ---
 
 Tlauncher el **lanzador pirata de minecraft tiene spyware** y es indectable a los **escaneos de VirusTotal** pero investigando a 

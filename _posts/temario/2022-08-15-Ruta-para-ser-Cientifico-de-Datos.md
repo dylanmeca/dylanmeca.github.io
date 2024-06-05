@@ -1,8 +1,9 @@
 ---
 categories: 
-   - Ciencia de Datos
+   - Temario
 tags:
-   - Roadmap
+   - Ciencia 
+   - Datos 
 ---
 
 La Ciencia de Datos es una carrera que estudia, administra, analiza 

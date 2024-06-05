@@ -3,7 +3,7 @@ title: "Politica de privacidad"
 permalink: /politica-de-privacidad
 excerpt: "Politica de privacidad del Blog"
 layout: archive
-toc: true
+author_profile: true
 ---
 
 ## Índice

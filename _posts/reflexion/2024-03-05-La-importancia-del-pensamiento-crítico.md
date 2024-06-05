@@ -1,10 +1,11 @@
 ---
 categories: 
-   - Opinión
+   - Reflexión
 tags:
    - Crítico
    - Lectura
    - Pensamiento
+   - Opinión
 ---
 
 **El pensamiento crítico** es el proceso de dudar de las afirmaciones que en la vida cotidiana suelen aceptarse como verdaderas. Por lo tanto, surge la pregunta: ¿por qué es importante ponerlo en práctica? Para responder a esa pregunta, debemos notar que ciertas creencias que considerábamos verdaderas al final resultaron falsas. Un ejemplo es el caso de la noticia **"La guerra de los mundos: la invasión marciana lanzada por la radio que aterrorizó a América"**, donde muchas personas creyeron firmemente que iba a ocurrir una invasión marciana. La ficción de la invasión marciana fue recreada con trucos ingeniosos y efectos especiales de sonido tan bien logrados que la histeria colectiva continuó a pesar de las advertencias. Esto nos hace comprender que si una persona no utiliza **el pensamiento crítico** o no cuestiona si algo es verdad o falso, terminará en una situación similar.

@@ -1,11 +1,12 @@
 ---
 categories: 
-   - Inteligencia Artificial
+   - Noticias 
 tags:
    - ChatGPT
    - Chatbot
    - Microsoft
    - Generar imagenes
+   - Inteligencia Artificial
 ---
 
 Microsoft, ha desarrollado una nueva herramienta llamada **Visual ChatGPT**. Esta herramienta es capaz de **generar imágenes a partir de solicitudes de texto**, lo que supone un gran avance en la creación de contenido visual por inteligencia artificial.

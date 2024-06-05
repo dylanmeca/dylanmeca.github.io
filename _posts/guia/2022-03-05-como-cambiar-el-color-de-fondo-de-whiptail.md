@@ -1,8 +1,9 @@
 ---
 categories: 
-   - Linux
+   - Guía
 tags:
    - Ubuntu
+   - Linux
 ---
 
 <img src="https://dylanmeca.github.io/assets/img/whiptail-fondo.png"  alt="Imagen de fondo de whiptail">

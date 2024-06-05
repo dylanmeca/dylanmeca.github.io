@@ -1,8 +1,9 @@
 ---
 permalink: /about/
+layout: archive
 title: "Sobre"
 excerpt: "Sobre el autor Dylan Meca"
-toc: true
+author_profile: true 
 ---
 
 <div style="text-align: center;">

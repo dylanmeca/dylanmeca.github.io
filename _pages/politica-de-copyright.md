@@ -3,7 +3,7 @@ title: "Politica de Copyright"
 permalink: /politica-de-copyright
 excerpt: "Politica de copyright del Blog"
 layout: archive
-toc: true
+author_profile: true
 ---
 
 Este blog es propiedad de **Dylan Meca**, quien posee la autoría de todo el contenido disponible. Asimismo, este blog está bajo la licencia **[CC BY-NC-ND 4.0](https://raw.githubusercontent.com/dylanmeca/dylanmeca.github.io/main/LICENSE)**, por lo que se deben cumplir los siguientes términos:

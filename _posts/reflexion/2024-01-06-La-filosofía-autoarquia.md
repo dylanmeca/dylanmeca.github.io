@@ -1,8 +1,9 @@
 ---
 categories: 
-   - Opinión
+   - Reflexión
 tags:
    - Filosofía
+   - Opinión
 ---
 
 > La filosofía autoarquía es racionalista; por lo tanto, su definición de espiritualidad, así como sus prácticas y su método de búsqueda de la verdad, son racionales.

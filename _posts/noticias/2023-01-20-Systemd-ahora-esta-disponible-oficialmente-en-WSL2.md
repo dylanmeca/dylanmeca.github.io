@@ -1,10 +1,11 @@
 ---
 categories: 
-    - Linux
-    - Windows
+    - Noticias
 tags:
     - WSL2
     - Systemd
+    - Linux 
+    - Windows 
 ---
 
 

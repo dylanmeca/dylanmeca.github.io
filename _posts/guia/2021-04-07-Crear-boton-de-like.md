@@ -1,6 +1,6 @@
 ---
 categories: 
-   - Web
+   - Guía
 ---
 
 Para tener un boton de like debes ir a la página: [https://likebtn.com/en/](https://likebtn.com/en/)

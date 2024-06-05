@@ -1,10 +1,11 @@
 ---
+toc: true 
 categories: 
-   - Universidad
-   - Opinión
+   - Temario 
 tags:
    - UNMSM
-   - Temario
+   - Universidad 
+   - Opinión 
    - Examen
    - Admisión
    - Temas

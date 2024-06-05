@@ -3,10 +3,10 @@ title: "Politica de comentarios"
 permalink: /politica-de-comentarios
 excerpt: "Politica de comentarios del Blog"
 layout: archive
-toc: true
+author_profile: true 
 ---
 
-# Índice
+## Índice
 
 1. [Identificación de usuario](#identificación-de-usuario)
 2. [Contenido de los comentarios](#contenido-de-los-comentarios)
@@ -15,19 +15,19 @@ toc: true
 
 Esta política de comentarios tiene como objetivo garantizar un ambiente respetuoso y constructivo para todos los usuarios que deseen participar en nuestras discusiones. Agradecemos su participación y esperamos que sus comentarios sean pertinentes y enriquecedores para la comunidad.
 
-# Identificación de usuario
+## Identificación de usuario
 
 Para participar en la sección de comentarios de nuestro blog, los usuarios deben registrarse y utilizar su cuenta de Disqus. De esta forma, podemos garantizar que los comentarios provienen de personas reales y no de bots o cuentas falsas. Además, esto permite una mayor transparencia y responsabilidad en las discusiones.
 
-# Contenido de los comentarios
+## Contenido de los comentarios
 
 Los comentarios deben ser relevantes para el tema en cuestión y respetuosos con todos los usuarios. No se permiten comentarios difamatorios, insultantes, discriminatorios, obscenos, amenazantes, spam o publicidad no solicitada. También se prohíben los comentarios que infrinjan derechos de autor o que contengan información falsa o engañosa.
 
-# Retirada de comentarios
+## Retirada de comentarios
 
 Nos reservamos el derecho de eliminar cualquier comentario que viole nuestra política de comentarios. Los comentarios que sean denunciados por otros usuarios también serán revisados y retirados si se determina que infringen nuestras reglas. Además, si un usuario reincide en comentarios inapropiados o ilegales, podemos tomar medidas adicionales.
 
-# Responsabilidad del usuario
+## Responsabilidad del usuario
 
 Los usuarios son responsables de sus comentarios y deben asegurarse de que no infrinjan las leyes o los derechos de terceros. Al publicar un comentario, los usuarios aceptan que el contenido es de su autoría y que no viola derechos de autor, marcas comerciales o secretos comerciales de terceros. 
 

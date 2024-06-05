@@ -1,9 +1,6 @@
 ---
 categories: 
-   - Ciberseguridad
-   - Hardware
-   - Windows
-   - Criptografía
+   - Noticias
 tags:
    - Microsoft
    - Vulnerabilidad
@@ -11,6 +8,10 @@ tags:
    - Malware
    - BitLocker
    - RaspberryPi
+   - Ciberseguridad
+   - Hardware
+   - Windows
+   - Criptografía
 ---
 
 BitLocker, el sistema de cifrado nativo de Windows ampliamente utilizado para proteger datos en unidades de almacenamiento, ha sido objeto de una reveladora vulnerabilidad que compromete su seguridad en ciertos escenarios. Un hacker ético, conocido como Stacksmashing, demostró cómo es posible burlar la seguridad de BitLocker en Windows 10 y 11 utilizando una Raspberry Pi y aprovechando una vulnerabilidad en el conector bus LPC.
