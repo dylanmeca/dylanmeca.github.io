@@ -2,11 +2,11 @@
 main:
   #  title: "Inicio"
   #  url: https://dylanmeca.github.io/
-  - title: "Sobre"
+  - title: "🧑‍💼 Sobre"
     url: https://dylanmeca.github.io/about/
-  - title: "Categorías"
+  - title: "📦 Categorías"
     url: https://dylanmeca.github.io/categories/
-  - title: "Etiquetas"
+  - title: "🏷️ Etiquetas"
     url: https://dylanmeca.github.io/tags/
   # - title: "Sitemap"
   #   url: /sitemap/
