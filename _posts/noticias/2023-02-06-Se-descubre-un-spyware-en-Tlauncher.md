@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_sticky: true
 categories: 
    - Noticias 
 tags:
