@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Sobre"
 excerpt: "Sobre el autor Dylan Meca"
-layout: archive
+layout: posts
 toc: true
 ---
 
