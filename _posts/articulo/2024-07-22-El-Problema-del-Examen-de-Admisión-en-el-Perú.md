@@ -16,5 +16,7 @@ admisión para los estudiantes en las universidades.
 [Ver PDF](/assets/pdfs/El-Problema-del-Examen-de-Admisi%C3%B3n-en-el-Per%C3%BA.pdf)
 
 **Keywords:** Examen de Admisión, Conocimiento, Perú, Educación, Universidad, Competencias
+
 **Autor:** Dylan Meca
+
 **Licencia:** CC BY-NC-ND 4.0
