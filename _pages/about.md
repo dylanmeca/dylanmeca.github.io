@@ -26,6 +26,7 @@ author_profile: true
 ## Enlaces
 
 * [👷 Repositorios](https://github.com/dylanmeca?tab=repositories)
+* [📖 Publicaciones](/publications/)
   
 ## Políticas
 
