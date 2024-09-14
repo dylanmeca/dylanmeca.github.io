@@ -62,3 +62,5 @@ Las variables se componen de los siguientes elementos:
 3. **Dirección de memoria (RAM)**: La información se almacena en la memoria RAM.
 
 En resumen, una variable permite almacenar un valor proporcionado, y se compone de un nombre, un tipo de dato y una dirección de memoria.
+
+## Tipos de Memoria
