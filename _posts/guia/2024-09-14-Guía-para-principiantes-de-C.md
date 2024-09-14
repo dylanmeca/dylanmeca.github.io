@@ -38,3 +38,5 @@ El código comienza siguiendo paso a paso las siguientes indicaciones:
 - Dentro de los paréntesis se proporciona la información de entrada, y dentro de las llaves se encuentra el cuerpo de la función, donde nos encontramos con la función ```printf```, que se encarga de imprimir información en la consola. Esta información se proporciona dentro de los paréntesis.
 
 - ```\n``` es un carácter especial que se conoce como salto de línea. 
+
+En resumen, el código se encarga de mostrar el mensaje ```hello world``` en la consola, seguido de un salto de línea. Cada línea de código debe terminar con un punto y coma, excepto cuando se utilizan llaves en las funciones, ya que estas indican que se está abriendo y cerrando un bloque de código. Además, los comentarios en el lenguaje C se realizan con ```// o /* */```, los cuales no se ejecutan y solo sirven para comentar ciertas partes del código.
