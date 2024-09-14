@@ -2,7 +2,7 @@
 categories: 
    - Noticias
 tags:
-   - C++
+   - C/C++
    - Lenguajes seguros
    - NSA
    - Programación
