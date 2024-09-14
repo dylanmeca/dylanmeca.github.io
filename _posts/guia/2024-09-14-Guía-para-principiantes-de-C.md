@@ -40,3 +40,25 @@ El código comienza siguiendo paso a paso las siguientes indicaciones:
 - ```\n``` es un carácter especial que se conoce como salto de línea. 
 
 En resumen, el código se encarga de mostrar el mensaje ```hello world``` en la consola, seguido de un salto de línea. Cada línea de código debe terminar con un punto y coma, excepto cuando se utilizan llaves en las funciones, ya que estas indican que se está abriendo y cerrando un bloque de código. Además, los comentarios en el lenguaje C se realizan con ```// o /* */```, los cuales no se ejecutan y solo sirven para comentar ciertas partes del código.
+
+# Variables
+Las variables nos permiten almacenar datos o información proporcionada en nuestros programas. Por ejemplo:
+
+```c
+int numero = 7;
+```
+
+También es posible declarar primero la variable y luego asignarle un valor, como en el siguiente ejemplo:
+
+```c
+int numero;
+numero = 7;
+```
+
+Las variables se componen de los siguientes elementos:
+
+1. **Nombre**: Nos permite acceder fácilmente a la dirección de memoria, lo cual es muy importante para poder almacenar y recuperar información.
+2. **Valor almacenado (tipo de dato)**: Para almacenar un valor, es necesario especificar un tipo de dato.
+3. **Dirección de memoria (RAM)**: La información se almacena en la memoria RAM.
+
+En resumen, una variable permite almacenar un valor proporcionado, y se compone de un nombre, un tipo de dato y una dirección de memoria.
