@@ -64,3 +64,4 @@ Las variables se componen de los siguientes elementos:
 En resumen, una variable permite almacenar un valor proporcionado, y se compone de un nombre, un tipo de dato y una dirección de memoria.
 
 ## Tipos de Memoria
+![Memoria-RAM-ROM](/assets/img/guia-clanguage/Memoria-RAM-ROM.png)
