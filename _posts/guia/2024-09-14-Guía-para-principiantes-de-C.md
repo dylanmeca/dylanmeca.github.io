@@ -69,3 +69,5 @@ En resumen, una variable permite almacenar un valor proporcionado, y se compone 
 - La **ROM (Read Only Memory)**, una memoria de solo lectura que almacena información una única vez y, a partir de ese momento, no es posible escribir más información.
 
 - La **RAM (Random Access Memory)**, conocida en español como **memoria de acceso aleatorio**, nos permite almacenar la información cambiante de nuestros programas, ya que es una memoria de lectura y escritura, como, por ejemplo, las variables.
+
+## ¿Cómo se almacena la información en la Memoria RAM?
