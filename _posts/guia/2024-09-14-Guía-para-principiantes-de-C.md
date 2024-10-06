@@ -65,3 +65,7 @@ En resumen, una variable permite almacenar un valor proporcionado, y se compone 
 
 ## Tipos de Memoria
 ![Memoria-RAM-ROM](/assets/img/guia-clanguage/Memoria-RAM-ROM.png)
+
+- La **ROM (Read Only Memory)**, una memoria de solo lectura que almacena información una única vez y, a partir de ese momento, no es posible escribir más información.
+
+- La **RAM (Random Access Memory)**, conocida en español como **memoria de acceso aleatorio**, nos permite almacenar la información cambiante de nuestros programas, ya que es una memoria de lectura y escritura, como, por ejemplo, las variables.
