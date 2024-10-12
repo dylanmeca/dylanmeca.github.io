@@ -22,7 +22,6 @@ author_profile: true
   - 🐍 En 2020, aprendí las bases y la programación orientada a objetos a través del lenguaje de programación [Python](https://www.python.org/) mediante un curso que finalizó el 8 de diciembre. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
   - 🌐 Para fortalecer mis conocimientos en redes y poder dedicarme a la creación de software que haga uso de ellas, pero entendiendo mejor su funcionamiento, en el año 2021 aprendí Fundamentos de Redes, finalizando el curso el 14 de noviembre. [🏆Certificado](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
   - 🗣️ El 8 de octubre de 2024, tuve el honor de participar en el [Evento Impulso](https://institutodecomunicacion.com/), organizado por [ICO](https://www.abc.es/economia/adria-sola-pastor-experto-comunicacion-cotizado-habla-20241008124306-nt.html), donde aprendí su método de comunicación. [🏆Certificado](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/certificadoICO-EventoImpulso.jpeg)
-  - 📚 Actualmente, estoy aprendiendo [C](https://en.cppreference.com/w/c/language), con el propósito de aprender a crear mejores herramientas.
   
 ## Enlaces
 
