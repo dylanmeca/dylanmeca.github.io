@@ -75,3 +75,5 @@ En la memoria RAM tenemos varias celdas, y la sección donde se almacenan las va
 
 - **¿Por qué se llama stack?** Porque vamos agregando nuestros elementos uno a uno conforme se van definiendo y ejecutando en el programa. Estos elementos se apilan como en una pila, pero en orden inverso: a medida que dejan de usarse, se retiran según el orden en que fueron añadidos.
   - Estos elementos se van agregando hacia la parte inferior, y conforme se eliminan, se van retirando de la memoria.
+
+> El concepto de memoria heap se utiliza principalmente en lenguajes de programación orientados a objetos, mientras que el lenguaje C solo soporta programación estructurada. Esto significa que las instrucciones de código se ejecutan únicamente de forma secuencial, por lo que se ejecutan una a una, desde la parte superior hasta la parte inferior del código.
