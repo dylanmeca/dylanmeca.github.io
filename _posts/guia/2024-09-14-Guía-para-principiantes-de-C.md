@@ -71,3 +71,7 @@ En resumen, una variable permite almacenar un valor proporcionado, y se compone 
 - La **RAM (Random Access Memory)**, conocida en español como **memoria de acceso aleatorio**, nos permite almacenar la información cambiante de nuestros programas, ya que es una memoria de lectura y escritura, como, por ejemplo, las variables.
 
 ## ¿Cómo se almacena la información en la Memoria RAM?
+En la memoria RAM tenemos varias celdas, y la sección donde se almacenan las variables de nuestro programa se conoce como **stack (pila en español)**. A medida que vamos creando variables en nuestro programa, utilizamos cierta cantidad de celdas.
+
+- **¿Por qué se llama stack?** Porque vamos agregando nuestros elementos uno a uno conforme se van definiendo y ejecutando en el programa. Estos elementos se apilan como en una pila, pero en orden inverso: a medida que dejan de usarse, se retiran según el orden en que fueron añadidos.
+  - Estos elementos se van agregando hacia la parte inferior, y conforme se eliminan, se van retirando de la memoria.
