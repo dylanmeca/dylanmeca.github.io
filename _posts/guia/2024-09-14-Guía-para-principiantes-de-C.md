@@ -77,3 +77,5 @@ En la memoria RAM tenemos varias celdas, y la sección donde se almacenan las va
   - Estos elementos se van agregando hacia la parte inferior, y conforme se eliminan, se van retirando de la memoria.
 
 > El concepto de memoria heap se utiliza principalmente en lenguajes de programación orientados a objetos, mientras que el lenguaje C solo soporta programación estructurada. Esto significa que las instrucciones de código se ejecutan únicamente de forma secuencial, por lo que se ejecutan una a una, desde la parte superior hasta la parte inferior del código.
+
+![memory-stack](/assets/img/guia-clanguage/memory-stack.png)
