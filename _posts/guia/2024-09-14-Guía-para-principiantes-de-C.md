@@ -80,8 +80,12 @@ En la memoria RAM tenemos varias celdas, y la sección donde se almacenan las va
 
 ![memory-stack](/assets/img/guia-clanguage/memory-stack.png)
 
-- Si creamos una variable: `int a = 10;`  
-  1. La variable `a` apunta a una dirección de memoria o a una celda específica en la RAM. A cada una de estas celdas se le asigna una referencia, conocida como dirección de memoria, la cual se representa como un valor hexadecimal.  
-  2. Si a una variable se le asigna el valor de otra (por ejemplo, `int c = a;`), el valor original de la primera variable no se ve afectado. Esto se debe a que es una **copia por valor**, lo que significa que la variable `c` almacena el valor en una posición de memoria diferente.  
+Tenemos un identificador o nombre para la variable, al que, mediante el operador igual, le asignamos un valor. Lo que sucede en memoria es que este valor se almacena precisamente en la celda donde está ubicada la variable, en el espacio de memoria reservado específicamente para guardar su valor.
 
-> Al utilizar variables, se crea un identificador que apunta a una dirección de memoria específica, y además, se almacena un valor en la celda correspondiente a ese identificador.
+- **Si creamos una variable:** `int a = 10;` 
+  1. La variable `a` apunta a una dirección de memoria o a una celda específica en la RAM. A cada una de estas celdas se le asigna una referencia, conocida como dirección de memoria, la cual se representa como un valor hexadecimal.  
+  2. Si a una variable se le asigna el valor de otra **(por ejemplo, `int c = a;`)**, el valor original de la primera variable no se ve afectado. Esto se debe a que es una **copia por valor**, lo que significa que la variable `c` almacena el valor en una posición de memoria diferente.  
+
+> Al utilizar variables, se crea un **identificador** que apunta a una dirección de memoria específica, y además, se almacena un valor en la celda correspondiente a ese identificador. Cada valor asignado a una variable corresponde a un tipo de dato, y este tipo ocupa una cantidad específica de bytes en la memoria.
+  - Al nombre de una variable también se le conoce como identificador.
+
