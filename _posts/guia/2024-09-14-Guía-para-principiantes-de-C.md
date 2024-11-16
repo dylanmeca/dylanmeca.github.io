@@ -79,3 +79,9 @@ En la memoria RAM tenemos varias celdas, y la sección donde se almacenan las va
 > El concepto de memoria heap se utiliza principalmente en lenguajes de programación orientados a objetos, mientras que el lenguaje C solo soporta programación estructurada. Esto significa que las instrucciones de código se ejecutan únicamente de forma secuencial, por lo que se ejecutan una a una, desde la parte superior hasta la parte inferior del código.
 
 ![memory-stack](/assets/img/guia-clanguage/memory-stack.png)
+
+- Si creamos una variable: `int a = 10;`  
+  1. La variable `a` apunta a una dirección de memoria o a una celda específica en la RAM. A cada una de estas celdas se le asigna una referencia, conocida como dirección de memoria, la cual se representa como un valor hexadecimal.  
+  2. Si a una variable se le asigna el valor de otra (por ejemplo, `int c = a;`), el valor original de la primera variable no se ve afectado. Esto se debe a que es una **copia por valor**, lo que significa que la variable `c` almacena el valor en una posición de memoria diferente.  
+
+> Al utilizar variables, se crea un identificador que apunta a una dirección de memoria específica, y además, se almacena un valor en la celda correspondiente a ese identificador.
