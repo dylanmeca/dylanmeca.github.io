@@ -87,5 +87,3 @@ Tenemos un identificador o nombre para la variable, al que, mediante el operador
   2. Si a una variable se le asigna el valor de otra **(por ejemplo, `int c = a;`)**, el valor original de la primera variable no se ve afectado. Esto se debe a que es una **copia por valor**, lo que significa que la variable `c` almacena el valor en una posición de memoria diferente.  
 
 > Al utilizar variables, se crea un **identificador** que apunta a una dirección de memoria específica, y además, se almacena un valor en la celda correspondiente a ese identificador. Cada valor asignado a una variable corresponde a un tipo de dato, y este tipo ocupa una cantidad específica de bytes en la memoria.
-  - Al nombre de una variable también se le conoce como identificador.
-
