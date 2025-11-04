@@ -22,8 +22,8 @@ Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los li
   
 ## Enlaces
 
-* [Repositorios](https://github.com/dylanmeca?tab=repositories)
-* [Publicaciones](/publications/)
+* [GitHub](https://github.com/dylanmeca)
+* [Google Académico](https://scholar.google.com/citations?user=nu_sTMgAAAAJ&hl=es)
   
 ## Políticas
 
