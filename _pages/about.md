@@ -18,7 +18,7 @@ author_profile: true
   </a>
 </div>
 
-<p>Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía orientada al crecimiento personal. Además, produzco contenido educativo que comparto en mi canal de YouTube sobre tecnología y otras de mis pasiones. Creo que aprender y compartir son las mejores formas de crecer, porque todo maestro también es un aprendiz.</p>
+<p>Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía enfocada al crecimiento personal. Asimismo, comparto contenido educativo en este canal, principalmente sobre tecnología, pero también sobre otras de mis pasiones. Creo que aprender y compartir son las mejores formas de crecer, porque todo maestro sigue siendo un aprendiz.</p>
 
 <blockquote>
   "El hombre que no tiene ningún barniz de filosofía va por la vida prisionero de los prejuicios que se derivan del sentido común"  
