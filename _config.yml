@@ -20,7 +20,7 @@ title                    : "Dylan Meca"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dylan Meca"
-description              : "Soy Dylan Meca, programador y matemático autodidacta, apasionado por las nuevas tecnologías y la investigación de diversos conocimientos"
+description              : "Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía orientada al crecimiento personal. Asimismo, me dedico a producir contenido educativo que comparto en este canal sobre tecnología y mis otras pasiones. Creo que aprender y compartir son las mejores formas de crecer, porque todo maestro también es un aprendiz."
 url                      : "https://dylanmeca.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dylanmeca/dylanmeca.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Dylan Meca"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Soy Dylan Meca, programador 👨‍💻 y matemático autodidacta ✏️, apasionado por las nuevas tecnologías y la investigación de diversos conocimientos 📚"
+  bio              : "Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía orientada al crecimiento personal. Asimismo, me dedico a producir contenido educativo que comparto en este canal sobre tecnología y mis otras pasiones. Creo que aprender y compartir son las mejores formas de crecer, porque todo maestro también es un aprendiz."
   location         : 
   email            : "dylanmeca70@gmail.com"
   links:
