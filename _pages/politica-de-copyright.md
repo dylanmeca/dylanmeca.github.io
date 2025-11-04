@@ -21,13 +21,3 @@ Este blog es propiedad de **Dylan Meca**, quien posee la autoría de todo el con
 ### **Avisos:**
 - No tiene que cumplir con la licencia para elementos del material que sean de dominio público o donde su uso esté permitido por una [excepción o limitación](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-exception-or-limitation) aplicable.
 - No se dan garantías. Es posible que la licencia no le otorgue todos los permisos necesarios para el uso previsto. Por ejemplo, otros derechos como [publicidad](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-publicity-privacy-or-moral-rights), [privacidad o derechos morales](https://creativecommons.org/licenses/by-nc-nd/4.0/#ref-publicity-privacy-or-moral-rights) pueden limitar la forma en que utiliza el material.
-
-<p xmlns:cc="http://creativecommons.org/ns#">Este blog tiene la licencia 
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=selecter-v1" target="_blank" rel="licencia noopener noreferrer" style="display:inline-block;">
-        CC BY-NC-ND 4.0
-        <img style="height:22px!important; margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
-        <img style="height:22px!important; margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
-        <img style="height:22px!important; margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="">
-        <img style="height:22px!important; margin-left:3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt="">
-    </a>
-</p>
