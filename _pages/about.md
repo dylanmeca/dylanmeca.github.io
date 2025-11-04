@@ -9,7 +9,7 @@ author_profile: true
 <div style="text-align: center;">
      <img src="/assets/img/avatar-dylan.png" width="225px" height="225px">
      <h2>Dylan Meca</h2>
-     <h4>Ciencias de la Computación</h4>
+     <h3>Ciencias de la Computación</h3>
 </div>
 
 <div style="text-align: left;">
