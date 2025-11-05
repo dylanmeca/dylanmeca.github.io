@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Dylan Meca"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía enfocada al crecimiento personal 🌱🌳"
+  bio              : "Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía enfocada al crecimiento personal 🌱"
   location         : 
   email            : "dylanmeca70@gmail.com"
   links:
