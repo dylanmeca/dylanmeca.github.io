@@ -9,8 +9,8 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/assets/img/avatar-dylan.png" alt="Dylan Meca" width="225" height="225" 
        style="border-radius: 50%; 
-              box-shadow: 0 0 20px #ffffff, 0 0 40px #39FF14;">
-
+              box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff;">
+  
   <h2 style="color: #39FF14; text-shadow: 0 0 10px #39FF14; margin: 5px 0 0 0;">Dylan Meca</h2>
   <h3 style="color: #39FF14; text-shadow: 0 0 10px #39FF14; margin: 0;">🌱 Ciencias de la Computación 💻</h3>
 
