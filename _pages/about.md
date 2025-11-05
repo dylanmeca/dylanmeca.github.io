@@ -48,32 +48,13 @@ author_profile: true
 - [GitHub](https://github.com/dylanmeca)
 - [Google Académico](https://scholar.google.com/citations?user=nu_sTMgAAAAJ&hl=es)
 
-<style>
-  ul.politicas {
-    list-style: none;
-    padding-left: 0;
-  }
+## Políticas
 
-  ul.politicas li::before {
-    content: attr(data-emoji);
-    display: inline-block;
-    width: 1.5em; 
-    margin-left: -1.5em;
-  }
-</style>
+- [Política de Privacidad]({{ 'politica-de-privacidad' | relative_url }})  
+  Esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del blog.
 
-<h2>Políticas</h2>
-<ul class="politicas">
-  <li data-emoji="🔒">
-    <a href="{{ 'politica-de-privacidad' | relative_url }}">Política de Privacidad</a>  
-    Esta política describe cómo recopilamos, usamos y protegemos la información personal que puedas proporcionarnos a través del blog.
-  </li>
-  <li data-emoji="💬">
-    <a href="{{ 'politica-de-comentarios' | relative_url }}">Política de Comentarios</a>  
-    Esta política establece las reglas que debes seguir al comentar en el blog, incluyendo el uso apropiado del lenguaje.
-  </li>
-  <li data-emoji="©️">
-    <a href="{{ 'politica-de-copyright' | relative_url }}">Política de Copyright</a>  
-    Esta política establece las reglas que debes seguir al utilizar el contenido del blog, incluyendo el respeto a los derechos de autor y el cumplimiento de la licencia CC BY-NC-ND 4.0.
-  </li>
-</ul>
+- [Política de Comentarios]({{ 'politica-de-comentarios' | relative_url }})  
+  Esta política establece las reglas que debes seguir al comentar en el blog, incluyendo el uso apropiado del lenguaje.
+
+- [Política de Copyright]({{ 'politica-de-copyright' | relative_url }})  
+  Esta política establece las reglas que debes seguir al utilizar el contenido del blog, incluyendo el respeto a los derechos de autor y el cumplimiento de la licencia CC BY-NC-ND 4.0.
