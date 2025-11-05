@@ -6,16 +6,31 @@ excerpt: "Sobre el autor Dylan Meca"
 author_profile: true
 ---
 
-<div style="text-align: center;">
-  <img src="/assets/img/avatar-dylan.png" alt="Dylan Meca" width="225" height="225" style="border-radius: 50%;">
-  <h2>Dylan Meca</h2>
-  <h3>Ciencias de la Computación</h3>
-</div>
+<div style="text-align: center; animation: neon-glow 1.5s ease-in-out infinite alternate;">
+  <style>
+    @keyframes neon-glow {
+      from {
+        text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14;
+      }
+      to {
+        text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #39FF14, 0 0 60px #39FF14;
+      }
+    }
+  </style>
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight" alt="dylanmeca" style="max-width: 100%;">
-  </a>
+  <img src="/assets/img/avatar-dylan.png" alt="Dylan Meca" width="225" height="225" 
+       style="border-radius: 50%; 
+              box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #39FF14, 0 0 60px #39FF14;">
+  
+  <h2 style="color: #39FF14;">Dylan Meca</h2>
+  <h3 style="color: #39FF14;">Ciencias de la Computación</h3>
+
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight" 
+           alt="dylanmeca" style="max-width: 100%; border: 2px solid #39FF14; border-radius: 10px;">
+    </a>
+  </div>
 </div>
 
 <p>Soy Dylan Meca, estudiante de ciencias de la computación, apasionado por los libros y la filosofía enfocada al crecimiento personal. Asimismo, comparto contenido educativo en mi canal de YouTube, principalmente sobre tecnología, pero también sobre otras de mis pasiones. Creo que aprender y compartir son las mejores formas de crecer, porque todo maestro sigue siendo un aprendiz.</p>
