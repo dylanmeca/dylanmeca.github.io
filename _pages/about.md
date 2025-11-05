@@ -16,13 +16,22 @@ author_profile: true
         text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #39FF14, 0 0 60px #39FF14;
       }
     }
+
+    @keyframes slow-neon {
+      from {
+        text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14;
+      }
+      to {
+        text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #39FF14, 0 0 60px #39FF14;
+      }
+    }
   </style>
 
   <img src="/assets/img/avatar-dylan.png" alt="Dylan Meca" width="225" height="225" 
        style="border-radius: 50%; 
               box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #39FF14, 0 0 60px #39FF14;">
-  
-  <h2 style="color: #39FF14;">Dylan Meca</h2>
+
+  <h2 style="color: #39FF14; animation: slow-neon 3s ease-in-out infinite alternate;">Dylan Meca</h2>
   <h3 style="color: #39FF14;">Ciencias de la Computación</h3>
 
   <div style="margin-top: 20px;">
