@@ -23,24 +23,21 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
   --font-family: "Times New Roman", Times, serif;
   --font-size: 12pt;
   --line-height: 2;
-  font-family: var(--font-family);
-  font-size: var(--font-size);
-  line-height: var(--line-height);
-  color:#000;
 }
 
 .apa7 .references{
   list-style: none;
   padding: 0;
   margin: 0;
-  max-width: 900px;
 }
 
 .apa7 .reference{
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
   margin: 0 0 0.5em 0;
   padding-left: var(--hanging-indent);
   text-indent: calc(var(--hanging-indent) * -1);
-  display: block;
 }
 
 .apa7 .reference .author{
@@ -67,31 +64,17 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 }
 
 .apa7 .references-heading{
-  text-align: left;
+  font-family: var(--font-family);
+  font-size: var(--font-size);
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.5em;
 }
 
-.apa7 .reference a:focus {
-  outline: 2px dashed #444;
-  outline-offset: 2px;
-}
-
 @media (max-width: 600px){
   .apa7{
-    font-size: 11pt;
-  }
-  .apa7 .reference{
-    padding-left: 1cm;
-    text-indent: -1cm;
-  }
-}
-
-@media print {
-  .apa7 .reference a {
-    color: black;
-    text-decoration: none;
+    --hanging-indent: 1cm;
+    --font-size: 11pt;
   }
 }
 </style>
