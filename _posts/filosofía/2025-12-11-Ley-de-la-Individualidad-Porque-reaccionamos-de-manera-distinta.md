@@ -20,9 +20,6 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 <style>
 .apa7{
   --hanging-indent: 1.27cm;
-  --font-family: "Times New Roman", Times, serif;
-  --font-size: 12pt;
-  --line-height: 2;
 }
 
 .apa7 .references{
@@ -32,9 +29,6 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 }
 
 .apa7 .reference{
-  font-family: var(--font-family);
-  font-size: var(--font-size);
-  line-height: var(--line-height);
   margin: 0 0 0.5em 0;
   padding-left: var(--hanging-indent);
   text-indent: calc(var(--hanging-indent) * -1);
@@ -58,8 +52,6 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 }
 
 .apa7 .references-heading{
-  font-family: var(--font-family);
-  font-size: var(--font-size);
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.5em;
@@ -68,7 +60,6 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 @media (max-width: 600px){
   .apa7{
     --hanging-indent: 1cm;
-    --font-size: 11pt;
   }
 }
 </style>
