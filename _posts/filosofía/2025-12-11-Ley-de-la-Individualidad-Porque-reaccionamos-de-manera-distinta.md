@@ -1,5 +1,7 @@
 ---
 title: "Ley de la Individualidad: ¿Porque reaccionamos de manera distinta?"
+toc: true
+toc_sticky: true
 categories: 
    - Filosofía 
 tags:
