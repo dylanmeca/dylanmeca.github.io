@@ -1,4 +1,5 @@
 ---
+title: Ley de la Individualidad - ¿Porque reaccionamos de manera distinta?
 categories: 
    - Filosofía 
 tags:
