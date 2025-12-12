@@ -19,14 +19,118 @@ Por otra parte, el psicólogo Gordon Allport, quien contribuyó a la teoría de 
 
 En conclusión, la ley de la individualidad establece que cada individuo posee un conjunto único de rasgos, experiencias, percepciones y niveles de madurez emocional que influyen en la manera en que interpreta y responde a cualquier situación. Por lo tanto, las generalizaciones nunca pueden definir de forma absoluta la conducta de un individuo en particular.
 
-### Referencias 
+<style>
+  :root{
+    --hanging-indent: 1.27cm; 
+    --font-family: "Times New Roman", Times, serif;
+    --font-size: 12pt;
+    --line-height: 2;
+  }
 
-**Gordon Allport.** (s.f.). *En Wikipedia*. Recuperado el 11 de diciembre de 2025, de [https://es.wikipedia.org/wiki/Gordon_Allport](https://es.wikipedia.org/wiki/Gordon_Allport)
+  body{
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    margin: 2.54cm; 
+    background:#fff;
+    color:#000;
+  }
 
-Psicología y Mente. (s.f.). *Psicología de las diferencias individuales: Qué es y qué estudia*. Psicología y Mente. [https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales](https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales)
+  .references{
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    max-width: 900px;
+  }
 
-AskPsychology. (2024). *Is there a real conflict between social psychology and personality psychology?* Reddit. [https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/](https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/)
+  .reference{
+    margin: 0 0 0.5em 0;
+    padding-left: var(--hanging-indent);
+    text-indent: calc(var(--hanging-indent) * -1);
+    display: block;
+  }
 
-Allen, B. P. (2015). *Personality theories: Development, growth, and diversity* (5.ª ed.). Routledge. [https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen](https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen)
+  .reference .author{
+    font-weight: 700;
+  }
 
+  .reference .year{
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+  }
+
+  .reference .title em{
+    font-style: italic;
+  }
+
+  .reference .source{
+    display:inline;
+  }
+
+  .reference a{
+    color: #0000EE; 
+    text-decoration: underline;
+    word-break: break-all;
+  }
+
+  .references.alphabetical {
+    /* nada especial: mantenida sin numerar */
+  }
+
+  h2.references-heading{
+    text-align: left;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+
+  .reference a:focus {
+    outline: 2px dashed #444;
+    outline-offset: 2px;
+  }
+
+  @media print {
+    .reference a {
+      color: black;
+      text-decoration: none;
+    }
+    body { margin: 1in; }
+  }
+</style>
+
+<h3 class="references-heading">Referencias</h3>
+
+<ul class="references">
+  <li class="reference">
+    <span class="author">Gordon Allport.</span>
+    <span class="year">(s.f.).</span>
+    <span class="title"><em>En Wikipedia</em>.</span>
+    <span class="source">Recuperado el 11 de diciembre de 2025, de </span>
+    <a href="https://es.wikipedia.org/wiki/Gordon_Allport" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Gordon_Allport</a>
+  </li>
+
+  <li class="reference">
+    <span class="author">Psicología y Mente.</span>
+    <span class="year">(s.f.).</span>
+    <span class="title"><em>Psicología de las diferencias individuales: Qué es y qué estudia</em>.</span>
+    <span class="source">Psicología y Mente. </span>
+    <a href="https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales" target="_blank" rel="noopener noreferrer">https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales</a>
+  </li>
+
+  <li class="reference">
+    <span class="author">AskPsychology.</span>
+    <span class="year">(2024).</span>
+    <span class="title"><em>Is there a real conflict between social psychology and personality psychology?</em></span>
+    <span class="source">Reddit. </span>
+    <a href="https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/" target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/</a>
+  </li>
+
+  <li class="reference">
+    <span class="author">Allen, B. P.</span>
+    <span class="year">(2015).</span>
+    <span class="title"><em>Personality theories: Development, growth, and diversity</em></span>
+    <span class="source">(5.ª ed.). Routledge. </span>
+    <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen" target="_blank" rel="noopener noreferrer">https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen</a>
+  </li>
+</ul>
 
