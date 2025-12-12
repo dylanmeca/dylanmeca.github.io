@@ -57,12 +57,6 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
   display:inline;
 }
 
-.apa7 .reference a{
-  color: #0000EE;
-  text-decoration: underline;
-  word-break: break-all;
-}
-
 .apa7 .references-heading{
   font-family: var(--font-family);
   font-size: var(--font-size);
