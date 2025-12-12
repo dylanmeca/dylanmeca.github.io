@@ -3,9 +3,10 @@ title: "Ley de la Individualidad: ¿Porque reaccionamos de manera distinta?"
 categories: 
    - Filosofía 
 tags:
-   - Ley de la Individualidad 
-   - Ley
-   - Individualidad 
+  - Ley de la Individualidad
+  - Diferencias Individuales
+  - Personalidad
+  - Filosofía 
 ---
 
 Actualmente, las redes sociales han propagado ideas generalizadas sobre cómo se comportan ciertos grupos, lo que da lugar, por ejemplo, a preguntas sobre cómo reacciona un determinado género, como si todos tuviéramos el mismo “manual de reacciones”. Sin embargo, esto ignora que cada persona posee una personalidad única y que las reacciones humanas no son deterministas, sino probabilísticas, ya que dependen de múltiples factores como el grado de madurez o su pensamiento propio. Es por ello, que propongo la ley de la individualidad como un concepto para entender las diferencias individuales de cada uno. 
