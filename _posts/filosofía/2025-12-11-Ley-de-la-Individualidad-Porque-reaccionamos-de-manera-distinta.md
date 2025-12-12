@@ -1,7 +1,5 @@
 ---
 title: "Ley de la Individualidad: ¿Porque reaccionamos de manera distinta?"
-toc: true
-toc_sticky: true
 categories: 
    - Filosofía 
 tags:
@@ -20,84 +18,85 @@ Por otra parte, el psicólogo Gordon Allport, quien contribuyó a la teoría de 
 En conclusión, la ley de la individualidad establece que cada individuo posee un conjunto único de rasgos, experiencias, percepciones y niveles de madurez emocional que influyen en la manera en que interpreta y responde a cualquier situación. Por lo tanto, las generalizaciones nunca pueden definir de forma absoluta la conducta de un individuo en particular.
 
 <style>
-  :root{
-    --hanging-indent: 1.27cm; 
-    --font-family: "Times New Roman", Times, serif;
-    --font-size: 12pt;
-    --line-height: 2;
-  }
+.apa7{
+  --hanging-indent: 1.27cm;
+  --font-family: "Times New Roman", Times, serif;
+  --font-size: 12pt;
+  --line-height: 2;
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  color:#000;
+}
 
-  body{
-    font-family: var(--font-family);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    margin: 2.54cm; 
-    background:#fff;
-    color:#000;
-  }
+.apa7 .references{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-width: 900px;
+}
 
-  .references{
-    list-style: none; 
-    padding: 0;
-    margin: 0;
-    max-width: 900px;
-  }
+.apa7 .reference{
+  margin: 0 0 0.5em 0;
+  padding-left: var(--hanging-indent);
+  text-indent: calc(var(--hanging-indent) * -1);
+  display: block;
+}
 
-  .reference{
-    margin: 0 0 0.5em 0;
-    padding-left: var(--hanging-indent);
-    text-indent: calc(var(--hanging-indent) * -1);
-    display: block;
-  }
+.apa7 .reference .author{
+  font-weight: 700;
+}
 
-  .reference .author{
-    font-weight: 700;
-  }
+.apa7 .reference .year{
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
 
-  .reference .year{
-    margin-left: 0.25em;
-    margin-right: 0.25em;
-  }
+.apa7 .reference .title em{
+  font-style: italic;
+}
 
-  .reference .title em{
-    font-style: italic;
-  }
+.apa7 .reference .source{
+  display:inline;
+}
 
-  .reference .source{
-    display:inline;
-  }
+.apa7 .reference a{
+  color: #0000EE;
+  text-decoration: underline;
+  word-break: break-all;
+}
 
-  .reference a{
-    color: #0000EE; 
-    text-decoration: underline;
-    word-break: break-all;
-  }
+.apa7 .references-heading{
+  text-align: left;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
 
-  .references.alphabetical {
-    /* nada especial: mantenida sin numerar */
-  }
+.apa7 .reference a:focus {
+  outline: 2px dashed #444;
+  outline-offset: 2px;
+}
 
-  h2.references-heading{
-    text-align: left;
-    font-weight: 700;
-    margin-top: 0;
-    margin-bottom: 0.5em;
+@media (max-width: 600px){
+  .apa7{
+    font-size: 11pt;
   }
+  .apa7 .reference{
+    padding-left: 1cm;
+    text-indent: -1cm;
+  }
+}
 
-  .reference a:focus {
-    outline: 2px dashed #444;
-    outline-offset: 2px;
+@media print {
+  .apa7 .reference a {
+    color: black;
+    text-decoration: none;
   }
-
-  @media print {
-    .reference a {
-      color: black;
-      text-decoration: none;
-    }
-    body { margin: 1in; }
-  }
+}
 </style>
 
+<div class="apa7">
 <h3 class="references-heading">Referencias</h3>
 
 <ul class="references">
@@ -133,4 +132,5 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
     <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen" target="_blank" rel="noopener noreferrer">https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen</a>
   </li>
 </ul>
+</div>
 
