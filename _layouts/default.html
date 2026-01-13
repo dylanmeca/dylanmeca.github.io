@@ -41,7 +41,9 @@
        {% include mathjax-custom.html %}
     {% endif %}
 
-    {% include cookie-consent.html %}
+    {% if site.cookie_consent == true %}
+       {% include cookie-consent.html %}
+    {% endif %}
 
   </body>
 </html>
