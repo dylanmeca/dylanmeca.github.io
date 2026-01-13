@@ -23,7 +23,7 @@ Utilizamos Google Analytics para recopilar información sobre las visitas y el c
 **Google Signals.** Hemos activado la recogida de datos mediante *Google Signals*. Esto permite a Google Analytics recoger información adicional sobre su tráfico y asociarla, cuando proceda, con la información que Google ya tiene de las cuentas de usuarios que han iniciado sesión y han autorizado la asociación para ver anuncios personalizados. La información de Google puede incluir, entre otros datos, la ubicación aproximada de los usuarios, historial de búsquedas, historial de YouTube y datos de sitios asociados con Google. Google Signals **no se incluirá en la identidad** para los informes de Google Analytics (es decir, no se utiliza para identificar personalmente a los usuarios en los informes de Analytics).
 
 Más información sobre Google Signals y cómo activarlo:  
-https://support.google.com/analytics/answer/9445345?hl=es
+[https://support.google.com/analytics/answer/9445345?hl=es](https://support.google.com/analytics/answer/9445345?hl=es)
 
 ## Uso de la Información
 
@@ -32,7 +32,7 @@ Toda la información recopilada a través de Google Analytics y Google Signals s
 Al activar Google Signals, cumplimos con las condiciones de las **Funciones publicitarias de Google**, incluidas las reglas sobre categorías sensibles. Asimismo, aplicamos los requisitos y limitaciones descritos por Google para las funciones publicitarias.
 
 Información sobre los requisitos y políticas de las funciones publicitarias de Google:  
-https://support.google.com/analytics/answer/2700409?hl=es
+[https://support.google.com/analytics/answer/2700409?hl=es](https://support.google.com/analytics/answer/2700409?hl=es)
 
 **Comentarios (Disqus).** En cuanto a la sección de comentarios, utilizamos Disqus para permitir la interacción entre los usuarios. La información proporcionada en la sección de comentarios se transfiere a los servidores de Disqus y se trata de acuerdo con su política de privacidad.
 
@@ -43,7 +43,7 @@ El blog de Dylan Meca puede contener enlaces a otros sitios web que pueden ser d
 El uso de servicios de terceros, como la sección de comentarios proporcionada por Disqus o las herramientas de Google (por ejemplo, Google Analytics y productos publicitarios de Google), está sujeto a sus propias políticas de privacidad. Por lo tanto, se recomienda a los usuarios que lean dichas políticas para entender cómo se manejará su información.
 
 Políticas generales de Google sobre tecnologías publicitarias y privacidad:  
-https://policies.google.com/technologies/ads?hl=es
+[https://policies.google.com/technologies/ads?hl=es](https://policies.google.com/technologies/ads?hl=es)
 
 ## Control de Información Personal
 
@@ -51,8 +51,8 @@ Toda la información recopilada será tratada con confidencialidad y protegida a
 
 Si desea evitar que su actividad en línea sea utilizada para anuncios personalizados o asociada mediante servicios como Google Signals, puede:
 
-- Gestionar la **personalización de anuncios** y los permisos desde la página de configuración de anuncios de Google: https://adssettings.google.com/?hl=es  
-- Consultar y eliminar datos en la página **Mi actividad** de Google: https://myactivity.google.com/?hl=es  
+- Gestionar la **personalización de anuncios** y los permisos desde la página de configuración de anuncios de Google: [https://adssettings.google.com/?hl=es](https://adssettings.google.com/?hl=e)
+- Consultar y eliminar datos en la página **Mi actividad** de Google: [https://myactivity.google.com/?hl=es](https://myactivity.google.com/?hl=es) 
 - Desactivar o borrar cookies en su navegador o utilizar herramientas de bloqueo de seguimiento y extensiones de privacidad.  
 - Utilizar herramientas o extensiones para bloquear la recopilación de analytics si lo desea.
 
