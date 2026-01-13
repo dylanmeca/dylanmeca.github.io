@@ -1,68 +1,7 @@
-<style>
-  #cookie-notice {
-    padding: 1rem 1.5rem;
-    display: none; /* oculto por defecto */
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    max-width: 960px; /* coincide con el ancho del contenido del blog */
-    width: calc(100% - 2rem);
-    background: #222;
-    color: rgba(255,255,255,0.95);
-    font-size: 1rem;
-    line-height: 1.4;
-    border-radius: 8px 8px 0 0;
-    box-shadow: 0 -2px 8px rgba(0,0,0,0.4);
-    z-index: 9999;
-  }
-
-  #cookie-notice span {
-    display: block;
-    margin-bottom: 0.75rem;
-  }
-
-  #cookie-notice a {
-    display: inline-block;
-    cursor: pointer;
-    margin: 0 0.25rem;
-    text-decoration: none;
-    padding: 0.5rem 0.9rem;
-    border-radius: 4px;
-    background: #0d6efd;
-    color: white;
-    font-size: 0.9rem;
-    transition: background 0.3s;
-  }
-
-  #cookie-notice a:hover {
-    background: #084298;
-  }
-
-  @media (max-width: 767px) {
-    #cookie-notice {
-      width: calc(100% - 1rem);
-      padding: 0.75rem 1rem;
-      font-size: 0.95rem;
-    }
-
-    #cookie-notice span {
-      margin-bottom: 0.5rem;
-    }
-
-    #cookie-notice a {
-      display: block;
-      width: 100%;
-      margin: 0.25rem 0;
-    }
-  }
-</style>
-
-<div id="cookie-notice" role="dialog" aria-live="polite" aria-label="Aviso de cookies">
-  <span>Usamos cookies para mejorar la funcionalidad de este blog.</span>
-  <a id="cookie-notice-accept" class="btn">Aceptar</a>
-  <a href="{{ 'politica-de-privacidad' | relative_url }}" class="btn">Más información</a>
+<div id="cookie-notice" role="dialog" aria-live="polite" aria-label="Aviso de cookies" style="display:none; text-align:center; padding:0.5rem; position:fixed; bottom:0; width:100%; z-index:9999;">
+  <span>Usamos cookies para mejorar la funcionalidad de este blog. Al continuar navegando, aceptas nuestro uso de cookies.</span>
+  <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Aceptar</a>
+  <a href="{{ 'politica-de-privacidad' | relative_url }}" class="btn btn-secondary btn-sm">Más información</a>
 </div>
 
 <script>
