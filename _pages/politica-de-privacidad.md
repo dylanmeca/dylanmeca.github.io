@@ -6,8 +6,6 @@ layout: archive
 author_profile: true
 ---
 
-# Política de privacidad
-
 ## Índice
 
 1. [Recopilación de Información](#recopilación-de-información)  
