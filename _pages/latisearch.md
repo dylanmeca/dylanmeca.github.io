@@ -72,6 +72,97 @@ author_profile: true
     filter: none !important;
     opacity: 1 !important;
   }
+
+  /* ================================
+   Google CSE – Datos estructurados
+   Modo oscuro forzado
+================================ */
+
+/* Bloques enriquecidos / especiales */
+.gsc-richsnippet,
+.gsc-richsnippet *,
+.gs-structured-data,
+.gs-structured-data * {
+  background: transparent !important;
+  background-image: none !important;
+  color: #e6e6e6 !important;
+  border-color: #2a2a2a !important;
+}
+
+/* Tablas de datos estructurados */
+.gsc-richsnippet table,
+.gsc-richsnippet tbody,
+.gsc-richsnippet thead,
+.gsc-richsnippet tr,
+.gsc-richsnippet td,
+.gsc-richsnippet th {
+  background: #0b0b0b !important;
+  background-image: none !important;
+  color: #e6e6e6 !important;
+  border-color: #333 !important;
+}
+
+/* Filas alternas que Google suele aclarar */
+.gsc-richsnippet tr:nth-child(even),
+.gsc-richsnippet tr:nth-child(odd) {
+  background: #0b0b0b !important;
+}
+
+/* Labels, claves y metadatos */
+.gsc-richsnippet th,
+.gs-structured-data-label,
+.gs-structured-data-key {
+  color: #b5b5b5 !important;
+}
+
+/* Valores */
+.gs-structured-data-value {
+  color: #e6e6e6 !important;
+}
+
+/* Ratings, estrellas, precios */
+.gs-rating,
+.gs-rating span,
+.gs-price,
+.gs-price * {
+  background: transparent !important;
+  color: #f1f1f1 !important;
+}
+
+/* Quitar fondos inline inyectados */
+.gsc-richsnippet [style*="background"],
+.gs-structured-data [style*="background"] {
+  background: #0b0b0b !important;
+  background-image: none !important;
+  color: #e6e6e6 !important;
+}
+
+/* Cajas informativas internas */
+.gsc-richsnippet .gs-info,
+.gs-structured-data-box {
+  background: #111 !important;
+  border: 1px solid #2a2a2a !important;
+}
+
+/* Iconos SVG dentro de datos estructurados */
+.gsc-richsnippet svg,
+.gs-structured-data svg {
+  fill: currentColor !important;
+  color: #e6e6e6 !important;
+}
+
+/* Enlaces dentro de datos estructurados */
+.gsc-richsnippet a,
+.gs-structured-data a {
+  color: #9ad1ff !important;
+}
+
+/* Hover */
+.gsc-richsnippet a:hover,
+.gs-structured-data a:hover {
+  color: #c4e3ff !important;
+  text-decoration: underline;
+}
 </style>
 
 <script>
