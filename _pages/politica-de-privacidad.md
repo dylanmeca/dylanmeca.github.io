@@ -23,7 +23,7 @@ Utilizamos Google Analytics para recopilar información sobre las visitas y el c
 **Google Signals.** Hemos activado la recogida de datos mediante *Google Signals*. Esto permite a Google Analytics recoger información adicional sobre su tráfico y asociarla, cuando proceda, con la información que Google ya tiene de las cuentas de usuarios que han iniciado sesión y han autorizado la asociación para ver anuncios personalizados. La información de Google puede incluir, entre otros datos, la ubicación aproximada de los usuarios, historial de búsquedas, historial de YouTube y datos de sitios asociados con Google. Google Signals **no se incluirá en la identidad** para los informes de Google Analytics (es decir, no se utiliza para identificar personalmente a los usuarios en los informes de Analytics).
 
 Más información sobre Google Signals y cómo activarlo:  
-[https://support.google.com/analytics/answer/9445345?hl=es](https://support.google.com/analytics/answer/9445345?hl=es)
+[Enlace](https://support.google.com/analytics/answer/9445345?hl=es)
 
 ## Uso de la Información
 
@@ -32,7 +32,7 @@ Toda la información recopilada a través de Google Analytics y Google Signals s
 Al activar Google Signals, cumplimos con las condiciones de las **Funciones publicitarias de Google**, incluidas las reglas sobre categorías sensibles. Asimismo, aplicamos los requisitos y limitaciones descritos por Google para las funciones publicitarias.
 
 Información sobre los requisitos y políticas de las funciones publicitarias de Google:  
-[https://support.google.com/analytics/answer/2700409?hl=es](https://support.google.com/analytics/answer/2700409?hl=es)
+[Enlace](https://support.google.com/analytics/answer/2700409?hl=es)
 
 **Comentarios (Disqus).** En cuanto a la sección de comentarios, utilizamos Disqus para permitir la interacción entre los usuarios. La información proporcionada en la sección de comentarios se transfiere a los servidores de Disqus y se trata de acuerdo con su política de privacidad.
 
