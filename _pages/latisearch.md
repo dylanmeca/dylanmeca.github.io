@@ -30,6 +30,27 @@ author_profile: true
 .gsc-search-button-v2 svg {
   fill: #ffffff !important;
 }
+
+.gssb_c {
+  background-color: #1e1e1e !important;
+  border: 1px solid #333 !important;
+}
+
+.gssb_e,
+.gssb_f {
+  background-color: #1e1e1e !important;
+  color: #ffffff !important;
+}
+
+.gssb_e:hover,
+.gssb_f:hover,
+.gssb_i {
+  background-color: #333 !important;
+}
+
+.gssb_a {
+  color: #8ab4f8 !important;
+}
 </style>
 
 <script async src="https://cse.google.com/cse.js?cx=24e3134e524a04543">
