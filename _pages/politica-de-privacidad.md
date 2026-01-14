@@ -43,7 +43,7 @@ El blog de Dylan Meca puede contener enlaces a otros sitios web que pueden ser d
 El uso de servicios de terceros, como la sección de comentarios proporcionada por Disqus o las herramientas de Google (por ejemplo, Google Analytics y productos publicitarios de Google), está sujeto a sus propias políticas de privacidad. Por lo tanto, se recomienda a los usuarios que lean dichas políticas para entender cómo se manejará su información.
 
 Políticas generales de Google sobre tecnologías publicitarias y privacidad:  
-[https://policies.google.com/technologies/ads?hl=es](https://policies.google.com/technologies/ads?hl=es)
+[Enlace](https://policies.google.com/technologies/ads?hl=es)
 
 ## Control de Información Personal
 
