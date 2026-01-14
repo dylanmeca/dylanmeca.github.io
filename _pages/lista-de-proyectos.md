@@ -18,6 +18,3 @@ author_profile: true
 
 - [p2pchak](https://p2pchak.vercel.app/)<br /> 
   p2pchak es un servicio de comunicación privada que utiliza la tecnología P2P, ofreciendo chats temporales en línea sin necesidad de registro.
-
-- [LatiSearch]({{ 'latisearch' | relative_url }})<br /> 
-  Buscador latinoamericano de diversas fuentes primarias.
