@@ -11,24 +11,24 @@ author_profile: true
   <img src="/assets/img/avatar-dylan.png" alt="Dylan Meca" width="225" height="225"
        style="
          border-radius: 50%;
-         box-shadow: 0 0 15px #ffffff, 0 0 30px #ffffff, 0 0 45px #ffffff;
-         transition: box-shadow 0.3s ease-in-out;
+         border: 4px solid #39FF14;
+         box-shadow: none;
        ">
 
   <h2 style="
          color: #39FF14;
-         text-shadow: 0 0 8px #39FF14, 0 0 15px #39FF14;
+         text-shadow: none;
          margin: 5px 0 0 0;
        ">Dylan Meca</h2>
   <h3 style="
          color: #39FF14;
-         text-shadow: 0 0 8px #39FF14, 0 0 15px #39FF14;
+         text-shadow: none;
          margin: 0;
        ">🌱 Ciencias de la Computación 💻</h3>
 
   <div style="margin-top: 20px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=dylanmeca&theme=tokyonight"
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img src="https://streak-stats.demolab.com?user=dylanmeca&theme=tokyonight-duo&locale=es"
            alt="dylanmeca"
            style="max-width: 100%; border: 2px solid #39FF14; border-radius: 10px;">
     </a>
