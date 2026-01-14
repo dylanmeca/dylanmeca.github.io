@@ -39,6 +39,7 @@ author_profile: true
 
 - [GitHub](https://github.com/dylanmeca)
 - [Google Académico](https://scholar.google.com/citations?user=nu_sTMgAAAAJ&hl=es)
+- [Lista de Proyectos]({{ 'lista-de-proyectos' | relative_url }})
 
 ## Políticas
 
