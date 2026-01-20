@@ -13,6 +13,10 @@ author_profile: true
   Proximamente.<br /> 
   MecaU es una biblioteca C que te permitirá gestionar la memoria automáticamente, sin necesidad de un recolector de basura.
 
+- [LatiSearch](https://cse.google.com/cse?cx=24e3134e524a04543)<br />
+  Año 2026.<br /> 
+  Buscador personalizado de diversas fuentes, organizado mediante filtros de búsqueda académica, datos e investigación.
+
 - [p2pchak](https://p2pchak.vercel.app/)<br />
   Año 2026.<br /> 
   p2pchak es un servicio de comunicación privada que utiliza la tecnología P2P, ofreciendo chats temporales en línea sin necesidad de registro.
