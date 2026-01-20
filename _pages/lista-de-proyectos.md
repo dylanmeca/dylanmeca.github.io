@@ -7,11 +7,8 @@ author_profile: true
 ---
 
 - [koalcy](https://github.com/dylanmeca/koalcy)<br /> 
-  Proximamente.
-
-- [OwnSearch](https://cse.google.com/cse?cx=50d5b93e3663a4f4f)<br />
-  Año 2026.<br /> 
-  Buscador personalizado enfocado en resultados directos y recientes. 
+  Proximamente.<br />
+  koalcy es una librería de C++ enfocada en la manipulación y análisis de datos, que proporciona varias funciones estadísticas para su uso, entre otras características.
 
 - [LatiSearch](https://cse.google.com/cse?cx=24e3134e524a04543)<br />
   Año 2026.<br /> 
