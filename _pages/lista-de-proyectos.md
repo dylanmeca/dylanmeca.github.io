@@ -9,9 +9,9 @@ author_profile: true
 - [koalcy](https://github.com/dylanmeca/koalcy)<br /> 
   Proximamente.
 
-- [MecaU](https://github.com/dylanmeca/MecaU)<br /> 
-  Proximamente.<br /> 
-  MecaU es una biblioteca C que te permitirá gestionar la memoria automáticamente, sin necesidad de un recolector de basura.
+- [OwnSearch](https://cse.google.com/cse?cx=50d5b93e3663a4f4f)<br />
+  Año 2026.<br /> 
+  Buscador personalizado enfocado en resultados directos y recientes. 
 
 - [LatiSearch](https://cse.google.com/cse?cx=24e3134e524a04543)<br />
   Año 2026.<br /> 
