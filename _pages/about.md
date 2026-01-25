@@ -28,9 +28,9 @@ author_profile: true
 
 </div>
 
-<p>Actualmente soy estudiante universitario, mi interés por la programación comenzó en el año 2019, y desde entonces he aprendido de manera autodidacta, desarrollando diversos proyectos, algunos de los cuales pueden encontrarse en mis repositorios de GitHub.
+<p>Actualmente soy estudiante universitario, mi interés por la programación comenzó en el año 2019, y desde entonces he aprendido de manera autodidacta, desarrollando diversos proyectos, algunos de los cuales pueden encontrarse en mis repositorios de GitHub.<br />
 
-Durante mi proceso de aprendizaje he optado por un enfoque poco convencional: busco entender profundamente los conceptos, recreándolos por mi cuenta para construir una visión más completa. Además, me apasiona aprender múltiples habilidades clave, como la comunicación y el liderazgo de equipos, que son esenciales en el siglo XXI. 
+Durante mi proceso de aprendizaje he optado por un enfoque poco convencional: busco entender profundamente los conceptos, recreándolos por mi cuenta para construir una visión más completa. Además, me apasiona aprender múltiples habilidades clave, como la comunicación y el liderazgo de equipos, que son esenciales en el siglo XXI.<br />
 
 Asimismo, comparto contenido educativo en mi canal de YouTube, principalmente sobre mis conocimientos en tecnología, pero también sobre otras de mis pasiones, porque compartir lo que uno aprende es también profundizar aun más en el conocimiento.</p>
 
