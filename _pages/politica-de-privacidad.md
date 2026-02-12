@@ -11,6 +11,7 @@ author_profile: true
 1. [Recopilación de Información](#recopilación-de-información)  
 2. [Uso de la Información](#uso-de-la-información)  
 3. [Enlaces y Servicios de Terceros](#enlaces-y-servicios-de-terceros)  
+   3.1 [Publicidad y anuncios (Google AdSense)](#publicidad-y-anuncios-google-adsense)  
 4. [Control de Información Personal](#control-de-información-personal)  
 5. [Actualización de la Política de Privacidad](#actualización-de-la-política-de-privacidad)
 
@@ -45,14 +46,25 @@ El uso de servicios de terceros, como la sección de comentarios proporcionada p
 Políticas generales de Google sobre tecnologías publicitarias y privacidad:  
 [Enlace](https://policies.google.com/technologies/ads?hl=es)
 
+### Publicidad y anuncios (Google AdSense)
+
+- Este sitio utiliza Google AdSense y puede mostrar anuncios proporcionados por Google y otros proveedores de redes publicitarias.  
+- Los **proveedores externos, incluidos Google, utilizan cookies** (o identificadores similares) para servir anuncios basados en visitas anteriores a este sitio y/o a otros sitios de Internet. La información que recopilan puede incluir datos sobre su dispositivo, identificadores publicitarios, información de navegación y páginas visitadas, y puede usarse para personalizar anuncios o medir su rendimiento.  
+- El uso publicitario de Google permite que Google y sus socios muestren anuncios basados en su actividad (por ejemplo, intereses o visitas anteriores).  
+- Si desea evitar que su actividad en línea sea utilizada para anuncios personalizados por parte de Google, puede:
+  - Ajustar la **personalización de anuncios** en la página de configuración de anuncios de Google: https://adssettings.google.com/?hl=es  
+  - O bien optar por no participar en la publicidad basada en intereses a través de la opción de la industria disponible en https://www.aboutads.info/choices/  
+- En las jurisdicciones donde la ley lo exige (por ejemplo, países del EEE/UE/UK), solicitaremos y registraremos el **consentimiento** del usuario antes de almacenar o acceder a cookies relacionadas con publicidad y tracking, y utilizaremos mecanismos de gestión de consentimiento (CMP) o las herramientas de "Privacidad y mensajería" de AdSense según corresponda.  
+- Además de Google, otros terceros pueden servir anuncios y recopilar datos; estos terceros están sujetos a sus propias políticas y prácticas de privacidad. Se recomienda consultar las políticas de los proveedores publicitarios listados por dichos servicios para ver el detalle de los terceros que pueden operar en el sitio.
+
 ## Control de Información Personal
 
 Toda la información recopilada será tratada con confidencialidad y protegida adecuadamente. Dylan Meca no venderá, compartirá ni distribuirá la información recopilada sin el consentimiento de los usuarios, salvo que sea requerido por una orden judicial.
 
 Si desea evitar que su actividad en línea sea utilizada para anuncios personalizados o asociada mediante servicios como Google Signals, puede:
 
-- Gestionar la **personalización de anuncios** y los permisos desde la página de configuración de anuncios de Google: [https://adssettings.google.com/?hl=es](https://adssettings.google.com/?hl=e)
-- Consultar y eliminar datos en la página **Mi actividad** de Google: [https://myactivity.google.com/?hl=es](https://myactivity.google.com/?hl=es) 
+- Gestionar la **personalización de anuncios** y los permisos desde la página de configuración de anuncios de Google: [https://adssettings.google.com/?hl=es](https://adssettings.google.com/?hl=e)  
+- Consultar y eliminar datos en la página **Mi actividad** de Google: [https://myactivity.google.com/?hl=es](https://myactivity.google.com/?hl=es)  
 - Desactivar o borrar cookies en su navegador o utilizar herramientas de bloqueo de seguimiento y extensiones de privacidad.  
 - Utilizar herramientas o extensiones para bloquear la recopilación de analytics si lo desea.
 
