@@ -1,55 +1,41 @@
-<div class="ad-only-click-block" style="width:100%; display:flex; justify-content:center;">
-  <iframe
-    srcdoc='
-      <!doctype html>
-      <html>
-        <head>
-          <meta charset="utf-8">
-          <style>
-            html, body {
-              margin: 0;
-              padding: 0;
-              overflow: hidden;
-              background: transparent;
-            }
-          </style>
-        </head>
-        <body>
-          <script>
-            (function () {
-              const originalOpen = window.open;
-              let userGestureUntil = 0;
-              const ALLOW_WINDOW_MS = 1200;
+<div class="ad-only-click-block">
+  <style>
+    .ad-only-click-block {
+      pointer-events: auto !important;
+    }
+  </style>
 
-              function markUserGesture() {
-                userGestureUntil = Date.now() + ALLOW_WINDOW_MS;
-              }
+  <script>
+    (function () {
+      const originalOpen = window.open;
+      let userGestureUntil = 0;
+      const ALLOW_WINDOW_MS = 1200;
 
-              ["click", "auxclick", "pointerdown", "touchstart", "keydown"].forEach((event) => {
-                window.addEventListener(event, markUserGesture, true);
-              });
+      function markUserGesture() {
+        userGestureUntil = Date.now() + ALLOW_WINDOW_MS;
+      }
 
-              window.open = function (url, target, features) {
-                const hasUserGesture =
-                  (window.navigator.userActivation && window.navigator.userActivation.isActive) ||
-                  Date.now() <= userGestureUntil;
+      const block = document.currentScript?.parentElement;
+      if (block) {
+        ['click', 'auxclick', 'pointerdown', 'touchstart', 'keydown'].forEach((event) => {
+          block.addEventListener(event, markUserGesture, true);
+        });
+      }
 
-                if (hasUserGesture) {
-                  return originalOpen.call(window, url, target, features);
-                }
+      window.open = function (url, target, features) {
+        const hasUserGesture =
+          (window.navigator.userActivation && window.navigator.userActivation.isActive) ||
+          Date.now() <= userGestureUntil;
 
-                return null;
-              };
-            })();
-          </script>
+        if (hasUserGesture) {
+          return originalOpen.call(window, url, target, features);
+        }
 
-          <script async="async" data-cfasync="false" src="https://pl29080988.profitablecpmratenetwork.com/8afb6869fa9a5cbc3dbc434a6afc0381/invoke.js"></script>
-          <div id="container-8afb6869fa9a5cbc3dbc434a6afc0381"></div>
-        </body>
-      </html>
-    '
-    sandbox="allow-scripts allow-popups"
-    style="border:0; width:100%; height:90px; display:block; overflow:hidden;"
-    scrolling="no"
-  ></iframe>
+        return null;
+      };
+    })();
+  </script>
+
+  <script async="async" data-cfasync="false" src="https://pl29080988.profitablecpmratenetwork.com/8afb6869fa9a5cbc3dbc434a6afc0381/invoke.js"></script>
+  <div id="container-8afb6869fa9a5cbc3dbc434a6afc0381"></div>
 </div>
