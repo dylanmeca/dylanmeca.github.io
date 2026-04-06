@@ -1,9 +1,20 @@
 <div class="ad-only-click-block" style="width:100%; display:flex; justify-content:center;">
   <style>
     .ad-only-click-block {
-      pointer-events: none;
+      pointer-events: auto;
     }
   </style>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll("a[href]").forEach(function(link) {
+        if (link.hostname !== window.location.hostname) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      });
+    });
+  </script>
 
   <script async="async" data-cfasync="false" src="https://pl29080988.profitablecpmratenetwork.com/8afb6869fa9a5cbc3dbc434a6afc0381/invoke.js"></script>
   <div id="container-8afb6869fa9a5cbc3dbc434a6afc0381"></div>
