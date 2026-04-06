@@ -1,215 +1,104 @@
 <style>
   #cookie-notice {
+    display: none;
     position: fixed;
-    inset: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     z-index: 9999;
-    display: none;
-    align-items: center;
-    justify-content: center;
-    padding: 16px;
-    background: rgba(0, 0, 0, 0.18);
-  }
-
-  #cookie-notice .cookie-card {
-    width: min(100%, 760px);
-    background: var(--color-bg, #fff);
-    color: var(--color-fg, #222);
-    border-radius: 22px;
-    box-shadow: 0 18px 55px rgba(0, 0, 0, 0.22);
-    overflow: hidden;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-  }
-
-  #cookie-notice .cookie-top {
-    padding: 18px 22px 0;
+    background-color: var(--color-bg, #1a1a2e);
+    color: var(--color-fg);
+    padding: 0.75rem 1rem;
     text-align: center;
+    box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.18);
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
   }
 
-  #cookie-notice .cookie-kicker {
-    margin: 0 0 8px;
-    font-size: 0.92rem;
-    line-height: 1.35;
-    opacity: 0.82;
-    font-weight: 500;
-  }
-
-  #cookie-notice .cookie-title {
-    margin: 0;
-    font-size: clamp(1.25rem, 2.4vw, 1.7rem);
-    line-height: 1.2;
-    font-weight: 700;
-  }
-
-  #cookie-notice .cookie-body {
-    padding: 18px 22px 0;
-  }
-
-  #cookie-notice details {
-    display: block;
-  }
-
-  #cookie-notice summary {
-    list-style: none;
-  }
-
-  #cookie-notice summary::-webkit-details-marker {
-    display: none;
-  }
-
-  #cookie-notice .cookie-summary {
-    width: 100%;
+  #cookie-notice .cookie-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
-    gap: 10px;
-    cursor: pointer;
-    user-select: none;
-    margin: 0 0 12px;
-    padding: 0;
-    background: transparent;
-    border: 0;
-    font: inherit;
-    color: inherit;
-    text-align: left;
-    font-weight: 600;
-  }
-
-  #cookie-notice .cookie-arrow {
-    width: 28px;
-    height: 28px;
-    min-width: 28px;
-    display: inline-flex;
-    align-items: center;
     justify-content: center;
-    border-radius: 50%;
-    border: 1px solid rgba(0, 0, 0, 0.14);
-    transition: transform 0.2s ease;
-    font-size: 0.9rem;
-    line-height: 1;
-  }
-
-  #cookie-notice details[open] .cookie-arrow {
-    transform: rotate(180deg);
+    gap: 0.75rem;
+    flex-wrap: wrap;
   }
 
   #cookie-notice .cookie-text {
+    font-size: 0.95rem;
+    line-height: 1.45;
     margin: 0;
-    font-size: 0.98rem;
-    line-height: 1.6;
-    opacity: 0.96;
   }
 
-  #cookie-notice .cookie-text + .cookie-text {
-    margin-top: 12px;
-  }
-
-  #cookie-notice .cookie-text a {
-    color: inherit;
-    text-decoration: underline;
-    text-underline-offset: 2px;
-  }
-
-  #cookie-notice .cookie-actions {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 16px;
-    padding: 18px 22px 22px;
-  }
-
-  #cookie-notice .cookie-btn {
+  #cookie-notice .btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-height: 48px;
-    padding: 12px 18px;
+    min-height: 2.25rem;
+    padding: 0.45rem 0.9rem;
     border-radius: 999px;
-    border: 0;
-    cursor: pointer;
     text-decoration: none;
-    font: inherit;
-    font-weight: 700;
-    transition: transform 0.15s ease, opacity 0.15s ease, box-shadow 0.15s ease;
-    box-shadow: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+    white-space: nowrap;
   }
 
-  #cookie-notice .cookie-btn:hover {
+  #cookie-notice .btn:hover {
     transform: translateY(-1px);
-    opacity: 0.97;
+    opacity: 0.95;
   }
 
-  #cookie-notice .cookie-btn:focus {
+  #cookie-notice .btn:focus {
     outline: 2px solid currentColor;
     outline-offset: 2px;
   }
 
-  #cookie-notice .cookie-btn-secondary,
-  #cookie-notice .cookie-btn-primary {
-    background: var(--color-primary, #1f66d1);
+  #cookie-notice .btn-primary {
+    background: var(--color-primary, #2563eb);
     color: #fff;
+  }
+
+  #cookie-notice .btn-secondary {
+    background: transparent;
+    color: var(--color-fg);
+    border-color: rgba(255, 255, 255, 0.25);
   }
 
   @media (max-width: 640px) {
     #cookie-notice {
-      padding: 10px;
-      align-items: flex-end;
+      padding: 0.9rem 0.8rem;
     }
 
-    #cookie-notice .cookie-card {
+    #cookie-notice .cookie-wrap {
+      gap: 0.6rem;
+    }
+
+    #cookie-notice .cookie-text {
       width: 100%;
-      border-radius: 20px 20px 14px 14px;
+      text-align: center;
+      font-size: 0.92rem;
     }
 
-    #cookie-notice .cookie-top {
-      padding: 16px 16px 0;
-    }
-
-    #cookie-notice .cookie-body {
-      padding: 16px 16px 0;
-    }
-
-    #cookie-notice .cookie-actions {
-      grid-template-columns: 1fr;
-      gap: 10px;
-      padding: 16px;
+    #cookie-notice .btn {
+      flex: 1 1 100%;
+      max-width: 320px;
     }
   }
 </style>
 
 <div id="cookie-notice" role="dialog" aria-live="polite" aria-label="Aviso de cookies">
-  <div class="cookie-card">
-    <div class="cookie-top">
-      <p class="cookie-kicker">Te damos la bienvenida al Blog</p>
-      <h2 class="cookie-title">Este sitio web solicita tu consentimiento para usar tus datos personales con los siguientes fines:</h2>
-    </div>
+  <div class="cookie-wrap">
+    <span class="cookie-text">Usamos cookies para mejorar la experiencia de los usuarios en este blog.</span>
 
-    <div class="cookie-body">
-      <details open>
-        <summary class="cookie-summary">
-          <span class="cookie-arrow">⌄</span>
-          <span>Más información</span>
-        </summary>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm" href="#">Aceptar</a>
 
-        <p class="cookie-text">
-          Tus datos personales se tratarán y la información de tu dispositivo (cookies, identificadores únicos y otros datos en el dispositivo) podrá ser almacenada, consultada por o partes y compartida con ellos, o bien usada específicamente por este sitio. Tanto nosotros como nuestros partners podemos usar datos de geolocalización.
-        </p>
-
-        <p class="cookie-text">
-          Es posible que algunos proveedores traten tus datos personales en virtud de un interés legítimo, algo a lo que puedes oponerte gestionando tus opciones a continuación. En la parte inferior de esta página o en el menú del sitio, busca un enlace para gestionar o retirar el consentimiento en la configuración de privacidad y cookies.
-        </p>
-      </details>
-    </div>
-
-    <div class="cookie-actions">
-      <a
-        href="https://dylanmeca.github.io/politica-de-privacidad#control-de-información-personal"
-        class="cookie-btn cookie-btn-secondary"
-      >
-        Opciones
-      </a>
-
-      <button id="cookie-notice-accept" class="cookie-btn cookie-btn-primary" type="button">
-        Aceptar
-      </button>
-    </div>
+    <a href="{{ 'politica-de-privacidad' | relative_url }}" class="btn btn-secondary btn-sm">
+      Más información
+    </a>
   </div>
 </div>
 
@@ -221,10 +110,11 @@
     if (localStorage.getItem('cookieAccepted') === 'true') {
       notice.style.display = 'none';
     } else {
-      notice.style.display = 'flex';
+      notice.style.display = 'block';
     }
 
-    acceptBtn.addEventListener('click', function () {
+    acceptBtn.addEventListener('click', function (e) {
+      e.preventDefault();
       localStorage.setItem('cookieAccepted', 'true');
       notice.style.display = 'none';
     });
