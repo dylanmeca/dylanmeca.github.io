@@ -1,11 +1,55 @@
-<div class="ad-only-click-block">
-  <style>
-    .ad-only-click-block,
-    .ad-only-click-block * {
-      pointer-events: none !important;
-    }
-  </style>
+<div class="ad-only-click-block" style="width:100%; display:flex; justify-content:center;">
+  <iframe
+    srcdoc='
+      <!doctype html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <style>
+            html, body {
+              margin: 0;
+              padding: 0;
+              overflow: hidden;
+              background: transparent;
+            }
+          </style>
+        </head>
+        <body>
+          <script>
+            (function () {
+              const originalOpen = window.open;
+              let userGestureUntil = 0;
+              const ALLOW_WINDOW_MS = 1200;
 
-  <script async="async" data-cfasync="false" src="https://pl29080988.profitablecpmratenetwork.com/8afb6869fa9a5cbc3dbc434a6afc0381/invoke.js"></script>
-  <div id="container-8afb6869fa9a5cbc3dbc434a6afc0381"></div>
+              function markUserGesture() {
+                userGestureUntil = Date.now() + ALLOW_WINDOW_MS;
+              }
+
+              ["click", "auxclick", "pointerdown", "touchstart", "keydown"].forEach((event) => {
+                window.addEventListener(event, markUserGesture, true);
+              });
+
+              window.open = function (url, target, features) {
+                const hasUserGesture =
+                  (window.navigator.userActivation && window.navigator.userActivation.isActive) ||
+                  Date.now() <= userGestureUntil;
+
+                if (hasUserGesture) {
+                  return originalOpen.call(window, url, target, features);
+                }
+
+                return null;
+              };
+            })();
+          </script>
+
+          <script async="async" data-cfasync="false" src="https://pl29080988.profitablecpmratenetwork.com/8afb6869fa9a5cbc3dbc434a6afc0381/invoke.js"></script>
+          <div id="container-8afb6869fa9a5cbc3dbc434a6afc0381"></div>
+        </body>
+      </html>
+    '
+    sandbox="allow-scripts allow-popups"
+    style="border:0; width:100%; height:90px; display:block; overflow:hidden;"
+    scrolling="no"
+  ></iframe>
 </div>
