@@ -5,5 +5,173 @@ search: false
 
 @charset "utf-8";
 
+/* Color principal personalizado */
+$primary-color: #A68B5B;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+/* Colores base */
+$base00: #1A1718;  // Fondo negro cálido
+$base01: #252226;  // Fondo secundario
+$base02: #302C30;  // Selección
+$base03: #746F72;  // Elementos atenuados
+$base04: #969598;  // Comentarios
+$base05: #E3DFDB;  // Texto marfil
+$base06: #F0EBE5;  // Texto claro
+$base07: #FFF7EC;  // Blanco cálido
+
+/* Resaltado de sintaxis */
+$base08: #E59698;  // Rojo suave
+$base09: #DCA275;  // Cobre
+$base0a: #D8BC7C;  // Dorado antiguo
+$base0b: #A6C98C;  // Verde salvia
+$base0c: #2DD4BF;  // Turquesa
+$base0d: #86BFD9;  // Azul suave
+$base0e: #C5A4D8;  // Lavanda apagada
+$base0f: #BFA184;  // Bronce
+
 @import "minimal-mistakes"; // main partials
+
+/* Textos y párrafos */
+body {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Títulos principales: estilo gótico */
+h1,
+.page__title,
+.archive__subtitle {
+  font-family: "UnifrakturCook", Georgia, serif;
+}
+
+/* Títulos secundarios */
+h2, h3, h4, h5, h6,
+.archive__item-title,
+.site-title,
+.author__name {
+  font-family: "Cinzel", Georgia, serif;
+}
+
+/* Citas */
+blockquote {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
+}
+
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  font-family: "Cinzel", Georgia, serif;
+}
+
+/* Subtítulo debajo del nombre */
+.site-subtitle {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Biografía, ubicación y redes sociales */
+.sidebar .author__bio,
+.sidebar .author__urls-wrapper,
+.sidebar .author__urls,
+.sidebar p,
+.sidebar li {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Redes sociales y copyright */
+.page__footer-follow,
+.page__footer-follow li,
+.page__footer-follow a,
+.page__footer-copyright,
+.page__footer-copyright a {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Etiqueta SEGUIR */
+.page__footer-follow strong {
+  font-family: "Cinzel", Georgia, serif;
+}
+
+/* Texto escrito en el buscador */
+.search-content .search-input {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Texto de ejemplo: Términos de búsqueda... */
+.search-content .search-input::placeholder {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Encabezado del TOC */
+.toc .nav__title {
+    font-family: "Cinzel", Georgia, serif;
+}
+
+/* Enlaces del TOC */
+.toc__menu a {
+    font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Nombre del autor en la biografía */
+.sidebar .author__content .author__name {
+    font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Enlaces de las entradas */
+.list__item .archive__item-title a {
+  color: #D8C5A2;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+/* Efecto al pasar el cursor */
+.list__item .archive__item-title a:hover,
+.list__item .archive__item-title a:focus-visible {
+  color: #D8BC7C;
+}
+
+/* Descripción */
+.list__item .archive__item-excerpt {
+  color: #D6D0CB;
+}
+
+/* Tiempo de lectura */
+.list__item .page__meta {
+  color: #A9A19C;
+}
+
+/* Tiempo de lectura */
+.list__item .page__meta {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Enlaces: dorado suave */
+.page__content a:not(.btn):not(.toc a) {
+  color: #D8BC7C;
+}
+
+/* Etiquetas, categorías y fecha: encabezados */
+.page__taxonomy strong,
+.page__date strong {
+  font-family: "Cinzel", Georgia, serif;
+}
+
+/* Etiquetas y categorías */
+.page__taxonomy-item {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Fecha de actualización */
+.page__date time {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+/* Tiempo de lectura de las publicaciones */
+.page__meta-readtime {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+.highlighter-rouge pre,
+figure.highlight pre {
+  color-scheme: dark;
+  scrollbar-color: #746F72 #1A1718;
+}

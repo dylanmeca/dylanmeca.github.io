@@ -1,12 +1,8 @@
 # main links
 main:
-  #  title: "Inicio"
-  #  url: https://dylanmeca.github.io/
   - title: "🧑‍💼 Sobre"
-    url: https://dylanmeca.github.io/about/
+    url: /about/
   - title: "📦 Categorías"
-    url: https://dylanmeca.github.io/categories/
+    url: /categories/
   - title: "🏷️ Etiquetas"
-    url: https://dylanmeca.github.io/tags/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /tags/

@@ -1,9 +1,31 @@
 <!-- start custom head snippets -->
 
-{% if page.tags and page.categories %}
-  <meta name="keywords" content="{{ page.tags | concat: page.categories | join: ', ' | escape }}">
+{% assign keywords = page.tags | join: ", " %}
+{% assign categories = page.categories | join: ", " %}
+
+{% if keywords != blank and categories != blank %}
+  {% assign keywords = keywords | append: ", " %}
 {% endif %}
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+{% assign keywords = keywords | append: categories | downcase | escape %}
+
+{% if keywords != blank %}
+  <meta name="keywords" content="{{ keywords }}">
+{% endif %}
+
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link
+  href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&amp;family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;family=UnifrakturCook:wght@700&amp;display=swap"
+  rel="stylesheet">
+
+<!-- MathJax -->
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 <!-- end custom head snippets -->
