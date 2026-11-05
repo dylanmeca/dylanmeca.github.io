@@ -19,7 +19,7 @@ En conclusión, la ley de la individualidad establece que cada individuo posee u
 
 <div class="apa-references">
 
-  <h2>Referencias</h2>
+  <h2 id="referencias">Referencias</h2>
 
   <p class="apa-reference">
     Gordon Allport. (s.f.).
