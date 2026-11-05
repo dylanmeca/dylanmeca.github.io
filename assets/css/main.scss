@@ -226,6 +226,11 @@ blockquote {
   }
 }
 
+.apa-references a {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
 .highlighter-rouge pre,
 figure.highlight pre {
   color-scheme: dark;
