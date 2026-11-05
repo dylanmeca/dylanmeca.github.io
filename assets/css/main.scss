@@ -181,6 +181,51 @@ blockquote {
   font-family: "Cinzel", Georgia, serif;
 }
 
+/* APA7 */
+.apa-references {
+  line-height: 2;
+  text-align: left;
+  color: inherit;
+}
+
+/* Encabezado: Referencias */
+.apa-references h2 {
+  font-weight: 700;
+  line-height: 2;
+  text-align: center;
+  text-transform: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+/* Entradas bibliográficas */
+.apa-references .apa-reference {
+  line-height: 2;
+  text-align: left;
+
+  /* Sangría francesa de 1,27 cm */
+  padding-left: 1.27cm;
+  text-indent: -1.27cm;
+
+  /* Sin separación adicional */
+  margin: 0;
+}
+
+/* Títulos de obras en cursiva */
+.apa-references em,
+.apa-references cite {
+  font-style: italic;
+}
+
+/* Formato de impresión */
+@media print {
+  .apa-references {
+    break-before: page;
+    color: #000;
+  }
+}
+
 .highlighter-rouge pre,
 figure.highlight pre {
   color-scheme: dark;
