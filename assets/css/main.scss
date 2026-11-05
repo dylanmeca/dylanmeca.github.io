@@ -170,6 +170,17 @@ blockquote {
   font-family: "Cormorant Garamond", Georgia, serif;
 }
 
+/* Botón "Seguir" del perfil del autor */
+.author__urls-wrapper .btn {
+  font-family: "Cinzel", Georgia, serif;
+}
+
+/* Paginación: números y botones */
+.pagination ul li a,
+.pagination--pager {
+  font-family: "Cinzel", Georgia, serif;
+}
+
 .highlighter-rouge pre,
 figure.highlight pre {
   color-scheme: dark;
