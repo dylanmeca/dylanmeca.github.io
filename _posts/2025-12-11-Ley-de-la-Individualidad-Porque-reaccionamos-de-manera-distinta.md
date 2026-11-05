@@ -16,3 +16,37 @@ En primer lugar, la psicología de las diferencias individuales, orientada al es
 Por otra parte, el psicólogo Gordon Allport, quien contribuyó a la teoría de los rasgos de la personalidad, se opuso a la idea de que las personas pueden clasificarse según un pequeño número de dimensiones, porque argumentaba que cada individuo es único y se distingue por un conjunto particular de rasgos. A la vez, debemos recordar que, estadísticamente, los promedios no determinan el comportamiento de los individuos concretos, porque no podemos tomar un promedio y asumir que una persona seleccionada al azar reaccionará de la misma manera, debido a que cada individuo puede enfrentar la misma situación de forma distinta. Lo único que puede afirmarse es que, en conjunto, es estadísticamente probable que alguien elegido al azar tienda a comportarse cerca del promedio. Sin embargo, esta idea deja de lado todas las cualidades propias de la personalidad y los procesos mentales que influyen en las decisiones de cada persona, como su carácter y otros rasgos individuales.
 
 En conclusión, la ley de la individualidad establece que cada individuo posee un conjunto único de rasgos, experiencias, percepciones y niveles de madurez emocional que influyen en la manera en que interpreta y responde a cualquier situación. Por lo tanto, las generalizaciones nunca pueden definir de forma absoluta la conducta de un individuo en particular.
+
+<div class="apa-references">
+
+  <h2>Referencias</h2>
+
+  <p class="apa-reference">
+    Gordon Allport. (s.f.).
+    <em>En Wikipedia</em>.
+    Recuperado el 11 de diciembre de 2025, de
+    <a href="https://es.wikipedia.org/wiki/Gordon_Allport" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Gordon_Allport</a>
+  </p>
+
+  <p class="apa-reference">
+    Psicología y Mente. (s.f.).
+    <em>Psicología de las diferencias individuales: Qué es y qué estudia</em>.
+    Psicología y Mente.
+    <a href="https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales" target="_blank" rel="noopener noreferrer">https://psicologiaymente.com/psicologia/psicologia-diferencias-individuales</a>
+  </p>
+
+  <p class="apa-reference">
+    AskPsychology. (2024).
+    <em>Is there a real conflict between social psychology and personality psychology?</em>
+    Reddit.
+    <a href="https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/" target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/askpsychology/comments/1g26f6j/is_there_a_real_conflict_between_social/</a>
+  </p>
+
+  <p class="apa-reference">
+    Allen, B. P. (2015).
+    <em>Personality theories: Development, growth, and diversity</em>
+    (5.ª ed.). Routledge.
+    <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen" target="_blank" rel="noopener noreferrer">https://www.taylorfrancis.com/books/mono/10.4324/9781315665115/personality-theories-bem-allen</a>
+  </p>
+
+</div>
