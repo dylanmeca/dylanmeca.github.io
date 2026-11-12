@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-<img src="/assets/images/whiptail-fondo.png"  alt="Imagen de fondo de whiptail">
+<img src="/assets/images/post/whiptail-fondo.png"  alt="Imagen de fondo de whiptail">
 
 En esta ocasión lo cambiaremos de color morado a azul. Para eso nesecitamos cambiar la paleta de colores de Ubuntu a la original. 
 
