@@ -387,6 +387,12 @@ blockquote {
   }
 }
 
+/* Separacion suave entre publicaciones en los archivos de categorias y etiquetas.
+   No modifica la portada ni las publicaciones relacionadas. */
+.taxonomy__section .entries-list > .list__item + .list__item {
+  margin-top: 1.25rem;
+}
+
 .highlighter-rouge pre,
 figure.highlight pre {
   color-scheme: dark;
