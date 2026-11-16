@@ -6,39 +6,44 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% assign imagen = '' %}
+{% assign tiene_imagen = false %}
 {% assign url_imagen = '' %}
 {% assign contenido_html = post.content | markdownify %}
-{% assign fragmentos_imagen = contenido_html | split: '<img ' %}
 
-{% if fragmentos_imagen.size > 1 %}
-  {% assign primera_etiqueta_img = fragmentos_imagen[1] | split: '>' | first %}
-  {% assign fragmentos_src = primera_etiqueta_img | split: 'src="' %}
-  {% if fragmentos_src.size > 1 %}
-    {% assign imagen = fragmentos_src[1] | split: '"' | first | strip %}
-  {% else %}
-    {% assign fragmentos_src = primera_etiqueta_img | split: "src='" %}
+{% if contenido_html contains '<img ' %}
+  {% assign fragmentos_imagen = contenido_html | split: '<img ' %}
+  {% for fragmento in fragmentos_imagen offset: 1 %}
+    {% assign etiqueta_imagen = fragmento | split: '>' | first %}
+    {% assign origen_imagen = '' %}
+    {% assign fragmentos_src = etiqueta_imagen | split: 'src="' %}
     {% if fragmentos_src.size > 1 %}
-      {% assign imagen = fragmentos_src[1] | split: "'" | first | strip %}
+      {% assign origen_imagen = fragmentos_src[1] | split: '"' | first | strip %}
+    {% else %}
+      {% assign fragmentos_src = etiqueta_imagen | split: "src='" %}
+      {% if fragmentos_src.size > 1 %}
+        {% assign origen_imagen = fragmentos_src[1] | split: "'" | first | strip %}
+      {% endif %}
     {% endif %}
-  {% endif %}
-{% endif %}
 
-{% if imagen != blank %}
-  {% assign prefijo_imagen = imagen | slice: 0, 2 %}
-  {% if imagen contains '://' or prefijo_imagen == '//' or imagen contains 'data:' %}
-    {% assign url_imagen = imagen %}
-  {% else %}
-    {% assign url_imagen = imagen | relative_url %}
-  {% endif %}
+    {% if origen_imagen != blank %}
+      {% assign prefijo_imagen = origen_imagen | slice: 0, 2 %}
+      {% if origen_imagen contains '://' or prefijo_imagen == '//' or origen_imagen contains 'data:' %}
+        {% assign url_imagen = origen_imagen %}
+      {% else %}
+        {% assign url_imagen = origen_imagen | relative_url %}
+      {% endif %}
+      {% assign tiene_imagen = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endif %}
 
 <div class="{{ tipo }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
 
-    {% if tipo == 'grid' and url_imagen != blank %}
+    {% if tipo == 'grid' and tiene_imagen and url_imagen != blank %}
       <div class="archive__item-teaser">
-        <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
+        <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.parentElement.style.display='none'">
       </div>
     {% endif %}
 
@@ -83,9 +88,9 @@
         {% endif %}
       </div>
 
-      {% if tipo != 'grid' and url_imagen != blank %}
+      {% if tipo != 'grid' and tiene_imagen and url_imagen != blank %}
         <a class="archive__item-image" href="{{ post.url | relative_url }}" aria-label="Leer {{ post.title | escape }}">
-          <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
+          <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.parentElement.style.display='none'">
         </a>
       {% endif %}
     </div>
