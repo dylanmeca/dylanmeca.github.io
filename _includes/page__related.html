@@ -6,7 +6,7 @@
   <div class="grid__wrapper">
     {% for post in posts limit:4 %}
       {% if post.id == page.id %}{% continue %}{% endif %}
-      {% include archive-single.html locale=locale type="grid" %}
+      {% include archive-single-simple.html locale=locale type="grid" %}
     {% endfor %}
   </div>
 </div>
