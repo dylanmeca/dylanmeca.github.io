@@ -1,31 +1,87 @@
-{% assign locale = include.locale | default: site.locale %}
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
+{% assign tipo = include.type | default: 'list' %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title | markdownify | remove: '<p>' | remove: '</p>' %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item">
+{% assign imagen = nil %}
+{% assign contenido_html = post.content | markdownify %}
+{% assign fragmentos_imagen = contenido_html | split: '<img ' %}
+
+{% if fragmentos_imagen.size > 1 %}
+  {% assign primera_etiqueta_img = fragmentos_imagen[1] %}
+  {% assign fragmentos_src = primera_etiqueta_img | split: 'src="' %}
+  {% if fragmentos_src.size > 1 %}
+    {% assign imagen = fragmentos_src[1] | split: '"' | first %}
+  {% endif %}
+{% endif %}
+
+{% assign imagen = imagen | default: post.header.teaser | default: site.teaser %}
+
+{% if imagen %}
+  {% assign prefijo_imagen = imagen | slice: 0, 2 %}
+  {% if imagen contains '://' or prefijo_imagen == '//' or imagen contains 'data:' %}
+    {% assign url_imagen = imagen %}
+  {% else %}
+    {% assign url_imagen = imagen | relative_url %}
+  {% endif %}
+{% endif %}
+
+<div class="{{ tipo }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
-    {% if include.type == "grid" and teaser %}
+
+    {% if tipo == 'grid' and url_imagen %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
       </div>
     {% endif %}
+
     <h2 class="archive__item-title no_toc p-name" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a class="u-url" href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a>
+        <a class="u-url" href="{{ post.url | relative_url }}" rel="permalink">
+          <i class="fas fa-link" aria-hidden="true" title="permalink"></i>
+          <span class="sr-only">Permalink</span>
+        </a>
       {% else %}
         <a class="u-url" href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% include page__meta.html locale=locale type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt p-summary" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+
+    {% if post.date %}
+      <p class="page__meta archive__item-date">
+        <i class="fas fa-calendar-alt" aria-hidden="true"></i>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d/%m/%Y' }}</time>
+      </p>
+    {% endif %}
+
+    <div class="archive__item-body">
+      <div class="archive__item-copy">
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt p-summary" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        {% endif %}
+
+        {% if post.categories.size > 0 %}
+          <div class="archive__item-categories">
+            <i class="fas fa-tags" aria-hidden="true"></i>
+            {% for categoria in post.categories %}
+              {% if site.category_archive.type == 'liquid' and site.category_archive.path %}
+                <a class="archive__item-category" href="{{ site.category_archive.path | relative_url }}#{{ categoria | slugify }}">{{ categoria | escape }}</a>
+              {% else %}
+                <span class="archive__item-category">{{ categoria | escape }}</span>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+
+      {% if tipo != 'grid' and url_imagen %}
+        <a class="archive__item-image" href="{{ post.url | relative_url }}" aria-label="Leer {{ post.title | escape }}">
+          <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
+        </a>
+      {% endif %}
+    </div>
   </article>
 </div>
