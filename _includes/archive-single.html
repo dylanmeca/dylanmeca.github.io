@@ -6,21 +6,25 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% assign imagen = nil %}
+{% assign imagen = '' %}
+{% assign url_imagen = '' %}
 {% assign contenido_html = post.content | markdownify %}
 {% assign fragmentos_imagen = contenido_html | split: '<img ' %}
 
 {% if fragmentos_imagen.size > 1 %}
-  {% assign primera_etiqueta_img = fragmentos_imagen[1] %}
+  {% assign primera_etiqueta_img = fragmentos_imagen[1] | split: '>' | first %}
   {% assign fragmentos_src = primera_etiqueta_img | split: 'src="' %}
   {% if fragmentos_src.size > 1 %}
-    {% assign imagen = fragmentos_src[1] | split: '"' | first %}
+    {% assign imagen = fragmentos_src[1] | split: '"' | first | strip %}
+  {% else %}
+    {% assign fragmentos_src = primera_etiqueta_img | split: "src='" %}
+    {% if fragmentos_src.size > 1 %}
+      {% assign imagen = fragmentos_src[1] | split: "'" | first | strip %}
+    {% endif %}
   {% endif %}
 {% endif %}
 
-{% assign imagen = imagen | default: post.header.teaser | default: site.teaser %}
-
-{% if imagen %}
+{% if imagen != blank %}
   {% assign prefijo_imagen = imagen | slice: 0, 2 %}
   {% if imagen contains '://' or prefijo_imagen == '//' or imagen contains 'data:' %}
     {% assign url_imagen = imagen %}
@@ -32,7 +36,7 @@
 <div class="{{ tipo }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
 
-    {% if tipo == 'grid' and url_imagen %}
+    {% if tipo == 'grid' and url_imagen != blank %}
       <div class="archive__item-teaser">
         <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
       </div>
@@ -66,18 +70,20 @@
         {% if post.categories.size > 0 %}
           <div class="archive__item-categories">
             <i class="fas fa-tags" aria-hidden="true"></i>
+            <span class="sr-only">Categorías:</span>
             {% for categoria in post.categories %}
               {% if site.category_archive.type == 'liquid' and site.category_archive.path %}
-                <a class="archive__item-category" href="{{ site.category_archive.path | relative_url }}#{{ categoria | slugify }}">{{ categoria | escape }}</a>
+                <a class="archive__item-category" rel="tag" href="{{ site.category_archive.path | relative_url }}#{{ categoria | slugify }}">{{ categoria | escape }}</a>
               {% else %}
                 <span class="archive__item-category">{{ categoria | escape }}</span>
               {% endif %}
+              {% unless forloop.last %}<span class="archive__item-category-separator" aria-hidden="true">·</span>{% endunless %}
             {% endfor %}
           </div>
         {% endif %}
       </div>
 
-      {% if tipo != 'grid' and url_imagen %}
+      {% if tipo != 'grid' and url_imagen != blank %}
         <a class="archive__item-image" href="{{ post.url | relative_url }}" aria-label="Leer {{ post.title | escape }}">
           <img src="{{ url_imagen | escape }}" alt="{{ post.title | escape }}" loading="lazy">
         </a>
