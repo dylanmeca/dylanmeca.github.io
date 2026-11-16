@@ -231,7 +231,10 @@ blockquote {
   word-break: normal;
 }
 
-/* Descripcion/categorias a la izquierda, imagen a la derecha. */
+/*
+ * Entradas recientes y archivos: estilo del propio tema.
+ * Sin imagen no hay columna vacia: el resumen ocupa todo el ancho.
+ */
 .list__item .archive__item-body {
   display: flex;
   align-items: flex-start;
@@ -239,10 +242,15 @@ blockquote {
 }
 
 .list__item .archive__item-copy {
-  flex: 1 1 0;
+  flex: 1 1 auto;
   min-width: 0;
 }
 
+.list__item .archive__item-excerpt {
+  margin-bottom: 0;
+}
+
+/* La miniatura solo se crea si el articulo tiene una imagen real. */
 .list__item .archive__item-image {
   display: block;
   flex: 0 0 44%;
@@ -255,36 +263,75 @@ blockquote {
   aspect-ratio: 4 / 3;
   object-fit: cover;
   border-radius: 5px;
+  border: 1px solid rgba(216, 188, 124, 0.14);
 }
 
-.archive__item-date {
-  margin-top: 0.4em;
-  margin-bottom: 0.75em;
+/* Fecha: Cormorant Garamond y gris calido, como el resto de metadatos. */
+.list__item .archive__item-date {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  margin: 0.35em 0 0.65em;
+  color: #A9A19C;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 0.82em;
+  line-height: 1.3;
 }
 
+.list__item .archive__item-date i {
+  color: #A68B5B;
+  font-size: 0.85em;
+}
+
+/* Categorias: enlaces de texto elegantes, no botones grises. */
 .archive__item-categories {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 7px;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  font-size: 0.85em;
+  gap: 0.25em 0.45em;
+  margin: 0.85em 0 0;
+  color: #D8C5A2;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1em;
+  line-height: 1.35;
+}
+
+.archive__item-categories > i {
+  margin-inline-end: 0.25em;
+  color: #A68B5B;
+  font-size: 0.88em;
 }
 
 .archive__item-category {
-  display: inline-block;
-  padding: 0.2em 0.6em;
-  border: 1px solid rgba(135, 135, 135, 0.5);
-  border-radius: 5px;
-  color: inherit;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  color: #D8C5A2;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1em;
+  font-weight: 600;
   text-decoration: none;
 }
 
-/* Conservar el diseno vertical en dispositivos pequenos. */
+.archive__item-categories a.archive__item-category:hover,
+.archive__item-categories a.archive__item-category:focus-visible {
+  color: #D8BC7C;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.archive__item-category-separator {
+  color: #746F72;
+  user-select: none;
+}
+
+/* En pantallas pequenas vuelve a la disposicion vertical. */
 @media (max-width: 700px) {
   .list__item .archive__item-body {
     flex-direction: column;
+    gap: 14px;
   }
 
   .list__item .archive__item-image {
