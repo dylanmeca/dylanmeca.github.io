@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "🧑‍💼 Sobre"
+  - title: "Sobre"
     url: /about/
-  - title: "📦 Categorías"
+  - title: "Categorías"
     url: /categories/
-  - title: "🏷️ Etiquetas"
+  - title: "Etiquetas"
     url: /tags/
