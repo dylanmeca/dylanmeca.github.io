@@ -231,6 +231,69 @@ blockquote {
   word-break: normal;
 }
 
+/* Descripcion/categorias a la izquierda, imagen a la derecha. */
+.list__item .archive__item-body {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.list__item .archive__item-copy {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.list__item .archive__item-image {
+  display: block;
+  flex: 0 0 44%;
+  max-width: 44%;
+}
+
+.list__item .archive__item-image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.archive__item-date {
+  margin-top: 0.4em;
+  margin-bottom: 0.75em;
+}
+
+.archive__item-categories {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 0.85em;
+}
+
+.archive__item-category {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  border: 1px solid rgba(135, 135, 135, 0.5);
+  border-radius: 5px;
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Conservar el diseno vertical en dispositivos pequenos. */
+@media (max-width: 700px) {
+  .list__item .archive__item-body {
+    flex-direction: column;
+  }
+
+  .list__item .archive__item-image {
+    flex: none;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 .highlighter-rouge pre,
 figure.highlight pre {
   color-scheme: dark;
