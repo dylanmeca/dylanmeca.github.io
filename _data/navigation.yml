@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: '<i class="fas fa-user" aria-hidden="true"></i> Sobre'
+  - title: 'Sobre'
     url: /about/
-  - title: '<i class="fas fa-folder" aria-hidden="true"></i> Categorías'
+  - title: 'Categorías'
     url: /categories/
-  - title: '<i class="fas fa-tags" aria-hidden="true"></i> Etiquetas'
+  - title: 'Etiquetas'
     url: /tags/
